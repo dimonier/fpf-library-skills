@@ -1,0 +1,24 @@
+# COMPUTATIONAL-THINKING-DPF — Pattern Index
+
+| § | ID & Title | Status | Keywords & Search Queries | Dependencies |
+| :--- | :--- | :--- | :--- | :--- |
+| CMP.Reference | **CMP.Reference:1 - Problem frame and the algorithmic difficulty** | — | — | — |
+| CMP.1 | **Solve One Problem through Another or Transfer a Limit (Computational Reduction)** | Stable | reduction, solver reuse, input conversion, answer recovery, computability, complexity. Can this problem be solved through another one, and in which direction does a limit transfer | C.29.2 for the required answer and computational model; MATH.17/.18 for composition and interpretation. |
+| CMP.2 | **Derive a Recursive Procedure from a Problem Decomposition** | Stable | recursion, decomposition, induction, sufficient return, termination | MATH.4/.12 for inductive or extracted constructions; C.29.2 for the computational formulation. |
+| CMP.3 | **Share and Schedule Repeated Subcomputations** | Stable | memoization, dynamic programming, sharing, dependency order, effects, storage, recomputation | CMP.2 for the recurrence; CMP.10 for representation and operation costs. |
+| CMP.4 | **Construct Computational Search with Justified Exclusions** | Stable | search, branch and bound, pruning, witness, completeness, interruption | MATH.20 for bounds; CMP.5 for relaxation; MMP.10 for a subject constraint formulation when needed. |
+| CMP.5 | **Bound an Optimum or Recover a Feasible Candidate through a Relaxed Problem** | Stable | relaxation, feasible recovery, upper and lower bounds, approximation | MATH.20 for comparison; CMP.4 for bounded search; CMP.8 for controlled approximation. |
+| CMP.6 | **Derive an Iterative Computational Update from Local Information** | Stable | local search, iterative update, neighborhood, step choice, noisy feedback, stopping | MATH.10/.20/.21 for variation, bounds or convergence; CMP.7 for learning that needs an update. |
+| CMP.7 | **Construct a Learner from Examples and Feedback** | Stable | learning algorithm, rule class, inductive restriction, feedback, training fit, generalization | CMP.4/.6 for selection or updating; MMP.7 for a modeled data source; C.11.DUA for consequential additional inquiry. |
+| CMP.8 | **Construct an Approximate Computation with Controlled Error** | Stable | approximation, scaling, discretization, finite stopping, rounding, conditioning | MATH.20/.21 for bounds and convergence; CMP.3/.10 for shared computation and representation. |
+| CMP.9 | **Construct a Randomized Estimator or Sampling Procedure** | Stable | randomized algorithm, sampling, estimator, proposal, dependence, stopping time | A supplied probability target, with MMP.7 where modeled; CMP.10 for access and storage. |
+| CMP.10 | **Choose a Computational Representation for Its Access and Update Operations** | Stable | data structures, representation, queries, updates, conversion, arithmetic, memory | CMP.2/.3 for compositional summaries and shared work; MATH for preserved structure. |
+| CMP.11 | **Derive a Computational Lower Bound from Indistinguishable Inputs** | Stable | lower bound, adversary, indistinguishable inputs, decision tree, communication, error | MATH.19/.20 for argument and bound; CMP.1 for reduction; C.29.2 for the cost model. |
+| CMP.12 | **Construct an Interpreter or a Meaning-Preserving Translation** | Stable | interpreter, compiler, semantics, binding, environment, control, observable behavior | MATH.5/.17/.18 for expression composition and interpretation; C.29.3 when realizing the primitives. |
+| CMP.13 | **Construct a Computational Abstraction for the Property Being Asked** | Stable | abstract interpretation, reachable states, sound approximation, fixed point, refinement | MATH.2/.18 for identification and interpretation; CMP.3/.4 for scheduling and exploration. |
+| CMP.14 | **Compose Interacting Computations through Their Required Observations** | Stable | concurrent algorithm, shared state, protocol, atomicity, interference, progress | CMP.3/.10/.12 for dependencies, representation and semantics; C.29.3 for implementation assumptions. |
+| CMP.15 | **Compose Independent Extensions of Data Variants and Operations** | Stable | expression problem, independent extension, data variants, operations, open recursion, joining implementation, dispatch, separate compilation | CMP.12 for interpretation; CMP.14 when interactions change observations; NOT.2 and NOT.3 for new expression structure and meaning. |
+| CMP.16 | **Construct Computational Units and Operations for a Required Whole** | Stable | computational abstraction, units and operations, constructors, invariant, closure, refinement, composition | C.29.2 for the computational question; MATH.17/.18 for composition and interpretation; CMP.2/.10/.12/.14 for recursive construction, storage, execution meaning and interaction. |
+
+## Cross-references
+- Full monolith: `COMPUTATIONAL-THINKING-DPF.md`

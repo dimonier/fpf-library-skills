@@ -1,0 +1,20 @@
+---
+id: "_ctx.B-Infer-distinguish-and-revise"
+title: "B. Infer, distinguish and revise"
+---
+
+# _ctx.B-Infer-distinguish-and-revise: B. Infer, distinguish and revise
+
+---
+
+## B. Infer, distinguish and revise
+
+| § | ID & Title | Status | Keywords & Search Queries | Dependencies |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | [MMP.7 - Construct a Probability Model of the Recorded Data](#mmp7---construct-a-probability-model-of-the-recorded-data) | Stable | observation; recorded data; selection; missing records; censoring; noise; probability law. What distribution does the recording procedure produce from the modeled possibilities? | C.16.IR for interpretation and inference; MMP.11 for unknown relations; MMP.8 when the record informs a choice. |
+| 2 | [MMP.12 - Formulate an Inverse Problem and Choose Whether and How to Use Regularization](#mmp12---formulate-an-inverse-problem-and-choose-whether-and-how-to-use-regularization) | Stable | inverse problem; identifiability; conditioning; regularization; restriction; penalty; target. Which unknowns can the records resolve, and what improvement and loss does a stable reconstruction introduce? | C.16.IR for compatible cases; MMP.11 and MMP.7 for the forward and recording relations; MMP.13 for inferential uncertainty; CMP for solving the formulated problem. |
+| 3 | [MMP.13 - Infer Unknowns Statistically under a Stated Observation Model](#mmp13---infer-unknowns-statistically-under-a-stated-observation-model) | Stable | estimator; confidence coverage; prior; posterior; predictive uncertainty; dependence; target propagation. Which inferential construction supports the statement the receiver needs? | MMP.7 for the record law; MMP.12 and C.16.IR for ambiguity; CMP.8 and CMP.9 for numerical computation; MMP.14 and MMP.8 for prediction checks and decisions. |
+| 4 | [MMP.14 - Find and Repair a Mathematical Model's Failed Predictions](#mmp14---find-and-repair-a-mathematical-models-failed-predictions) | Stable | model criticism; predictive comparison; residual; conditional response; selection; repair; held-out prediction. Which discrepancy changes the use, what assumption can repair it, and what consequence must be recalculated? | MMP.7, MMP.11 and MMP.13 for comparable predictions; B.5.RR for affected revision; CMP.8 and CMP.9 for numerical error; C.11.DUA for worthwhile further checking. |
+| 5 | [MMP.15 - Identify an Intervention Effect from Available Data](#mmp15---identify-an-intervention-effect-from-available-data) | Stable | causal identification; intervention; adjustment; mediation; population transfer; support; partial identification. Which intervention consequence follows from the available laws and causal assumptions? | C.28.MR for intervention meaning; MMP.7 and MMP.13 for recording and estimation; C.16.IR for compatible possibilities; MMP.16 for worthwhile distinguishing observations. |
+| 6 | [MMP.19 - Construct and Bound a Mathematical Counterfactual Comparison under a Causal Model](#mmp19---construct-and-bound-a-mathematical-counterfactual-comparison-under-a-causal-model) | Stable | counterfactual; same case; factual inference; common input; joint response; pathway; bounds. What would happen to the same case under another action, and what does the available information determine? | C.28.MR for changed mechanisms; MMP.7 and MMP.13 for factual records and inference; MMP.15 for identification; MMP.10 and MMP.16 for bounds and useful observations. |
+| 7 | [MMP.16 - Design Observations to Separate Mathematical Model Alternatives](#mmp16---design-observations-to-separate-mathematical-model-alternatives) | Stable | observation design; discrimination; nuisance; recording law; value of information; feasible design. Which obtainable observation separates a consequential ambiguity, and can its benefit repay its burden? | MMP.7, MMP.11, MMP.12 and MMP.13 for predicted record laws; MMP.8 and MMP.8.SD for decisions; C.11.DUA for worthwhile further work; subject methods for realization. |

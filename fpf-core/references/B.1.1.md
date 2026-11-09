@@ -1,0 +1,242 @@
+---
+id: B.1.1
+title: Dependency Structure and Relation Grounding
+status: Stable
+keywords:
+  - "Resolve what each claimed dependency means and which facts make the relation obtain before using its diagram in an aggregation or whole-level claim. Apply graph checks only through a declared representation and the relation's own rule. *Queries:* "Does this dependency mean parthood"
+  - order
+  - "supply or representation?"
+  - "What makes the relation obtain?"
+  - "Which conclusions can this graph check support?"
+dependencies:
+  builds_on:
+    - B.1
+    - A.14
+    - C.13
+  coordinates_with:
+    - C.29
+    - A.10
+    - B.3.5
+---
+
+# B.1.1: Dependency Structure and Relation Grounding
+
+> **Trigger:** Use this pattern when an aggregation, architecture, assurance, or construction claim depends on how candidate parts, members, phases, portions, or external relations depend on each other.
+> **Problem frame:** B.1.1 separates dependency structure from graph representation.
+> **First move:** Use dependency structure first; use graph representation second.
+>
+> **Governing patterns:** `references/B.1.md` `references/A.14.md` `references/C.13.md` `references/C.29.md` `references/A.10.md` `references/B.3.5.md`
+
+---
+
+## B.1.1 - Dependency Structure and Relation Grounding
+
+> **Type:** Part B holonic construction pattern
+> **Status:** Stable
+> **Normativity:** Normative unless a section is explicitly informative
+
+### B.1.1:0 - Use This When
+
+Use this pattern when an aggregation, architecture, assurance, or construction claim depends on how candidate parts, members, phases, portions, or external relations depend on each other.
+
+Typical moments:
+
+- a dependency diagram is used to justify a whole-level claim;
+- a graph mixes parthood, mapping, order, time, resource, and boundary-crossing relations;
+- a project needs to know whether a relation is part-whole, dependence, representation, influence, source use, publication use, or evidence relation;
+- a selected dependency structure will be expressed with a graph, table, matrix, or another mathematical or representation lens.
+
+**First useful move.** Name the dependency relation and its participants before choosing graph notation. Use B.1.1:4.3 to distinguish common relation kinds, then follow the pattern that defines or tests the relation in question.
+
+**What goes wrong if missed.** A generic "depends on" edge can conceal different relations. External influence, order, or temporal dependence may be mistaken for parthood, and mathematical checks may appear precise while the relation being checked remains unclear.
+
+**What this buys.** The practitioner can use dependency evidence in a B.1 aggregation claim while keeping the relations distinct from their graph representation.
+
+**Not this pattern when.**
+
+- If the current relation word is a mereology question, use `A.14`.
+- If the current part-whole claim needs constructional grounding, use `C.13`.
+- If the current object is architecture selected structure, use `A.22` and `C.30`.
+- If the current expression is mathematical-lens choice, use `C.29`.
+- If the current question is performed work, use `A.15.1`.
+
+### B.1.1:1 - Problem Frame
+
+B.1.1 separates dependency structure from graph representation.
+
+A dependency structure can be ontology-side when a direct pattern has selected the relation under concern. A dependency graph describes that selected relation structure. The facts and rules governing the relations supply the grounds for the whole-level claim.
+
+### B.1.1:2 - Problem
+
+When these distinctions are missed:
+
+1. **Edge drift spreads.** `ComponentOf`, a collection's belongs-to relation, `PhaseOf`, `SerialStepOf`, `RepresentationOf`, source use, evidence relation, and control relation all become generic graph edges.
+2. **Boundary crossing becomes parthood.** A power grid, supplier, teacher, measuring instrument, model, or source record is drawn as a part because it affects the holon.
+3. **Design and run objects mix.** Planned structure, design description, actual work occurrence, and telemetry are placed in one dependency expression without a DesignRunTag or a distinction among the patterns that define those claims.
+4. **Acyclic graph discipline overclaims.** A graph property is used to support a claim about the object without grounding the represented relation.
+5. **Mappings become parts.** A digital twin, dashboard, diagram, or architecture description is treated as a constituent of the object it describes.
+
+### B.1.1:3 - Forces
+
+| Force | Tension |
+| --- | --- |
+| Visual clarity vs relation precision | Graphs make dependencies visible but tempt one-edge-fits-all modeling. |
+| Part-whole locality vs external influence | External systems can influence, measure, transform, or supply a holon without becoming its parts. |
+| Mathematical checks vs ontology-side grounding | Acyclicity, cutsets, reachability, and flow checks help only after relation kinds are selected. |
+| Design view vs run evidence | Design-time dependency descriptions and run-time evidence often share labels but concern different subjects and require separate claims. |
+
+### B.1.1:4 - Solution
+
+Use dependency structure first; use graph representation second.
+
+#### B.1.1:4.1 - Dependency Structure Frame
+
+```text
+DependencyStructure@Context:
+  dependencyQuestion:
+  intendedUse?:
+  claimScopeRef?: U.ClaimScope
+  qualificationWindowRef?
+  candidateNodeRefs:
+  selectedDependencyStructureRef?
+  dependencyRelationRefs:
+  relationParticipantRefs:
+  relationGroundingRefs:
+  partWholeRelationRefs?
+  boundaryCrossingRelationRefs?
+  orderRelationRefs?
+  temporalRelationRefs?
+  resourceRelationRefs?
+  representationRelationRefs?
+  evidenceRelationRefs?
+  publicationOrSourceUseRefs?
+  designRunTag?
+  definingOrTestingPatternRefs:
+```
+
+This frame records independently grounded relation claims and their participants. It is not itself a `U.Structure`. When the receiving use needs one selected dependency structure, recover all four A.22 identity discriminators: exact constituents, obtaining relation occurrences, applied constraints and named selection/use frame. The record refers to that structure and to the patterns defining its relations.
+
+#### B.1.1:4.2 - Graph Representation
+
+Use graph language only when a graph is the selected mathematical or representation lens:
+
+```text
+DependencyGraphRepresentation@Context:
+  representedDependencyStructureRef:
+  nodeExpression:
+  edgeExpression:
+  graphPropertyChecks?
+  mathLensRef?
+  publicationOrViewRef?
+```
+
+Use the graph to examine properties such as acyclicity, reachability, cutsets, weak links, flow, or traceability. These checks concern the graph expression; their results bear on the selected relation only when its rule admits the mapping. State the mathematical representation correspondence, preserved and lost distinctions, and validation boundary on which that inference depends. Use C.29 when a mathematical representation-choice, transfer or reliance question remains unresolved.
+
+#### B.1.1:4.3 - Relation Grounding Guide
+
+| If the edge means... | Recover... | Pattern that defines or tests the claim |
+| --- | --- | --- |
+| part of the whole | part-whole relation over admitted holons | `A.14`, `C.13`, `B.1` |
+| an entity belongs to a world-side collection | the collection's own belongs-to occurrence, or a separately grounded collection-as-whole claim | `A.14`, `C.13`, `C.16`, and the pattern that defines that collection's rule |
+| phase of the same carrier | temporal phase relation | the carrier's identity and phase rules and `A.14`; `B.1.4` when the claim aggregates temporal phases |
+| ordered step or branch | method, process-view, Work, or order relation | `A.3.1`, `A.3.2`, `A.15.1`, or the pattern that defines the order relation; `B.1.4` for an order-sensitive or temporal aggregation claim; `C.29` when a mathematical representation-choice, transfer or reliance question remains unresolved |
+| performed work part | work occurrence relation with evidence and timing | `A.15.1` |
+| external influence, signal, supply, measurement, or control | the exact obtaining relation and its participants, with the support required by the receiving claim | `A.3.4` for an actual transformation, `C.16` for measurement, and the defining pattern for the particular supply or control relation; `A.10` when the claim needs an explicit source-to-use account for provenance or bounded reliance |
+| representation, dashboard, digital twin, or architecture description | description or representation relation, not parthood | `C.2.1`, `E.17`, `C.30.AD`, `C.30.AD.BA` |
+
+#### B.1.1:4.4 - Graph Checks Are Conditional
+
+Run graph checks only after selecting the graph as a lens over the dependency structure.
+
+Do not infer:
+
+- parthood from graph adjacency;
+- independence from graph separation without a rule that makes the selected relation support that inference;
+- performed work from a planned step graph;
+- whole reidentification from a graph property without B.2;
+- architecture from a graph without an exact described holon, selected structure, and architecture relation or claim.
+
+### B.1.1:5 - Archetypal Grounding (Worked Cases)
+
+#### B.1.1:5.1 - Plant Supplier
+
+Source graph: `PowerGrid -> Plant`.
+
+If the edge means electricity supply, recover that exact supply relation. It establishes neither plant parthood nor its absence. Test a separate part-whole claim under the chosen whole's identity and parthood rules; an independently admitted internal power subsystem can be both a supplier and a part.
+
+#### B.1.1:5.2 - Digital Twin
+
+Source graph: `DigitalTwin -> Turbine`.
+
+If the edge means representation, recover the architecture-description, publication, source-use, evidence, or digital-twin relation. The digital twin is not a turbine component by graph adjacency.
+
+#### B.1.1:5.3 - Work Plan And Work Occurrence
+
+Source graph: `Prep -> Weld -> Paint`.
+
+If the graph describes a method or process view, use the patterns that define the method, description, and order claims. If it describes performed Work, use A.15.1 with occurrence identity, timing, evidence, and the exact Work relation. If one graph represents both, distinguish the Method or plan relations from the evidenced Work relations.
+
+### B.1.1:6 - Bias-Annotation
+
+| Bias risk | Failure | Mitigation |
+| --- | --- | --- |
+| Graph as ontology | A graph node or edge is treated as the represented object or relation. | Recover the dependency structure and the exact relations, then use the patterns that define or test them before graph expression. |
+| One-edge-fits-all | `depends on` carries parthood, order, representation, source use, evidence, and influence at once. | Split the relation kinds and name the pattern that defines or tests each one. |
+| External influence as parthood | Supply, measurement, teaching, source use, or control is drawn as a component relation. | Use the exact boundary-crossing, evidence, source-use, publication-use, transformation, supply, or control relation and its defining pattern. |
+| Design-description and run-occurrence collapse | A planned dependency graph is treated as evidence of performed work. | Separate design description, work occurrence, and evidence relations. |
+
+### B.1.1:7 - Conformance Checklist
+
+| Check | Requirement |
+| --- | --- |
+| `CC-B1.1-1` | A dependency claim names the relation kind before graph notation is relied on. |
+| `CC-B1.1-2` | Graph, matrix, table and diagram wording distinguishes a representation from the organization it represents. When the receiving claim selects the representation's own organization as a U.Structure, identify that separate organization by the four A.22 discriminators. |
+| `CC-B1.1-3` | Part-whole edges use A.14 and C.13 discipline. |
+| `CC-B1.1-4` | Boundary-crossing, transformation, evidence, source-use, publication-use, and representation relations are not recast as parthood. |
+| `CC-B1.1-5` | Design description, run occurrence, and evidence are not mixed; the record names their separate patterns and uses a DesignRunTag or equivalent scope discipline when needed. |
+| `CC-B1.1-6` | Graph checks are interpreted only through the selected relation's defining or testing rule. Use C.29 when a mathematical representation-choice, transfer or reliance question remains unresolved. |
+
+### B.1.1:8 - Common Anti-Patterns and How to Avoid Them
+
+| Anti-pattern | Symptom | Repair |
+| --- | --- | --- |
+| DependencyGraph as ontology | The graph is treated as the thing being built. | Name the dependency structure and exact relations first. |
+| External supplier as part | A supplier or infrastructure system is drawn inside the product. | Use the exact boundary-crossing, supply, commitment, evidence, publication-use, source-use, or other direct relation; use parthood only for admitted parts. Use `A.6.C` only when the source's contract wording itself must be unpacked. |
+| Mapping as parthood | A model, dashboard, or digital twin is a node inside the asset. | Use the exact representation, publication, architecture-description, or evidence relation. |
+| Order as component | A subsequent step is represented as a component of an earlier step. | Use the pattern that defines the order, method, description, or Work-occurrence claim. |
+| Acyclicity as adequacy | The graph has no cycles, so the model is accepted. | Check whether the selected relation is grounded and whether graph checks answer the current concern. |
+
+### B.1.1:9 - Consequences
+
+Positive consequences:
+
+- Dependency views expose the relations they represent.
+- External influence and parthood are assessed as separate claims.
+- Graph checks keep their value and their limits.
+- B.1 aggregation can rely on explicitly grounded part-whole inputs.
+
+Costs:
+
+- Name the relation kinds and the patterns that define or test them, in the diagram or its accompanying explanation.
+- Some compact dependency graphs need multiple relation layers or views.
+- Graph-based checks may need C.29 when the mathematical lens is relied on.
+
+### B.1.1:10 - Rationale
+
+Dependency is a useful starting term for several kinds of connection. To use it in a whole-level claim, distinguish the relation, the selected structure, and the mathematical or published expression. The facts and rules that make each relation obtain supply the grounds; a graph expresses the selected structure.
+
+### B.1.1:11 - SoTA-Echoing
+
+For the question "what whole-level claim follows from this dependency graph?", a generic graph can answer a reachability or cycle question about its edges. A claim about the represented system additionally needs the edge relation and its correspondence. A.14:4 and C.13:4.1 supply the part-whole and collection criteria used here; A.22:4.1 supplies the selected organization's identity discriminators.
+
+In B.1.1:5.1, the arrow `PowerGrid -> Plant` alone does not distinguish supply from parthood. Supply leaves parthood undecided; an independently grounded internal power subsystem can be both supplier and part. The generic edge account is sufficient for a graph property that does not depend on that distinction, but insufficient for a plant-parthood conclusion. Sections B.1.1:4.1–4.3 retain the graph calculation and add the relation facts, identity rule and correspondence required by the intended inference.
+
+The additional work is to recover those facts and rules, using the diagram or an accompanying explanation when the receiving use needs them inspectable. This conceptual comparison supports the distinction in these cases; it does not establish superiority over named engineering notations. Reconsider the required account when the relation, correspondence or intended inference changes.
+
+### B.1.1:12 - Relations
+
+- **Builds on:** `B.1`, `A.1`, `A.14`, and `C.13`.
+- **Coordinates with:** `A.15.1` for work occurrence, `B.1.4` for contextual and temporal aggregation, `C.29` for graph as mathematical lens, `A.22` and `C.30` for selected structure and architecture, `C.30.AD` and `C.30.AD.BA` for architecture description and digital-twin cases.
+- **Can contribute evidence to:** `B.2` when dependency evidence bears on a consequential question about retaining or reidentifying the whole.
+
+### B.1.1:End
