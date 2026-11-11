@@ -10,7 +10,7 @@ keywords:
   - choreography
   - material
   - cue
-  - responsive performance.
+  - responsive performance
 dependencies:
   references:
     - MDPE.3

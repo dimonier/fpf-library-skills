@@ -2,9 +2,7 @@
 id: IS.8
 title: Develop Recipients' Ability to Facilitate Further Practice Changes
 status: Stable
-keywords:
-  - What can recipients do in the next change
-  - with which retained assistance
+keywords: []
 dependencies:
   references:
     - IS.5

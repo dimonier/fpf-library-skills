@@ -2,21 +2,7 @@
 id: A.6.3.CR
 title: "ConservativeRetextualization: EntityOfConcern-Preserving Textual Re-Expression"
 status: Stable
-keywords:
-  - "Textual re-expression"
-  - summary
-  - report rewrite
-  - translation
-  - or filtering that preserves the same resolved EntityOfConcern
-  - keeps source tether and omission/loss visible
-  - and exits to explanation
-  - representation change
-  - retargeting
-  - bridge
-  - work
-  - evidence
-  - gate
-  - or assurance patterns when those claims are being made
+keywords: []
 dependencies:
   builds_on:
     - A.6.3

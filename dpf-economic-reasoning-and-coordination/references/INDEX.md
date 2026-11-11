@@ -9,10 +9,10 @@
 | ECO.4 | **Form Resource Commitments for an Uncertain Venture** | Stable | resource mobilization, uncertainty, complementary commitments | ECO.3 proposal; OPS resources; FIN financing; EXD where understanding is missing. |
 | ECO.5 | **Choose Exchange Terms for Private Information and Effort** | Stable | private information, effort, incentives, participation | Proposed exchange; ECO.4 commitments or ECO.6 dependence where relevant. |
 | ECO.6 | **Arrange Adaptation in a Dependent Trading Relationship** | Stable | dependence, dedicated investment, adaptation, outside option | ECO.1 grounds; EAM/FIN consequences; OCE/CGOV for a selected organization change. |
-| ECO.7 | **Coordinate Use and Renewal of a Shared Resource** | Stable | shared resource, renewal, access, collective rules. Can separate uses and contributions preserve the resource | Physical and operating resource account; ECO.8/.9 for wider coordination and rule change. |
+| ECO.7 | **Coordinate Use and Renewal of a Shared Resource** | Stable | shared resource, renewal, access, collective rules | Physical and operating resource account; ECO.8/.9 for wider coordination and rule change. |
 | ECO.8 | **Join Direct Cooperation with a Wider Economic Order** | Stable | direct cooperation, extended order, Method vertical | The actual cooperation and exchange relations; ECO.7 for a shared constraint. |
-| ECO.9 | **Decide Whether and How to Change Economic Rules through Their Working Practices** | Stable | institutional change, cultural evolution, capability. Should this rule be retained or changed, and what working contribution is needed | Current practice and change pressure; C.36 cultural continuation; HCD/MDPE capability. |
-| ECO.10 | **Trace Efficiency Savings through Demand Responses (Rebound Effects)** | Stable | Jevons, rebound, efficiency, demand, counterfactual. Does a unit saving change total resource use | Unit-resource relation and counterfactual; ECO.2/.3 for changed prices and uses. |
+| ECO.9 | **Decide Whether and How to Change Economic Rules through Their Working Practices** | Stable | institutional change, cultural evolution, capability | Current practice and change pressure; C.36 cultural continuation; HCD/MDPE capability. |
+| ECO.10 | **Trace Efficiency Savings through Demand Responses (Rebound Effects)** | Stable | Jevons, rebound, efficiency, demand, counterfactual | Unit-resource relation and counterfactual; ECO.2/.3 for changed prices and uses. |
 
 ## Cross-references
 - Full monolith: `ECONOMIC-REASONING-AND-COORDINATION-PRINCIPLES-FRAMEWORK.md`

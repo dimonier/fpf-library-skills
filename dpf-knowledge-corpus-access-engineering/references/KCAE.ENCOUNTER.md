@@ -8,7 +8,6 @@ keywords:
   - quiet mode
   - notification
   - permission
-  - "“Why would the user begin this inquiry now?”"
 dependencies:
   references:
     - A.15.11

@@ -2,14 +2,7 @@
 id: B.5.TC
 title: Compare Theoretical Accounts for a Working Question
 status: Stable
-keywords:
-  - Use when accounts appear to disagree or compete for a use. Construct their applications to the same case
-  - locate the consequential difference and choose a sufficient account
-  - "complementary use or worthwhile inquiry. *Queries:* "Do these theories answer the same question?"
-  - Does the disagreement come from a premise
-  - "a model or its computation?"
-  - "When is the simpler account enough?"
-  - "What observation or construction would resolve the difference that matters?"
+keywords: []
 dependencies:
   coordinates_with:
     - B.5.TU

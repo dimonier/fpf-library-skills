@@ -3,7 +3,7 @@ id: CB.9
 title: Provide for Community Work and Agree Its Terms
 status: Stable
 keywords:
-  - "Who does the work? Time"
+  - Time
   - money
   - access and voluntary terms
 ---

@@ -2,9 +2,7 @@
 id: B.5.EA
 title: Articulate a Working Distinction from Experience
 status: Stable
-keywords:
-  - Use when a participant recognizes something consequential in their experience but cannot yet express the distinction needed to continue. Return to an accessible episode
-  - develop a correctable expression and use the resulting question or relation
+keywords: []
 dependencies:
   coordinates_with:
     - B.5

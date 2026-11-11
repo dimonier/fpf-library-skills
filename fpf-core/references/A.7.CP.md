@@ -8,7 +8,7 @@ keywords:
   - exact receiving claim or result
   - adopted premise or conditional assumption
   - "ClaimUsedAsReasoningBasisRelation@Context"
-  - selective reopen.
+  - selective reopen
 dependencies:
   references:
     - A.7.1

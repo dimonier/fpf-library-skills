@@ -2,19 +2,7 @@
 id: E.17.AUD.OOTD
 title: "PublicationUnit Primary-Subject Discipline"
 status: Stable
-keywords:
-  - Keep one bounded note
-  - memo
-  - table
-  - screen
-  - or short section explicit about what it is mainly about
-  - the claim or communicative move it carries
-  - and the wider work
-  - use
-  - decision
-  - "or reliance claim that remains outside. The local `publicationUnitPrimarySubject` is not a `U.` kind or C.2.1 participant by default"
-  - "equate it with `EntityOfConcern(E)` only for one identified episteme E whose claims concern that exact entity. One natural-language sentence or two may be the complete result"
-  - the six prompts are optional diagnostics
+keywords: []
 dependencies:
   builds_on:
     - A.6.P

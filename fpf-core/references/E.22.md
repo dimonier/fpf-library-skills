@@ -2,13 +2,7 @@
 id: E.22
 title: "Improvement-Oriented Quality Evaluation Question Framing"
 status: Stable
-keywords:
-  - "Frames one requested quality evaluation over an object version: consuming use"
-  - governing criterion
-  - purpose
-  - floor or aim
-  - "protected trade-offs"
-  - evidence basis and expected result form. The selected evaluation supplies findings or proposals
+keywords: []
 dependencies:
   builds_on:
     - A.19.ECS
@@ -20,7 +14,9 @@ dependencies:
     - E.19
     - E.10
     - C.25
-    - "C.17-C.19"
+    - C.17
+    - C.18
+    - C.19
     - G.5
     - G.9
     - G.11

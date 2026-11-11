@@ -2,18 +2,7 @@
 id: E.17.EFP
 title: "ExplanationFaithfulnessProfile — explanation-use discipline over existing MVPK faces"
 status: Stable
-keywords:
-  - First decide whether the text expresses the source ClaimGraph or a separately identified target episteme
-  - a changed target retains the source relation and support required by its claim before EFP classifies explanation use. Use C.28 for causal support and B.5.2 when a new explanatory hypothesis is needed. For an ordinary note
-  - a source locator plus one sentence stating the bounded or blocked use may be enough. EFP creates neither episteme identity
-  - source relation
-  - evidence
-  - assurance
-  - gate
-  - work
-  - "nor release authority. *Queries:* "Same source claims or a different target?"
-  - "Which explanation class changes the next use?"
-  - "What stronger use remains blocked?"
+keywords: []
 dependencies:
   builds_on:
     - E.17.0

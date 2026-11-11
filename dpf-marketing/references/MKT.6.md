@@ -7,7 +7,6 @@ keywords:
   - useful result
   - goal formation
   - help
-  - What result matters and what helps obtain it
 dependencies:
   references:
     - C.40.PC

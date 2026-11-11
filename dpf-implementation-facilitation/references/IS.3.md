@@ -2,10 +2,7 @@
 id: IS.3
 title: Construct and Adapt a Support Strategy with Its Recipients
 status: Stable
-keywords:
-  - Which help can work here
-  - how is it adapted
-  - and can the whole arrangement be supplied
+keywords: []
 dependencies:
   references:
     - IS.1

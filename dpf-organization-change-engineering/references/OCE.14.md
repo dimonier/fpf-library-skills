@@ -7,8 +7,7 @@ keywords:
   - retention
   - repair
   - reversal
-  - "authority. Question: Should the challenged organization relation be retained or changed"
-  - "and under whose authority?"
+  - authority
 dependencies:
   references:
     - OCE.13

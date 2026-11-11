@@ -7,15 +7,12 @@ keywords:
   - transmission
   - enactment
   - recognition
-  - "retention. Query: "Is the practice actually being continued or changed?" Separate availability"
-  - actual use and effects
-  - and select a supported continuation.
+  - retention
 dependencies:
   references:
     - MNT.13
     - MNT.14
     - C.36
-    - Spec.md
 ---
 
 # MNT.16: Deliberately Continue and Change Maintenance Culture
@@ -23,7 +20,7 @@ dependencies:
 > **Problem frame:** Use this pattern when the question concerns how maintenance practice is actually continued or changed among people: a hand-back Method is taught, a new diagnostic approach spreads or an older practice persists despite a revised manual.
 > **First move:** State the maintenance population, period and receiving question. Identify the relevant Method variant and the work or result whose continuation matters.
 >
-> **Governing patterns:** `references/MNT.13.md` `references/MNT.14.md` `references/C.36.md` `references/Spec.md.md`
+> **Governing patterns:** `references/MNT.13.md` `references/MNT.14.md` `references/C.36.md`
 
 ---
 

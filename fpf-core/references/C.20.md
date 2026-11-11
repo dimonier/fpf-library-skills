@@ -10,7 +10,7 @@ keywords:
   - "whole-forming claims"
   - assembly
   - reidentification
-  - "composition-grounded characteristic."
+  - "composition-grounded characteristic"
 dependencies:
   builds_on:
     - A.1

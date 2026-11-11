@@ -2,10 +2,7 @@
 id: A.3.1.DR
 title: Recover Method Contributions from Documentary Sources
 status: Stable
-keywords:
-  - Documents contain useful ways of working
-  - but names and summaries do not recover their actions
-  - conditions or limits. Reconstruct the source contribution while distinguishing an author claim from practice evidence
+keywords: []
 dependencies:
   references:
     - F.0.1

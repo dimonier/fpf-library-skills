@@ -8,11 +8,14 @@ keywords:
   - closure
   - representation factors
   - source and use claims
-  - local thresholds.
+  - local thresholds
 dependencies:
   builds_on:
     - C.2.2a
-    - "C.2.4-C.2.7"
+    - C.2.4
+    - C.2.5
+    - C.2.6
+    - C.2.7
   coordinates_with:
     - A.16
 ---
@@ -22,7 +25,7 @@ dependencies:
 > **Problem frame:** When several language-state readings are needed together, collect their references, assessment scopes, grounds and use conditions in one recoverable account. This makes their separate contributions to the receiving judgement inspectable.
 > **First move:** A language-state facet profile records selected readings and use conditions about one identified episteme edition. Use C.2.2a:0 and :4.2–4.5 to select the needed facets, obtain readings and grounds, and identify any conditions used by the r …
 >
-> **Governing patterns:** `references/C.2.2a.md` `references/C.2.4-C.2.7.md` `references/A.16.md`
+> **Governing patterns:** `references/C.2.2a.md` `references/C.2.4.md` `references/C.2.5.md` `references/C.2.6.md` `references/C.2.7.md` `references/A.16.md`
 
 ---
 

@@ -2,10 +2,7 @@
 id: HCD.19
 title: Evaluate Instructional Material through Representative Reader Work and Diagnose Its Repair
 status: Stable
-keywords:
-  - What does this material supply to actual reader work
-  - what limits its use
-  - and what repair or evidence changes the conclusion
+keywords: []
 dependencies:
   references:
     - E.23

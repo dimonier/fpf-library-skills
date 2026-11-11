@@ -5,8 +5,7 @@ status: Stable
 keywords:
   - institutional position
   - vacancy
-  - "continuity. Question: Is a stable organization position needed"
-  - "and what establishes its identity?"
+  - continuity
 dependencies:
   references:
     - OCE.1

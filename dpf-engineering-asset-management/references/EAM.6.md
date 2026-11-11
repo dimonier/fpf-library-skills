@@ -8,15 +8,13 @@ keywords:
   - resilience
   - shared dependency
   - usable reserve
-  - "recovery intervals. Query: "Can the assets support service during normal use and disturbance?" Derive lost contributions and follow available service and reserve through recovery."
+  - recovery intervals
 dependencies:
   references:
     - EAM.4
     - EAM.5
     - OPS.10
-    - FRAMEWORK.md
     - OPS.11
-    - FRAMEWORK.md
 ---
 
 # EAM.6: Assess Asset Capacity, Resilience, and Interdependence
@@ -24,7 +22,7 @@ dependencies:
 > **Problem frame:** Use this pattern when an asset option must meet demand through a particular arrangement, outage or disruption. The total installed rating appears sufficient, but the needed contribution depends on shared assets, access, timing or recovery.
 > **First move:** Recover demand, required service, configuration and horizon. Keep quantities and time units compatible. [EAM.4](#eam4---assess-demand-and-service-need-for-asset-decisions) can supply scenario demand and its place, period and driver conditio …
 >
-> **Governing patterns:** `references/EAM.4.md` `references/EAM.5.md` `references/OPS.10.md` `references/FRAMEWORK.md.md` `references/OPS.11.md`
+> **Governing patterns:** `references/EAM.4.md` `references/EAM.5.md` `references/OPS.10.md` `references/OPS.11.md`
 
 ---
 

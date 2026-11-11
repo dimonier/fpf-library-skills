@@ -11,7 +11,7 @@ keywords:
   - performer
   - ensemble
   - robot
-  - assistance.
+  - assistance
 dependencies:
   references:
     - MDPE.9

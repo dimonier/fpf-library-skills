@@ -8,7 +8,7 @@ keywords:
   - Work
   - System
   - starter characteristics
-  - domain transfer.
+  - domain transfer
 dependencies:
   builds_on:
     - C.32

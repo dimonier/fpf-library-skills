@@ -2,16 +2,7 @@
 id: E.8.ECSPF
 title: Author an FPF Pattern from an Accepted Evaluation CharacteristicSpace Specification
 status: Stable
-keywords:
-  - "Guides an author in carrying an accepted evaluation characteristic-space specification into practitioner-facing FPF pattern content: recognition and qualification"
-  - every required and triggered value
-  - worked evaluation use and result form
-  - "non-scalar trade-off protection"
-  - and the concrete contributions used from neighbouring patterns. It keeps the specification
-  - "its `CharacteristicSpace`"
-  - the authored pattern
-  - a later evaluation
-  - and its result distinct
+keywords: []
 dependencies:
   builds_on:
     - E.8

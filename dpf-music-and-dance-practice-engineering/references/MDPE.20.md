@@ -10,7 +10,7 @@ keywords:
   - cultural change
   - observation
   - competing explanation
-  - revision.
+  - revision
 dependencies:
   references:
     - MDPE.12

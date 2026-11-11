@@ -2,10 +2,7 @@
 id: F.0.2.MA
 title: Synthesize and Allocate Method Contributions
 status: Stable
-keywords:
-  - Several sources contribute Method content
-  - but their useful differences and destinations are unresolved. Synthesize by meaning and allocate each retained contribution
-  - "direct-source return or open question"
+keywords: []
 dependencies:
   references:
     - F.0.1

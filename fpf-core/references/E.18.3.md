@@ -2,27 +2,7 @@
 id: E.18.3
 title: "Constraint-Governed Transformation-Flow Unfolding Structure"
 status: Stable
-keywords:
-  - "Use when a route-like transformation card has a branch"
-  - join
-  - guard
-  - dependency
-  - or neighboring connection that changes what may follow. First name the concrete thing being transformed
-  - two recognizable places or states
-  - the proposed connection or guard
-  - and the current continuation question
-  - return a useful provisional explanation or an honest stop naming the missing fact or rule. If none of those features changes the continuation question
-  - keep an ordinary route description. Only when a named use depends on the organization's identity and qualification as an E.18.3 structure
-  - "recover one A.22-selected CGUS"
-  - "its independently identified one-TFS"
-  - "internal-`SubflowRef`"
-  - or E.18.NET substrate and exact position bindings
-  - the actual condition branch
-  - exact supporting relation occurrences and neighboring contributions
-  - preserved or omitted structure
-  - the applicable locator family
-  - and distinct E.18 refresh and G.11 currentness. This row is only a search locator
-  - admit or rely on a stronger claim only through its direct governing pattern
+keywords: []
 dependencies:
   builds_on:
     - E.18

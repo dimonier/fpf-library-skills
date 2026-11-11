@@ -2,11 +2,7 @@
 id: E.4.DPF
 title: "Domain and Local Principle Frameworks: Whether and How to Author and Publish"
 status: Stable
-keywords:
-  - Start from a recurring practitioner problem and compare exact existing contributions before choosing a DPF or LPF
-  - a contribution
-  - another product
-  - a thin route or stop
+keywords: []
 dependencies:
   builds_on:
     - E.4

@@ -2,12 +2,7 @@
 id: SIE.6
 title: "Fuse Source-Qualified Claims without Erasing Conflict"
 status: Stable
-keywords:
-  - How can source claims be composed while preserving scope
-  - authority
-  - uncertainty
-  - conflict
-  - "and non-comparability"
+keywords: []
 dependencies:
   references:
     - SIE.2

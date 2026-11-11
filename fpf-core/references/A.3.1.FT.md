@@ -2,13 +2,7 @@
 id: A.3.1.FT
 title: Qualify Method Fit and Transfer
 status: Stable
-keywords:
-  - A practitioner must decide whether a Method fits a named situation
-  - where its applicability stops
-  - or whether a claim transfers to another situation. Assess relevant actual Work and the required result
-  - compare situations when the selected claim needs it
-  - preserving Method status
-  - adaptations and evidence limits
+keywords: []
 dependencies:
   references:
     - A.3.1

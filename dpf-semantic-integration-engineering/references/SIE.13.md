@@ -2,10 +2,7 @@
 id: SIE.13
 title: Construct a Semantic Integration for a Named Receiving Use
 status: Stable
-keywords:
-  - How do we obtain and connect the required contributions
-  - choose the next missing result
-  - and supply an answer that works under their joint conditions
+keywords: []
 dependencies:
   references:
     - SIE.1

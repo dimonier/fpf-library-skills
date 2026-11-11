@@ -2,11 +2,7 @@
 id: C.40.OCN
 title: Construct a Bounded Opportunity
 status: Stable
-keywords:
-  - Use when a useful future contribution is unsettled. Connect the problem
-  - proposed promise
-  - materially different directions
-  - supports and qualified reachability into one inspectable opportunity or an exact gap
+keywords: []
 dependencies:
   references:
     - C.40.OI

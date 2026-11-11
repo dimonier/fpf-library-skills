@@ -2,15 +2,7 @@
 id: E.10.INT
 title: Recovering What Interest or Curiosity Means Here
 status: Stable
-keywords:
-  - Use when calling something interesting or saying that it serves an interest leaves the proposed work unclear. Recover the participant
-  - contribution and next action
-  - distinguish information gain
-  - learning progress
-  - "engagement and promising continuations when their substitution would change the choice. *Queries:* "Interesting to whom"
-  - "and for what work?"
-  - "What would this observation tell the agent?"
-  - "Can this construction open further possibilities?"
+keywords: []
 dependencies:
   builds_on:
     - E.10

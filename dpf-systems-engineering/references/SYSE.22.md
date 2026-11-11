@@ -9,7 +9,7 @@ keywords:
   - exploration
   - experiment
   - lineage
-  - current alternatives.
+  - current alternatives
 dependencies:
   references:
     - SYSE.1
@@ -17,7 +17,9 @@ dependencies:
     - SYSE.6
     - SYSE.13
     - C.11
-    - "C.17-C.19"
+    - C.17
+    - C.18
+    - C.19
     - G.11
 ---
 
@@ -27,7 +29,7 @@ dependencies:
 > **Problem frame:** Engineering problems and System concepts develop together. For example, an architecture can expose a manufacturing constraint; a prototype can change what users consider possible; an operating failure can reveal an affected System absent fr …
 > **First move:** Maintain a finite selected problem portfolio and a separately identified set of System-family options. Connect them through decision-bearing correspondence claims, compare them under the current use and evidence, and end the pass with one r …
 >
-> **Governing patterns:** `references/SYSE.1.md` `references/SYSE.2.md` `references/SYSE.6.md` `references/SYSE.13.md` `references/C.11.md` `references/C.17-C.19.md` `references/G.11.md`
+> **Governing patterns:** `references/SYSE.1.md` `references/SYSE.2.md` `references/SYSE.6.md` `references/SYSE.13.md` `references/C.11.md` `references/C.17.md` `references/C.18.md` `references/C.19.md`
 
 ---
 

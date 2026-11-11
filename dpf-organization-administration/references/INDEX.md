@@ -3,8 +3,8 @@
 | § | ID & Title | Status | Keywords & Search Queries | Dependencies |
 | :--- | :--- | :--- | :--- | :--- |
 | ADM.Reference | **ADM.Reference:1 - The working problem** | — | — | — |
-| ADM.1 | **Frame the Administrative Condition Needed for the Work** | Stable | What is this request for?, trip complete, business result, service boundary | [OPS.3][OPS] and [FPF C.32.MWA][MWA] for a disputed work or structure boundary. |
-| ADM.2 | **Establish the Relevant Participants and Relations for an Administrative Action** | Stable | Who receives?, who decides?, assignment, counterparty, authority | [FPF A.6.REL][REL]; an adequate assignment may come from [OCE.6][OCE]. |
+| ADM.1 | **Frame the Administrative Condition Needed for the Work** | Stable | trip complete, business result, service boundary | [OPS.3][OPS] and [FPF C.32.MWA][MWA] for a disputed work or structure boundary. |
+| ADM.2 | **Establish the Relevant Participants and Relations for an Administrative Action** | Stable | assignment, counterparty, authority | [FPF A.6.REL][REL]; an adequate assignment may come from [OCE.6][OCE]. |
 | ADM.3 | **Determine What Changed in Administrative Relations and When It Takes Effect** | Stable | Effective date, future appointment, suspension, record correction | [FPF A.6.REL][REL]; ADM.2 when the relevant relation is unclear. |
 | ADM.4 | **Reconcile Participant-Relative Administrative Accounts** | Stable | Payer and recipient, same transfer, different records, conflicting claims | [SIE.4 through SIE.6][SIE] for unresolved cross-source meaning or identity; ADM.3 when effectivity matters. |
 | ADM.5 | **Design Reusable Instructions for Administrative Requests** | Stable | Repeated request, service instruction, approval and provision, ordinary correction | ADM.1–ADM.3 for unsettled inputs; ADM.6–ADM.10 for the needed handling actions; [OPS.5 through OPS.6][OPS]. |

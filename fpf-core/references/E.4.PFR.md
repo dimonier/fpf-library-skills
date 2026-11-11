@@ -2,11 +2,7 @@
 id: E.4.PFR
 title: "Pattern-Framework Relation and Edition Discipline"
 status: Stable
-keywords:
-  - State a pattern or framework relation directly
-  - "including edition dependency and pairwise compatibility as separate claims. Add a generic relation row or dependency record only for a named maintenance consumer. Formal-premise use"
-  - "criterion selection and optional candidate-basis analysis keep their own conditions"
-  - a row neither establishes a relation nor grants reliance or permission
+keywords: []
 dependencies:
   builds_on:
     - E.5.3

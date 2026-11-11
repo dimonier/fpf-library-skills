@@ -15,7 +15,7 @@ keywords:
   - "selector-facing declaration"
   - publication face
   - publication occurrence
-  - audience availability.
+  - audience availability
 dependencies:
   builds_on:
     - C.18

@@ -10,7 +10,7 @@ keywords:
   - SLO
   - eligibility
   - missing outcomes
-  - error budget.
+  - error budget
 dependencies:
   references:
     - SYSE.4

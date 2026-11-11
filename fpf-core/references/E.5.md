@@ -2,12 +2,7 @@
 id: E.5
 title: "Four Guard-Rails of FPF"
 status: Stable
-keywords:
-  - "Umbrella for four FPF architectural constraints: the DevOps Lexical Firewall"
-  - Notational Independence
-  - "Unidirectional Dependency and Cross-Disciplinary Bias Audit. Use it to identify which guard-rail governs a Core"
-  - Tooling or Pedagogy change
-  - then use E.5.1–E.5.4 for the applicable rule. These constraints do not select a lint tool or supply a domain safety decision
+keywords: []
 dependencies:
   builds_on:
     - E.2

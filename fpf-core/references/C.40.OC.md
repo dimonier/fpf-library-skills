@@ -2,9 +2,7 @@
 id: C.40.OC
 title: Characterize a Subject for a Possible Change
 status: Stable
-keywords:
-  - Use when the current subject and possible change cannot yet be described at a useful grain. Construct a qualified characterization with support
-  - context and unresolved dimensions visible
+keywords: []
 dependencies:
   references:
     - C.40.OI

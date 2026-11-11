@@ -2,10 +2,7 @@
 id: HCD.12
 title: Test Transfer to Unfamiliar Work or Learning from a New Source
 status: Stable
-keywords:
-  - Which contribution survives a material unfamiliar change
-  - or what can this person do after access to a new source
-  - with what help
+keywords: []
 dependencies:
   references:
     - HCD.11

@@ -10,7 +10,7 @@ keywords:
   - maintainer
   - ecological System
   - direct relation
-  - possible path.
+  - possible path
 dependencies:
   references:
     - SYSE.1

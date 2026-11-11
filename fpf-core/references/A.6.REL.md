@@ -2,15 +2,7 @@
 id: A.6.REL
 title: "Relation Obtaining and Individuation: Distinguish Occurrences When Needed"
 status: Stable
-keywords:
-  - Governs when a direct relation obtains
-  - when a named receiving use needs one obtaining occurrence explicitly distinguished
-  - and how assertions
-  - descriptions
-  - designations
-  - references
-  - publication occurrences
-  - "and representations remain distinct from the world-side occurrence"
+keywords: []
 dependencies:
   coordinates_with:
     - A.6.0

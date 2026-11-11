@@ -8,16 +8,13 @@ keywords:
   - comparison
   - variant
   - trial
-  - "refresh. Query: "Should this way of making asset decisions be retained or changed?" Compare ways of answering the same asset question"
-  - including the effort of applying and maintaining them.
+  - refresh
 dependencies:
   references:
     - EAM.10
     - EAM.13
     - A.3.1.MV
-    - Spec.md
     - C.11.DUA
-    - Spec.md
 ---
 
 # EAM.15: Decide Whether and How to Change Engineering Asset-Management Methods
@@ -25,7 +22,7 @@ dependencies:
 > **Problem frame:** Use this pattern when the reusable way of making asset decisions no longer answers current questions, or when a new technique could improve it.
 > **First move:** Name the asset-management result and present difficulty. Recover the current way of obtaining it: operations, necessary inputs, comparison rules, applicability, useful result and stopping conditions.
 >
-> **Governing patterns:** `references/EAM.10.md` `references/EAM.13.md` `references/A.3.1.MV.md` `references/Spec.md.md` `references/C.11.DUA.md`
+> **Governing patterns:** `references/EAM.10.md` `references/EAM.13.md` `references/A.3.1.MV.md` `references/C.11.DUA.md`
 
 ---
 

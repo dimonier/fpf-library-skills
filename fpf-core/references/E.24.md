@@ -2,14 +2,7 @@
 id: E.24
 title: U.Ontic and Ontic Introduction Discipline
 status: Stable
-keywords:
-  - Decides whether a selected ontology need warrants one durable connected ontic
-  - a bounded local episteme coordinating already governed claims
-  - direct use of existing governing patterns
-  - "or an unresolved stop. The independent source-use status remains not-current"
-  - "quote-only"
-  - reduced
-  - or one selected stronger use and never substitutes for the ontology disposition
+keywords: []
 dependencies:
   builds_on:
     - A.6.REL

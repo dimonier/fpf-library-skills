@@ -2,13 +2,7 @@
 id: OPS.2
 title: "Select Work-Management Views and Coordination Methods"
 status: Stable
-keywords:
-  - Which project
-  - process
-  - case
-  - queueing
-  - control
-  - or mixed views and coordination Methods answer the current questions
+keywords: []
 dependencies:
   references:
     - OPS.1

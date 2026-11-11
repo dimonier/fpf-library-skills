@@ -9,7 +9,7 @@ keywords:
   - conditional index
   - retrieval
   - reorganization
-  - retirement.
+  - retirement
 dependencies:
   references:
     - A.15.8

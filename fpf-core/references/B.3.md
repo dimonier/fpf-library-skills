@@ -2,16 +2,7 @@
 id: B.3
 title: "Is This Claim Supported for This Use? — Trust and Assurance Calculus"
 status: Stable
-keywords:
-  - States whether one exact target claim is adequately supported for one named assurance use through an inspectable argument and the direct results it uses
-  - "with limits and reopen conditions. It defines no universal F-G-R/congruence score and does not turn a badge"
-  - record
-  - evidence item
-  - gate
-  - permission
-  - "or publication into assurance. *Queries:* "What exact claim and use need assurance?"
-  - "Which argument and results support it?"
-  - "What remains unsupported and what reopens the conclusion?"
+keywords: []
 dependencies:
   builds_on:
     - C.2.1

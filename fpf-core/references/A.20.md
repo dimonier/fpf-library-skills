@@ -2,24 +2,7 @@
 id: A.20
 title: Constraint Validity for Transformation Steps
 status: Stable
-keywords:
-  - Tests one transformation
-  - operation application
-  - "or A.6.4 bounded-use proposition against one applicable internal constraint for one case and window"
-  - "returning an exact `ConstraintValidityResult`. Applicability"
-  - "`notRun`"
-  - "`satisfied`"
-  - "`violated`"
-  - "`unknown`"
-  - "and `error` remain distinct"
-  - a gate
-  - path
-  - publication
-  - refresh
-  - assurance
-  - "or Work is a separate result. *Queries:* "Which constraint applies to this subject and case?"
-  - "What did the test return?"
-  - "Which later gate or assurance use may consume that result?"
+keywords: []
 dependencies:
   builds_on:
     - E.18

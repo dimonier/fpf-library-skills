@@ -9,7 +9,7 @@ keywords:
   - holder System
   - assignment
   - "work-facing contribution"
-  - ambiguous role wording.
+  - ambiguous role wording
 dependencies:
   builds_on:
     - A.1

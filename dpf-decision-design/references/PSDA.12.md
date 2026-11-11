@@ -5,7 +5,7 @@ status: Stable
 keywords:
   - participants
   - concerns
-  - affected Systems. Whose consequential concern or absence could change the inquiry
+  - affected Systems
 dependencies:
   references:
     - PSDA.11

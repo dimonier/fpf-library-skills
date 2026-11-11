@@ -2,9 +2,7 @@
 id: HCD.14
 title: "Revise the Human Capability-Development Arrangement from Evidence"
 status: Stable
-keywords:
-  - Which development component should change from this evidence
-  - and how will the revision be tested
+keywords: []
 dependencies:
   references:
     - HCD.11

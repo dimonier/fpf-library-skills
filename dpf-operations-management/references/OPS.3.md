@@ -2,13 +2,7 @@
 id: OPS.3
 title: "Distinguish Operating Subjects, Cases, Queues, Resources, and Records"
 status: Stable
-keywords:
-  - Which exact subjects and relations sit behind the cases
-  - Work items
-  - queues
-  - resources
-  - events
-  - and records
+keywords: []
 dependencies:
   references:
     - OPS.1

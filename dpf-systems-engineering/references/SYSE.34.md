@@ -10,7 +10,7 @@ keywords:
   - backfill
   - idempotence
   - recovery
-  - information loss.
+  - information loss
 dependencies:
   references:
     - SYSE.13

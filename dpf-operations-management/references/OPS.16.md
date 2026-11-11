@@ -8,7 +8,6 @@ keywords:
   - retaining or revising a candidate account
   - testing Method identity
   - stopping
-  - or further observation
 dependencies:
   references:
     - OPS.15

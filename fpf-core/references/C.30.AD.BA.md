@@ -2,17 +2,7 @@
 id: C.30.AD.BA
 title: "Built-Asset Architecture Description and Reference Designation"
 status: Stable
-keywords:
-  - "Built-asset architecture-description use for BIM"
-  - IFC
-  - asset registers
-  - "digital-twin views"
-  - handover tables
-  - "and ISO/IEC 81346-style reference designations without turning descriptions into assets"
-  - evidence
-  - gates
-  - work
-  - or decisions
+keywords: []
 dependencies:
   builds_on:
     - C.30

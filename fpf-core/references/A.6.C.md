@@ -13,7 +13,7 @@ keywords:
   - separate result and evidence
   - atomic L/A/D/E rows
   - obtaining versus representation
-  - "MVPK no-new-semantics."
+  - "MVPK no-new-semantics"
 dependencies:
   builds_on:
     - A.6

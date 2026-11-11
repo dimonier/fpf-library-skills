@@ -3,13 +3,7 @@ id: D.3
 title: Describe an Ethical Conflict Across Levels or Scopes
 status: Stable
 keywords:
-  - Use when ethical claims at different levels or scopes raise an incompatibility
-  - "trade-off or unresolved value tension that needs explanation. Connect each side's claim"
-  - affected entity
-  - value frame
-  - consequence and horizon
-  - state the tension and next use. Stop at a short note when it suffices
-  - "identify a reusable conflict-description episteme only when needed. Keywords: interlevel ethical conflict"
+  - interlevel ethical conflict
 dependencies:
   builds_on:
     - D.1

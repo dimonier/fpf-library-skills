@@ -9,7 +9,7 @@ keywords:
   - release to service
   - configuration
   - permission
-  - evidence continuity.
+  - evidence continuity
 dependencies:
   references:
     - SYSE.13

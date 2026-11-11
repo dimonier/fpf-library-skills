@@ -10,7 +10,7 @@ keywords:
   - "`NormalizationMethodInstanceId`"
   - "`NormalizationInvariant[]`"
   - "`NormalizationFixSpec`"
-  - validity window (no implicit “latest”)
+  - validity window (no implicit "latest")
   - "fail-closed tri-state guard (`pass"
 ---
 

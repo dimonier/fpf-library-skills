@@ -2,13 +2,18 @@
 id: SIE.10
 title: Validate a Semantic Integration Result for Its Receiving Use
 status: Stable
-keywords:
-  - What does the evidence settle about the named receiving use
-  - and which claimed premises still need validation
+keywords: []
 dependencies:
   references:
     - SIE.1
-    - "SIE.2-SIE.9"
+    - SIE.2
+    - SIE.3
+    - SIE.4
+    - SIE.5
+    - SIE.6
+    - SIE.7
+    - SIE.8
+    - SIE.9
 ---
 
 # SIE.10: Validate a Semantic Integration Result for Its Receiving Use
@@ -16,7 +21,7 @@ dependencies:
 > **Problem frame:** **Use this when** a candidate semantic interface or mapping package exists and somebody asks whether it is ready, correct, valid, trustworthy, or fit for use.
 > **First move:** Choose the conclusion at its actual scope. A known decisive failure or bounded unresolved premise can finish with sufficient evidence for that result.
 >
-> **Governing patterns:** `references/SIE.1.md` `references/SIE.2-SIE.9.md`
+> **Governing patterns:** `references/SIE.1.md` `references/SIE.2.md` `references/SIE.3.md` `references/SIE.4.md` `references/SIE.5.md` `references/SIE.6.md` `references/SIE.7.md` `references/SIE.8.md`
 
 ---
 

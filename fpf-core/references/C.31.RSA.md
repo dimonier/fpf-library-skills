@@ -9,7 +9,7 @@ keywords:
   - accounting basis
   - "report-only share"
   - source return
-  - refactoring opportunity.
+  - refactoring opportunity
 dependencies:
   builds_on:
     - C.31

@@ -2,15 +2,7 @@
 id: E.9.DA
 title: "Evaluate a DRR for Its Declared Authoring Use (Decision-Adequacy CharacteristicSpace)"
 status: Stable
-keywords:
-  - "Checks one exact DRR for one declared FPF authoring use. An ordinary bounded check reads the decision and any triggered actual-host effect"
-  - then returns a precise finding
-  - repaired text
-  - or the unchanged checked DRR when clean
-  - plus the first drafting action or repair
-  - stop or return
-  - "and reopen condition. A non-use boundary is added only for a grounded competing reading"
-  - a complete reusable coordinate result and exact assessment identities appear only when explicitly requested or consumed by a named later reliance
+keywords: []
 dependencies:
   builds_on:
     - E.9

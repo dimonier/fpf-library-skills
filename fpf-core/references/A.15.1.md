@@ -13,7 +13,7 @@ keywords:
   - "F.6 only after admission for precise assignment-bound attribution"
   - optional direct bindings and resource use
   - separate result or consequence
-  - conditional agency profile.
+  - conditional agency profile
 dependencies:
   builds_on:
     - A.1

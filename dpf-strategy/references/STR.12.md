@@ -8,7 +8,7 @@ keywords:
   - pivot
   - pause
   - stop
-  - continue.
+  - continue
 dependencies:
   references:
     - STR.11

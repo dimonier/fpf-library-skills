@@ -2,13 +2,7 @@
 id: A.6.5
 title: "Relation-Declaration Slot Discipline - SlotKind, ValueKind, RefKind, and participant-designation discipline"
 status: Stable
-keywords:
-  - "Types reusable direct-relation participant meanings as exact SlotSpecs inside one RelationSignature while keeping declaration-local SlotKinds"
-  - "world-side participants"
-  - "receiving-episteme and A.15.3 planned designations"
-  - A.6.1 operation declarations
-  - references
-  - and obtaining occurrences distinct
+keywords: []
 dependencies:
   builds_on:
     - A.6.0

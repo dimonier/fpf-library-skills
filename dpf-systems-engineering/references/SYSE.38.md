@@ -10,7 +10,7 @@ keywords:
   - partial effects
   - competing causes
   - restoration
-  - specialist request.
+  - specialist request
 dependencies:
   references:
     - SYSE.26

@@ -2,25 +2,7 @@
 id: B.2.2
 title: "Meta-System Transition: Test the Proposed New Whole as a System"
 status: Stable
-keywords:
-  - "Specialize B.2 when its one exact proposed new whole must be recognized under the already admitted `U.System` kind. Apply the complete A.1 construction test and direct system criterion to that same individual"
-  - keep delimitation
-  - objective
-  - coordination
-  - capability
-  - "system-role kind or assignment"
-  - Method
-  - Work
-  - transformation
-  - functioning
-  - architecture
-  - evidence
-  - assurance
-  - and time claims under their direct patterns
-  - "and re-base component evidence rather than transferring it by label. *Queries:* "Which exact candidate did B.2 identify for recognition?"
-  - "Does that same individual pass complete A.1 and the direct U.System criterion?"
-  - "Which additional result-system claims independently obtain?"
-  - "Which component evidence remains applicable to the recognized result system?"
+keywords: []
 dependencies:
   builds_on:
     - B.2

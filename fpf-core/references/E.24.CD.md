@@ -2,37 +2,7 @@
 id: E.24.CD
 title: "Ontic Candidate Detection and First-Use Disposition"
 status: Stable
-keywords:
-  - "Use when `process`"
-  - "`source`"
-  - "`quality`"
-  - "`architecture`"
-  - "`problem`"
-  - "`view`"
-  - "`role`"
-  - "`function`"
-  - "`mechanism`"
-  - "or `method`—or a recurring card"
-  - table
-  - schema
-  - diagram
-  - record
-  - draft pattern row
-  - or field bundle—looks like a new FPF subject. Recover the exact subject
-  - needed claim
-  - and receiving use
-  - "then take the first truthful next use: a direct pattern"
-  - C.2.1 episteme constitution
-  - C.3 local typed classification
-  - description
-  - publication
-  - the applicable representation handling
-  - including A.6.3.RT for scheme transition and C.29 for unresolved mathematical representation
-  - transfer or reliance
-  - bounded wording repair or F.18 naming
-  - E.24 admission with a separate E.24.UK kind decision when needed
-  - "or a precise unresolved stop. Bare role wording uses E.10.ROLE. Ontic and public-kind claims use the separate E.24 and E.24.UK tests"
-  - add an explanatory guard only when F.19 admits it
+keywords: []
 dependencies:
   builds_on:
     - E.24

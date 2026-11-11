@@ -11,7 +11,7 @@ keywords:
   - closed finite domain
   - preorder
   - classification equivalence
-  - "participant-determined occurrence."
+  - "participant-determined occurrence"
 dependencies:
   builds_on:
     - A.1

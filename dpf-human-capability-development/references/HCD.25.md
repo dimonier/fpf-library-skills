@@ -2,10 +2,7 @@
 id: HCD.25
 title: Learn Transfer through Comparison of Projects
 status: Stable
-keywords:
-  - Which relation carries across projects
-  - what breaks it
-  - and how does the learner use it
+keywords: []
 dependencies:
   references:
     - HCD.6.1

@@ -2,16 +2,7 @@
 id: C.19.1
 title: Bitter‑Lesson Preference (BLP)
 status: Stable
-keywords:
-  - "Use when a comparison relies on scale advantage or a declared generality preference. Start with the cheap scale-claim probe"
-  - retain task family
-  - cost
-  - risk
-  - parity and uncertainty. Return a bounded comparison
-  - "no scale-based preference"
-  - a declared local policy or analogy
-  - or a bounded use with no scale claim. Select a fuller audit or waiver only when its conditions apply
-  - "including in E.23 method-family choice"
+keywords: []
 dependencies:
   builds_on:
     - C.19

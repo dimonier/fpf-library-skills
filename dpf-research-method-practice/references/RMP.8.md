@@ -2,12 +2,12 @@
 id: RMP.8
 title: Use Research Results to Retain or Revise an Episteme's Claims and Return Bounded Evidence
 status: Stable
-keywords:
-  - Which exact claim or model contribution should be retained or changed
-  - and what bounded evidence does its actual recipient need
+keywords: []
 dependencies:
   references:
-    - "RMP.5-RMP.7"
+    - RMP.5
+    - RMP.6
+    - RMP.7
 ---
 
 # RMP.8: Use Research Results to Retain or Revise an Episteme's Claims and Return Bounded Evidence
@@ -15,7 +15,7 @@ dependencies:
 > **Problem frame:** Use this pattern when research analysis, criticism, a credibility result or a synthesis changes what a knowledge account may assert, or when its recipient needs a bounded evidence return.
 > **First move:** Match the supplied contribution to the earlier assertion, revise only what it warrants, reconcile the affected account and return the current answer to its actual use. Preserve the support, uncertainty and limits that matter to that return.
 >
-> **Governing patterns:** `references/RMP.5-RMP.7.md`
+> **Governing patterns:** `references/RMP.5.md` `references/RMP.6.md` `references/RMP.7.md`
 
 ---
 

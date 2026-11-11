@@ -9,7 +9,7 @@ keywords:
   - control or transformation output
   - enactment
   - description use
-  - "performed-Work attribution."
+  - "performed-Work attribution"
 dependencies:
   builds_on:
     - A.3

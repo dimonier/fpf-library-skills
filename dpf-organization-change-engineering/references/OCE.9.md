@@ -6,7 +6,7 @@ keywords:
   - capability increment
   - representative work
   - integration
-  - "exception return. Question: How can the organization obtain the selected contribution beyond an isolated demonstration?"
+  - exception return
 dependencies:
   references:
     - OCE.4

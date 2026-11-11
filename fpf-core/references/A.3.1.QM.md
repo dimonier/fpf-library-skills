@@ -2,10 +2,7 @@
 id: A.3.1.QM
 title: Qualify a Method for Its Intended Contribution
 status: Stable
-keywords:
-  - One Method or candidate must supply a named contribution. Qualify its result
-  - applicability
-  - evidence and limits without inferring the adequacy of a combined arrangement
+keywords: []
 dependencies:
   references:
     - A.3.1

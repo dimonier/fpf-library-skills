@@ -2,14 +2,7 @@
 id: C.16.IR
 title: Determine What a Measurement Indication Can Resolve
 status: Stable
-keywords:
-  - Use when an available measurement relation leaves the interpretation of an indication unresolved. Construct jointly compatible cases
-  - preserve branches and distinguish feasible values from outer bounds
-  - return the value
-  - "comparison or ambiguity that matters to the question. *Queries:* "Can different values give this reading?"
-  - "Does this bound settle my threshold?"
-  - "What do two readings determine together?"
-  - "What changes when reading error is restored?"
+keywords: []
 dependencies:
   coordinates_with:
     - C.16

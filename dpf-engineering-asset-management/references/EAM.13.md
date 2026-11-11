@@ -7,16 +7,13 @@ keywords:
   - variance
   - attribution
   - revision
-  - "changed premise. Query: "What has actually changed"
-  - "and should the asset plan be retained or revised?" Compare obtained outcomes with the decision premises at the same scope."
+  - changed premise
 dependencies:
   references:
     - EAM.3
     - EAM.12
     - A.10
-    - Spec.md
     - C.16
-    - Spec.md
 ---
 
 # EAM.13: Track Realized Outcomes and Reconsider Asset Plans
@@ -24,7 +21,7 @@ dependencies:
 > **Problem frame:** Use this pattern when observations can change an asset plan or the explanation for its results. Work has been completed or money spent, but the practitioner needs to know whether the required service and expected value have been obtained.
 > **First move:** Recover the selected asset plan and the assumptions whose truth matters now. Name the service, cost, condition, risk or continuing burden being compared, its population and interval.
 >
-> **Governing patterns:** `references/EAM.3.md` `references/EAM.12.md` `references/A.10.md` `references/Spec.md.md` `references/C.16.md`
+> **Governing patterns:** `references/EAM.3.md` `references/EAM.12.md` `references/A.10.md` `references/C.16.md`
 
 ---
 

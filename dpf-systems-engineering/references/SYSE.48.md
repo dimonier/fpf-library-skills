@@ -9,7 +9,7 @@ keywords:
   - new input
   - defeating case
   - discovery
-  - variant.
+  - variant
 dependencies:
   references:
     - A.15.8.MS

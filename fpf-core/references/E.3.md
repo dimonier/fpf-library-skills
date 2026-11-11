@@ -15,7 +15,7 @@ keywords:
   - oversight
   - ABL
   - profile change
-  - BLP waiver.
+  - BLP waiver
 dependencies:
   builds_on:
     - E.2

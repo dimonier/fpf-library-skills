@@ -2,12 +2,7 @@
 id: A.3.1.MV
 title: Construct and Maintain a Method Variant
 status: Stable
-keywords:
-  - A reusable way changes
-  - but the change may concern only its description
-  - tool
-  - support or one Work occurrence. Construct a semantic variant and maintain its evidence
-  - applicability and relation to other variants
+keywords: []
 dependencies:
   references:
     - A.3.1

@@ -8,7 +8,7 @@ keywords:
   - flaky failures
   - quarantine
   - continuous integration
-  - mainline.
+  - mainline
 dependencies:
   references:
     - SYSE.30

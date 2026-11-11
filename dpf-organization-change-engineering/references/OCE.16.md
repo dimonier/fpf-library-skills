@@ -6,11 +6,17 @@ keywords:
   - simultaneous changes
   - dependency
   - support retirement
-  - "direct return. Question: Does another separately managed change still need the condition we propose to alter?"
+  - direct return
 dependencies:
   references:
     - C.32.MWA.PP
-    - "OPS.1-OPS.7"
+    - OPS.1
+    - OPS.2
+    - OPS.3
+    - OPS.4
+    - OPS.5
+    - OPS.6
+    - OPS.7
     - A.15
     - C.32.MWA
 ---
@@ -21,7 +27,7 @@ dependencies:
 > **Problem frame:** Each change can look locally plausible while the conjunction is not. One effort can promise autonomy while another introduces a new approval; a provider or repository transition can retire an evidence-return contribution that another change …
 > **First move:** For one proposed organizational alteration, identify one plausible consumer in another change and qualify their exact dependency before invoking any substantive comparison.
 >
-> **Governing patterns:** `references/C.32.MWA.PP.md` `references/OPS.1-OPS.7.md` `references/A.15.md` `references/C.32.MWA.md`
+> **Governing patterns:** `references/C.32.MWA.PP.md` `references/OPS.1.md` `references/OPS.2.md` `references/OPS.3.md` `references/OPS.4.md` `references/OPS.5.md` `references/OPS.6.md` `references/OPS.7.md`
 
 ---
 

@@ -10,7 +10,7 @@ keywords:
   - dependency test
   - partial failure
   - unknown effects
-  - recovery.
+  - recovery
 dependencies:
   references:
     - SYSE.13

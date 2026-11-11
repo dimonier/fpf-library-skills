@@ -19,7 +19,7 @@ keywords:
   - UTS/Name Cards
   - RSCR linkage surfaces
   - edition pins
-  - shipping and refresh boundaries.
+  - shipping and refresh boundaries
 dependencies:
   builds_on:
     - G.Core

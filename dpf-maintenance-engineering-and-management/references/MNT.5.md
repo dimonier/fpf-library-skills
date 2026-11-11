@@ -7,15 +7,13 @@ keywords:
   - tools
   - competence
   - readiness
-  - "lead time. Query: "Can the selected maintenance task obtain usable support in time?" Establish task-specific readiness or its action-changing deficiency."
+  - lead time
 dependencies:
   references:
     - MNT.2
     - MNT.6
     - SYSE.12
-    - FRAMEWORK.md
     - A.2.2
-    - Spec.md
 ---
 
 # MNT.5: Prepare Maintenance Service Capability, Spares, Tools, and Authority
@@ -23,7 +21,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a maintenance policy or intervention depends on support that may not be ready at the required time. The spare is in stock, but its applicability is unresolved; the tool is available, but no competent provider can use i …
 > **First move:** Derive support from the actual task content and its uncertainty. Identify the relevant procedure, access, expected work and foreseeable branches.
 >
-> **Governing patterns:** `references/MNT.2.md` `references/MNT.6.md` `references/SYSE.12.md` `references/FRAMEWORK.md.md` `references/A.2.2.md` `references/Spec.md.md`
+> **Governing patterns:** `references/MNT.2.md` `references/MNT.6.md` `references/SYSE.12.md` `references/A.2.2.md`
 
 ---
 

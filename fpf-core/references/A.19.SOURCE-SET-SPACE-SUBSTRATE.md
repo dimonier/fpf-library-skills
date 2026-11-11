@@ -12,7 +12,7 @@ keywords:
   - DistortionPosture
   - SourceSetRef
   - sameDeclaredSpaceAs
-  - distinctDeclaredSpaceFrom.
+  - distinctDeclaredSpaceFrom
 dependencies:
   builds_on:
     - A.19

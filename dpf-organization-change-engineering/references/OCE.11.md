@@ -7,7 +7,7 @@ keywords:
   - capacity
   - dual operation
   - recovery
-  - "hand-back. Question: How can change work overlap with service without breaching its protected conditions?"
+  - "hand-back"
 dependencies:
   references:
     - C.32.MWA.PP

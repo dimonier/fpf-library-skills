@@ -2,11 +2,7 @@
 id: B.1.5.CM
 title: Construct and Qualify a Composite Method
 status: Stable
-keywords:
-  - A proposed combination may be one Method
-  - but cooperation or a shared provider does not establish that whole. Construct constituent contributions
-  - interfaces and relation grounds
-  - or return a useful lower claim
+keywords: []
 dependencies:
   references:
     - A.3.1

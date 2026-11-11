@@ -2,11 +2,7 @@
 id: C.40.JD
 title: "Develop a Way, Its Holder and Its Provision Together"
 status: Stable
-keywords:
-  - Use when a way
-  - its intended holder and provision must change together. Construct their mutual returns
-  - compare adequate supply and organizational alternatives
-  - and distinguish delivery from acquired capability
+keywords: []
 dependencies:
   references:
     - C.39

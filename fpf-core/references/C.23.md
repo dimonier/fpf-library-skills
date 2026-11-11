@@ -11,7 +11,7 @@ keywords:
   - admit
   - degrade
   - abstain
-  - selector.
+  - selector
 dependencies:
   builds_on:
     - G.5

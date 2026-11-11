@@ -2,16 +2,7 @@
 id: C.32.P2S
 title: "Problem-to-Structure Architecturing Unfolding"
 status: Stable
-keywords:
-  - "Carry a receiving-use basis through architecture pressure"
-  - structural uncertainty
-  - candidate and selected structures
-  - decision
-  - "realization Work and feedback. Recover receiving use and encompassing functioning before inward or creation-side choices. An organization's own architecture is justified by its required capability for the product SoI"
-  - with finite local acceptance
-  - "use A.1.STM for an unsettled basis while preserving adequate local answers. *Queries:* "What outside change and use justify this architecture?"
-  - "How does this component or builder contribute to the project system-of-interest?"
-  - "What functioning hypothesis must be understood before choosing internal structure?"
+keywords: []
 dependencies:
   builds_on:
     - A.1

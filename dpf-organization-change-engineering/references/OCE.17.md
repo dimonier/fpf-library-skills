@@ -6,8 +6,7 @@ keywords:
   - OCE practice
   - practitioner population
   - continuation
-  - "renewal. Question: Which practices continue across practitioners"
-  - "and what makes them easier or harder to use?"
+  - renewal
 dependencies:
   references:
     - C.36

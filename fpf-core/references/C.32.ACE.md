@@ -12,7 +12,7 @@ keywords:
   - parity frame
   - "missing-data policy"
   - proxy risk
-  - comparison input.
+  - comparison input
 dependencies:
   builds_on:
     - C.32.ACS

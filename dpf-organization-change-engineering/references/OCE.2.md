@@ -5,8 +5,7 @@ status: Stable
 keywords:
   - current organization
   - actual Work
-  - "formal and informal arrangements. Question: How does the organization get work done"
-  - "and which relations support or obstruct it?"
+  - formal and informal arrangements
 dependencies:
   references:
     - OCE.1

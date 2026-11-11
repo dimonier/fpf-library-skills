@@ -2,10 +2,7 @@
 id: RMP.11
 title: Explain Method History with Discriminating Evidence
 status: Stable
-keywords:
-  - Why did a Method or relation differentiate
-  - which records favor which account
-  - and what descriptive or causal use is supported
+keywords: []
 dependencies:
   references:
     - RMP.4

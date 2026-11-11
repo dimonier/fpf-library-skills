@@ -2,18 +2,7 @@
 id: E.17.0
 title: "Viewpoint and View Recognition for Multi-View Describing"
 status: Stable
-keywords:
-  - "Decide whether exact candidate episteme E conforms to one already defined exact viewpoint edition P. Apply P's fixed five-part predicate"
-  - if it obtains
-  - "the same E is a `U.View`"
-  - otherwise state the failed rule or exact unresolved condition and stop. Author a new P
-  - selected convention structure
-  - evaluation
-  - evidence
-  - correspondence
-  - "or publication only when a named receiving use needs it. *Queries:* "Does E conform to P?"
-  - "Which fixed rule fails or remains unresolved?"
-  - "Does this use need more than the direct E/P judgment?"
+keywords: []
 dependencies:
   builds_on:
     - C.2.1

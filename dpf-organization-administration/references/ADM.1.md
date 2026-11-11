@@ -3,7 +3,6 @@ id: ADM.1
 title: Frame the Administrative Condition Needed for the Work
 status: Stable
 keywords:
-  - "What is this request for?"
   - trip complete
   - business result
   - service boundary

@@ -16,7 +16,7 @@ keywords:
   - completion
   - order/time
   - "publication-carrier and EntityOfConcern/Description distinction"
-  - "system-role–Method–Work distinctions."
+  - "system-role–Method–Work distinctions"
 dependencies:
   builds_on:
     - A.6.P

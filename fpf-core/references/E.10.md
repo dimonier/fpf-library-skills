@@ -2,25 +2,7 @@
 id: E.10
 title: Unified Lexical Rules for FPF
 status: Stable
-keywords:
-  - "Plain-first cue and router for word"
-  - head
-  - and use precision. Use F.19 for the whole passage. For unresolved FPF meaning
-  - "distinguish an obtaining world-side relation"
-  - a reusable relation declaration
-  - a claim/report episteme
-  - and a representation with explicit correspondence. Supplies register
-  - morphology
-  - naming
-  - "and trigger-registry rules"
-  - "routes claim-bearing learning wording through E.10.LRN"
-  - "work/method-boundary wording through A.6.P.WMR"
-  - authority wording through A.2.8
-  - A.2.8.PER and A.2.9
-  - development or evolution ambiguity through E.10.DEV
-  - and independent move or trajectory ambiguity through E.10.MOVE. Return readable wording or an exact blocker
-  - retain the direct result when a governed claim is current. Trigger words are cues
-  - not verdicts
+keywords: []
 dependencies:
   builds_on:
     - A.7

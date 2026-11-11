@@ -2,9 +2,7 @@
 id: OPS.6
 title: Continue Cases and Handle Exceptions
 status: Stable
-keywords:
-  - What Work may happen next in this admitted case
-  - and what evidence supports progression
+keywords: []
 dependencies:
   references:
     - OPS.5

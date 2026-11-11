@@ -2,9 +2,7 @@
 id: RMP.3
 title: Operationalize the Research Design without Replacing the Question
 status: Stable
-keywords:
-  - Which operational choices preserve the selected research question and criticism
-  - and which missing or defeated premise requires a return
+keywords: []
 dependencies:
   references:
     - RMP.1

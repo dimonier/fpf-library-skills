@@ -13,7 +13,7 @@ keywords:
   - support
   - platform development
   - readiness
-  - later use.
+  - later use
 dependencies:
   references:
     - SYSE.15

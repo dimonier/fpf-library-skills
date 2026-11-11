@@ -8,7 +8,6 @@ keywords:
   - full reading
   - pagination
   - history
-  - "“What must the recipient actually receive?”"
 dependencies:
   references:
     - C.2.8

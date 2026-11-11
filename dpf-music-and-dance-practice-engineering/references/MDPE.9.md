@@ -11,7 +11,7 @@ keywords:
   - instrument
   - generative model
   - variation
-  - comparison.
+  - comparison
 dependencies:
   references:
     - MDPE.1

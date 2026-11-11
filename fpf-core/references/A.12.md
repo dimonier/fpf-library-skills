@@ -2,32 +2,7 @@
 id: A.12
 title: "Acting-Side Externalization and Reflexive Split: Identify Who Acts on What"
 status: Stable
-keywords:
-  - Name the proposed acting participant and the subject claimed to change. Use A.12's precise account when their identities or a particular System
-  - change
-  - Work or evidence claim matters. Keep the changed subject's identity rule
-  - recognize the same acting entity as a System only under A.1
-  - apply the direct rule for each participation
-  - assignment
-  - A.3.4 transformation
-  - Method
-  - Work
-  - evidence
-  - "crossing or parthood claim. For an internal-parts reading"
-  - use Reflexive Split only when two distinct entity parts have independently obtaining part relations to one containing holon
-  - for a document case
-  - choose carrier change
-  - episteme edition
-  - "or relation-occurrence change before filling singular positions. *Queries:* "Which exact referent continues as the changed subject?"
-  - Which exact entity occupies the acting side
-  - "and has A.1 recognized it as a system?"
-  - Which participation
-  - assignment
-  - transformation
-  - Work
-  - evidence
-  - crossing
-  - "or part relation independently obtains?"
+keywords: []
 dependencies:
   builds_on:
     - A.1

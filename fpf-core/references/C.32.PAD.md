@@ -11,7 +11,7 @@ keywords:
   - accepted loss
   - "method-use instruction"
   - "architect-developer split"
-  - reopen condition.
+  - reopen condition
 dependencies:
   builds_on:
     - C.32

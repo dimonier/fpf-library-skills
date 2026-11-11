@@ -10,7 +10,7 @@ keywords:
   - complements
   - observation windows
   - attention
-  - unknown evidence.
+  - unknown evidence
 dependencies:
   references:
     - STR.5

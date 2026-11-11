@@ -7,7 +7,7 @@ keywords:
   - unsettled contribution
   - strategic filter
   - beneficiaries
-  - exclusions.
+  - exclusions
 dependencies:
   references:
     - STR.3

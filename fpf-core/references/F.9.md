@@ -13,7 +13,7 @@ keywords:
   - A.10/B.3 reliance
   - inverse/composition checks
   - quantum/coarsening exit
-  - optional card.
+  - optional card
 dependencies:
   builds_on:
     - F.17

@@ -3,7 +3,7 @@ id: CB.13
 title: Establish a Workable Mandate for Shared Decisions
 status: Stable
 keywords:
-  - "Who may decide? Common mandate"
+  - Common mandate
   - delegation and challenge
 ---
 

@@ -2,12 +2,7 @@
 id: B.4.1
 title: Publish Candidate Routes for a Stabilized Cue (RoutedCueSet)
 status: Stable
-keywords:
-  - Make possible continuations from a stabilized cue explicit
-  - with their grounds and any missing facts needed for use or selection. Keep several routes live or state a justified selection
-  - "apply a downstream pattern for a selected further task under its own entry conditions. *Queries:* "Should this signal lead to intervention"
-  - "inquiry or a requirement question?"
-  - "What would justify choosing one route?"
+keywords: []
 dependencies:
   builds_on:
     - A.16

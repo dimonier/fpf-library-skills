@@ -10,7 +10,7 @@ keywords:
   - interface
   - commitment
   - independent evolution
-  - platform federation.
+  - platform federation
 dependencies:
   references:
     - SYSE.6

@@ -2,9 +2,7 @@
 id: HCD.13
 title: Test Human Capability Retention and Dependence on Tools or Other Support
 status: Stable
-keywords:
-  - What remains after this delay and practice history
-  - and what depends on support
+keywords: []
 dependencies:
   references:
     - E.23.CAE

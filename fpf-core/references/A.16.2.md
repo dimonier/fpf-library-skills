@@ -9,7 +9,7 @@ keywords:
   - retire
   - retreat
   - branch withdrawal
-  - authority withdrawal.
+  - authority withdrawal
 dependencies:
   builds_on:
     - A.16

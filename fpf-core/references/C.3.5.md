@@ -7,7 +7,7 @@ keywords:
   - "K0-K3"
   - editorial facet
   - declaration planning
-  - assurance planning.
+  - assurance planning
 dependencies:
   builds_on:
     - C.3

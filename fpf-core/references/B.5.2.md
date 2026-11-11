@@ -2,14 +2,7 @@
 id: B.5.2
 title: Generate and Compare Candidate Explanations (Abductive Loop)
 status: Stable
-keywords:
-  - Use when an anomaly
-  - opportunity or probe question needs candidate explanations. Frame the question
-  - generate candidates
-  - compare explicit plausibility grounds and return a qualified conjecture or an abort
-  - "defer or split result. *Queries:* "What might explain this observation?"
-  - "Which rival explanations remain plausible?"
-  - "Can I retain a useful conjecture when a discriminating check is unavailable?"
+keywords: []
 dependencies:
   builds_on:
     - B.5

@@ -12,7 +12,7 @@ keywords:
   - instrument update
   - state export
   - "source-loss coarsening"
-  - minimal admissible output.
+  - minimal admissible output
 dependencies:
   builds_on:
     - C.11
@@ -29,7 +29,9 @@ dependencies:
     - C.18
     - C.19
   constrains:
-    - "C.26.1-C.26.3"
+    - C.26.1
+    - C.26.2
+    - C.26.3
 ---
 
 # C.26: Quantum-Like Modeling Lens

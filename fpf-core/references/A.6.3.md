@@ -2,16 +2,7 @@
 id: A.6.3
 title: "Episteme viewing - EntityOfConcern-preserving episteme construction"
 status: Stable
-keywords:
-  - Derives a smaller
-  - reorganized
-  - translated
-  - or combined episteme from named source epistemes about the same exact EntityOfConcern. It states what is kept or omitted and adds no unsupported claim
-  - view membership
-  - production Work
-  - "and publication remain separate. *Queries:* "How are Y's claims licensed by X and any additional sources or admitted facts under the viewing rule?"
-  - "What was kept or omitted?"
-  - "Does Y add any unsupported claim?"
+keywords: []
 dependencies:
   builds_on:
     - A.6.0

@@ -2,18 +2,7 @@
 id: A.1
 title: Recognize a Whole with Parts (U.Holon and Admitted Holon Kinds)
 status: Stable
-keywords:
-  - "Constructive recognition of one exact `U.Entity` under an already admitted holon kind: six world-side components"
-  - "kind-specific `U.System` and `U.Episteme` conditions"
-  - and strict separation from evaluation
-  - assertion
-  - evidence
-  - currentness
-  - reliance
-  - whole reidentification
-  - selected structure
-  - delimitation
-  - "and boundary-crossing claims"
+keywords: []
 dependencies:
   builds_on:
     - E.24.UK

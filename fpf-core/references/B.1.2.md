@@ -2,20 +2,7 @@
 id: B.1.2
 title: Coordinate Decisions About System Aggregation and Delimitation
 status: Stable
-keywords:
-  - Coordinate one named aggregation or delimitation decision for one exact entity recognized as a system under A.1 or still being evaluated there. Recover system identity
-  - obtaining part and assembly relations
-  - "exact boundary-crossing relations"
-  - "any use-relative boundary choice"
-  - function/bearer allocations
-  - "whole-level characteristics"
-  - evidence
-  - descriptions
-  - and blockers from their direct owners
-  - "select a non-agentive A.22 U.Structure only when their joint organization changes the decision. *Queries:* "Which exact entity and decision are current?"
-  - "Which constituents are parts and which exact relations only cross the selected boundary?"
-  - "What direct result makes a use-relative inclusion or exclusion current?"
-  - "Does the joint organization itself require an A.22 structure?"
+keywords: []
 dependencies:
   builds_on:
     - B.1

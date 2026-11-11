@@ -2,8 +2,7 @@
 id: OPS.9
 title: Diagnose and Treat the Current Operating Constraint
 status: Stable
-keywords:
-  - Which current limiting relation and treatment are supported against a serious rival
+keywords: []
 dependencies:
   references:
     - OPS.3

@@ -2,10 +2,7 @@
 id: C.40.RQ
 title: Requalify Changed Opportunities
 status: Stable
-keywords:
-  - "Use when a relied-on source"
-  - configuration or condition changes. Recover dependent opportunity claims
-  - requalify the affected use and preserve independent results
+keywords: []
 dependencies:
   references:
     - A.10

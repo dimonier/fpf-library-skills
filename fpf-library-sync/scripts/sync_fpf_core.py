@@ -104,7 +104,9 @@ def run_decompose(spec_path: Path, skills_dir: Path, *, dry_run: bool = False) -
     ctx_dir = skills_dir / "context"
     refs_dir.mkdir(parents=True, exist_ok=True)
 
-    report, units, context_units, spec_filename = decompose.parse_spec(spec_path)
+    report, units, context_units, spec_filename = decompose.parse_spec(
+        spec_path, plain_keywords=False
+    )
 
     output_lines: list[str] = []
     output_lines.append(f"Decomposing FPF spec: {spec_path}")

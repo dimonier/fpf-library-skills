@@ -12,7 +12,7 @@ keywords:
   - "edition-aware"
   - epistemic debt
   - deprecation
-  - "re-shipping."
+  - "re-shipping"
 dependencies:
   builds_on:
     - G.Core

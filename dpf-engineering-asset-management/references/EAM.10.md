@@ -8,7 +8,7 @@ keywords:
   - portfolio
   - combination
   - shared work
-  - "joint consequences. Query: "Which eligible asset combination should receive the allocation?" Construct whole consequences and compare programmes under the dated binding conditions."
+  - joint consequences
 dependencies:
   references:
     - EAM.7
@@ -16,9 +16,7 @@ dependencies:
     - EAM.9
     - EAM.11
     - FIN.9
-    - FRAMEWORK.md
     - C.11
-    - Spec.md
 ---
 
 # EAM.10: Compare Engineered-Asset Portfolio Combinations
@@ -26,7 +24,7 @@ dependencies:
 > **Problem frame:** Use this pattern when asset choices compete for shared funding, service, people, outages or other resources. Several individually attractive projects cannot all be performed, choosing one changes the feasible alternatives for another, or pe …
 > **First move:** State the portfolio scope, requested result and horizon. Recover the alternatives and their eligibility from [EAM.7](#eam7---generate-ways-to-supply-an-asset-dependent-service)–EAM.9.
 >
-> **Governing patterns:** `references/EAM.7.md` `references/EAM.8.md` `references/EAM.9.md` `references/EAM.11.md` `references/FIN.9.md` `references/FRAMEWORK.md.md` `references/C.11.md` `references/Spec.md.md`
+> **Governing patterns:** `references/EAM.7.md` `references/EAM.8.md` `references/EAM.9.md` `references/EAM.11.md` `references/FIN.9.md` `references/C.11.md`
 
 ---
 

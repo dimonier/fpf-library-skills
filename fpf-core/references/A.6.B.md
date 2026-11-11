@@ -11,7 +11,7 @@ keywords:
   - evaluated findings
   - conflict claims
   - observable effects and evidence
-  - direct obtaining conditions.
+  - direct obtaining conditions
 dependencies:
   builds_on:
     - E.8

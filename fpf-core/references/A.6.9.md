@@ -12,7 +12,7 @@ keywords:
   - "separate C.2.1 bounded-use claim"
   - A.10/B.3 reliance
   - actual receiving object
-  - explicit stop.
+  - explicit stop
 dependencies:
   builds_on:
     - A.6.P

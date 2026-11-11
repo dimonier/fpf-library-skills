@@ -8,7 +8,7 @@ keywords:
   - substitution
   - incompatibility
   - joint assignment requirement
-  - selected structure.
+  - selected structure
 dependencies:
   builds_on:
     - A.2

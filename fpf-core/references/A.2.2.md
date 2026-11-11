@@ -11,7 +11,7 @@ keywords:
   - currentness
   - capability fit
   - "Method-relative capability"
-  - usable Method structure.
+  - usable Method structure
 dependencies:
   builds_on:
     - A.1

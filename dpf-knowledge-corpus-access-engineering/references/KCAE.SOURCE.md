@@ -9,7 +9,6 @@ keywords:
   - section
   - edition
   - translation
-  - "“What does this searchable text leave out?”"
 dependencies:
   references:
     - KCAE.USE

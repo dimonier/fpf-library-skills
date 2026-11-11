@@ -6,7 +6,7 @@ keywords:
   - shared resource
   - renewal
   - access
-  - collective rules. Can separate uses and contributions preserve the resource
+  - collective rules
 dependencies:
   references:
     - ECO.8

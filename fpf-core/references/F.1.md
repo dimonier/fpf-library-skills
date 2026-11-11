@@ -9,7 +9,7 @@ keywords:
   - exact source and edition
   - "answer-changing role"
   - source cut
-  - "`SourceCutNote`."
+  - "`SourceCutNote`"
 dependencies:
   builds_on:
     - F.0.1

@@ -8,7 +8,7 @@ keywords:
   - variants
   - retry
   - cancellation
-  - support.
+  - support
 dependencies:
   references:
     - SYSE.12

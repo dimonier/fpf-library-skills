@@ -2,11 +2,7 @@
 id: B.5
 title: Choose the Next Reasoning Contribution (Canonical Reasoning Cycle)
 status: Stable
-keywords:
-  - Use when an engineer or researcher has a question
-  - surprising result or promising construction
-  - but the next useful contribution is unclear. State what you want to understand or make possible
-  - reuse an adequate result or choose the missing reasoning contribution
+keywords: []
 dependencies:
   coordinates_with:
     - B.5.1

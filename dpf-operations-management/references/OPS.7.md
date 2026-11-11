@@ -2,8 +2,7 @@
 id: OPS.7
 title: "Manage Aging, Urgency, and Service Commitments"
 status: Stable
-keywords:
-  - Does temporal or consequence evidence revise current priority or an existing bounded commitment
+keywords: []
 dependencies:
   references:
     - OPS.6

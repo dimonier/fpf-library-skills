@@ -9,7 +9,7 @@ keywords:
   - "selected-structure relation"
   - candidate repair
   - "repair-entry family"
-  - source overread.
+  - source overread
 dependencies:
   builds_on:
     - C.32

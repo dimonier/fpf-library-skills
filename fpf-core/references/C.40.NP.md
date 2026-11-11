@@ -2,10 +2,7 @@
 id: C.40.NP
 title: Continue from a Result to New Attainable Problems
 status: Stable
-keywords:
-  - Use when a qualified result changes what can be understood or obtained but the next worthwhile problem is unclear. Construct an attainable continuation
-  - retained possibility or justified stop
-  - including further carriers and development of the means
+keywords: []
 dependencies:
   references:
     - C.40.CD

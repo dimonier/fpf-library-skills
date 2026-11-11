@@ -2,15 +2,7 @@
 id: C.11.DUA
 title: Make Advice and Evidence Demands Worth Their Burden
 status: Stable
-keywords:
-  - Use when advice turns uncertainty or a requirement into costly
-  - infeasible or questionable work for its recipient. Recover the receiving question and demand
-  - distinguish present support
-  - feasible continuation and worthwhile inquiry
-  - appraise disputed requirements and their force
-  - "complete the useful answer with only the explanation its use needs. *Queries:* "Will more evidence change this decision?"
-  - "What can we reasonably do now?"
-  - "Is the requirement itself worth its burden?"
+keywords: []
 dependencies:
   coordinates_with:
     - C.18

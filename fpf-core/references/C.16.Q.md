@@ -2,11 +2,7 @@
 id: C.16.Q
 title: "Quality-Term Precision Restoration"
 status: Stable
-keywords:
-  - Repairs ambiguous quality wording by recovering the subject
-  - intended sense and conditions
-  - including criteria when the claim evaluates. Use the chosen endpoint’s form directly
-  - retain a transitional ascription only while consequential alternatives need inspection
+keywords: []
 dependencies:
   builds_on:
     - E.10

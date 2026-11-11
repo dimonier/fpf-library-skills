@@ -7,7 +7,7 @@ keywords:
   - state reconstruction
   - "sample-and-hold"
   - reset
-  - "tracking dynamics. “What does the lower loop actually receive?”"
+  - tracking dynamics
 dependencies:
   references:
     - MMP.18

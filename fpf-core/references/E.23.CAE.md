@@ -2,24 +2,7 @@
 id: E.23.CAE
 title: Capability Access and Expression Differential Probe
 status: Stable
-keywords:
-  - "Tests an apparent capability loss or failed transfer before redevelopment: envelope"
-  - configuration
-  - applicability selection
-  - access or activation
-  - "context-dependent expression"
-  - adaptation
-  - enactment
-  - actual change
-  - or unresolved. Returns observations
-  - qualified dispositions
-  - "surviving rivals and candidate continuations for a separate next-action decision. *Queries:* "It worked before—what changed?"
-  - Is this loss
-  - access
-  - expression
-  - adaptation
-  - "or enactment?"
-  - "Which safe contrast changes the next question?"
+keywords: []
 dependencies:
   builds_on:
     - A.2.2

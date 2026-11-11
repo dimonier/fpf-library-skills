@@ -2,11 +2,7 @@
 id: RMP.4
 title: "Preserve a Criticism-Ready Research Trace"
 status: Stable
-keywords:
-  - What can the actual research material support
-  - and where do reconstruction
-  - transformation
-  - loss or restricted access prevent a named examination
+keywords: []
 dependencies:
   references:
     - RMP.1

@@ -15,7 +15,7 @@ keywords:
   - dated Work
   - "`performedUnderAssignment`"
   - result boundary
-  - conditional agency profile.
+  - conditional agency profile
 dependencies:
   builds_on:
     - A.2

@@ -8,7 +8,7 @@ keywords:
   - domain extensions
   - dependency versus specialization
   - declarative modularity
-  - extensibility.
+  - extensibility
 ---
 
 # A.5: Open-Ended FPF Kernel and Extension Layering

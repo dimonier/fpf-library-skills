@@ -18,11 +18,12 @@ keywords:
   - RSCR wiring
   - parity pins
   - "notation-independent pack"
-  - no semantic respecification.
+  - no semantic respecification
 dependencies:
   builds_on:
     - G.Core
-    - "F.17-F.18"
+    - F.17
+    - F.18
     - E.5.2
     - E.18
     - A.10
@@ -37,7 +38,7 @@ dependencies:
 > **Problem frame:** Part G produces many **kit-governed** and **suite-governed** publications or records (harvest packs, CHR/CAL packs, evidence graphs, bridge calibration records, log bundles, parity reports).
 > **First move:** `G.10` defines a **pack-governed** shipping surface: a notation‑independent object that **cites** all upstream artefacts by stable ids/refs and exposes the minimum pins required to (a) consume the result via selection, (b) audit it via path …
 >
-> **Governing patterns:** `references/G.Core.md` `references/F.17-F.18.md` `references/E.5.2.md` `references/E.18.md` `references/A.10.md` `references/A.15.3.md` `references/G.5.md` `references/G.11.md`
+> **Governing patterns:** `references/G.Core.md` `references/F.17.md` `references/F.18.md` `references/E.5.2.md` `references/E.18.md` `references/A.10.md` `references/A.15.3.md` `references/G.5.md`
 
 ---
 

@@ -7,7 +7,7 @@ keywords:
   - practical worth
   - variants
   - provenance
-  - reuse.
+  - reuse
 dependencies:
   references:
     - C.11.MV

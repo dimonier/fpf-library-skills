@@ -2,12 +2,7 @@
 id: F.0.2.RC
 title: Test Constructive Coverage and Refresh Dependent Explanations
 status: Stable
-keywords:
-  - A source contribution was claimed to be incorporated
-  - or its basis changed. Test whether a user can recover the promised action
-  - condition
-  - join and return
-  - refresh only dependent explanations
+keywords: []
 dependencies:
   references:
     - F.0.1

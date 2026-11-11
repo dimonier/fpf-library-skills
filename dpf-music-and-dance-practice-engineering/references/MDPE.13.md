@@ -11,7 +11,7 @@ keywords:
   - recommendation
   - programme
   - access rule
-  - feedback.
+  - feedback
 dependencies:
   references:
     - MDPE.12

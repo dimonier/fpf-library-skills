@@ -2,9 +2,7 @@
 id: HCD.26
 title: Regulate Shared Learning
 status: Stable
-keywords:
-  - Which process change fits the group's actual difficulty
-  - and did participants use it
+keywords: []
 ---
 
 # HCD.26: Regulate Shared Learning

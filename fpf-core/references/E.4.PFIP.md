@@ -2,9 +2,7 @@
 id: E.4.PFIP
 title: "Principle-Framework Publication Integration and Preservation"
 status: Stable
-keywords:
-  - Compares accepted source contributions and predecessor publication content with one candidate publication
-  - "keeping one-to-one expression and split-or-merge allocation cases distinct"
+keywords: []
 dependencies:
   builds_on:
     - C.2.1

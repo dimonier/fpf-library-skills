@@ -2,18 +2,7 @@
 id: A.22
 title: "Structure and Structural Views (STRUCT-CAL)"
 status: Stable
-keywords:
-  - "Guides a practitioner to select one exact non-agentive organization among independently identified constituents and obtaining relations under applied constraints for a named use. Keeps that structure distinct from the selecting system or practitioner"
-  - descriptions
-  - views
-  - graphs
-  - decisions
-  - "and mathematical representations. *Queries:* "Which organization is selected for this named use?"
-  - Which exact constituents
-  - obtaining relations
-  - "and applied constraints identify it?"
-  - What remains outside the structure
-  - "and when must the use stop?"
+keywords: []
 dependencies:
   builds_on:
     - A.1

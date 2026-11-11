@@ -2,10 +2,7 @@
 id: D.5
 title: Bias Audit and Ethical Assurance
 status: Stable
-keywords:
-  - Start from the bias
-  - fairness or impact question and intended use. A qualified metric comparison or bounded finding can suffice. Choose audit depth and further inquiry from the claim that will rely on the result
-  - causal and assurance conclusions retain their own support requirements
+keywords: []
 dependencies:
   builds_on:
     - D.1

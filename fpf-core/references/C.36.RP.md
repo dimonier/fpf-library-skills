@@ -2,14 +2,7 @@
 id: C.36.RP
 title: Sustain and Renew Shared Ways of Working
 status: Stable
-keywords:
-  - Use when changing participants
-  - tools or questions makes a shared method hard to obtain or apply
-  - or a useful discovery needs to become available to others. Locate the missing contribution and arrange access
-  - acquisition or redistribution. Continue through receiving use when implementation is assigned
-  - "otherwise return the proposed arrangement and what remains to be carried out. *Queries:* "Who can apply or adapt this method when the device or question changes?"
-  - "Which understanding must remain with its receiver?"
-  - "How can a discovery become usable by other agents?"
+keywords: []
 dependencies:
   references:
     - C.36

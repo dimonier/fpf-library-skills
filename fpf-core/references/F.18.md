@@ -2,23 +2,7 @@
 id: F.18
 title: "Local-First Unification Naming Protocol"
 status: Stable
-keywords:
-  - "Names one exact already-governed value: a one-off claim stays in plain local wording"
-  - "while a durable `C.2.1` NameCard records the selected Tech and Plain designations"
-  - one exact local sense
-  - candidate coverage and rejections
-  - lineage
-  - "and reopen condition under an effective by-value reference scheme. For a named use between different `<ReferenceScheme"
-  - "LocalSenseClaim>` projections"
-  - F.9 supplies relation truth only
-  - "C.2.1 carries the naming-use claim"
-  - and A.10 and B.3 govern reliance
-  - F.17 may consume those objects without absorbing them into the NameCard. No Bridge
-  - claim
-  - reliance disposition
-  - row
-  - or card authorizes or performs the use
-  - and E.24.PUB separately governs actual availability
+keywords: []
 dependencies:
   builds_on:
     - F.0.1

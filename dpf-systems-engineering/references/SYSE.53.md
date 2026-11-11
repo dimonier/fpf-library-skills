@@ -10,7 +10,7 @@ keywords:
   - isolation
   - resolver
   - conflict
-  - unknown premise.
+  - unknown premise
 dependencies:
   references:
     - SYSE.13

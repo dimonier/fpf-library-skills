@@ -8,7 +8,7 @@ keywords:
   - configuration or adaptation work
   - setup cost
   - declared result and guarantee
-  - reuse horizon.
+  - reuse horizon
 dependencies:
   coordinates_with:
     - C.39

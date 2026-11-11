@@ -2,10 +2,7 @@
 id: C.39.MF
 title: Choose and Reopen a Method Development Focus
 status: Stable
-keywords:
-  - A Method proposal or difficulty has not yet been separated from a support
-  - capability
-  - "description or resource problem. Recover the actual subject and choose the Method-development question worth pursuing"
+keywords: []
 dependencies:
   references:
     - C.39

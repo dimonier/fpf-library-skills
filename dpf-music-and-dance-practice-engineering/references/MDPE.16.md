@@ -10,7 +10,7 @@ keywords:
   - branch
   - capability
   - access
-  - archive.
+  - archive
 dependencies:
   references:
     - MDPE.9

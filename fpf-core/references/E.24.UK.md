@@ -2,18 +2,7 @@
 id: E.24.UK
 title: "U-kind Admission and Ontic Settlement"
 status: Stable
-keywords:
-  - "Applies explicit root or dependent-kind admission tests and returns one accepted result: reuse an admitted durable kind"
-  - declare a bounded C.3 local kind
-  - admit a genuinely needed durable kind
-  - "or recover a non-kind object under its direct owner. For an already identified `U.Structure`"
-  - "it records current `BoundedModelUseStructure` membership and only the conditional A.22 crossing-analysis rule. Until an independent direct crossing governor supplies exact obtaining occurrences and all four A.22 discriminators"
-  - "there is no positive crossing member and no public crossing-specialization term"
-  - a context
-  - view
-  - publication
-  - representation
-  - or selected use creates neither the base structure nor specialization membership
+keywords: []
 dependencies:
   coordinates_with:
     - A.22

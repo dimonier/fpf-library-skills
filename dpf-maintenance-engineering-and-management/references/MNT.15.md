@@ -7,16 +7,14 @@ keywords:
   - shared specialist
   - overload
   - fallback
-  - "coordination. Query: "Why do individually feasible jobs fail together?" Resolve shared demands and moved burden at the whole-combination scope."
+  - coordination
 dependencies:
   references:
     - MNT.5
     - MNT.6
     - MNT.7
     - C.32.MWA
-    - Spec.md
     - C.32.MWA.PP
-    - Spec.md
 ---
 
 # MNT.15: Reconcile Simultaneous Maintenance, Operation, and Support Work
@@ -24,7 +22,7 @@ dependencies:
 > **Problem frame:** Use this pattern when individually plausible maintenance, operating and support plans cannot be performed together. Two jobs fit their own windows but need the same qualified specialist; an operating fallback depends on equipment that anoth …
 > **First move:** Name the combined commitment and the conflict that changes it. Use the actual or proposed work and operating horizon. A prospective schedule is not evidence that the work occurred.
 >
-> **Governing patterns:** `references/MNT.5.md` `references/MNT.6.md` `references/MNT.7.md` `references/C.32.MWA.md` `references/Spec.md.md` `references/C.32.MWA.PP.md`
+> **Governing patterns:** `references/MNT.5.md` `references/MNT.6.md` `references/MNT.7.md` `references/C.32.MWA.md` `references/C.32.MWA.PP.md`
 
 ---
 

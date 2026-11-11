@@ -7,7 +7,7 @@ keywords:
   - rebound
   - efficiency
   - demand
-  - counterfactual. Does a unit saving change total resource use
+  - counterfactual
 dependencies:
   references:
     - ECO.2

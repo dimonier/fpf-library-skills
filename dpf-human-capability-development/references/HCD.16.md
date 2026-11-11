@@ -2,13 +2,7 @@
 id: HCD.16
 title: "Keep Human Capability-Development Method Claims Current"
 status: Stable
-keywords:
-  - Which exact HCD Method claim should be retained
-  - adopted
-  - revised
-  - branched
-  - retired
-  - or probed for this repertoire use
+keywords: []
 dependencies:
   references:
     - A.3.1.MV

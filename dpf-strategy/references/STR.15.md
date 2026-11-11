@@ -8,7 +8,7 @@ keywords:
   - enactment
   - recognition
   - selection
-  - memory.
+  - memory
 dependencies:
   references:
     - C.36

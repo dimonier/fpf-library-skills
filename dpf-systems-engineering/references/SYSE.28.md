@@ -8,7 +8,7 @@ keywords:
   - subject identity
   - reuse
   - unavailable checker
-  - authorized exception.
+  - authorized exception
 dependencies:
   references:
     - SYSE.4

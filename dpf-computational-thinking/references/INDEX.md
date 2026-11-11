@@ -3,7 +3,7 @@
 | § | ID & Title | Status | Keywords & Search Queries | Dependencies |
 | :--- | :--- | :--- | :--- | :--- |
 | CMP.Reference | **CMP.Reference:1 - Problem frame and the algorithmic difficulty** | — | — | — |
-| CMP.1 | **Solve One Problem through Another or Transfer a Limit (Computational Reduction)** | Stable | reduction, solver reuse, input conversion, answer recovery, computability, complexity. Can this problem be solved through another one, and in which direction does a limit transfer | C.29.2 for the required answer and computational model; MATH.17/.18 for composition and interpretation. |
+| CMP.1 | **Solve One Problem through Another or Transfer a Limit (Computational Reduction)** | Stable | reduction, solver reuse, input conversion, answer recovery, computability, complexity | C.29.2 for the required answer and computational model; MATH.17/.18 for composition and interpretation. |
 | CMP.2 | **Derive a Recursive Procedure from a Problem Decomposition** | Stable | recursion, decomposition, induction, sufficient return, termination | MATH.4/.12 for inductive or extracted constructions; C.29.2 for the computational formulation. |
 | CMP.3 | **Share and Schedule Repeated Subcomputations** | Stable | memoization, dynamic programming, sharing, dependency order, effects, storage, recomputation | CMP.2 for the recurrence; CMP.10 for representation and operation costs. |
 | CMP.4 | **Construct Computational Search with Justified Exclusions** | Stable | search, branch and bound, pruning, witness, completeness, interruption | MATH.20 for bounds; CMP.5 for relaxation; MMP.10 for a subject constraint formulation when needed. |

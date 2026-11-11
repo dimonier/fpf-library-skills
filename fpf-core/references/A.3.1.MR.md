@@ -2,10 +2,7 @@
 id: A.3.1.MR
 title: "Candidate-Method Recovery from Work Evidence"
 status: Stable
-keywords:
-  - "Use when observations or evidence about several performances may show a reusable way but Method identity remains a candidate. Returns one source-traceable account per candidate"
-  - "real rivals and relevant gaps—or an honest record-only result. A useful distinguishing question is retained when it can change recovery or receiving use"
-  - "completion requires no irrelevant follow-up study"
+keywords: []
 dependencies:
   builds_on:
     - C.2.1

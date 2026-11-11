@@ -8,7 +8,7 @@ keywords:
   - RSCR trigger kinds
   - Default Governing Definition Index
   - ID continuity
-  - core linkage.
+  - core linkage
 dependencies:
   builds_on:
     - E.8
@@ -19,7 +19,6 @@ dependencies:
     - A.19
     - G.0
     - A.19.CHR
-    - G.0
     - G.13
 ---
 

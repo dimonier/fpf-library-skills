@@ -10,7 +10,7 @@ keywords:
   - observer
   - supervisor
   - feedback closure
-  - rate band.
+  - rate band
 dependencies:
   builds_on:
     - C.30

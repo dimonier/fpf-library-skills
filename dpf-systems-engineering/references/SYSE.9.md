@@ -9,7 +9,7 @@ keywords:
   - safety
   - calculation
   - authority
-  - evidence limits.
+  - evidence limits
 dependencies:
   references:
     - SYSE.2

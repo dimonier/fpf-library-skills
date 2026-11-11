@@ -2,22 +2,7 @@
 id: A.6.S
 title: "TargetSignature and optional ConstructorSignature - demand-driven signature engineering"
 status: Stable
-keywords:
-  - Starts with the actual signature assertion
-  - revision
-  - relation
-  - operation application
-  - or Work. Add a separate ConstructorSignature only when a named receiving use needs reusable constructor vocabulary
-  - laws
-  - and applicability
-  - "no pair object or `U.SignatureEngineeringPair` is admitted. *Queries:* "What signature actually changes?"
-  - "Does a receiver need a reusable ConstructorSignature?"
-  - How are the arrow
-  - application
-  - Work
-  - edition
-  - carrier
-  - "and publication kept distinct?"
+keywords: []
 dependencies:
   builds_on:
     - A.3.1
@@ -28,7 +13,11 @@ dependencies:
     - A.7
     - A.6
     - A.6.0
-    - "A.6.2-A.6.6"
+    - A.6.2
+    - A.6.3
+    - A.6.4
+    - A.6.5
+    - A.6.6
     - C.2.1
     - A.2
     - A.2.1

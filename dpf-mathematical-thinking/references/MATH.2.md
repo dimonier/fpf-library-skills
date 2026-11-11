@@ -7,7 +7,7 @@ keywords:
   - congruence
   - equivalence
   - partial operation
-  - refinement. Can these objects be treated as the same without losing a later operation or result
+  - refinement
 dependencies:
   references:
     - MATH.1

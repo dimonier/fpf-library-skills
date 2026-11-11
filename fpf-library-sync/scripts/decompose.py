@@ -22,7 +22,11 @@ END_RE = re.compile(r"^(#{1,6})\s+(.+):End\s*$", re.MULTILINE)
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+)$")
 
 
-def parse_spec(spec_path: Path) -> tuple[DecomposeReport, list[ExtractedUnit], list[ExtractedUnit], str]:
+def parse_spec(
+    spec_path: Path,
+    *,
+    plain_keywords: bool = True,
+) -> tuple[DecomposeReport, list[ExtractedUnit], list[ExtractedUnit], str]:
     """Decompose one FPF Library monolith (FPF-Spec.md or a DPF framework file) into reference units.
 
     Returns (report, units, context_units, spec_filename).
@@ -31,7 +35,11 @@ def parse_spec(spec_path: Path) -> tuple[DecomposeReport, list[ExtractedUnit], l
     rows carry a §-ordinal in the first cell and the PatternID inside a markdown link
     in the second cell (e.g. `| 1 | [SYSE.1 - Title](#…) | Stable | … |`), whereas
     FPF-Spec puts the PID in the first cell. The `:End` boundary + heading-extraction
-    logic is shared, only the ToC row parser is generalized."""
+    logic is shared, only the ToC row parser is generalized.
+
+    `plain_keywords=False` disables the unlabeled keyword-list fallback. FPF-Spec
+    ToC rows without a `Keywords:` label carry a prose trigger description, not a
+    keyword list; DPF rows may carry a bare `a, b, c. Which …?` list."""
     text = spec_path.read_text(encoding="utf-8", errors="replace")
     lines = text.splitlines(keepends=True)
     spec_filename = spec_path.name
@@ -58,7 +66,7 @@ def parse_spec(spec_path: Path) -> tuple[DecomposeReport, list[ExtractedUnit], l
         and not any(pid.startswith(p + ".") for p in end_marker_ids)
     } | end_marker_ids
 
-    toc_data = _parse_toc(text, report)
+    toc_data = _parse_toc(text, report, plain_keywords=plain_keywords)
 
     units: list[ExtractedUnit] = []
     consumed: list[tuple[int, int]] = []
@@ -150,7 +158,12 @@ def parse_spec(spec_path: Path) -> tuple[DecomposeReport, list[ExtractedUnit], l
     return report, units, context_units, spec_filename
 
 
-def _parse_toc(text: str, report: DecomposeReport) -> dict[str, dict]:
+def _parse_toc(
+    text: str,
+    report: DecomposeReport,
+    *,
+    plain_keywords: bool = True,
+) -> dict[str, dict]:
     """Parse the DPF pattern index.
 
     The DPF monolith opens with `# Table of Contents` (reader-navigation table, 2-col
@@ -180,7 +193,7 @@ def _parse_toc(text: str, report: DecomposeReport) -> dict[str, dict]:
         cells = _split_toc_row(line_stripped)
         if len(cells) < 5:
             continue
-        parsed = _parse_toc_row(cells)
+        parsed = _parse_toc_row(cells, plain_keywords=plain_keywords)
         if parsed is None:
             continue
         pid, title, status, keywords, dependencies = parsed
@@ -198,7 +211,11 @@ def _parse_toc(text: str, report: DecomposeReport) -> dict[str, dict]:
     return result
 
 
-def _parse_toc_row(cells: list[str]) -> tuple[str, str, str, list[str], dict] | None:
+def _parse_toc_row(
+    cells: list[str],
+    *,
+    plain_keywords: bool = True,
+) -> tuple[str, str, str, list[str], dict] | None:
     """Parse one ToC/index row into (pid, title, status, keywords, dependencies).
 
     Returns None for non-pattern rows (header/separator, cluster, reader-navigation 2-col).
@@ -225,7 +242,7 @@ def _parse_toc_row(cells: list[str]) -> tuple[str, str, str, list[str], dict] | 
         pid = m.group(1)
         inner = _link_text(col1)
         title = _strip_pid_prefix(inner, pid)
-        return pid, title, status, _parse_keywords(kw), _parse_dependencies(dep)
+        return pid, title, status, _parse_keywords(kw, allow_plain=plain_keywords), _parse_dependencies(dep)
 
     # FPF scheme: PID in the first cell. Skip cluster/header/non-PID rows (e.g. a
     # "Core" cross-reference row whose first cell carries no PatternID at all).
@@ -238,7 +255,7 @@ def _parse_toc_row(cells: list[str]) -> tuple[str, str, str, list[str], dict] | 
     if not pid:
         return None
     title = re.sub(r"\*\*(.+?)\*\*", r"\1", col1)
-    return pid, title, status, _parse_keywords(kw), _parse_dependencies(dep)
+    return pid, title, status, _parse_keywords(kw, allow_plain=plain_keywords), _parse_dependencies(dep)
 
 
 def _link_text(cell: str) -> str:
@@ -254,27 +271,59 @@ def _strip_pid_prefix(text: str, pid: str) -> str:
     return t
 
 
-def _parse_keywords(cell: str) -> list[str]:
+_KW_LABEL_RE = re.compile(r"(?<![\w-])\*{0,2}Keywords:\**", re.IGNORECASE)
+_KW_END_RE = re.compile(
+    r"(?<![\w-])\*{0,2}(?:Quer(?:y|ies)|Questions?):?\**", re.IGNORECASE
+)
+
+
+def _clean_keyword(word: str) -> str:
+    word = word.replace("\ufffd", " ")
+    return " ".join(word.strip(' "\'“”‘’.,;:').split())
+
+
+def _parse_keywords(cell: str, *, allow_plain: bool = True) -> list[str]:
     """Extract keywords from a DPF Keywords & Search Queries cell.
 
     Labeled form (`*Keywords:* a, b. *Queries:* "…"`) — shared with FPF; plain form
-    (bare `a, b, c. Which …?`) — PSDA-style, no labels."""
+    (bare `a, b, c. Which …?`) — PSDA-style, no labels.
+
+    The label after the keyword list varies (`*Query:*`, `*Queries:*`,
+    `*Question:*`, `*Questions:*`); all of them end the list, otherwise the query
+    text is swallowed into the last keyword. In the plain form, question sentences
+    are dropped before splitting, so a query-only cell yields no keywords and a
+    keyword list followed by quoted questions keeps its keywords."""
+    cell = (
+        cell.replace("\ufffd", " ")
+        .replace("“", '"')
+        .replace("”", '"')
+        .replace("‘", "'")
+        .replace("’", "'")
+    )
     keywords: list[str] = []
-    if "*Keywords:" in cell:
-        for part in cell.split("*Keywords:")[1:]:
-            kw_text = part.split("*Queries:")[0]
-            kw_text = kw_text.replace("**", "").replace("*", "")
-            for word in re.split(r"[;,]", kw_text):
-                word = word.strip().strip('"').strip("'")
-                if word and len(word) > 1:
-                    keywords.append(word)
-    else:
-        # Plain form (PSDA-style): keep everything before the trailing query sentence
-        # ("Which/What/... ?"), then split on commas/semicolons.
-        parts = re.split(r"(?<=[.?!])\s+(?=(?:Which|What|How|When|Where|Who)\b)", cell)
-        text = parts[0].rstrip(".?! ")
-        for word in re.split(r"[;,]", text):
-            word = word.strip().strip('"').strip("'").rstrip(".")
+    label = _KW_LABEL_RE.search(cell)
+    if label:
+        tail = cell[label.end():]
+        end = _KW_END_RE.search(tail)
+        kw_text = tail[: end.start()] if end else tail
+        kw_text = kw_text.replace("**", "").replace("*", "")
+        # A few FPF cells append a prose sentence after the keyword list without a
+        # query label; only the first sentence is keywords.
+        kw_text = re.split(r"(?<=[a-z])\.\s+", kw_text, maxsplit=1)[0]
+        for word in re.split(r"[;,]", kw_text):
+            word = _clean_keyword(word)
+            if word and len(word) > 1:
+                keywords.append(word)
+    elif allow_plain:
+        # Plain form (PSDA-style): split into clauses/sentences, drop questions,
+        # then split the remaining prose on commas/semicolons.
+        kept: list[str] = []
+        for clause in re.split(r";", cell):
+            for sentence in re.split(r"(?<=[.?!])\s+", clause):
+                if "?" not in sentence:
+                    kept.append(sentence)
+        for word in re.split(r"[;,]", "; ".join(kept)):
+            word = _clean_keyword(word)
             if word and len(word) > 1:
                 keywords.append(word)
     return keywords
@@ -310,9 +359,48 @@ def _parse_dependencies(cell: str) -> dict[str, list[str]]:
     return result
 
 
+_MD_LINK_RE = re.compile(r"\[([^\]]*)\]\([^)]*\)")
+_FILE_SUFFIX_RE = re.compile(
+    r"\.(?:md|markdown|txt|html?|pdf|json|ya?ml|py|toml)$", re.IGNORECASE
+)
+_RANGE_PART_RE = re.compile(r"^(.+)\.(\d+)$")
+
+
+def _expand_id_range(pid: str) -> list[str]:
+    """Expand a same-prefix numeric range (`OCE.1-OCE.3` → OCE.1, OCE.2, OCE.3).
+
+    `PATTERN_ID_RE` treats the whole range as one hyphenated token, which would
+    otherwise become the non-existent hint `references/OCE.1-OCE.3.md`."""
+    left, sep, right = pid.partition("-")
+    if not sep:
+        return [pid]
+    lpart = _RANGE_PART_RE.match(left)
+    rpart = _RANGE_PART_RE.match(right)
+    if not lpart or not rpart or lpart.group(1) != rpart.group(1):
+        return [pid]
+    start, end = int(lpart.group(2)), int(rpart.group(2))
+    if end < start or end - start > 50:
+        return [pid]
+    return [f"{lpart.group(1)}.{n}" for n in range(start, end + 1)]
+
+
 def _extract_dep_ids(text: str) -> list[str]:
-    """Extract PatternIDs (incl. hyphenated compound and FPF A.x codes) from raw text."""
-    return [m for m in PATTERN_ID_RE.findall(text)]
+    """Extract PatternIDs (incl. hyphenated compound and FPF A.x codes) from raw text.
+
+    Markdown link targets are dropped before scanning, keeping only the label: a URL
+    segment (`FPF-Spec.md`) or a sibling filename (`…-FRAMEWORK.md`) would otherwise
+    read as a PatternID, and `_governing_paths` would append a second `.md`
+    (`references/Spec.md.md`). File-like tokens are rejected as a safety net for bare
+    filenames outside links, and duplicates are collapsed order-preservingly."""
+    text = _MD_LINK_RE.sub(lambda m: m.group(1), text)
+    ids: list[str] = []
+    for match in PATTERN_ID_RE.findall(text):
+        if _FILE_SUFFIX_RE.search(match):
+            continue
+        for pid in _expand_id_range(match):
+            if pid not in ids:
+                ids.append(pid)
+    return ids
 
 
 def _collect_end_markers(lines: list[str]) -> list[tuple[str, int]]:

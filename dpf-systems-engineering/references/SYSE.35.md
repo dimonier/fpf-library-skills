@@ -10,7 +10,7 @@ keywords:
   - attribution
   - delayed outcomes
   - feature activation
-  - recovery.
+  - recovery
 dependencies:
   references:
     - SYSE.34

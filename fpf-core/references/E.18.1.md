@@ -2,12 +2,7 @@
 id: E.18.1
 title: "P2W Problem-to-Work Carry-Through"
 status: Stable
-keywords:
-  - "Carries one accepted `ProblemCard@Context` claim into one named receiving use by stating the current relation-specific question and participants"
-  - applying the pattern whose Solution answers it
-  - and accepting only its returned value or honest stop
-  - "splits independent claims and returns locally after a relied-on value changes. Reliance notes and explicit E.18.3 structure are conditional"
-  - "not a P2W relation species or project-work order"
+keywords: []
 dependencies:
   builds_on:
     - E.18

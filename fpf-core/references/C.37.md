@@ -11,7 +11,7 @@ keywords:
   - record
   - exposure
   - loss
-  - receiving action.
+  - receiving action
 dependencies:
   builds_on:
     - C.2.1

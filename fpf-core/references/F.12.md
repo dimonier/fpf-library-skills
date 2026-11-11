@@ -12,7 +12,7 @@ keywords:
   - declared result scale
   - EvidenceStatus
   - RequirementStatus
-  - indicator recovery.
+  - indicator recovery
 dependencies:
   builds_on:
     - A.2.3

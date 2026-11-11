@@ -2,10 +2,7 @@
 id: OPS.4
 title: Keep Current Operating State Recoverable Across Participants
 status: Stable
-keywords:
-  - Which qualified current claims let named participants decide
-  - resume
-  - and coordinate
+keywords: []
 dependencies:
   references:
     - OPS.2

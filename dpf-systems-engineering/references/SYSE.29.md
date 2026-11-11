@@ -8,7 +8,7 @@ keywords:
   - retained state
   - infrequent consumers
   - coexistence
-  - recovery.
+  - recovery
 dependencies:
   references:
     - SYSE.13

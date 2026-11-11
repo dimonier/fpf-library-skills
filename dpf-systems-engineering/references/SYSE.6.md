@@ -15,7 +15,7 @@ keywords:
   - layers
   - pipeline
   - plugins
-  - microservices.
+  - microservices
 dependencies:
   references:
     - SYSE.2

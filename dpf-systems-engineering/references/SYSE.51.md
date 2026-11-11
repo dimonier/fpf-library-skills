@@ -9,7 +9,7 @@ keywords:
   - samples
   - branches
   - completion reserve
-  - early stop.
+  - early stop
 dependencies:
   references:
     - C.11

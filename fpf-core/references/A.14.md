@@ -15,7 +15,7 @@ keywords:
   - ConstituentOf
   - PortionOf
   - AspectOf
-  - PhaseOf.
+  - PhaseOf
 dependencies:
   coordinates_with:
     - C.3

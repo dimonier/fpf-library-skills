@@ -2,12 +2,7 @@
 id: B.5.TU
 title: Construct a Working Use of an Unfamiliar Theory
 status: Stable
-keywords:
-  - Use when a theory seems useful but its objects and reasoning have not yet been connected to a usable answer. Recover the needed operations
-  - "work one application and interpret its consequence for the question. *Queries:* "What can this theory help me do?"
-  - "Which input or operation is missing?"
-  - "Why does a correct calculation fail to answer the working question?"
-  - "What must I understand to use or change this result?"
+keywords: []
 dependencies:
   coordinates_with:
     - B.5

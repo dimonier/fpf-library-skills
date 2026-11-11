@@ -9,8 +9,7 @@ keywords:
   - internal enterprise
   - extended enterprise
   - shared service
-  - "product use. Question: Which organization are we creating or changing"
-  - "and which contributions and obligations should guide its design?"
+  - product use
 dependencies:
   references:
     - A.1.SCR

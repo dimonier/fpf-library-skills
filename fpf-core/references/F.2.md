@@ -8,7 +8,7 @@ keywords:
   - LocalExpression
   - LocalSenseClaim
   - LNF
-  - optional SchemeSenseCell.
+  - optional SchemeSenseCell
 dependencies:
   builds_on:
     - F.1

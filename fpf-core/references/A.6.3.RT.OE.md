@@ -2,17 +2,7 @@
 id: A.6.3.RT.OE
 title: Construct an Operative Expression
 status: Stable
-keywords:
-  - Use when content must be arranged so a calculation
-  - inference
-  - construction or coordination can be performed
-  - "or an exploratory comparison can reveal a still-unknown distinction. Keep shared parts"
-  - grouping
-  - scope and references usable
-  - "try the subject operation and repair the expression. *Queries:* "What distinction does comparing these records reveal?"
-  - "How can the same part connect two relations?"
-  - "Which grouping preserves the intended prerequisite?"
-  - "How do I coordinate a phrase with its temporal reference?"
+keywords: []
 dependencies:
   coordinates_with:
     - A.6.3.RT

@@ -8,7 +8,7 @@ keywords:
   - "`SystemRoleKindDescription` label"
   - Plain and Tech designations
   - local meaning
-  - naming after ontology recovery.
+  - naming after ontology recovery
 dependencies:
   builds_on:
     - A.2

@@ -9,7 +9,7 @@ keywords:
   - branch
   - loss
   - publication form
-  - next use.
+  - next use
 dependencies:
   builds_on:
     - C.2.1

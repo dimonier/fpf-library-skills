@@ -2,9 +2,7 @@
 id: HCD.17
 title: "Deliberately Continue and Change Human Capability-Development Culture"
 status: Stable
-keywords:
-  - Which observable HCD cultural relation should this bounded population continue or change
-  - and what evidence supports that decision
+keywords: []
 dependencies:
   references:
     - HCD.14

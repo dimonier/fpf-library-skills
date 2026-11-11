@@ -2,13 +2,7 @@
 id: C.39
 title: Find and Develop a Way to Obtain a Result
 status: Stable
-keywords:
-  - Use when a needed result lacks an explained obtaining way
-  - connection to another use
-  - or adaptation after change. Reuse an adequate Method and stop. Otherwise construct the missing join
-  - distinguish composition and result use
-  - explain the way for its next practitioner
-  - "and change only affected connections while retaining qualified uses. No framework-author role or pattern format is required"
+keywords: []
 dependencies:
   coordinates_with:
     - C.38

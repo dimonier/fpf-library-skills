@@ -9,7 +9,7 @@ keywords:
   - phrase
   - variation
   - composition
-  - transition.
+  - transition
 dependencies:
   references:
     - MDPE.9

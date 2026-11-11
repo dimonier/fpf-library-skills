@@ -2,12 +2,7 @@
 id: E.17.AUD.LHR
 title: PublicationUnit Stability Discipline and Local Head Restoration
 status: Stable
-keywords:
-  - Repair one overloaded local lexical head inside one publication unit before the whole publication unit inherits ambiguity
-  - recover its kind and local reading
-  - any active primary entity or relation
-  - the carried action or question
-  - "and the outside-work boundary"
+keywords: []
 dependencies:
   references:
     - A.6.P

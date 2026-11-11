@@ -8,7 +8,7 @@ keywords:
   - wording recovery
   - physical opportunity
   - detection
-  - inquiry question.
+  - inquiry
 dependencies:
   builds_on:
     - A.6.P

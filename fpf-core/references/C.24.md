@@ -3,11 +3,7 @@ id: C.24
 title: "Plan Tool or Service Calls for a Fixed Action (C.Agent-Tools-CAL)"
 status: Stable
 keywords:
-  - Use after an action or option is fixed to order admitted Methods
-  - budget tool or service calls
-  - and state stop or replan conditions. Return a CallPlan or a bounded CheckpointReturn
-  - reopen the domain prescription
-  - "A.15.7 or C.11 when that action basis changes. Keywords: agentic tool-use"
+  - "agentic tool-use"
   - call planning
   - service calls
   - route probe

@@ -2,11 +2,7 @@
 id: B.5.SD
 title: Construct a Useful Answer through Substantive Discussion
 status: Stable
-keywords:
-  - Construct a warranted answer with capable contributors
-  - integrate their subject contributions
-  - route objections to the work they require
-  - and return the answer through its intended and changed use
+keywords: []
 dependencies:
   references:
     - A.3.1

@@ -7,15 +7,12 @@ keywords:
   - performance
   - diagnosis
   - exposure
-  - "forecast. Query: "What do observed condition and delivered performance support?" Return a qualified account for the asset decision."
+  - forecast
 dependencies:
   references:
     - MNT.4
-    - FRAMEWORK.md
     - MNT.6
-    - FRAMEWORK.md
     - OPS.18
-    - FRAMEWORK.md
     - EAM.3
 ---
 
@@ -24,7 +21,7 @@ dependencies:
 > **Problem frame:** Use this pattern when condition observations or service performance can change an asset decision. A warning appears on a dashboard while the asset continues delivering service, or apparently good availability conceals deterioration.
 > **First move:** Identify the asset, installed configuration, required functioning and decision horizon. Recover the condition account from [MNT.4](../Engineering%20DPF%20Suite/MAINTENANCE-ENGINEERING-PRINCIPLES-FRAMEWORK.md#mnt4---monitor-and-interpret-sys …
 >
-> **Governing patterns:** `references/MNT.4.md` `references/FRAMEWORK.md.md` `references/MNT.6.md` `references/OPS.18.md` `references/EAM.3.md`
+> **Governing patterns:** `references/MNT.4.md` `references/MNT.6.md` `references/OPS.18.md` `references/EAM.3.md`
 
 ---
 

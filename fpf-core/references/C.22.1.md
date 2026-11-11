@@ -2,14 +2,7 @@
 id: C.22.1
 title: "Task-family adaptation signature"
 status: Stable
-keywords:
-  - "Use when a task-family adaptation claim must expose the threshold target"
-  - time and budget to threshold
-  - prior exposure
-  - and any claimed transfer
-  - retention
-  - downside or corridor entry. State explicitly when the threshold was not reached
-  - a threshold crossing alone does not establish durable specialization
+keywords: []
 dependencies:
   builds_on:
     - C.22

@@ -2,9 +2,7 @@
 id: C.39.MC
 title: Continue Method Development from Changed Conditions
 status: Stable
-keywords:
-  - "A new fact changes a connected Method-development question. Obtain the next needed result"
-  - preserve unaffected qualifications and reopen the affected questions and dependent uses without making a reading route into Work order
+keywords: []
 dependencies:
   references:
     - C.39

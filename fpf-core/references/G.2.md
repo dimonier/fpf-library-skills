@@ -15,7 +15,7 @@ keywords:
   - BridgeMatrix
   - GammaEpistSynthId
   - FlowRecord
-  - "palette-first."
+  - "palette-first"
 dependencies:
   builds_on:
     - G.Core
@@ -33,7 +33,9 @@ dependencies:
     - G.13
   used_by:
     - G.1
-    - "G.3-G.5"
+    - G.3
+    - G.4
+    - G.5
     - G.10
     - G.11
 ---

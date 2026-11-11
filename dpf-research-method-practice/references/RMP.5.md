@@ -2,9 +2,7 @@
 id: RMP.5
 title: Analyze and Criticize the Research Claim under Its Method
 status: Stable
-keywords:
-  - What bounded claim does the actual material support under its Method
-  - and which criticism changes that answer
+keywords: []
 dependencies:
   references:
     - RMP.3

@@ -9,7 +9,7 @@ keywords:
   - cue
   - attention
   - transition
-  - fusion.
+  - fusion
 dependencies:
   references:
     - MDPE.3

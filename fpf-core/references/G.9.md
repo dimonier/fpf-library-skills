@@ -8,7 +8,7 @@ keywords:
   - adaptation parity
   - freshness windows
   - comparator pins
-  - "selected-set outcomes."
+  - "selected-set outcomes"
 dependencies:
   builds_on:
     - G.Core

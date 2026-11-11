@@ -2,13 +2,7 @@
 id: A.3.3.CC
 title: Construct a Configuration Description under Constraints
 status: Stable
-keywords:
-  - Use when separately valid values can form an incompatible arrangement. Select the participant differences
-  - "express constraints and choose a representation that supports the required configuration result. *Queries:* "Which combinations are possible under these conditions?"
-  - "Should I keep constraint equations or eliminate coordinates?"
-  - What changes when length
-  - "stock or job order matters?"
-  - "Does a motion restriction exclude a position?"
+keywords: []
 dependencies:
   coordinates_with:
     - A.3.3

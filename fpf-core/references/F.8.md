@@ -11,7 +11,7 @@ keywords:
   - alias
   - row use
   - durable naming
-  - admission before naming.
+  - admission before naming
 dependencies:
   builds_on:
     - F.14

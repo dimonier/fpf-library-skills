@@ -7,7 +7,7 @@ keywords:
   - strategic subject
   - horizon
   - authority
-  - scope.
+  - scope
 dependencies:
   references:
     - A.1.SCR

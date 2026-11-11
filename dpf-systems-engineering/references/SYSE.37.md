@@ -9,7 +9,7 @@ keywords:
   - multiple windows
   - sparse traffic
   - missing data
-  - response capacity.
+  - response capacity
 dependencies:
   references:
     - SYSE.36

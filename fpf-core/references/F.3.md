@@ -8,7 +8,7 @@ keywords:
   - effective ReferenceScheme
   - alias consolidation
   - counterexample
-  - optional SchemeSenseCell.
+  - optional SchemeSenseCell
 dependencies:
   builds_on:
     - F.2

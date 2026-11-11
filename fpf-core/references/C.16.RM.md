@@ -2,14 +2,7 @@
 id: C.16.RM
 title: Repair a Measurement Model or Arrangement
 status: Stable
-keywords:
-  - Use when an existing measurement disagrees with an expectation or cannot settle the needed distinction. Compare changes to models
-  - apparatus and calculation
-  - retain the wanted quantity
-  - "reinterpret usable observations and test the repaired contribution. *Queries:* "Should I change the model or the setup?"
-  - "Can I remove an influence instead of estimating it?"
-  - "Can the earlier readings still be used?"
-  - "Does a computation test support this physical claim?"
+keywords: []
 dependencies:
   coordinates_with:
     - C.16

@@ -2,12 +2,7 @@
 id: C.29.BB
 title: Construct a Balance across a Boundary
 status: Stable
-keywords:
-  - Use when a changing total must be related to transfers
-  - production and removal. Choose an additive quantity and included parts
-  - "combine compatible accounts and revise them when the boundary changes. *Queries:* "Which transfers cross this boundary?"
-  - "What changes when the connector is included?"
-  - "Can a bound settle the question without measuring every term?"
+keywords: []
 dependencies:
   coordinates_with:
     - A.3.3.TR

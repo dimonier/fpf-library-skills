@@ -2,10 +2,7 @@
 id: OPS.18
 title: Control Operating Quality and Reliability
 status: Stable
-keywords:
-  - What continuation
-  - acceptance
-  - containment or recovery action does the evidence support
+keywords: []
 dependencies:
   references:
     - OPS.12

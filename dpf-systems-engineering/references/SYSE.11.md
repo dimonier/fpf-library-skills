@@ -9,7 +9,7 @@ keywords:
   - installed interface
   - configuration
   - operating evidence
-  - fallback.
+  - fallback
 dependencies:
   references:
     - SYSE.3

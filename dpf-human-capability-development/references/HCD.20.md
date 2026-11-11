@@ -2,8 +2,7 @@
 id: HCD.20
 title: Compose and Compare Arrangements for Individual and Group Learning
 status: Stable
-keywords:
-  - Which individual or group arrangement preserves the intended learning actions within actual support and complete resource constraints
+keywords: []
 dependencies:
   references:
     - HCD.6

@@ -11,7 +11,7 @@ keywords:
   - deadlines
   - retry budget
   - serialization
-  - recovery capacity.
+  - recovery capacity
 dependencies:
   references:
     - SYSE.26

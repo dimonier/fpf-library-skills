@@ -2,11 +2,7 @@
 id: B.5.FM
 title: Construct a First Model for the Working Question
 status: Stable
-keywords:
-  - Use when relevant facts or rules are available but no model yet supports the needed inference. Choose what the model must distinguish and how its parts are related
-  - "then derive a consequence for the task. *Queries:* "Which participants or interactions must the model include?"
-  - "How can I build a model before commissioning a calculation?"
-  - "What grouping makes the next operation possible?"
+keywords: []
 dependencies:
   coordinates_with:
     - B.5

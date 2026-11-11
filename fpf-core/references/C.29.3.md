@@ -2,14 +2,7 @@
 id: C.29.3
 title: Computational Realization
 status: Stable
-keywords:
-  - Use when a computation and a candidate executing system are available but their connection is unsettled. Relate preparation
-  - system operation and readout
-  - compare the interpreted result with the required equality
-  - "bound or behavior. *Queries:* "What does this command make the system do?"
-  - Do range
-  - "timing or shared state invalidate the result?"
-  - "Do correct individual outputs compose into the required joint result?"
+keywords: []
 dependencies:
   coordinates_with:
     - C.29.2

@@ -10,7 +10,7 @@ keywords:
   - sensor
   - comparison
   - cultural result
-  - evidence limits.
+  - evidence limits
 dependencies:
   references:
     - MDPE.5

@@ -2,20 +2,7 @@
 id: A.2.6
 title: "Unified Scope Mechanism (USM): Test Scope Membership and Combine Scopes"
 status: Stable
-keywords:
-  - "Tests one exact `U.ContextSlice` against one exact set-valued `U.Scope` and gives the receiving action one evaluation result: `true`"
-  - "`false`"
-  - "or `unknown`. Keeps claim"
-  - work
-  - and publication scopes distinct from evaluation work
-  - result epistemes
-  - representations
-  - "model-applicability occurrences"
-  - "and selected structures. *Queries:* "Does this exact slice belong to this exact scope?"
-  - What follows from true
-  - false
-  - "or unknown?"
-  - "When does local-sense translation require an exact F.9 Bridge occurrence?"
+keywords: []
 dependencies:
   builds_on:
     - C.3

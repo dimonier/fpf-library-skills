@@ -10,7 +10,7 @@ keywords:
   - policies
   - state
   - process modelling
-  - domain behaviour.
+  - domain behaviour
 dependencies:
   references:
     - SYSE.2

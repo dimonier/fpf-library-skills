@@ -8,7 +8,7 @@ keywords:
   - clean execution
   - byte reproducibility
   - timestamps
-  - caches.
+  - caches
 dependencies:
   references:
     - SYSE.13

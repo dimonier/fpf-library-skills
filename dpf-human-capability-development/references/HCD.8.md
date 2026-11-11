@@ -2,9 +2,7 @@
 id: HCD.8
 title: "Obtain or Build Missing Human Capability-Development Support with Bounded Recursion"
 status: Stable
-keywords:
-  - Should a missing development contribution be obtained or built
-  - and what operating test establishes it
+keywords: []
 dependencies:
   references:
     - HCD.7

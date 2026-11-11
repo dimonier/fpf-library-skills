@@ -9,7 +9,6 @@ keywords:
   - blind spot
   - stopping
   - coverage
-  - "“What should the next search obtain?”"
 dependencies:
   references:
     - KCAE.INDEX

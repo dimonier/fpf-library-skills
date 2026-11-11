@@ -2,11 +2,7 @@
 id: C.39.RP
 title: Organize a Repertoire for Method Development
 status: Stable
-keywords:
-  - A comparison or proposal lacks a usable repertoire. Recover source contributions
-  - variants
-  - evidence and operating conditions
-  - keep candidate status and stop when the receiving use has enough supply
+keywords: []
 dependencies:
   references:
     - C.39.MF

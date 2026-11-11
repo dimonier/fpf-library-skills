@@ -11,7 +11,7 @@ keywords:
   - ADR
   - relation graph
   - observer boundary
-  - source return.
+  - source return
 dependencies:
   builds_on:
     - A.22

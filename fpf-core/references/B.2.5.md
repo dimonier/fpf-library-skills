@@ -2,12 +2,7 @@
 id: B.2.5
 title: "Supervisor-Subholon Feedback Relation"
 status: Stable
-keywords:
-  - "States a two-sided feedback relation between one supervising acting System and one or more supervised holons without turning a supervisor label"
-  - policy
-  - method
-  - diagram
-  - or loop lens into the supervising actor or the relation
+keywords: []
 dependencies:
   builds_on:
     - B.2

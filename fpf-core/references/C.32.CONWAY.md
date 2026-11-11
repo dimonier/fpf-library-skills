@@ -2,22 +2,7 @@
 id: C.32.CONWAY
 title: "Architecture-Influence and Transformed-Architecture Correspondence"
 status: Stable
-keywords:
-  - "Prepares candidate changes from one separately typed influence-source architecture and one transformed architecture without treating an architecture"
-  - structure
-  - network
-  - or correspondence record as an actor. Keeps changed referent
-  - "current acting-system and Work facts"
-  - influence source and direct relation
-  - one local synthesis frame
-  - and any exact pair episteme separate
-  - "a network may cite a pair row only as a qualified reading. Formerly indexed as **Transformer and Transformed Architecture Correspondence**. *Queries:* "Which architecture influences the candidate and which architecture is being changed?"
-  - Are acting System
-  - "system-role assignment"
-  - Work
-  - "and direct influence facts current or only provisional pressure?"
-  - "Which current C.32.ACS characteristic rows or C.25 Q-Bundle slots make the trade-off real?"
-  - "When is mirroring only a source cue rather than evidence of architecture adequacy?"
+keywords: []
 dependencies:
   builds_on:
     - C.32

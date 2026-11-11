@@ -2,9 +2,7 @@
 id: OPS.11
 title: Coordinate Interacting Operating Structures
 status: Stable
-keywords:
-  - Which actual couplings can defeat a local plan
-  - and which decisions must be coordinated
+keywords: []
 dependencies:
   references:
     - OPS.3

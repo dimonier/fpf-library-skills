@@ -11,7 +11,7 @@ keywords:
   - teaching
   - recognition
   - selection
-  - cultural architecture.
+  - cultural architecture
 dependencies:
   references:
     - MDPE.8

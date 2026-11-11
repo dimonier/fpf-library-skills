@@ -12,7 +12,7 @@ keywords:
   - telemetry
   - retained exploration value
   - currentness
-  - refresh.
+  - refresh
 dependencies:
   builds_on:
     - C.16

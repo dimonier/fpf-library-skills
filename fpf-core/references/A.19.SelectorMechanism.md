@@ -11,7 +11,7 @@ keywords:
   - required comparison coverage
   - ComparisonResultSlot
   - SelectEligibility
-  - pass/degrade/abstain.
+  - pass/degrade/abstain
 dependencies:
   builds_on:
     - A.6.0

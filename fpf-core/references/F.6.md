@@ -13,7 +13,7 @@ keywords:
   - "`performedUnderAssignment`"
   - "deprecated `performedBy` compatibility only"
   - separate evidence
-  - conditional profile.
+  - conditional profile
 dependencies:
   builds_on:
     - A.6.REL

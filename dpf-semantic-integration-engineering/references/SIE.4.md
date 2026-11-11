@@ -2,10 +2,7 @@
 id: SIE.4
 title: "Judge Cross-Source Correspondences and Their Permitted Uses"
 status: Stable
-keywords:
-  - Which exact endpoint relation
-  - difference
-  - or incompatibility is warranted and usable here
+keywords: []
 dependencies:
   references:
     - SIE.2

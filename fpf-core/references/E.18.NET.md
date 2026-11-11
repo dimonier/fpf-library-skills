@@ -2,24 +2,7 @@
 id: E.18.NET
 title: "Network of Transformation-Flow Structures"
 status: Stable
-keywords:
-  - "Select a recursive non-agentive U.Structure from independently identified TFS or nested-network members"
-  - "exact obtaining cross-boundary relation occurrences"
-  - applied constraints
-  - resolved endpoint bindings
-  - "and one use frame. For a project system-of-interest question"
-  - jointly select the operation/use and production
-  - inception
-  - "later-change"
-  - assurance
-  - feedback
-  - "or recursive-builder members without identifying the network with the project or importing a CreatorGraph edge. Before grounding"
-  - keep the A.1.STM display Plain and provisional
-  - after admission
-  - "a CGUS teaching slice remains separate. *Queries:* "Which independent TFS members answer this concrete project question together?"
-  - "Which exact occurrences and endpoint bindings connect them?"
-  - "Is this still a provisional long-mantra map or an admitted network?"
-  - "Where does a builder case close before its named downstream use?"
+keywords: []
 dependencies:
   builds_on:
     - A.22

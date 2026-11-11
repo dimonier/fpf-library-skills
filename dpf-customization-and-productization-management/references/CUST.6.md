@@ -7,7 +7,6 @@ keywords:
   - service delivery
   - implementation support
   - transfer
-  - Can another prepared performer obtain the result
 dependencies:
   references:
     - IS.3

@@ -2,8 +2,7 @@
 id: HCD.23
 title: Learn through Explanation and Comparison of Solutions
 status: Stable
-keywords:
-  - How can explaining and comparing grounds lead to a personal application rather than assent
+keywords: []
 dependencies:
   references:
     - HCD.22

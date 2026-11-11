@@ -2,9 +2,7 @@
 id: C.3.2
 title: "Kind Intent, Membership Judgment, and Extension"
 status: Stable
-keywords:
-  - "Governs one `KindSignature`"
-  - "a pre-judgment `admissible"
+keywords: []
 ---
 
 # C.3.2: Kind Intent, Membership Judgment, and Extension

@@ -11,7 +11,7 @@ keywords:
   - "metric-induced distortion"
   - service viability
   - quality bundle
-  - failure mode.
+  - failure mode
 dependencies:
   builds_on:
     - C.26

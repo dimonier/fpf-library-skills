@@ -2,9 +2,7 @@
 id: HCD.2
 title: "Compose and Compare Human Capability-Development Programmes for Later Work"
 status: Stable
-keywords:
-  - Which feasible development programmes can serve this person's later Work
-  - and how do their complete contributions and burdens compare
+keywords: []
 dependencies:
   references:
     - HCD.1

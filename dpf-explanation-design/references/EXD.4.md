@@ -5,9 +5,7 @@ status: Stable
 keywords:
   - dialogue
   - feedback
-  - changed question
-  - diagnosis
-  - close.
+  - changed
 dependencies:
   references:
     - EXD.1

@@ -2,8 +2,7 @@
 id: OPS.5
 title: Admit Work and Limit Starts
 status: Stable
-keywords:
-  - Which exact eligible demand may enter now under bounded start conditions
+keywords: []
 dependencies:
   references:
     - OPS.2

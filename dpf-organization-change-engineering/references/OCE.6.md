@@ -7,9 +7,7 @@ keywords:
   - holder
   - authority
   - access
-  - "responsibility. Question: Who is assigned to contribute"
-  - with what authority and access
-  - "and which enabling relations are missing?"
+  - responsibility
 dependencies:
   references:
     - OCE.4

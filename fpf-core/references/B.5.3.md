@@ -8,7 +8,7 @@ keywords:
   - F.17 cell
   - basis relation
   - direct relation
-  - bounded use and loss.
+  - bounded use and loss
 dependencies:
   builds_on:
     - A.2

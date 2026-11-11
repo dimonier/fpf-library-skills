@@ -13,7 +13,7 @@ keywords:
   - NameCard
   - UnifiedTermRow
   - Bridge
-  - result reuse.
+  - result reuse
 dependencies:
   builds_on:
     - F.4

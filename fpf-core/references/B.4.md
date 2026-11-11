@@ -2,16 +2,7 @@
 id: B.4
 title: Coordinate Repeated Adaptation (Canonical Evolution Loop)
 status: Stable
-keywords:
-  - Connect a subject's use
-  - observations and cues about it
-  - a proposed or actual change and renewed use. Apply its own identity rule to distinguish continuation
-  - successor and separate Work occurrences
-  - distinguish phases that occurred from proposed steps
-  - "and stop at a sufficient answer to the current question. *Queries:* "How do observations lead to a change that is actually used?"
-  - Did the subject change
-  - "or only its description?"
-  - "What remains open after deployment?"
+keywords: []
 dependencies:
   builds_on:
     - A.4

@@ -2,10 +2,7 @@
 id: C.40.OD
 title: "Construct and Continue Open-Ended Development"
 status: Stable
-keywords:
-  - Use when knowledge or Method growth
-  - consequential use and further development need a workable connection. Construct the whole undertaking with actual contributions
-  - provision and returns from changed conditions
+keywords: []
 dependencies:
   references:
     - C.40.CD

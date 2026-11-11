@@ -6,7 +6,7 @@ keywords:
   - commitment
   - consequences
   - affected Systems
-  - protected limits.
+  - protected limits
 dependencies:
   references:
     - STR.8

@@ -2,26 +2,7 @@
 id: A.1.CSD
 title: Discovering Systems That May Bear Consequences
 status: Stable
-keywords:
-  - Use when proposed or observed Work
-  - realization
-  - operation
-  - use
-  - maintenance
-  - failure
-  - policy
-  - or change may alter Systems omitted from a current decision or investigation. Name the exact focus and receiver
-  - "trace supported direct-relation occurrences separately from modal path claims"
-  - challenge the boundary
-  - recover exact holons rather than a level ladder
-  - "and return the smallest ordinary `C.2.1` affected-System consequence account that serves the decision with a qualified claim"
-  - constraint
-  - alternative
-  - material unknown
-  - "or stop. Further discovery is selected for its obtainable contribution and whole programme burden. *Queries:* "Which other Systems may undergo a relevant change?"
-  - "Which path actually obtains and which remains modal?"
-  - What does the current account support
-  - "and which further discovery is worth obtaining?"
+keywords: []
 dependencies:
   builds_on:
     - A.1

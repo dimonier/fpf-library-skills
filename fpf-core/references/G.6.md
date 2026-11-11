@@ -18,7 +18,7 @@ keywords:
   - representation correspondence
   - downstream work
   - "actual-use relation"
-  - local refresh.
+  - local refresh
 dependencies:
   builds_on:
     - A.10

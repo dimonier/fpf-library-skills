@@ -2,9 +2,7 @@
 id: HCD.6.1
 title: Help a Learner Discern a Needed Distinction in Practice
 status: Stable
-keywords:
-  - How can a learner notice a needed difference
-  - use it and distinguish it from a misleading cue
+keywords: []
 dependencies:
   references:
     - HCD.6

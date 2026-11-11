@@ -2,11 +2,7 @@
 id: D.4
 title: Ethical Mediation and Decision Use
 status: Stable
-keywords:
-  - Use an already described ethical conflict to develop feasible alternatives and compare them under the stated value premises. Return a supported recommendation
-  - conditional continuation
-  - refusal or impasse
-  - "with any inquiry or neighboring-pattern return that the decision needs"
+keywords: []
 dependencies:
   builds_on:
     - D.3

@@ -10,7 +10,7 @@ keywords:
   - preserved structure
   - lost structure
   - directionality
-  - scope.
+  - scope
 dependencies:
   builds_on:
     - A.22

@@ -9,7 +9,7 @@ keywords:
   - result dependency
   - Method structure
   - configuration
-  - coordination.
+  - coordination
 dependencies:
   references:
     - SYSE.15

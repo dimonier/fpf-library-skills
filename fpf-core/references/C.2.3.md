@@ -9,7 +9,7 @@ keywords:
   - local ordinal scale
   - proof
   - specification
-  - "language-state separation."
+  - "language-state separation"
 dependencies:
   builds_on:
     - C.2

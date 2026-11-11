@@ -10,7 +10,7 @@ keywords:
   - interface
   - operating mode
   - placement
-  - redundancy.
+  - redundancy
 dependencies:
   references:
     - SYSE.2

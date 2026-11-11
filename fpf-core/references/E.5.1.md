@@ -2,13 +2,7 @@
 id: E.5.1
 title: DevOps Lexical Firewall
 status: Stable
-keywords:
-  - Keep incidental implementation paths
-  - commands and runnable teaching code outside normative Core
-  - citing executable illustrations by conceptual name. Retain the exact syntax needed by a governed publication form
-  - protocol or grammar
-  - and operative mathematics under E.5.2. Use this lexical rule with E.5.2 for notation and E.5.3 for semantic dependency
-  - an optional linter is not the rule
+keywords: []
 dependencies:
   refines:
     - E.5

@@ -14,9 +14,7 @@ dependencies:
     - ADM.15
     - SYSE.29
     - A.3.1.MV
-    - Spec.md
     - C.36.MC
-    - Spec.md
 ---
 
 # ADM.16: Decide Whether and How to Change an Administrative Arrangement Without Losing Open Cases
@@ -25,7 +23,7 @@ dependencies:
 > **Problem frame:** The practitioner is considering or implementing a change to a policy, control, provider arrangement, handling instruction or supporting system. These objects can change separately.
 > **First move:** Recover the current arrangement, observed consequences, relevant commitments and protected conditions. Use ADM.14–ADM.15 results when they answer the live control or consequence question.
 >
-> **Governing patterns:** `references/ADM.13.md` `references/ADM.15.md` `references/SYSE.29.md` `references/A.3.1.MV.md` `references/Spec.md.md` `references/C.36.MC.md`
+> **Governing patterns:** `references/ADM.13.md` `references/ADM.15.md` `references/SYSE.29.md` `references/A.3.1.MV.md` `references/C.36.MC.md`
 
 ---
 

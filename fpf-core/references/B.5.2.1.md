@@ -2,13 +2,7 @@
 id: B.5.2.1
 title: Instrument Abductive Hypothesis Generation with Novelty–Quality–Diversity (NQD)
 status: Stable
-keywords:
-  - Use when candidate explanations need an explicit novelty
-  - quality and diversity search basis. Declare the coordinate and policy basis
-  - generate within a stated budget
-  - "and return the declared front with any required exploration archive. Apply B.5.2's plausibility comparison to the hypotheses. *Queries:* "How do I explore varied explanatory hypotheses under a budget?"
-  - "Which coordinates define this front?"
-  - "Which off-front hypotheses remain worth retaining?"
+keywords: []
 dependencies:
   builds_on:
     - B.5.2

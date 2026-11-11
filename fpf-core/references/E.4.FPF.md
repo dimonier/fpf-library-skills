@@ -2,14 +2,7 @@
 id: E.4.FPF
 title: "FPF Edition Assembly: Publication Forms, Carriers and Access Routes"
 status: Stable
-keywords:
-  - Rebuild and expose one First Principles Framework edition from its selected Core sources. Keep publication units
-  - forms
-  - presentation carriers and access routes distinct
-  - derive the index and bodies from one selection and stop on a source
-  - "boundary or preservation mismatch. E.11.PFP supplies the common reader-facing form"
-  - E.4.PFIP checks integration and predecessor preservation
-  - "E.2.DA owns whole-FPF adequacy"
+keywords: []
 dependencies:
   builds_on:
     - E.4

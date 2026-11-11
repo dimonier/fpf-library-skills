@@ -9,10 +9,12 @@ keywords:
   - AI
   - robot
   - hybrid
-  - "whole work arrangement. Question: Which complete arrangement enables participants to obtain the same bounded result?"
+  - whole work arrangement
 dependencies:
   references:
-    - "OCE.1-OCE.3"
+    - OCE.1
+    - OCE.2
+    - OCE.3
     - A.15.8
     - A.2.2
     - E.23.CDI
@@ -26,7 +28,7 @@ dependencies:
 > **Problem frame:** A bounded organization unit cannot reliably obtain a needed contribution. Familiar responses are to recruit a specialist, train an incumbent, buy an AI service, automate a task, acquire a robot, outsource the result, add a platform, or ask …
 > **First move:** Hold one result premise stable and first inspect the comparison already available. A competent joint-work or adaptive-allocation study may already compare complete ways, including dependencies, changing conditions, several costs, participan …
 >
-> **Governing patterns:** `references/OCE.1-OCE.3.md` `references/A.15.8.md` `references/A.2.2.md` `references/E.23.CDI.md` `references/C.38.md` `references/C.11.md`
+> **Governing patterns:** `references/OCE.1.md` `references/OCE.2.md` `references/OCE.3.md` `references/A.15.8.md` `references/A.2.2.md` `references/E.23.CDI.md` `references/C.38.md` `references/C.11.md`
 
 ---
 

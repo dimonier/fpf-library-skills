@@ -7,7 +7,7 @@ keywords:
   - assurance
   - professional conclusion
   - independence
-  - scope. Does this report support the conclusion needed here
+  - scope
 dependencies:
   references:
     - CGOV.8

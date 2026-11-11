@@ -18,7 +18,7 @@ keywords:
   - braking
   - coasting
   - stabilization
-  - dynamic benchmark.
+  - dynamic benchmark
 dependencies:
   builds_on:
     - C.16

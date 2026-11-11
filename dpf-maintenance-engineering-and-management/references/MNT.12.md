@@ -7,11 +7,10 @@ keywords:
   - serial unit
   - configuration
   - effectivity
-  - "event coding. Query: "Which history and description apply to this installed state?" Restore event and configuration continuity for the receiving decision."
+  - event coding
 dependencies:
   references:
     - SYSE.13
-    - FRAMEWORK.md
     - MNT.3
     - MNT.9
 ---
@@ -21,7 +20,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a maintenance decision depends on connecting service history to the correct unit, installed part, configuration or applicable description.
 > **First move:** Start from the receiving maintenance decision and its required distinctions. A spare-applicability question needs different history from a recurrence study or a hand-back.
 >
-> **Governing patterns:** `references/SYSE.13.md` `references/FRAMEWORK.md.md` `references/MNT.3.md` `references/MNT.9.md`
+> **Governing patterns:** `references/SYSE.13.md` `references/MNT.3.md` `references/MNT.9.md`
 
 ---
 

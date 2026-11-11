@@ -2,23 +2,7 @@
 id: E.10.ARCH
 title: "Wording-Use Ontological Precision Restoration Architecture"
 status: Stable
-keywords:
-  - Authoring architecture for the ontology question that remains after F.19 and compact E.10 routing. Bound the exact use
-  - recover the exact subject and claim
-  - bypass to the direct owner when clear
-  - and add declaration
-  - designation
-  - reference
-  - publication or representation details only when the named receiving use needs them. Keeps an obtaining relation and actual participants
-  - "reusable `RelationSignature`/A.6.5 `SlotSpec` declaration"
-  - "claim-bearing episteme and participant designations"
-  - C.29 representation and correspondence
-  - separately governed method/work/result/structure/architecture objects
-  - and the four A.6.P.WMR exits distinct. Select E.10.DEV or another realization only while stable recovery fields remain hidden
-  - return the shortest usable sentence
-  - "ordinary non-use"
-  - exact gap
-  - or blocker. Subject patterns keep thin pointers
+keywords: []
 dependencies:
   builds_on:
     - E.10

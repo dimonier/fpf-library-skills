@@ -2,9 +2,7 @@
 id: C.37.MP
 title: Maintain a Method Representation Profile
 status: Stable
-keywords:
-  - "Different Method uses need different representations. Relate the use-specific selections through their common referents"
-  - omitted claims and change dependencies without conflating uses or granting authority by colocation
+keywords: []
 dependencies:
   references:
     - C.37

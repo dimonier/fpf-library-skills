@@ -3,8 +3,6 @@ id: ADM.2
 title: Establish the Relevant Participants and Relations for an Administrative Action
 status: Stable
 keywords:
-  - "Who receives?"
-  - "who decides?"
   - assignment
   - counterparty
   - authority

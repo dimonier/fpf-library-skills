@@ -2,9 +2,7 @@
 id: E.23.CDI
 title: Developing Capability for a Named Work Family
 status: Stable
-keywords:
-  - Develops the capability of one admitted holder System for a named Work family and checks transfer in representative Work
-  - "distributions across members and cultural-population change remain separate questions"
+keywords: []
 dependencies:
   builds_on:
     - E.23

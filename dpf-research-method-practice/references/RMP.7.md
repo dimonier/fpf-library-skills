@@ -2,13 +2,15 @@
 id: RMP.7
 title: Synthesize a Research Evidence Corpus
 status: Stable
-keywords:
-  - What does this evidence corpus establish
-  - and which dependence
-  - incompatible target or missing contribution limits the synthesis
+keywords: []
 dependencies:
   references:
-    - "RMP.1-RMP.6"
+    - RMP.1
+    - RMP.2
+    - RMP.3
+    - RMP.4
+    - RMP.5
+    - RMP.6
     - RMP.8
 ---
 
@@ -17,7 +19,7 @@ dependencies:
 > **Problem frame:** Use this pattern when several research reports, source interpretations or an existing synthesis bear on a question, and someone needs to determine **what their combined contribution warrants**.
 > **First move:** Recover the question and actual corpus, distinguish the contributions and their dependence, appraise the inference each can support, and perform the justified synthesis.
 >
-> **Governing patterns:** `references/RMP.1-RMP.6.md` `references/RMP.8.md`
+> **Governing patterns:** `references/RMP.1.md` `references/RMP.2.md` `references/RMP.3.md` `references/RMP.4.md` `references/RMP.5.md` `references/RMP.6.md` `references/RMP.8.md`
 
 ---
 

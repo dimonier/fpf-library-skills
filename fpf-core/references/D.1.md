@@ -2,11 +2,7 @@
 id: D.1
 title: Clarify an Ethical Claim's Value Basis (Value Plurality)
 status: Stable
-keywords:
-  - Makes the ethical claim or question
-  - affected EntityOfConcern
-  - value concern
-  - and intended use explicit. Qualifies the basis of an ethical judgement and uses a frame or evidence return for the particular reasoning or reliance that needs it
+keywords: []
 dependencies:
   builds_on:
     - E.2

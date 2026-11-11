@@ -8,7 +8,6 @@ keywords:
   - invariant
   - variation
   - primitive
-  - What can become common
 dependencies:
   references:
     - SYSE.8

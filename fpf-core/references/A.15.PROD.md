@@ -2,19 +2,7 @@
 id: A.15.PROD
 title: "Production Work, Entity-Identity Inception, and Production Completion Recovery"
 status: Stable
-keywords:
-  - "Recovers three separate receiver-selected answers: whether exact dated Work is the whole production Work or its proper part"
-  - when governed effects of exact Work first made the applicable identity rule hold so one exact entity began to exist
-  - and whether the exact completion subject satisfied its criterion at a historical boundary and a separate closure governor closed the exact production Work. Work
-  - actual change
-  - entity identity
-  - state satisfaction
-  - Work completion
-  - delivery
-  - acceptance
-  - release
-  - publication
-  - and availability remain separate
+keywords: []
 dependencies:
   builds_on:
     - A.13

@@ -7,7 +7,6 @@ keywords:
   - context
   - meaning
   - disposition
-  - What differs and what should happen to it
 dependencies:
   references:
     - SIE.1

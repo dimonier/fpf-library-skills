@@ -2,14 +2,7 @@
 id: E.17.AUD
 title: PublicationUnit Stability Discipline
 status: Stable
-keywords:
-  - Check whether one bounded publication unit keeps its primary subject
-  - carried publication move
-  - "and outside boundary clear for the present use. Return `stable for current use` and stop when they already suffice"
-  - otherwise choose local head restoration
-  - "whole-unit stabilization"
-  - bounded comparison
-  - or the applicable neighboring pattern
+keywords: []
 dependencies:
   references:
     - C.2.2a

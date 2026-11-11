@@ -2,13 +2,7 @@
 id: B.5.1
 title: "Coordinate Development States: Explore → Shape → Evidence → Operate"
 status: Stable
-keywords:
-  - Use when a project needs a shared account of whether a system or episteme is being explored
-  - shaped
-  - evaluated or operated. Name the development subject and the prerequisites for its intended transition
-  - "assess a claim's support for its use separately. *Queries:* "What development state is this subject in?"
-  - "What must hold before its next transition?"
-  - "Can a useful result be used before development reaches Operation?"
+keywords: []
 dependencies:
   builds_on:
     - B.5

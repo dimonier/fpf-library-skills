@@ -7,14 +7,13 @@ keywords:
   - modify
   - lease
   - service option
-  - "functional alternative. Query: "Which acquisition or change can provide the needed contribution?" Generate comparable qualified alternatives with their whole burden."
+  - functional alternative
 dependencies:
   references:
     - EAM.2
     - EAM.3
     - EAM.6
     - SYSE.5
-    - FRAMEWORK.md
 ---
 
 # EAM.7: Generate Ways to Supply an Asset-Dependent Service
@@ -22,7 +21,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a needed service contribution has become a proposal to acquire or modify an asset. A team has a preferred machine, supplier or design, but materially different ways of obtaining the contribution could change cost, risk …
 > **First move:** Recover the required outside contribution, recipients, conditions and horizon from [EAM.1](#eam1---frame-the-engineered-assets-and-required-outcomes) and EAM.2.
 >
-> **Governing patterns:** `references/EAM.2.md` `references/EAM.3.md` `references/EAM.6.md` `references/SYSE.5.md` `references/FRAMEWORK.md.md`
+> **Governing patterns:** `references/EAM.2.md` `references/EAM.3.md` `references/EAM.6.md` `references/SYSE.5.md`
 
 ---
 

@@ -194,6 +194,27 @@ def _load_pattern_map(dpfs_dir: Path) -> dict[str, int]:
     return result
 
 
+def _file_like_dep_ids(unit) -> list[str]:
+    """Dependency IDs that are really filenames (e.g. `Spec.md`, `FRAMEWORK.md`).
+
+    Such an ID reaches `_governing_paths`, which appends another `.md` and publishes
+    `references/Spec.md.md`. The parser now strips markdown link targets and rejects
+    file-like tokens; this check catches a regression at validation time."""
+    deps = unit.metadata.get("dependencies")
+    if not isinstance(deps, dict):
+        return []
+    bad: list[str] = []
+    for rel_ids in deps.values():
+        if isinstance(rel_ids, str):
+            rel_ids = [rel_ids]
+        if not isinstance(rel_ids, (list, tuple)):
+            continue
+        for pid in rel_ids:
+            if str(pid).strip().lower().endswith(".md"):
+                bad.append(str(pid))
+    return bad
+
+
 def validate(monoliths: list[Monolith]) -> tuple[list[str], list[str], bool]:
     """Validate the Library decomposition. Returns (failures, summary, idempotent).
 
@@ -230,6 +251,18 @@ def validate(monoliths: list[Monolith]) -> tuple[list[str], list[str], bool]:
         if [u.pid for u in units] != [u.pid for u in u2]:
             failures.append(f"{m.docid}: decompose is not idempotent (unit list changed on re-parse)")
             idempotent = False
+
+        # Reference hints must resolve to `references/<PatternID>.md`; a filename
+        # leaking in from a markdown link produces `references/Spec.md.md`.
+        for u in units:
+            bad = _file_like_dep_ids(u)
+            if bad:
+                failures.append(f"{m.docid}: {u.pid} has file-like dependency ids {sorted(set(bad))}")
+                break
+            content, _raw_len, _opt_len = format_reference(u)
+            if ".md.md" in content:
+                failures.append(f"{m.docid}: {u.pid} emits a doubled-extension reference path")
+                break
 
         if m.kind == "framework":
             expected = pattern_map.get(m.docid)

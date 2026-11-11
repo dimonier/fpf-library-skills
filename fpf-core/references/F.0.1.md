@@ -8,7 +8,7 @@ keywords:
   - "source-local meaning"
   - local expression
   - optional durable address
-  - "actual cross-local relation."
+  - "actual cross-local relation"
 dependencies:
   builds_on:
     - E.10

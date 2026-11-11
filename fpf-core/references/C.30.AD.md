@@ -10,7 +10,7 @@ keywords:
   - "cross-view correspondence"
   - source return
   - freshness
-  - specification use.
+  - specification use
 dependencies:
   builds_on:
     - C.30

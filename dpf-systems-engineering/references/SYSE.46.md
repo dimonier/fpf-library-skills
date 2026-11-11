@@ -9,7 +9,7 @@ keywords:
   - result use
   - restraint
   - burden
-  - persistence.
+  - persistence
 dependencies:
   references:
     - SYSE.10

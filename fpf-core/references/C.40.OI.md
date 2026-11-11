@@ -2,10 +2,7 @@
 id: C.40.OI
 title: Bound an Opportunity Inquiry
 status: Stable
-keywords:
-  - Use when an opportunity inquiry lacks a workable subject
-  - horizon or receiving question. Bound the inquiry
-  - preserve protections and identify its first useful result without demanding a settled direction
+keywords: []
 dependencies:
   references:
     - B.5.PI

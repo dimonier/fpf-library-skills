@@ -2,10 +2,7 @@
 id: C.40.JF
 title: Qualify Dependencies and Joint Reachability
 status: Stable
-keywords:
-  - Use when individually plausible changes may fail together. Qualify their exact dependencies
-  - shared demand and bounded reachability
-  - preserve a conditional possibility or specific impasse
+keywords: []
 dependencies:
   references:
     - C.40.DC

@@ -2,23 +2,7 @@
 id: A.1.1
 title: "Bounded Model-Use Structure: Applicability, Use and Expression Coherence (DDD Bounded Context)"
 status: Stable
-keywords:
-  - Use when a present engineering decision depends on the organization of where one exact model applies
-  - how it is actually used in assigned Work
-  - and whether a concrete expression still agrees with the model's fixed content. Recover the direct relations first
-  - "select `BoundedModelUseStructure` only when their joint organization changes the decision. A proposed crossing stays outside until its claim satisfies a compatible direct relation predicate. Keeps the DDD plain name “bounded context” while separating the selected `U.Structure` from systems"
-  - Work
-  - epistemes
-  - descriptions
-  - views
-  - representations
-  - "and publications. *Queries:* "Which exact applicability"
-  - "actual-use"
-  - "and fixed-content coherence facts matter here?"
-  - "Do their governed occurrences form one decision-relevant structure?"
-  - Which context object and crossing relation
-  - if any
-  - "are actually grounded?"
+keywords: []
 dependencies:
   builds_on:
     - A.1

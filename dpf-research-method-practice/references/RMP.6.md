@@ -2,10 +2,7 @@
 id: RMP.6
 title: "Choose a Credibility Test That Bears on the Research Claim, or Answer without New Testing"
 status: Stable
-keywords:
-  - Which existing result
-  - useful obtainable test
-  - "qualified no-test answer or exact selection hold bears on this claim and threat"
+keywords: []
 dependencies:
   references:
     - RMP.5

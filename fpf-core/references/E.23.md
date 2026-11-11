@@ -2,12 +2,7 @@
 id: E.23
 title: Quality Improvement Loop Method
 status: Stable
-keywords:
-  - Repeatedly improves an object under a declared evaluation
-  - protected qualities and attainable cost. Keeps comparison conditions stable
-  - justifies a change of evaluation through A.19.ECS
-  - preserves scoped earlier results and chooses continuation or stopping by practical gain. E.22 supplies the improvement question
-  - A.22.CGUS governs a claimed unfolding structure
+keywords: []
 dependencies:
   builds_on:
     - E.22
@@ -17,7 +12,9 @@ dependencies:
     - E.9.DA
     - E.2.DA
     - A.22.CGUS
-    - "C.17-C.19"
+    - C.17
+    - C.18
+    - C.19
     - G.5
     - G.9
     - G.11
@@ -28,7 +25,7 @@ dependencies:
 > **Problem frame:** Use `E.23` when an object version will be improved through repeated passes under a declared object-under-improvement evaluation.
 > **First move:** `E.23` guides repeated improvement of one object version under a settled evaluation question. Reuse an adequate ordinary request; use the E.22 `QualityEvaluationQuestionFrame` and `QualityEvaluationUseDeclaration` when a receiving use needs …
 >
-> **Governing patterns:** `references/E.22.md` `references/A.19.ECS.md` `references/E.21.md` `references/E.9.DA.md` `references/E.2.DA.md` `references/A.22.CGUS.md` `references/C.17-C.19.md` `references/G.5.md`
+> **Governing patterns:** `references/E.22.md` `references/A.19.ECS.md` `references/E.21.md` `references/E.9.DA.md` `references/E.2.DA.md` `references/A.22.CGUS.md` `references/C.17.md` `references/C.18.md`
 
 ---
 

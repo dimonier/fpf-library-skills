@@ -7,7 +7,6 @@ keywords:
   - communication
   - invitation
   - response
-  - Who can use this and what response matters
 dependencies:
   references:
     - MKT.1

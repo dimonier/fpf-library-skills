@@ -12,7 +12,7 @@ keywords:
   - window
   - "evidence-backed core"
   - conditional characteristic profile
-  - autonomy grading.
+  - autonomy grading
 dependencies:
   builds_on:
     - A.2

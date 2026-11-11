@@ -12,7 +12,7 @@ keywords:
   - alignment
   - disruption
   - evidence resolution
-  - diversity.
+  - diversity
 dependencies:
   builds_on:
     - C.16

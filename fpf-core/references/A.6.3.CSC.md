@@ -2,15 +2,7 @@
 id: A.6.3.CSC
 title: "Controlled Semantic Coarsening: Shorten an Account for a Bounded Use"
 status: Stable
-keywords:
-  - "Shorten a source account for a named present use: write a candidate"
-  - compare it with the source
-  - preserve the distinctions needed now
-  - expose loss or unsupported addition
-  - "state the supported-use boundary and when to return. Open exact C.2.1 source and receiving epistemes and the A.6.3 construction when the result must travel independently or their identity matters to the receiving use"
-  - publication occurrence
-  - form
-  - and carrier remain separate under E.24.PUB
+keywords: []
 dependencies:
   builds_on:
     - C.2.1

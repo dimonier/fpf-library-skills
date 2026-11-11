@@ -2,13 +2,7 @@
 id: A.22.CGUS
 title: "Which Continuations Are Available? — Constraint-Governed Unfolding Structure (CGUS)"
 status: Stable
-keywords:
-  - Identify the available
-  - blocked or unknown alternatives in an explanation from their conditions and current facts. Stop with that ordinary answer when it is enough. Formal CGUS qualification requires one A.22 structure with local loci and at least two potential continuations across allowed cases
-  - "each present-case result remains separate from structure identity"
-  - "a displayed path and any Work or permission claim. *Queries:* "Which continuations are available now?"
-  - "What fact or rule blocks each alternative?"
-  - "When does this explanation need formal structure identity or replay?"
+keywords: []
 dependencies:
   coordinates_with:
     - E.18.NET

@@ -2,10 +2,7 @@
 id: OPS.22
 title: Interpret Operating Performance and Decide the Response
 status: Stable
-keywords:
-  - What does this result mean given target difficulty
-  - changed conditions and joint work
-  - and what response follows
+keywords: []
 dependencies:
   references:
     - OPS.13

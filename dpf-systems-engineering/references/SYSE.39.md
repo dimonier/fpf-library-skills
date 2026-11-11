@@ -10,7 +10,7 @@ keywords:
   - transferred burden
   - maintenance
   - exceptions
-  - horizon.
+  - horizon
 dependencies:
   references:
     - SYSE.25

@@ -8,9 +8,7 @@ keywords:
   - comparison
   - gains
   - losses
-  - "causal limits. Question: What changed"
-  - for whom
-  - "and which comparison can change the next organization decision?"
+  - causal limits
 dependencies:
   references:
     - C.16

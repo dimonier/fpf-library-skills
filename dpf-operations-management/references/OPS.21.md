@@ -2,9 +2,7 @@
 id: OPS.21
 title: "Choose Operating Aims, Targets and Comparisons"
 status: Stable
-keywords:
-  - What useful improvement should this team pursue
-  - and which target or comparison would make it meaningful
+keywords: []
 dependencies:
   references:
     - OPS.1

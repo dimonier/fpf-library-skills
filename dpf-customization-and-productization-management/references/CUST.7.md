@@ -8,7 +8,6 @@ keywords:
   - growth
   - variety
   - support tail
-  - What grows and where does the burden go
 dependencies:
   references:
     - MA.8

@@ -2,15 +2,7 @@
 id: E.15
 title: "Pattern Change, Edition Continuity, and Impact Analysis"
 status: Stable
-keywords:
-  - Changes one existing FPF pattern edition by comparing an exact predecessor and candidate
-  - classifying the actual practitioner and semantic effect
-  - repairing actual dependent uses
-  - preserving predecessor functions independently
-  - and verifying proportionately. The ordinary path is one bounded repair
-  - "alternative generation opens only for a real unresolved design choice. *Queries:* "What actually changed between these pattern editions?"
-  - "Which uses must be reopened?"
-  - "Is a wider alternative search worth its cost?"
+keywords: []
 dependencies:
   builds_on:
     - E.8

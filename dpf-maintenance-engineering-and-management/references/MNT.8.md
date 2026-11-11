@@ -7,15 +7,13 @@ keywords:
   - energy
   - protection
   - intervention permission
-  - "scope. Query: "What supports beginning this protected intervention?" Establish applicable actual protection and bounded authority"
-  - or return the unmet condition.
+  - scope
 dependencies:
   references:
     - MNT.1
     - MNT.5
     - MNT.7
     - A.2.8.PER
-    - Spec.md
 ---
 
 # MNT.8: Isolate, Make Safe, and Authorize the Maintenance Intervention
@@ -23,7 +21,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a selected maintenance intervention will expose people, equipment or the environment to a hazard that requires controlled access, isolation or other protection.
 > **First move:** Recover the proposed work scope, actual configuration, relevant hazards and applicable procedure. Qualified people determine the equipment- and jurisdiction-specific controls.
 >
-> **Governing patterns:** `references/MNT.1.md` `references/MNT.5.md` `references/MNT.7.md` `references/A.2.8.PER.md` `references/Spec.md.md`
+> **Governing patterns:** `references/MNT.1.md` `references/MNT.5.md` `references/MNT.7.md` `references/A.2.8.PER.md`
 
 ---
 

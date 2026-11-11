@@ -8,7 +8,7 @@ keywords:
   - occurrence boundary
   - actual subject facts
   - continuity and reidentification
-  - transformation composition.
+  - transformation composition
 dependencies:
   builds_on:
     - A.1

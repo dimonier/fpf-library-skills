@@ -2,13 +2,7 @@
 id: C.39.RO
 title: Turn a Construction into a Reusable Operation
 status: Stable
-keywords:
-  - Use when a working case must become an operation that later work can vary or combine. Recover the construction
-  - separate variable inputs from retained conditions
-  - parameterize or connect operations
-  - "justify the supported result and examine a changed use. *Queries:* "How can this successful case become a reusable operation?"
-  - "Which premises survive generalization?"
-  - "What changes when the objective or physical condition changes?"
+keywords: []
 dependencies:
   coordinates_with:
     - C.39

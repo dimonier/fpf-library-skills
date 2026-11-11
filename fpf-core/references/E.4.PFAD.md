@@ -2,12 +2,7 @@
 id: E.4.PFAD
 title: "Principle-Framework Architecture Decision"
 status: Stable
-keywords:
-  - "Practitioner-facing profile for choosing among a new or revised framework"
-  - a contribution to an existing framework
-  - "a non-framework product"
-  - a thinner route
-  - and no new maintained product now when later work uses the boundary. The compact answer states first use and stop or return
+keywords: []
 dependencies:
   builds_on:
     - E.4

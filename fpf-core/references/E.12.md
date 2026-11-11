@@ -8,7 +8,7 @@ keywords:
   - ergonomics
   - usability
   - Rationale Mandate
-  - "HF-Loop."
+  - "HF-Loop"
 dependencies:
   builds_on:
     - E.2

@@ -7,7 +7,7 @@ keywords:
   - price
   - evidence
   - capability
-  - source impact.
+  - source impact
 dependencies:
   references:
     - A.10

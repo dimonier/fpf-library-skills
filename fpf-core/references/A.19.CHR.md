@@ -18,7 +18,7 @@ keywords:
   - "`SlotFillingsPlanItem`"
   - P2W seam
   - no hidden scalarization
-  - no hidden thresholds.
+  - no hidden thresholds
 dependencies:
   builds_on:
     - A.6.7

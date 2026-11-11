@@ -8,7 +8,6 @@ keywords:
   - refusal
   - terms
   - transition
-  - Can the customer understand and carry out the next action
 dependencies:
   references:
     - MKT.2

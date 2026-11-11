@@ -2,13 +2,7 @@
 id: C.16.MR
 title: Construct a Measurement Relation
 status: Stable
-keywords:
-  - Use when an indication or proposed procedure lacks a suitable relation to the property being sought. Follow how the indication is produced
-  - combine the subject and instrument relations
-  - "retain consequential influences and obtain a conditional result or a missing contribution. *Queries:* "Does the instrument change the value I want?"
-  - "How do calibration and interaction combine?"
-  - "Which effect needs a correction?"
-  - "What can this count or response mean?"
+keywords: []
 dependencies:
   coordinates_with:
     - C.16

@@ -2,11 +2,7 @@
 id: B.2.3
 title: "Meta-Holon Transition With Episteme Result"
 status: Stable
-keywords:
-  - Test whether B.2's proposed new knowledge whole satisfies A.1 and the C.2.1 ClaimGraph–EntityOfConcern–ReferenceScheme constitution. Assess support when the receiving claim or use requires assurance
-  - keep source synthesis
-  - "ordinary episteme changes and publication under their direct patterns when no whole-reidentification question remains. *Queries:* "Does this body of results constitute a new theory or knowledge whole?"
-  - "Which source evidence still supports the resulting claims?"
+keywords: []
 dependencies:
   builds_on:
     - A.1

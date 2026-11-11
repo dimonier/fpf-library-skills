@@ -2,9 +2,7 @@
 id: OPS.10
 title: Qualify Operating Capacity Under Variability
 status: Stable
-keywords:
-  - What fits usable resource windows
-  - and what service claim does the variability basis support
+keywords: []
 dependencies:
   references:
     - OPS.3

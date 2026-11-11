@@ -2,13 +2,7 @@
 id: OPS.20
 title: Deliberately Continue and Change Operations Culture
 status: Stable
-keywords:
-  - How do practitioners in the named population transmit
-  - independently enact
-  - select
-  - retain or lose an Operations practice
-  - and what continuation
-  - change or uncertainty does the evidence support
+keywords: []
 dependencies:
   references:
     - OPS.16

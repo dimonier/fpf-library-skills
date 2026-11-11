@@ -2,12 +2,7 @@
 id: A.6.P.RI
 title: "Recover Agent-Relative References for Action"
 status: Stable
-keywords:
-  - Use when passing an account to another participant leaves a reference unclear—for example
-  - whose left side or project is meant. Recover the source reference
-  - what the receiving use must preserve and who will act
-  - derive an interpretation or instruction
-  - or name the missing condition
+keywords: []
 dependencies:
   builds_on:
     - A.6.P

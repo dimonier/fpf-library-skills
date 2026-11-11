@@ -2,11 +2,7 @@
 id: OPS.1
 title: "Identify the Operating System, Commitments, and Flow Units"
 status: Stable
-keywords:
-  - Which actual operation
-  - commitments
-  - subjects
-  - and units should orient this decision
+keywords: []
 dependencies:
   references:
     - A.1.SCR

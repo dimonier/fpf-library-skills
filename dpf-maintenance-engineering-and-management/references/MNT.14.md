@@ -7,16 +7,13 @@ keywords:
   - predictive maintenance
   - practical worth
   - variant
-  - "refresh. Query: "Should this way of obtaining maintenance results be retained or replaced?" Compare the same use and whole burden"
-  - with conditional trials and useful retain decisions.
+  - refresh
 dependencies:
   references:
     - MNT.2
     - MNT.13
     - C.11.MV
-    - Spec.md
     - A.3.1.MV
-    - Spec.md
 ---
 
 # MNT.14: Compare Maintenance Methods for Retention or Change
@@ -24,7 +21,7 @@ dependencies:
 > **Problem frame:** Use this pattern when an established way of doing maintenance may no longer be the best answer for the current failure, equipment or operating setting.
 > **First move:** State the maintenance result and conditions for the comparison. Recover the failure mechanism, consequence, condition information, support, access and operating needs that can change the answer.
 >
-> **Governing patterns:** `references/MNT.2.md` `references/MNT.13.md` `references/C.11.MV.md` `references/Spec.md.md` `references/A.3.1.MV.md`
+> **Governing patterns:** `references/MNT.2.md` `references/MNT.13.md` `references/C.11.MV.md` `references/A.3.1.MV.md`
 
 ---
 

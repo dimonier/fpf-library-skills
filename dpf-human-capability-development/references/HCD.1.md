@@ -2,9 +2,7 @@
 id: HCD.1
 title: Derive Human Capability Demand from Representative Later Work
 status: Stable
-keywords:
-  - What must this exact human contribute in representative later Work
-  - and what evidence makes the demand current
+keywords: []
 dependencies:
   references:
     - A.15.1

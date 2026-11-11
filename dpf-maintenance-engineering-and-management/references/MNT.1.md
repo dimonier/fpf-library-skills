@@ -6,15 +6,12 @@ keywords:
   - equipment identity
   - required function
   - configuration
-  - "control. Query: "Which System and use does this maintenance question concern?" Bound the question and its operating and permission conditions."
+  - control
 dependencies:
   references:
     - A.1.SCR
-    - Spec.md
     - A.2.8.PER
-    - Spec.md
     - SYSE.13
-    - FRAMEWORK.md
 ---
 
 # MNT.1: Identify the Maintained System, Use, and Permission Boundary
@@ -22,7 +19,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a maintenance request names equipment but leaves unclear what must keep working, in which configuration, for whom or under whose control.
 > **First move:** Begin with the requested result: condition interpretation, policy choice, intervention recommendation, actual repair, functioning evidence or return to use. Ask what decision will consume it and by when.
 >
-> **Governing patterns:** `references/A.1.SCR.md` `references/Spec.md.md` `references/A.2.8.PER.md` `references/SYSE.13.md` `references/FRAMEWORK.md.md`
+> **Governing patterns:** `references/A.1.SCR.md` `references/A.2.8.PER.md` `references/SYSE.13.md`
 
 ---
 

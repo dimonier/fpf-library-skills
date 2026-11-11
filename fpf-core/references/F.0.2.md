@@ -2,18 +2,7 @@
 id: F.0.2
 title: Semantic Synthesis across Source Ontologies
 status: Stable
-keywords:
-  - "Turns differences among source-local concepts"
-  - relations
-  - and boundaries into one provisional synthesis claim
-  - contrast claim
-  - "or unresolved-inquiry claim for a named receiving decision. This conceptual work can concern actions and Methods"
-  - constructing their ways and connections is the distinct methodological question in C.39
-  - "applied to framework authorship by E.4.CM. A domain ontology may be a needed DPF contribution without being a DPF by itself. *Queries:* `What changes in the receiving decision when sources use different ontologies?`"
-  - "`Should this comparison return a synthesis"
-  - a contrast
-  - "or an unresolved inquiry?`"
-  - "`Which domain-ontology contribution belongs in the DPF?`"
+keywords: []
 dependencies:
   builds_on:
     - F.0.1

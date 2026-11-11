@@ -2,10 +2,7 @@
 id: OPS.19
 title: Reconcile Simultaneous Operating Work Across Cases and Scales
 status: Stable
-keywords:
-  - "Which cross-scale reconfiguration"
-  - bounded continuation
-  - or exact unresolved conflict preserves the simultaneous operating results that matter
+keywords: []
 dependencies:
   references:
     - OPS.1

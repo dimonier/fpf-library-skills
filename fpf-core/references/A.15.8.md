@@ -2,18 +2,7 @@
 id: A.15.8
 title: "Work-Performance Configuration and Recovery Testing"
 status: Stable
-keywords:
-  - Use when interruption
-  - handoff
-  - delay
-  - degradation
-  - "or reconfiguration may change continuation or recovery for either one exact actual Work occurrence with actual performers and relied-on obtaining support relations"
-  - "or one exact present WorkPlan whose declaration-local content names intended performers and a proposed configuration. Returns the exact focus"
-  - named configuration
-  - probe and available evidence
-  - direct relation result or exact blocker
-  - and the warranted continuation
-  - repair or stop
+keywords: []
 dependencies:
   builds_on:
     - A.1

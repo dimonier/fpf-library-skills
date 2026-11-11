@@ -2,12 +2,7 @@
 id: SIE.2
 title: Recover and Qualify Source Semantics and Authority
 status: Stable
-keywords:
-  - "What does each load-bearing source mean"
-  - under which edition
-  - effectivity
-  - authority
-  - and access conditions
+keywords: []
 dependencies:
   references:
     - SIE.1

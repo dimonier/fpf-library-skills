@@ -7,7 +7,7 @@ keywords:
   - encompassing work
   - vertical
   - capability
-  - simultaneous enactment. Why can a competent local action fail its contribution to the whole
+  - simultaneous enactment
 dependencies:
   references:
     - B.1.5.EW

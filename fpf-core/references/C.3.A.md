@@ -10,11 +10,15 @@ keywords:
   - regulatory
   - assurance
   - ESG
-  - "Method-Work."
+  - "Method-Work"
 dependencies:
   builds_on:
     - C.3
-    - "C.3.1-C.3.5"
+    - C.3.1
+    - C.3.2
+    - C.3.3
+    - C.3.4
+    - C.3.5
     - A.2.6
     - C.2.2
     - C.2.3
@@ -27,7 +31,7 @@ dependencies:
 > **Problem frame:** Use this Annex when a receiving action must check one or more of these without blending them:
 > **First move:** Names such as `Guard_TypedClaim` are editorial handles. A context may alias them only when the same objects, values, and refusal distinctions remain recoverable.
 >
-> **Governing patterns:** `references/C.3.md` `references/C.3.1-C.3.5.md` `references/A.2.6.md` `references/C.2.2.md` `references/C.2.3.md` `references/A.15.md` `references/A.15.1.md`
+> **Governing patterns:** `references/C.3.md` `references/C.3.1.md` `references/C.3.2.md` `references/C.3.3.md` `references/C.3.4.md` `references/C.3.5.md` `references/A.2.6.md` `references/C.2.2.md`
 
 ---
 

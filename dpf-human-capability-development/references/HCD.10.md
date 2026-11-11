@@ -2,15 +2,7 @@
 id: HCD.10
 title: "Choose Whether and How to Vary, Space, Interleave, or Progress Practice"
 status: Stable
-keywords:
-  - Should task
-  - timing
-  - retrieval
-  - source
-  - support
-  - mixing
-  - or challenge conditions change across the next episodes
-  - and how
+keywords: []
 dependencies:
   references:
     - HCD.9

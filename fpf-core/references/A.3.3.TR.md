@@ -2,13 +2,7 @@
 id: A.3.3.TR
 title: Construct a Rule for State Change
 status: Stable
-keywords:
-  - Use when a state description still lacks the transition rule needed to obtain its continuations. Combine operation effects and physical interactions
-  - distinguish jointly active relations from alternative actions
-  - "and derive a change or identify a missing contribution. *Queries:* "How do local rules combine?"
-  - "Which values stay fixed in this step?"
-  - "Does preserving a property ensure completion?"
-  - "Which additional assumptions determine likelihood?"
+keywords: []
 dependencies:
   coordinates_with:
     - A.3.3

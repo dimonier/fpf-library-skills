@@ -7,7 +7,7 @@ keywords:
   - inquiry
   - evidence value
   - exposure
-  - stop.
+  - stop
 dependencies:
   references:
     - STR.6

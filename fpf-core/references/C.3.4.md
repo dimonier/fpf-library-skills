@@ -2,13 +2,7 @@
 id: C.3.4
 title: KindUseAdaptationDeclaration — Tailor the Use of an Existing Kind
 status: Stable
-keywords:
-  - Declares one constrained or differently named use of an existing kind
-  - "checks applicability before its three-valued result"
-  - "and compares kind identity before any cross-local bridge. *Queries:* "How do I tailor this use without cloning a kind?"
-  - "Is the request not applicable or merely unknown?"
-  - Does locality change require a bridge
-  - "or does the same kind continue?"
+keywords: []
 dependencies:
   builds_on:
     - C.3.1

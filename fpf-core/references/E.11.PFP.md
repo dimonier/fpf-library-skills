@@ -2,19 +2,7 @@
 id: E.11.PFP
 title: Framework Publication Form Profile for Markdown
 status: Stable
-keywords:
-  - Common Markdown form and faithful print or other projections for public FPF
-  - DPF
-  - "and LPF editions: compact title"
-  - "product-owned cues"
-  - logical index
-  - Readme entry
-  - source projection
-  - and deterministic checks. Uses all twelve E.8 content functions to explain the whole language and its substantive profiles
-  - with Architectural Rationale
-  - shared sources
-  - inherited answers
-  - "and direct pattern entry. Questions: How do the Methods work together"
+keywords: []
 dependencies:
   builds_on:
     - E.11

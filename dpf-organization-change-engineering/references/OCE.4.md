@@ -5,10 +5,12 @@ status: Stable
 keywords:
   - contribution architecture
   - specialization
-  - "boundary crossings. Question: How should contributions be distributed and connected across specialization boundaries?"
+  - boundary crossings
 dependencies:
   references:
-    - "OCE.1-OCE.3"
+    - OCE.1
+    - OCE.2
+    - OCE.3
     - A.22
     - C.30
     - C.32.PAD
@@ -20,7 +22,7 @@ dependencies:
 > **Problem frame:** Organization design often begins with grouping: functions, products, customers, regions, programmes, professions, or platforms. Grouping helps attention, yet the organization contributes through relations that cross those groups.
 > **First move:** Design from the intended contribution and the relations needed to produce, use, accept, and return results. Select the few structures that change the current decision.
 >
-> **Governing patterns:** `references/OCE.1-OCE.3.md` `references/A.22.md` `references/C.30.md` `references/C.32.PAD.md`
+> **Governing patterns:** `references/OCE.1.md` `references/OCE.2.md` `references/OCE.3.md` `references/A.22.md` `references/C.30.md` `references/C.32.PAD.md`
 
 ---
 

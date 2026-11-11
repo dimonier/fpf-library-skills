@@ -2,11 +2,7 @@
 id: C.41.UA
 title: Use a Checklist to Answer Questions and Act on the Results
 status: Stable
-keywords:
-  - A checklist is in use
-  - but completed marks do not establish the result. Obtain or reuse adequate grounds
-  - interpret the answers
-  - decide their consequences and preserve what a later continuation needs
+keywords: []
 dependencies:
   references:
     - C.41

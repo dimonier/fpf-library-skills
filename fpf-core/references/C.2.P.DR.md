@@ -2,22 +2,7 @@
 id: C.2.P.DR
 title: Repair Claims Based on Declarative Form Alone (Declarative Representation Precision Restoration)
 status: Stable
-keywords:
-  - "Repairs declarative-shape overread by separating the visible expression or artifact"
-  - the exact current direct object or relation
-  - "an exact representation/correspondence use or `none`"
-  - and the blocked stronger action claim. Applies to graph and evidence paths
-  - queries
-  - dashboards
-  - schemas
-  - formal substrates
-  - method descriptions
-  - publication faces
-  - tables
-  - and pattern relations
-  - "uses four plain questions and exact direct owners. Procedure/code/solver/recipe form establishes no `U.MethodDescription`"
-  - required or desired change remains claim content
-  - "while an actual `U.Transformation` needs its independent A.3.4 basis"
+keywords: []
 dependencies:
   builds_on:
     - C.2.P

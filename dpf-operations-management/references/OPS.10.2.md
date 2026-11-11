@@ -5,8 +5,6 @@ status: Stable
 keywords:
   - How can a schedule meet the deadline with precedence
   - shared resources and calendar gaps
-  - which starts can be delayed
-  - and what must change after a disruption
 dependencies:
   references:
     - OPS.10

@@ -9,7 +9,7 @@ keywords:
   - configurable family
   - builder platform
   - change lead time
-  - test capability.
+  - test capability
 dependencies:
   references:
     - SYSE.22

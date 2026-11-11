@@ -7,7 +7,7 @@ keywords:
   - gains
   - rates
   - deadlines
-  - "whole-candidate comparison. “Which feasible arrangement should be realized?”"
+  - "whole-candidate comparison"
 dependencies:
   references:
     - CAD.1

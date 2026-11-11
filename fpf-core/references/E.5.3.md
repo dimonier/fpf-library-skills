@@ -2,10 +2,7 @@
 id: E.5.3
 title: Unidirectional Dependency between FPF Families
 status: Stable
-keywords:
-  - "Constrain an already identified framework-family dependency: imports must form an acyclic graph and point toward greater semantic stability. Pedagogy may use Tooling and Core"
-  - Tooling may use Core
-  - "Core imports neither. Keep specialization separate. E.4.PFR determines whether a framework-edition dependency actually obtains"
+keywords: []
 dependencies:
   constrains:
     - E.4

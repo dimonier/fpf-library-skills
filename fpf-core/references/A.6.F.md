@@ -13,7 +13,7 @@ keywords:
   - work
   - module allocation
   - mathematical function
-  - episteme/publication boundary.
+  - episteme/publication boundary
 dependencies:
   builds_on:
     - A.6.P

@@ -2,11 +2,7 @@
 id: EXD.1
 title: Establish and Revise What a Recipient Needs Explained
 status: Stable
-keywords:
-  - question
-  - purpose
-  - contrast
-  - changed condition.
+keywords: []
 dependencies:
   references:
     - A.2.9

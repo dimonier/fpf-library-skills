@@ -16,7 +16,7 @@ keywords:
   - repair
   - retain
   - share
-  - build or buy.
+  - build or buy
 dependencies:
   references:
     - SYSE.1

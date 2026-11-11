@@ -2,15 +2,7 @@
 id: E.14
 title: "Human-Centric Working-Model: Readable Claims and Recoverable Assurance"
 status: Stable
-keywords:
-  - "Keep the readable Working-Model claim first and its necessary support recoverable underneath. Stop with the direct claim when no current assurance requirement applies"
-  - otherwise expose only the Mapping
-  - Logical
-  - Constructive
-  - "or Empirical support the use requires. Questions: "How can practitioners use a claim without reading all its assurance machinery first?"
-  - "When is a separate assurance account needed?" Direct claim validity"
-  - Work
-  - gate passage and permission remain with their governing patterns
+keywords: []
 dependencies:
   builds_on:
     - E.7

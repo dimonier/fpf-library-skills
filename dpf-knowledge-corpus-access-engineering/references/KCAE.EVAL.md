@@ -7,7 +7,6 @@ keywords:
   - ablation
   - no useful answer
   - update trial
-  - "“Which change earns adoption?”"
 dependencies:
   references:
     - KCAE.USE

@@ -2,15 +2,7 @@
 id: C.3.3
 title: "`KindBridge` and `CL^k` — Correspondence between Distinct Kinds"
 status: Stable
-keywords:
-  - "Compares kind identity first. Same-kind reuse needs no bridge"
-  - "a candidate-bearing use requires a fresh receiving judgment. For independently identified distinct kinds"
-  - "governs one obtaining directional `KindBridge`"
-  - its separate assertion
-  - preservation/loss
-  - "and R-only `CL^k` consequence. *Queries:* "Are these actually two kinds?"
-  - "What exact correspondence obtains?"
-  - "Was receiving classification evaluated afresh?"
+keywords: []
 dependencies:
   builds_on:
     - C.3.1

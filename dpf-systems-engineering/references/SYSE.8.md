@@ -12,7 +12,7 @@ keywords:
   - support
   - financing
   - conditional payment
-  - risk allocation.
+  - risk allocation
 dependencies:
   references:
     - SYSE.2

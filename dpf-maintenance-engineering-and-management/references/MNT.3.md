@@ -7,17 +7,14 @@ keywords:
   - mechanism
   - cause
   - exposure
-  - "censoring. Query: "What does the failure history actually support?" Separate observation"
-  - diagnosis and consequence at the resolution needed by the decision.
+  - censoring
 dependencies:
   references:
     - MNT.1
     - MNT.4
     - MNT.12
     - A.10
-    - Spec.md
     - C.16
-    - Spec.md
 ---
 
 # MNT.3: Establish Degradation and Failure Evidence for Maintenance
@@ -25,7 +22,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a fault code, alarm or repair history leaves the mechanism or consequence needed for a maintenance decision unclear.
 > **First move:** State the functioning question and the failure claim that would change the decision. Separate a complete loss, degraded contribution and loss of a protective function.
 >
-> **Governing patterns:** `references/MNT.1.md` `references/MNT.4.md` `references/MNT.12.md` `references/A.10.md` `references/Spec.md.md` `references/C.16.md`
+> **Governing patterns:** `references/MNT.1.md` `references/MNT.4.md` `references/MNT.12.md` `references/A.10.md` `references/C.16.md`
 
 ---
 

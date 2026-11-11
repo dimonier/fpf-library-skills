@@ -15,7 +15,7 @@ keywords:
   - predictive memory
   - prediction
   - simulation
-  - calibration.
+  - calibration
 dependencies:
   builds_on:
     - A.1.1

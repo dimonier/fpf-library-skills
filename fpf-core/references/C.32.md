@@ -10,7 +10,7 @@ keywords:
   - "selected-structure contribution rows"
   - candidate configurations
   - "trade-off front"
-  - retained alternatives.
+  - retained alternatives
 dependencies:
   builds_on:
     - C.30

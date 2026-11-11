@@ -11,7 +11,7 @@ keywords:
   - event
   - recording
   - stream
-  - intended use.
+  - intended use
 dependencies:
   references:
     - MDPE.3

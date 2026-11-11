@@ -3,21 +3,14 @@ id: A.6.1
 title: "U.Mechanism - Reusable Law-Governed Operation Declaration"
 status: Stable
 keywords:
-  - "Keywords: U.Mechanism"
+  - U.Mechanism
   - operation declaration
   - OperationAlgebra
   - operation application
   - application binding
   - LawSet
   - AdmissibilityConditions
-  - "realization. Queries: "How do I declare a reusable operation family?"
-  - "When does one exact operation application or binding obtain?"
-  - How do I separate declaration
   - realization
-  - method
-  - Work
-  - evidence
-  - "and publication?"
 dependencies:
   builds_on:
     - A.6.0

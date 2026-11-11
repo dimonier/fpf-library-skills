@@ -2,9 +2,7 @@
 id: SIE.5
 title: "Resolve Cross-Source Identity without Erasing Identifier Authority"
 status: Stable
-keywords:
-  - Do these source endpoints concern the same entity at the required grain and interval
-  - or another relation
+keywords: []
 dependencies:
   references:
     - SIE.2

@@ -23,7 +23,7 @@ keywords:
   - C.2.1 result episteme
   - comparability
   - provenance
-  - bounded later use.
+  - bounded later use
 dependencies:
   builds_on:
     - A.17

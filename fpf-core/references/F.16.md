@@ -11,7 +11,7 @@ keywords:
   - evidence
   - optional cell
   - optional comparison table
-  - boundary.
+  - boundary
 dependencies:
   builds_on:
     - F.1

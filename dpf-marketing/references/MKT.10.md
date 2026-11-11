@@ -7,7 +7,6 @@ keywords:
   - effect
   - uncertainty
   - cost
-  - What did the intervention change and what follows economically
 dependencies:
   references:
     - MKT.5

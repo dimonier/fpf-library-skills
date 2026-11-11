@@ -2,10 +2,7 @@
 id: OPS.11.1
 title: Construct and Reconcile Operating Models Across Scales
 status: Stable
-keywords:
-  - How can an operating arrangement be constructed from the needed result
-  - and its local routes
-  - shared resources and receiving completion be modeled together
+keywords: []
 dependencies:
   references:
     - OPS.11

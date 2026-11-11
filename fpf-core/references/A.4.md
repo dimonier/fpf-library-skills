@@ -8,7 +8,7 @@ keywords:
   - comparison criterion
   - conformance
   - discrepancy
-  - missing basis.
+  - missing basis
 dependencies:
   builds_on:
     - A.1

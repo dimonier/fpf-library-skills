@@ -7,7 +7,6 @@ keywords:
   - authority
   - source boundary
   - build or reuse
-  - "“What must this access system make possible?”"
 dependencies:
   references:
     - F.1

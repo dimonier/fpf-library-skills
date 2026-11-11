@@ -11,7 +11,7 @@ keywords:
   - method docking
   - publication projection
   - no average
-  - repair target.
+  - repair target
 dependencies:
   builds_on:
     - C.32.PAD

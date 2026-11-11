@@ -2,10 +2,7 @@
 id: C.40.CU
 title: Develop a Useful and Reproducible Use of a Construct
 status: Stable
-keywords:
-  - Use when an unfamiliar response or a possible use beyond the assigned function needs to become a useful repeatable application. Let the receiving use select the worthwhile probe
-  - compare whole ways of obtaining that use
-  - realize the arrangement and make its conditions and operations recoverable for another occasion or performer. A changed deadline or receiving condition can require a different arrangement without invalidating the original response
+keywords: []
 dependencies:
   builds_on:
     - C.40

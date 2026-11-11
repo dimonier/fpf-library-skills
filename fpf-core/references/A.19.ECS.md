@@ -2,15 +2,12 @@
 id: A.19.ECS
 title: "Evaluation CharacteristicSpace Construction: Define What Counts as Better"
 status: Stable
-keywords:
-  - "Guides construction or repair of an evaluation for one object kind and use: characteristics"
-  - scale meanings
-  - evidence
-  - missing observations
-  - calibration and boundaries
+keywords: []
 dependencies:
   builds_on:
-    - "A.17-A.19"
+    - A.17
+    - A.18
+    - A.19
     - C.16
     - F.18
   coordinates_with:
@@ -29,7 +26,7 @@ dependencies:
 > **Problem frame:** `A.19` says how a `CharacteristicSpace` is structured: declared characteristics, declared scales, slots, value sets, declared coordinate groups, and no hidden normalization or aggregation.
 > **First move:** Construct an evaluation specification that declares an A.19 `CharacteristicSpace` and its use. The space contains the characteristic slots, Scale bindings and value meanings.
 >
-> **Governing patterns:** `references/A.17-A.19.md` `references/C.16.md` `references/F.18.md` `references/E.22.md` `references/E.23.md` `references/C.25.md` `references/E.21.md` `references/E.9.DA.md`
+> **Governing patterns:** `references/A.17.md` `references/A.18.md` `references/A.19.md` `references/C.16.md` `references/F.18.md` `references/E.22.md` `references/E.23.md` `references/C.25.md`
 
 ---
 

@@ -10,7 +10,7 @@ keywords:
   - measurement
   - inspection
   - evidence use
-  - validity boundary.
+  - validity boundary
 dependencies:
   references:
     - SYSE.10

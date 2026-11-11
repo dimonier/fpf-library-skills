@@ -2,8 +2,7 @@
 id: OPS.8.2
 title: Use Protective Capacity While Keeping It Available
 status: Stable
-keywords:
-  - Which auxiliary work can use idle reserve while its completion or interruption preserves the required service
+keywords: []
 dependencies:
   references:
     - OPS.8

@@ -2,19 +2,7 @@
 id: E.10.DEV
 title: Recovering What Development or Evolution Means in the Current Claim
 status: Stable
-keywords:
-  - After F.19 and compact E.10 routing
-  - use when development or evolution wording still hides the changed or represented subject
-  - continuity or membership
-  - posture
-  - direction or value basis
-  - or direct owner. Returns one repaired direct claim
-  - "ordinary or quoted non-use"
-  - missing information
-  - exact architecture gap
-  - blocker
-  - or stop
-  - "an explanatory guard is optional under F.19:4's plausible-reader test"
+keywords: []
 dependencies:
   builds_on:
     - F.19

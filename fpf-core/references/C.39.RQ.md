@@ -2,10 +2,7 @@
 id: C.39.RQ
 title: Construct Situated Method Requirements
 status: Stable
-keywords:
-  - A desired result does not yet determine what a Method and its performance must satisfy. Construct situated requirements on the contribution
-  - performer and provision
-  - with alternatives and revisable conditions
+keywords: []
 dependencies:
   references:
     - C.39.MF

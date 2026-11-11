@@ -193,7 +193,9 @@ def _governing_paths(meta: dict[str, Any]) -> list[str]:
             continue
         for pid in rel_ids:
             pid = str(pid).strip()
-            if pid and pid not in ids:
+            # A file-like token would produce `references/Spec.md.md`; reject it even
+            # if a caller hands us raw frontmatter written before the parser fix.
+            if pid and not pid.lower().endswith(".md") and pid not in ids:
                 ids.append(pid)
     return [f"`references/{pid}.md`" for pid in ids[:8]]
 

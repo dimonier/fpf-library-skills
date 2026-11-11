@@ -8,7 +8,7 @@ keywords:
   - error
   - feedback
   - assistance
-  - retry.
+  - retry
 dependencies:
   references:
     - EXD.1

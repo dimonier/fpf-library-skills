@@ -12,7 +12,7 @@ keywords:
   - uncertainty
   - transition
   - option effects
-  - marginal contribution.
+  - marginal contribution
 dependencies:
   builds_on:
     - C.2.1

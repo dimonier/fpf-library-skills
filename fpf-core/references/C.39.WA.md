@@ -2,11 +2,7 @@
 id: C.39.WA
 title: Develop an Account of the Whole Subject
 status: Stable
-keywords:
-  - An explanation or review concerns an organized whole or broad field. Develop its common grounds and relations
-  - bring them back to choices about parts
-  - connect varied cases to the explicit subject
-  - and compare the actual account with the original question
+keywords: []
 dependencies:
   references:
     - C.39.QR

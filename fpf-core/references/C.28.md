@@ -3,23 +3,7 @@ id: C.28
 title: "CausalUse-CAL: Causal-Use Questions, Identification, and Realizability"
 status: Stable
 keywords:
-  - "causal-use question"
-  - causality ladder
-  - association
-  - intervention
-  - counterfactual
-  - Pearl Causal Hierarchy
-  - Structural Causal Model
-  - causal diagram
-  - causal estimand
-  - identification
-  - counterfactual sampling realizability
-  - causal support components
-  - CausalUseSupportResult
-  - target trial
-  - causal fairness
-  - "off-policy causal evaluation"
-  - "causal-RL evaluation."
+  - "causal-use"
 dependencies:
   builds_on:
     - A.10

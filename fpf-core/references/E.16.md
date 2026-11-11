@@ -7,7 +7,7 @@ keywords:
   - guarded enactment
   - autonomy ledger
   - override speech act
-  - scout/probe/commit checkpoint.
+  - scout/probe/commit checkpoint
 dependencies:
   builds_on:
     - A.13

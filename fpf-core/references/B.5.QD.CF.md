@@ -2,13 +2,7 @@
 id: B.5.QD.CF
 title: Reformulate a Problem by Examining Its Conflicting Assumptions
 status: Stable
-keywords:
-  - Use when needed outcomes appear incompatible and examining their premises could reveal another way. Recover the need
-  - expose an assumed necessity or shared condition
-  - construct a new question or candidate way
-  - "and return to the retained requirements. *Queries:* "Which assumption makes these requirements conflict?"
-  - "Is this means necessary?"
-  - "What remains impossible under the retained conditions?"
+keywords: []
 dependencies:
   coordinates_with:
     - C.40.CD

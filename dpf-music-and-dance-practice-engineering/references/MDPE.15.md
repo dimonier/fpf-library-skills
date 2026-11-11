@@ -10,7 +10,7 @@ keywords:
   - rule
   - tool
   - Method
-  - observed result.
+  - observed result
 dependencies:
   references:
     - MDPE.6

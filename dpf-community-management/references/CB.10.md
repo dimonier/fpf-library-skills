@@ -3,7 +3,7 @@ id: CB.10
 title: Understand the Value of Participation and Cultural Work
 status: Stable
 keywords:
-  - "What value occurred? Stories"
+  - Stories
   - observations
   - failure and burden
 dependencies:

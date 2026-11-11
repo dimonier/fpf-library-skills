@@ -6,7 +6,7 @@ keywords:
   - equivariant choice
   - stabilizer
   - symmetry obstruction
-  - additional data. Can one allowed answer be chosen consistently with symmetry
+  - additional data
 dependencies:
   references:
     - MATH.8

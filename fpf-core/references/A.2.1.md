@@ -9,7 +9,7 @@ keywords:
   - assignment predicate
   - identity
   - maximal interval
-  - "`performedUnderAssignment`."
+  - "`performedUnderAssignment`"
 dependencies:
   builds_on:
     - A.2

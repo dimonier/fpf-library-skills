@@ -2,9 +2,7 @@
 id: HCD.4
 title: Architect a Balanced Human Capability Profile Across Simultaneous Work
 status: Stable
-keywords:
-  - Which contributions should be preserved or developed
-  - and what local model explains possible qualitative changes
+keywords: []
 dependencies:
   references:
     - HCD.1

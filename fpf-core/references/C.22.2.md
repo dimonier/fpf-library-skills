@@ -2,27 +2,7 @@
 id: C.22.2
 title: ProblemCard
 status: Stable
-keywords:
-  - Constitutes one compact C.2.1 episteme from one exact ClaimGraph
-  - one independently identified joint EntityOfConcern
-  - "and one effective reference scheme. Preserves actual PFR assertion versus anticipated-condition or solvability claims"
-  - evidence/currentness boundaries
-  - unknowns
-  - and honest next use without turning a setting
-  - carrier
-  - organization
-  - task
-  - method
-  - plan
-  - "or Work occurrence into its identity. *Queries:* "How do I turn a messy signal into a reviewable ProblemCard episteme before P2W?"
-  - "What makes a ProblemCard P2W-ready?"
-  - How do I keep actual PFR
-  - evidence
-  - gates
-  - autonomy
-  - archives
-  - task typing
-  - "and method selection with their neighboring governors?"
+keywords: []
 dependencies:
   builds_on:
     - C.2.1

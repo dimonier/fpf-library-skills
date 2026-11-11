@@ -2,12 +2,7 @@
 id: C.41.OF
 title: Fit a Checklist to Its Occasion of Use
 status: Stable
-keywords:
-  - A useful checklist cannot be applied truthfully at the intended moment. Fit cues
-  - access
-  - capabilities
-  - time and support to the occasion
-  - distinguish assisted success from ordinary use
+keywords: []
 dependencies:
   references:
     - C.41

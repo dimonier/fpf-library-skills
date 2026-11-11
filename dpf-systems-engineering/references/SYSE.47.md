@@ -9,7 +9,7 @@ keywords:
   - written procedure
   - controller
   - recovery
-  - stop.
+  - stop
 dependencies:
   references:
     - SYSE.25

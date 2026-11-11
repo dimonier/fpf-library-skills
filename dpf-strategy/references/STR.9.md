@@ -8,7 +8,7 @@ keywords:
   - regret
   - option value
   - reversal
-  - whole cost.
+  - whole cost
 dependencies:
   references:
     - STR.6

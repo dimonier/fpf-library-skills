@@ -2,12 +2,7 @@
 id: A.3.1.MI
 title: Introduce a Method into Practice and Decide What to Keep or Change
 status: Stable
-keywords:
-  - Bring a selected Method into actual practice
-  - distinguish Method use from changes in descriptions or provision
-  - observe receiving results
-  - and decide what to retain
-  - revise or stop
+keywords: []
 dependencies:
   references:
     - A.3.1

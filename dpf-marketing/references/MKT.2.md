@@ -7,7 +7,6 @@ keywords:
   - positioning
   - alternatives
   - useful contribution
-  - What can we promise and how is it different
 dependencies:
   references:
     - MKT.1

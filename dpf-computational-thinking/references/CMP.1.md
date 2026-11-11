@@ -8,8 +8,7 @@ keywords:
   - input conversion
   - answer recovery
   - computability
-  - complexity. Can this problem be solved through another one
-  - and in which direction does a limit transfer
+  - complexity
 dependencies:
   references:
     - C.29.2

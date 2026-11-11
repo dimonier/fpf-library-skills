@@ -7,16 +7,12 @@ keywords:
   - asset System
   - portfolio
   - service
-  - "horizon. Query: "Which options should we compare for this asset or portfolio"
-  - "for what service and period?" Agree the asset options"
-  - required service
-  - comparison period and decision maker.
+  - horizon
 dependencies:
   references:
     - EAM.2
     - EAM.3
     - A.1.SCR
-    - Spec.md
 ---
 
 # EAM.1: Frame the Engineered Assets and Required Outcomes
@@ -24,7 +20,7 @@ dependencies:
 > **Problem frame:** Use this pattern when an asset decision lacks a clear service or value question. A pump has become expensive to maintain, an asset register has been completed, or a replacement budget is available, but the practitioner still needs to establ …
 > **First move:** Name the recipient and the requested result. Distinguish advice about options, a choice among them and authorization to act.
 >
-> **Governing patterns:** `references/EAM.2.md` `references/EAM.3.md` `references/A.1.SCR.md` `references/Spec.md.md`
+> **Governing patterns:** `references/EAM.2.md` `references/EAM.3.md` `references/A.1.SCR.md`
 
 ---
 

@@ -9,7 +9,7 @@ keywords:
   - viewpoint conformance
   - hidden and lost structure
   - correspondence
-  - source return.
+  - source return
 dependencies:
   builds_on:
     - C.30.P

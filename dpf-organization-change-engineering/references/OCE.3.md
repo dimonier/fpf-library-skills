@@ -8,8 +8,7 @@ keywords:
   - coordination
   - independent decisions
   - economic mandate
-  - "initiative. Questions: Which materially different organization concepts are worth comparing? What authority"
-  - "preparation and support let participants make independent decisions whose contributions remain usable together?"
+  - initiative
 dependencies:
   references:
     - OCE.1

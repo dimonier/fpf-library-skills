@@ -2,10 +2,7 @@
 id: E.24.PUB
 title: "Episteme Publication: Availability, Form and Carrier"
 status: Stable
-keywords:
-  - Identify the episteme edition made available
-  - its audience and bounded use
-  - particular expression and carrier
+keywords: []
 dependencies:
   builds_on:
     - E.24

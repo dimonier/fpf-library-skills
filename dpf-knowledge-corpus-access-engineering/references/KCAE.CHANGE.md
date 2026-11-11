@@ -8,7 +8,6 @@ keywords:
   - deletion
   - generation
   - recovery
-  - "“What remains usable after this update?”"
 dependencies:
   references:
     - KCAE.SOURCE

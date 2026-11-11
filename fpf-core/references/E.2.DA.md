@@ -2,15 +2,7 @@
 id: E.2.DA
 title: "Evaluate How FPF Realizes Its Pillars (Pillar-Adequacy CharacteristicSpace)"
 status: Stable
-keywords:
-  - Evaluate one declared FPF edition
-  - corpus slice
-  - family or publication/access change against all eleven E.2 Pillars. Return justified ordinal values
-  - "affected-use findings"
-  - a local stop or first repair
-  - and a reopen condition. E.2 defines the Pillars
-  - E.21 evaluates one pattern
-  - and E.9.DA one DRR
+keywords: []
 dependencies:
   builds_on:
     - E.2

@@ -2,14 +2,7 @@
 id: E.19
 title: "Pattern Quality Gates: Review and Refresh Profiles"
 status: Stable
-keywords:
-  - Reviews one exact new
-  - materially revised
-  - "or aging FPF pattern or bounded subset for practical use and return-for-repair decisions. For a material edition"
-  - "run one stable-candidate replay beginning with the bounded E.8 loop"
-  - "then inspect only materially affected predecessor or candidate-only uses and the changed normative wording groups inside them. Complete the selected scope in either form: inspect-repair-verify repairs and rechecks every in-scope defect"
-  - "the independent-findings form leaves the candidate unchanged and returns one complete actionable findings set. Create neither a per-probe progress store nor a clean-use recital"
-  - "E.21 separately owns ordinal pattern-quality values and status"
+keywords: []
 dependencies:
   builds_on:
     - E.8

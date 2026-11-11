@@ -2,15 +2,7 @@
 id: A.3.3.PI
 title: Retain the Information Needed for Prediction
 status: Stable
-keywords:
-  - Use when a present description leaves a needed future result unresolved
-  - or a simpler predictive account may suffice. Compare merged situations under the same law and inputs
-  - retain additional state
-  - history
-  - "a probability distribution or a sufficient bound. *Queries:* "Which hidden difference changes the forecast?"
-  - "How much history is needed?"
-  - "Can a bound settle the question?"
-  - "Does reading error invalidate the answer?"
+keywords: []
 dependencies:
   coordinates_with:
     - A.3.3

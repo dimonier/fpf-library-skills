@@ -9,7 +9,7 @@ keywords:
   - transmission
   - retention
   - branching
-  - intervention.
+  - intervention
 dependencies:
   references:
     - SYSE.20

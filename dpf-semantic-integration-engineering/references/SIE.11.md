@@ -2,12 +2,18 @@
 id: SIE.11
 title: Trace Semantic Change and Revalidate Affected Uses
 status: Stable
-keywords:
-  - Which receiving results depend on the changed semantic premise
-  - and what can now continue
+keywords: []
 dependencies:
   references:
-    - "SIE.2-SIE.10"
+    - SIE.2
+    - SIE.3
+    - SIE.4
+    - SIE.5
+    - SIE.6
+    - SIE.7
+    - SIE.8
+    - SIE.9
+    - SIE.10
     - A.10.1
 ---
 
@@ -16,7 +22,7 @@ dependencies:
 > **Problem frame:** **Use this when** a relied-on source definition, model commitment, identifier meaning, mapping premise, or interface interpretation changes and the integration's continued use needs a decision.
 > **First move:** Follow the changed proposition through actual semantic dependencies to the results and receiving uses it can alter. Complete supported branches at their proper scope. Assemble a wider account only for a receiver that needs it.
 >
-> **Governing patterns:** `references/SIE.2-SIE.10.md` `references/A.10.1.md`
+> **Governing patterns:** `references/SIE.2.md` `references/SIE.3.md` `references/SIE.4.md` `references/SIE.5.md` `references/SIE.6.md` `references/SIE.7.md` `references/SIE.8.md` `references/SIE.9.md`
 
 ---
 

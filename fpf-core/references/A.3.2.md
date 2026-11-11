@@ -8,7 +8,7 @@ keywords:
   - "exact `U.Method` EntityOfConcern"
   - "substantive way-of-doing claim"
   - same method versus equivalent descriptions
-  - representation versus publication versus plan versus Work.
+  - representation versus publication versus plan versus Work
 dependencies:
   builds_on:
     - C.2.1

@@ -2,9 +2,7 @@
 id: C.41.SR
 title: Reconcile Checklist Results Across Shared Work
 status: Stable
-keywords:
-  - Local answers from contributing work do not yet justify a common result. Reconcile claims
-  - interfaces and dependencies and keep changed conditions visible to the receiving action
+keywords: []
 dependencies:
   references:
     - C.41.UA

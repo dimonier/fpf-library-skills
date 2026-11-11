@@ -10,7 +10,7 @@ keywords:
   - provision
   - renewal
   - criteria
-  - local arrangement.
+  - local arrangement
 dependencies:
   references:
     - MDPE.13

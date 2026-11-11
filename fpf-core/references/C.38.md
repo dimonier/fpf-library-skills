@@ -2,26 +2,7 @@
 id: C.38
 title: Construct Comparable Ways to Obtain One Result
 status: Stable
-keywords:
-  - "Use when labels such as *build*"
-  - "*buy*"
-  - "*reuse*"
-  - "*provider*"
-  - "*internal*"
-  - "*outsource*"
-  - "or *AI* do not yet describe comparable complete ways to obtain the same result. Fix one result"
-  - use
-  - situation
-  - horizon
-  - and acceptance basis
-  - "construct at least two materially different complete-enough ways on one parity basis"
-  - keep supported
-  - proposed
-  - and unknown premises visible
-  - then hand the finite set to C.11 without claiming actual Work
-  - provision
-  - acceptance
-  - or availability
+keywords: []
 dependencies:
   builds_on:
     - A.10

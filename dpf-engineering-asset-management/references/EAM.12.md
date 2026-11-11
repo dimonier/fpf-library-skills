@@ -6,7 +6,7 @@ keywords:
   - recommendation
   - specialist result
   - decision
-  - "authorization. Query: "What supported answer is requested and who makes the asset decision?" Integrate applicable results and distinguish advice from actual authorization."
+  - authorization
 dependencies:
   references:
     - EAM.1
@@ -14,9 +14,7 @@ dependencies:
     - EAM.10
     - EAM.11
     - A.6.F
-    - Spec.md
     - A.10
-    - Spec.md
 ---
 
 # EAM.12: Integrate Specialist Results for an Asset Recommendation or Decision
@@ -24,7 +22,7 @@ dependencies:
 > **Problem frame:** Use this pattern when an asset recommendation or decision must combine specialist answers. Finance reports affordability, maintenance recommends an intervention and operation offers an outage, but somebody must determine whether those answe …
 > **First move:** Name the decision and recipient. Establish whether the practitioner is asked to recommend an option, select it within delegated scope or authorize a specified action.
 >
-> **Governing patterns:** `references/EAM.1.md` `references/EAM.9.md` `references/EAM.10.md` `references/EAM.11.md` `references/A.6.F.md` `references/Spec.md.md` `references/A.10.md`
+> **Governing patterns:** `references/EAM.1.md` `references/EAM.9.md` `references/EAM.10.md` `references/EAM.11.md` `references/A.6.F.md` `references/A.10.md`
 
 ---
 

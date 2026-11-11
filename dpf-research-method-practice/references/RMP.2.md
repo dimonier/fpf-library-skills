@@ -2,11 +2,7 @@
 id: RMP.2
 title: "Choose a Criticism-Bearing Research Design or Stop"
 status: Stable
-keywords:
-  - Is evidence sufficient
-  - is a useful obtainable design justified
-  - is selection held
-  - "or is a qualified no-new-study answer warranted"
+keywords: []
 dependencies:
   references:
     - RMP.1

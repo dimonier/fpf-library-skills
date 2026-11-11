@@ -10,7 +10,7 @@ keywords:
   - pointer
   - evidence loss
   - tool view
-  - recovery.
+  - recovery
 dependencies:
   references:
     - SYSE.42

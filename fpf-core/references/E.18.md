@@ -2,20 +2,7 @@
 id: E.18
 title: Transformation Flow Structure
 status: Stable
-keywords:
-  - "Selects one exact transformation-flow structure whose participant positions resolve to independently identified constituents"
-  - including independently grounded transformations and adjacent governed values
-  - and whose connection positions resolve to selected obtaining relations with their complete participants. It supports local valuations
-  - paths
-  - crossings
-  - "and parent-relative `SubflowRef` portions. Selected adjacency and relation occurrences do not by themselves establish composition of the transformations. A structural `GateCrossing` identifies changed state bindings at one A.21 gate"
-  - "it does not establish an F.9 semantic `Bridge`"
-  - which requires two exact F.17 cells and its own obtaining relation while bounded use and reliance remain separate. Several valuations or one internal subflow do not create a network
-  - "independently identified TFS values connected across their boundaries return to E.18.NET. *Queries:* "Is this one TFS"
-  - one internal subflow
-  - "or independently identified members?"
-  - "Which state remains local to this TFS position?"
-  - "When is the visible graph a mathematical description or publication rather than the selected structure?"
+keywords: []
 dependencies:
   builds_on:
     - A.3.4

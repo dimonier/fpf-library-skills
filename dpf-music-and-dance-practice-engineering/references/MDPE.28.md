@@ -9,7 +9,7 @@ keywords:
   - next action
   - participation
   - help
-  - disappointment.
+  - disappointment
 dependencies:
   references:
     - MDPE.5

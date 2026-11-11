@@ -12,7 +12,7 @@ keywords:
   - consequences
   - "method-use instruction"
   - supersession
-  - publication boundary.
+  - publication boundary
 dependencies:
   builds_on:
     - C.32.PAD

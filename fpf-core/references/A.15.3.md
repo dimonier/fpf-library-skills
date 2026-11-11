@@ -15,7 +15,7 @@ keywords:
   - edition pin
   - "open-world omission"
   - baseline replay
-  - no actuality by plan.
+  - no actuality by plan
 dependencies:
   builds_on:
     - C.2.1

@@ -2,19 +2,7 @@
 id: E.9
 title: "Design-Rationale Record (DRR) for FPF Content Decisions"
 status: Stable
-keywords:
-  - Records one bounded FPF content decision as a readable working problem
-  - positive selected answer
-  - practical change
-  - selected loci and obligations
-  - first drafting action
-  - rationale and consequences
-  - and boundary or reopen condition. Exact method
-  - work
-  - "`ClaimGraph`"
-  - assessment
-  - or authority identities are conditional on the decision or named reliance. A broad authoring rule is piloted on an actual predecessor/proposed host pair before fanout
-  - only material alternatives and Pillar or lens effects remain in the current record
+keywords: []
 dependencies:
   references:
     - E.2

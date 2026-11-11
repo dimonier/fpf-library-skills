@@ -2,10 +2,7 @@
 id: E.8.ML
 title: Construct a Pattern Language for Connected Methods
 status: Stable
-keywords:
-  - Recurring Method questions need a connected language. Construct independently usable bodies and their result dependencies
-  - alternatives and returns
-  - retaining a sufficient direct description as an exit
+keywords: []
 dependencies:
   references:
     - E.8

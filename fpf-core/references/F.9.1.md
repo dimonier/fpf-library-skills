@@ -10,7 +10,7 @@ keywords:
   - operationalization
   - partial analogy
   - projection
-  - "non-equivalence."
+  - "non-equivalence"
 dependencies:
   builds_on:
     - F.9

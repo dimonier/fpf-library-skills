@@ -9,7 +9,7 @@ keywords:
   - model derivation
   - document access
   - operator interaction
-  - changed use.
+  - changed use
 dependencies:
   builds_on:
     - C.2.1

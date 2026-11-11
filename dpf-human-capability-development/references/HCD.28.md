@@ -2,10 +2,7 @@
 id: HCD.28
 title: Construct and Revise a Whole Learning Product for a Future Audience
 status: Stable
-keywords:
-  - Which connected product can a future audience use
-  - and which subject
-  - teaching or supply contribution is missing
+keywords: []
 dependencies:
   references:
     - HCD.5

@@ -2,10 +2,7 @@
 id: OPS.10.1
 title: Construct and Compare Operating Capacity Models
 status: Stable
-keywords:
-  - Which service model answers the capacity question
-  - and how do variation
-  - dependence and the completion criterion change the comparison
+keywords: []
 dependencies:
   references:
     - OPS.10

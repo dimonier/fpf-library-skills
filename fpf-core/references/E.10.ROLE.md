@@ -11,7 +11,7 @@ keywords:
   - interface place
   - representation position
   - responsibility
-  - ordinary wording.
+  - ordinary wording
 dependencies:
   builds_on:
     - E.10

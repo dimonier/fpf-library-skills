@@ -2,12 +2,7 @@
 id: A.11
 title: Ontological Parsimony
 status: Stable
-keywords:
-  - Tests one proposed durable ontology addition against the best existing governed expression
-  - bounded overlap
-  - "action-facing contribution"
-  - "and nearest excluded case for the exact receiving use and facts. Relation-kind candidates keep the exact `A.6.P` / `A.6.RCD` outcome. *Queries:* "What existing governed expression already carries this claim or use?"
-  - "What exact loss and boundary justify the addition?"
+keywords: []
 dependencies:
   builds_on:
     - E.24.UK

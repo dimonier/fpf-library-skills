@@ -11,7 +11,7 @@ keywords:
   - lineage
   - borrowing
   - reconstruction
-  - provenance.
+  - provenance
 dependencies:
   references:
     - A.3.1.MR

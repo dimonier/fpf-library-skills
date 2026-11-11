@@ -2,14 +2,7 @@
 id: B.1.3
 title: "Knowledge Aggregation (Γ_epist): Synthesis and Target-Scheme Compilation"
 status: Stable
-keywords:
-  - Synthesize exact epistemes for a named question
-  - or compile an existing synthesis into one target reference scheme. Preserve source contributions
-  - dependencies
-  - "conflicts and mapping limits. Return a justified aggregate calculation or a bounded reasoned synthesis without a common score. *Queries:* "How do I synthesize claims from heterogeneous sources?"
-  - Which support can be combined
-  - "and which must stay separate?"
-  - "How do I compile the result for another reference scheme?"
+keywords: []
 dependencies:
   builds_on:
     - B.1

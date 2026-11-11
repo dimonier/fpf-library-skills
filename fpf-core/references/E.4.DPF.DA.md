@@ -2,11 +2,7 @@
 id: E.4.DPF.DA
 title: "Evaluate a DPF or LPF Package for Its Declared Use (Package-Adequacy CharacteristicSpace)"
 status: Stable
-keywords:
-  - Evaluate one exact domain or local framework edition for a declared package use with all D1–D12 ordinal claims
-  - "applicable publication-form checks"
-  - "a bounded package status and actionable repair findings. Test field coverage and first-use completeness separately from individual pattern scores or form conformance. E.21 evaluates one pattern"
-  - E.2.DA evaluates FPF's realization of its Pillars
+keywords: []
 dependencies:
   builds_on:
     - E.4.DPF

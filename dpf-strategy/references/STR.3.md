@@ -7,7 +7,7 @@ keywords:
   - framing
   - problem
   - opportunity
-  - values.
+  - values
 dependencies:
   references:
     - PSDA.1

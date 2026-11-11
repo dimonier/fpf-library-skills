@@ -12,7 +12,7 @@ keywords:
   - evidence use
   - NameCard
   - term row
-  - reuse.
+  - reuse
 dependencies:
   builds_on:
     - A.2

@@ -2,12 +2,7 @@
 id: E.7
 title: "Archetypal Grounding: Explain Rules of FPF Architectural Patterns through Cases"
 status: Stable
-keywords:
-  - Make an architectural rule and its applicability concrete through System and Episteme cases. Use both where the rule spans both
-  - "state and justify a genuine single-substrate boundary. The cases show application and expose limits"
-  - universality needs its own warranted basis. E.8 supplies the section form
-  - E.5.4 the bias lenses
-  - "and A.8 the distinct universal-core U-kind test"
+keywords: []
 dependencies:
   builds_on:
     - E.6

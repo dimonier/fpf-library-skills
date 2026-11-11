@@ -2,13 +2,7 @@
 id: SIE.8
 title: "Choose Virtual, Materialized, or Hybrid Semantic Realization"
 status: Stable
-keywords:
-  - Which available realization can meet the semantic
-  - freshness
-  - access
-  - provenance
-  - recovery
-  - and combined resource conditions
+keywords: []
 dependencies:
   references:
     - SIE.1

@@ -2,10 +2,7 @@
 id: IS.7
 title: Facilitate a Practice Change with Its Participants and Context
 status: Stable
-keywords:
-  - Which interaction defeats the intended practice
-  - what should change
-  - and who can provide it
+keywords: []
 dependencies:
   references:
     - IS.3

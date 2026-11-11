@@ -8,7 +8,6 @@ keywords:
   - deployment
   - capacity
   - cash
-  - Can ordinary work sustain the proposed scale
 dependencies:
   references:
     - MKT.1

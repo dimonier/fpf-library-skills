@@ -16,18 +16,22 @@ keywords:
   - "`SpecialistHandoff`"
   - abstain/escalation result
   - basis pins
-  - no hidden scalar winner.
+  - no hidden scalar winner
 dependencies:
   builds_on:
     - G.Core
     - G.0
-    - "G.2-G.4"
+    - G.2
+    - G.3
+    - G.4
     - G.6
   coordinates_with:
     - C.11
     - C.19
     - C.24
-    - "G.9-G.11"
+    - G.9
+    - G.10
+    - G.11
 ---
 
 # G.5: Method-Family Registry, Dispatch and Selected-Set Result Declaration
@@ -36,7 +40,7 @@ dependencies:
 > **Problem frame:** The exact `CG‑Frame` card from **G.1** and `SoTA Synthesis Pack@CG‑Frame` from **G.2** name the frame, `EntityOfConcernRef`, ReferencePlane, source rows, and rival internally coherent **method families** (and sometimes **generator families* …
 > **First move:** **Builds on:** `G.Core` (Part‑G core invariants; Default Governing Definition Index citation)
 >
-> **Governing patterns:** `references/G.Core.md` `references/G.0.md` `references/G.2-G.4.md` `references/G.6.md` `references/C.11.md` `references/C.19.md` `references/C.24.md` `references/G.9-G.11.md`
+> **Governing patterns:** `references/G.Core.md` `references/G.0.md` `references/G.2.md` `references/G.3.md` `references/G.4.md` `references/G.6.md` `references/C.11.md` `references/C.19.md`
 
 ---
 

@@ -2,10 +2,7 @@
 id: OPS.14
 title: "Relate Throughput, Cash, and Operating Consequences"
 status: Stable
-keywords:
-  - What service
-  - resource
-  - payment and receipt differences change the operating choice
+keywords: []
 dependencies:
   references:
     - OPS.10

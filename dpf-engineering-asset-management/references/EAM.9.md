@@ -8,9 +8,7 @@ keywords:
   - conflicting choices
   - funding
   - service mandate
-  - "simultaneous work. Query: "Which asset alternative is supported"
-  - "and what unresolved conflict remains?" Compare eligible asset alternatives and identify any conflicting service"
-  - funding or work condition and the decision needed to resolve it.
+  - simultaneous work
 dependencies:
   references:
     - EAM.6
@@ -18,7 +16,6 @@ dependencies:
     - EAM.11
     - EAM.12
     - C.32.MWA
-    - Spec.md
 ---
 
 # EAM.9: Compare Asset Alternatives and Reconcile Decisions When They Conflict
@@ -26,7 +23,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a proposed asset choice must satisfy different technical, service, financial or operating conditions, or when individually reasonable decisions cannot hold together.
 > **First move:** Name the alternatives, receiving service and horizon. Recover the conditions that determine eligibility and their sources.
 >
-> **Governing patterns:** `references/EAM.6.md` `references/EAM.10.md` `references/EAM.11.md` `references/EAM.12.md` `references/C.32.MWA.md` `references/Spec.md.md`
+> **Governing patterns:** `references/EAM.6.md` `references/EAM.10.md` `references/EAM.11.md` `references/EAM.12.md` `references/C.32.MWA.md`
 
 ---
 

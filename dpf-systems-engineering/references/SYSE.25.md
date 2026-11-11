@@ -7,7 +7,7 @@ keywords:
   - practitioner tasks
   - failed attempts
   - transferred burden
-  - competing hypotheses.
+  - competing hypotheses
 dependencies:
   references:
     - SYSE.12

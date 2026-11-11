@@ -2,11 +2,7 @@
 id: A.3.2.DE
 title: Describe a Method for Its Intended Use
 status: Stable
-keywords:
-  - A way of working is understood but its description leaves the intended user unable to perform or adapt it. Develop the operations
-  - reasons
-  - conditions
-  - examples and returns for that use
+keywords: []
 dependencies:
   references:
     - A.3.2

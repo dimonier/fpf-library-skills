@@ -7,20 +7,15 @@ keywords:
   - information flow
   - responsibility
   - management system
-  - "arrangement. Query: "What in the organization of asset work prevents timely"
-  - "supported decisions?" Compare feasible changes to responsibilities"
-  - information flow or support with keeping the current arrangement.
+  - arrangement
 dependencies:
   references:
     - EAM.13
     - EAM.15
     - EAM.16
     - OPS.11
-    - FRAMEWORK.md
     - OCE.9
-    - FRAMEWORK.md
     - C.11.DUA
-    - Spec.md
 ---
 
 # EAM.14: Decide Whether and How to Change the Asset-Management System
@@ -28,7 +23,7 @@ dependencies:
 > **Problem frame:** Use this pattern when the arrangement performing asset management repeatedly prevents useful decisions: information is joined incorrectly, responsibility is unclear, a needed capability is absent or a decision cannot reach the person author …
 > **First move:** Name the asset-management result that is failing and a representative occurrence or source account. Identify the receiving practitioner and decision, the observed difficulty and its consequence.
 >
-> **Governing patterns:** `references/EAM.13.md` `references/EAM.15.md` `references/EAM.16.md` `references/OPS.11.md` `references/FRAMEWORK.md.md` `references/OCE.9.md` `references/C.11.DUA.md` `references/Spec.md.md`
+> **Governing patterns:** `references/EAM.13.md` `references/EAM.15.md` `references/EAM.16.md` `references/OPS.11.md` `references/OCE.9.md` `references/C.11.DUA.md`
 
 ---
 

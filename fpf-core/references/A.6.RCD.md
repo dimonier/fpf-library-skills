@@ -2,14 +2,7 @@
 id: A.6.RCD
 title: "Needed Relation Claim Derivation and Relation-Kind Admission"
 status: Stable
-keywords:
-  - "Starts from one blocked relation-bearing claim with exact participants and selects the lightest truthful result: an existing direct claim"
-  - a local compound claim
-  - "reusable predicate-definition content"
-  - "a derived relation-kind candidate only when occurrence semantics are needed"
-  - or an irreducible primitive candidate. Unknown facts remain an information
-  - support
-  - "or reliance question rather than a third direct-claim polarity"
+keywords: []
 dependencies:
   builds_on:
     - A.6.REL

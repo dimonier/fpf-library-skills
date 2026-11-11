@@ -10,7 +10,7 @@ keywords:
   - variant
   - trial
   - qualification
-  - refresh.
+  - refresh
 dependencies:
   references:
     - A.3.2

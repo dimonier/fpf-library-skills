@@ -8,14 +8,13 @@ keywords:
   - failure rate
   - exposure
   - support
-  - "improvement. Query: "What programme decision does comparable fleet evidence support?" Return a qualified programme decision with its population and causal limits."
+  - improvement
 dependencies:
   references:
     - MNT.2
     - MNT.5
     - MNT.12
     - E.23
-    - Spec.md
 ---
 
 # MNT.13: Coordinate the Maintenance Programme and Fleet Learning
@@ -23,7 +22,7 @@ dependencies:
 > **Problem frame:** Use this pattern when maintenance decisions span a population of equipment and repeated work: which policies to retain, where support is inadequate and what can be learned from the accumulated history.
 > **First move:** Bound the population, service question and horizon. Identify the programme decision at stake: retain a policy, change a task, improve spare readiness, resolve a backlog or compare performance.
 >
-> **Governing patterns:** `references/MNT.2.md` `references/MNT.5.md` `references/MNT.12.md` `references/E.23.md` `references/Spec.md.md`
+> **Governing patterns:** `references/MNT.2.md` `references/MNT.5.md` `references/MNT.12.md` `references/E.23.md`
 
 ---
 

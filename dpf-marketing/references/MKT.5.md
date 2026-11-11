@@ -6,7 +6,6 @@ keywords:
   - experience concept
   - actual experience
   - design
-  - How should the experience connect to real work
 dependencies:
   references:
     - MKT.2

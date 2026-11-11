@@ -2,9 +2,7 @@
 id: HCD.21
 title: Form and Change Learning Work Groups
 status: Stable
-keywords:
-  - Which compatible participants can actually connect
-  - contribute and continue when membership changes
+keywords: []
 dependencies:
   references:
     - HCD.20

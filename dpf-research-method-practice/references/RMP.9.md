@@ -2,12 +2,17 @@
 id: RMP.9
 title: Decide Whether and How to Improve Research Methods and Practice
 status: Stable
-keywords:
-  - What Method or practice should be retained or corrected
-  - and is further comparison worth its whole obtainable burden
+keywords: []
 dependencies:
   references:
-    - "RMP.1-RMP.8"
+    - RMP.1
+    - RMP.2
+    - RMP.3
+    - RMP.4
+    - RMP.5
+    - RMP.6
+    - RMP.7
+    - RMP.8
 ---
 
 # RMP.9: Decide Whether and How to Improve Research Methods and Practice
@@ -16,7 +21,7 @@ dependencies:
 > **Problem frame:** A research team can encounter the same visible failure for different reasons. An uncertainty estimate can be wrong because a formula was implemented incorrectly, because observations violate its assumptions, or because the intended quantity …
 > **First move:** Name the research use, the difficulty or opportunity, and what materially different answer would change in practice. Recover the relevant current Method, its description, actual application and receiving conditions far enough to distinguish …
 >
-> **Governing patterns:** `references/RMP.1-RMP.8.md`
+> **Governing patterns:** `references/RMP.1.md` `references/RMP.2.md` `references/RMP.3.md` `references/RMP.4.md` `references/RMP.5.md` `references/RMP.6.md` `references/RMP.7.md` `references/RMP.8.md`
 
 ---
 

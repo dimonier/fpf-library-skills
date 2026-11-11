@@ -8,7 +8,7 @@ keywords:
   - changed premise
   - qualification window
   - refresh
-  - epistemic debt.
+  - epistemic debt
 dependencies:
   builds_on:
     - B.3

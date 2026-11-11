@@ -2,8 +2,7 @@
 id: OPS.17
 title: Compare and Refresh Operations Methods
 status: Stable
-keywords:
-  - Which operating moves fit this Work family
+keywords: []
 dependencies:
   references:
     - A.3.1.MV

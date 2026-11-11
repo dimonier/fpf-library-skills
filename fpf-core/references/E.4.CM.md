@@ -2,13 +2,7 @@
 id: E.4.CM
 title: Develop Connected Methods as Framework Contributions
 status: Stable
-keywords:
-  - Use as an FPF or DPF author when relevant patterns leave readers to invent connections within one composite Method or among independent Methods. Apply C.39's general construction
-  - explanation and change
-  - compare the available framework supply
-  - choose a public owner
-  - apply the pattern content functions and form
-  - and preserve direct uses before deriving a short entry
+keywords: []
 dependencies:
   builds_on:
     - E.4

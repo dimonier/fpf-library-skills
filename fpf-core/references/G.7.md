@@ -17,7 +17,7 @@ keywords:
   - PathSliceId
   - GateCrossing
   - UTS
-  - RSCRTriggerKindId.
+  - RSCRTriggerKindId
 dependencies:
   builds_on:
     - G.Core

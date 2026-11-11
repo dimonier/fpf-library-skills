@@ -2,20 +2,7 @@
 id: C.36.P
 title: "Clarify Cultural-Evolution Wording for a Claim or Action"
 status: Stable
-keywords:
-  - Use when culture
-  - style
-  - tradition
-  - genre
-  - scene
-  - practice
-  - technique
-  - platform
-  - regime
-  - "attractor or developmental-machinery wording hides an object"
-  - relation or claim needed for the next action. State what the expression means here
-  - "then use C.36 for a cultural-evolution case or the pattern governing the recovered claim. Generic development"
-  - evolution or lineage ambiguity uses E.10.DEV first
+keywords: []
 dependencies:
   builds_on:
     - E.10

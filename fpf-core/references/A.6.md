@@ -12,7 +12,7 @@ keywords:
   - separate result
   - delivery
   - acceptance
-  - and evidence.
+  - and evidence
 dependencies:
   builds_on:
     - E.8

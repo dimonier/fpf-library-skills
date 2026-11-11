@@ -15,7 +15,7 @@ keywords:
   - rival explanation
   - "`RelianceDisposition`"
   - unsupported overread
-  - "actual-use relation."
+  - "actual-use relation"
 dependencies:
   builds_on:
     - C.2.1

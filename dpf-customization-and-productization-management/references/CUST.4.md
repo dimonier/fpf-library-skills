@@ -7,7 +7,6 @@ keywords:
   - choice navigation
   - postponement
   - order decoupling
-  - Which member and when to differentiate
 dependencies:
   references:
     - CUST.3

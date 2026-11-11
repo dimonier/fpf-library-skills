@@ -11,7 +11,7 @@ keywords:
   - SLA
   - claim scope
   - Work evidence
-  - "provider and consumer system-role kinds."
+  - "provider and consumer system-role kinds"
 dependencies:
   builds_on:
     - A.2.2

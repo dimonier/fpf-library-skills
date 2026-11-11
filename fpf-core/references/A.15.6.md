@@ -2,20 +2,7 @@
 id: A.15.6
 title: "Recover What Project, Process, or Case Wording Refers To"
 status: Stable
-keywords:
-  - Recover the subject of a project
-  - process or case claim
-  - then use the pattern that defines it. An actual project is independently admitted temporary composite U.Work
-  - a process concern may select a Method or structure
-  - a case follows its subject to closure. Distinguish the performing organization
-  - plan
-  - local subject and common product SoI
-  - A.1.STM connects creator capability and finite local acceptance to the product use. C.11 serves a formed local choice
-  - "not the construction of shared understanding. *Queries:* "What does project"
-  - "process or case mean here?"
-  - "Is this intended work or performed Work?"
-  - What can close locally
-  - "and what still needs a common project basis?"
+keywords: []
 dependencies:
   builds_on:
     - C.2.1

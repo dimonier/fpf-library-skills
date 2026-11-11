@@ -11,7 +11,7 @@ keywords:
   - TraditionAtlasView
   - TypedSetViews
   - interpretive qualifiers
-  - "interpretive-only reading."
+  - "interpretive-only reading"
 dependencies:
   builds_on:
     - "A.19.SOURCE-SET-SPACE-SUBSTRATE"

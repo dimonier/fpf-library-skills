@@ -6,13 +6,12 @@ keywords:
   - Invariant error
   - input reserve
   - constraint tightening
-  - "continuation. “Which commands can remain feasible?”"
+  - continuation
 dependencies:
   references:
     - CAD.2
     - CAD.5
     - CAD.1
-    - CAD.2
 ---
 
 # CAD.3: Construct a Jointly Admissible Command Domain

@@ -2,35 +2,7 @@
 id: A.6.P
 title: "Relational Precision Restoration — Recovering Direct Relations from Under-Specified Claims"
 status: Stable
-keywords:
-  - Recover the concrete subject
-  - participants
-  - obtaining condition
-  - "and receiving use from under-specified relation wording. For service/access language"
-  - first distinguish service provision
-  - Method
-  - promise
-  - bare role wording
-  - "system-role kind or assignment"
-  - permission
-  - bearer or proposed arrangement
-  - Work
-  - capability
-  - status
-  - evidence
-  - fulfilment
-  - acceptance
-  - and missing governor
-  - "the word selects none. *Queries:* "What exact referent or relation does this phrase assert?"
-  - "Which E.10.ROLE branch does bare role wording select?"
-  - Did service wording name Work
-  - a Method
-  - promise content
-  - a bearer
-  - an arrangement
-  - status
-  - "or another direct claim?"
-  - "Does the repaired bearer claim really require A.1 evaluation?"
+keywords: []
 dependencies:
   builds_on:
     - A.6.REL

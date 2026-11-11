@@ -8,7 +8,7 @@ keywords:
   - demonstrations
   - feedback
   - distillation
-  - retained support.
+  - retained support
 dependencies:
   references:
     - CMP.7

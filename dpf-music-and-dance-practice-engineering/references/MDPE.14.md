@@ -11,7 +11,7 @@ keywords:
   - safety
   - participation
   - scale
-  - Work overlap.
+  - Work overlap
 dependencies:
   references:
     - MDPE.12

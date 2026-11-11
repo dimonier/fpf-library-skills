@@ -8,7 +8,7 @@ keywords:
   - ending
   - release
   - contact
-  - exit.
+  - exit
 dependencies:
   references:
     - MDPE.26

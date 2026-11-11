@@ -9,7 +9,7 @@ keywords:
   - neighbours
   - interactions
   - operating conditions
-  - context diagram.
+  - context diagram
 dependencies:
   references:
     - SYSE.1

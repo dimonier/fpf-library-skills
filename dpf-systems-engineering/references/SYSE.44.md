@@ -8,7 +8,7 @@ keywords:
   - shared premise
   - dependency
   - integration
-  - source error.
+  - source error
 dependencies:
   references:
     - A.15.9

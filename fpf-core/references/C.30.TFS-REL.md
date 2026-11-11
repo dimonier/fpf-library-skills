@@ -11,7 +11,7 @@ keywords:
   - ArchitectureTransformationFlowStructureRelation
   - path
   - crossing
-  - flow valuation.
+  - flow valuation
 dependencies:
   builds_on:
     - C.30

@@ -15,7 +15,7 @@ keywords:
   - information acquisition
   - learned representation
   - cultural change
-  - learning product.
+  - learning product
 dependencies:
   builds_on:
     - E.10

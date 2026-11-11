@@ -2,10 +2,7 @@
 id: CB.1
 title: Choose a Useful Cultural or Community Contribution
 status: Stable
-keywords:
-  - "Who needs what? Community"
-  - resource
-  - learning or service
+keywords: []
 dependencies:
   references:
     - STR.5

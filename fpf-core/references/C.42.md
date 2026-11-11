@@ -2,10 +2,7 @@
 id: C.42
 title: Reduce Avoidable Work While Preserving the Needed Result
 status: Stable
-keywords:
-  - A local cut or faster operation can lose a needed result or move work elsewhere. Construct a worthwhile reduction through its changed condition
-  - complete burden
-  - introduction and later use. The elegance mantra connects these questions without prescribing a fixed sequence
+keywords: []
 dependencies:
   references:
     - A.11.OP

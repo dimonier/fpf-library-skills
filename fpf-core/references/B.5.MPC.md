@@ -2,14 +2,7 @@
 id: B.5.MPC
 title: "Connect Physical, Mathematical and Computational Reasoning"
 status: Stable
-keywords:
-  - Use when a physical question remains unanswered because the needed physical
-  - mathematical or computational contributions do not yet connect. Start with an available contribution
-  - recover its conditions
-  - "obtain a sufficient consequence and interpret it for the physical use. *Queries:* "Which missing contribution prevents the next move?"
-  - What changes when a quantity
-  - "command or physical premise changes?"
-  - "How can people and AI agents divide this work?"
+keywords: []
 dependencies:
   coordinates_with:
     - B.5

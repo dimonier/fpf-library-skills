@@ -2,13 +2,7 @@
 id: C.40.CD
 title: Develop Problems and Ways of Solving Them Together
 status: Stable
-keywords:
-  - Use when a changed problem affects the way worth trying
-  - and its result can change the next useful question. Construct the problem change
-  - develop the obtaining operation
-  - "examine target use and retain the connection to the original need. *Queries:* "What question does this failure or new construction open?"
-  - "Which part of the original need does the narrower result answer?"
-  - "How do problems and methods develop together?"
+keywords: []
 dependencies:
   coordinates_with:
     - C.40

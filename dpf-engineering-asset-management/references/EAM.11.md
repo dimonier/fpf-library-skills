@@ -7,18 +7,15 @@ keywords:
   - dependencies
   - calendar
   - preparation
-  - "contingency. Query: "Can the selected programme be completed while preserving service?" Construct a supported calendar or expose the limiting prerequisite."
+  - contingency
 dependencies:
   references:
     - EAM.6
     - EAM.9
     - EAM.10
     - MNT.7
-    - FRAMEWORK.md
     - MNT.15
-    - FRAMEWORK.md
     - OPS.10
-    - FRAMEWORK.md
 ---
 
 # EAM.11: Time Asset Interventions and Manage Dependencies
@@ -26,7 +23,7 @@ dependencies:
 > **Problem frame:** Use this pattern when the timing of an asset intervention can change whether the service or portfolio plan is feasible. A job estimate fits the window, but its preparation, shutdown, testing, return or shared resources do not.
 > **First move:** Recover the selected or proposed interventions, the required service and the actual calendars. Use the whole-outage arrangement from [MNT.7](../Engineering%20DPF%20Suite/MAINTENANCE-ENGINEERING-PRINCIPLES-FRAMEWORK.md#mnt7---coordinate-main …
 >
-> **Governing patterns:** `references/EAM.6.md` `references/EAM.9.md` `references/EAM.10.md` `references/MNT.7.md` `references/FRAMEWORK.md.md` `references/MNT.15.md` `references/OPS.10.md`
+> **Governing patterns:** `references/EAM.6.md` `references/EAM.9.md` `references/EAM.10.md` `references/MNT.7.md` `references/MNT.15.md` `references/OPS.10.md`
 
 ---
 

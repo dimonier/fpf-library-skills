@@ -2,12 +2,7 @@
 id: B.5.RC
 title: Recover a Construction from Its Description
 status: Stable
-keywords:
-  - Use when a description points to a result you need but leaves you unable to obtain it from available inputs. Recover producing operations and their prerequisites
-  - work a small case forward
-  - "and establish the property needed for the next use or locate the missing contribution. *Queries:* "What must be available before this operation?"
-  - "How do these parts produce the required object?"
-  - "Which gap prevents the construction?"
+keywords: []
 dependencies:
   coordinates_with:
     - B.5

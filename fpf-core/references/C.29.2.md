@@ -2,13 +2,7 @@
 id: C.29.2
 title: Computational Formulation
 status: Stable
-keywords:
-  - Use when the required answer or available computing means are known
-  - but the state
-  - operations and obtaining procedure are not yet connected. Construct a computation
-  - "establish the claimed result and estimate the resources its use consumes. *Queries:* "How can these relations yield the newly requested unknown?"
-  - "Which representation makes the computation feasible?"
-  - "What accuracy or probability guarantee does this procedure provide?"
+keywords: []
 dependencies:
   coordinates_with:
     - C.29.1

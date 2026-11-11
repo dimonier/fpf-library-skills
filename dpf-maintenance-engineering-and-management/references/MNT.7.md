@@ -8,13 +8,12 @@ keywords:
   - preparation
   - testing
   - restoration
-  - "contingency. Query: "Does the whole intervention fit the operating commitment?" Compare complete elapsed demand with the qualified service envelope."
+  - contingency
 dependencies:
   references:
     - MNT.5
     - MNT.6
     - OPS.10
-    - FRAMEWORK.md
 ---
 
 # MNT.7: Coordinate Maintenance Intervention and Continuing Operation
@@ -22,7 +21,7 @@ dependencies:
 > **Problem frame:** Use this pattern when maintenance and operation need one feasible arrangement for access, service continuity and return to use. A repair estimate fits the outage, but shutdown, testing and restoration have not been counted.
 > **First move:** Recover the operating commitment for the actual horizon: required service, permissible reduction, applicable fallback and authority over changes.
 >
-> **Governing patterns:** `references/MNT.5.md` `references/MNT.6.md` `references/OPS.10.md` `references/FRAMEWORK.md.md`
+> **Governing patterns:** `references/MNT.5.md` `references/MNT.6.md` `references/OPS.10.md`
 
 ---
 

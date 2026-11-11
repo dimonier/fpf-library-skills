@@ -9,7 +9,7 @@ keywords:
   - research correction
   - "relied-on premise"
   - impact analysis
-  - revalidation.
+  - revalidation
 dependencies:
   references:
     - SYSE.7

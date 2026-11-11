@@ -12,7 +12,7 @@ keywords:
   - scale order
   - preference
   - quantity calculation
-  - scoring.
+  - scoring
 dependencies:
   prerequisite_for:
     - A.18

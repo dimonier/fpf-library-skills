@@ -2,11 +2,7 @@
 id: C.40.PC
 title: Construct a Worthwhile Problem and Proposed Contribution
 status: Stable
-keywords:
-  - Use when an attractive topic or offered solution is not yet a worthwhile problem and contribution. Connect the affected use
-  - proposed result
-  - value
-  - promise and acceptance conditions
+keywords: []
 dependencies:
   references:
     - B.5.PI

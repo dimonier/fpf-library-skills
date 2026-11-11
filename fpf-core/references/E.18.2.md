@@ -2,31 +2,7 @@
 id: E.18.2
 title: Transformation Flow Mathematical Description
 status: Stable
-keywords:
-  - Records how one graph
-  - algebraic
-  - categorical
-  - tuple
-  - path
-  - slice
-  - morphism
-  - quotient
-  - fold
-  - refinement
-  - factorization
-  - wiring
-  - "or related mathematical expression describes exactly one selected E.18 TFS or E.18.NET network: what it represents"
-  - preserves
-  - loses
-  - and may be used for. Keeps the mathematical description distinct from the selected structure
-  - "C.29 lens-use claim"
-  - "and E.17 publication face. *Queries:* "Which exact TFS or network does this expression describe?"
-  - "What structure does the expression preserve or lose?"
-  - Which stronger work
-  - evidence
-  - gate
-  - architecture
-  - "or decision claim must return to its owner?"
+keywords: []
 dependencies:
   builds_on:
     - E.18

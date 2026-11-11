@@ -2,10 +2,7 @@
 id: C.37.CF
 title: Compare Content and Form Changes
 status: Stable
-keywords:
-  - A changed explanation appears better
-  - but changed content and changed form are conflated. Construct a bounded comparison for the actual reader and action
-  - preserving assistance and limits of inference
+keywords: []
 dependencies:
   references:
     - C.37

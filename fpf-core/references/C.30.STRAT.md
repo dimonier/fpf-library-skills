@@ -16,7 +16,7 @@ keywords:
   - expert
   - cache
   - router
-  - gate.
+  - gate
 dependencies:
   builds_on:
     - E.10

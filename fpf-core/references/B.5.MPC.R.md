@@ -2,13 +2,7 @@
 id: B.5.MPC.R
 title: "Repair a Physical-Mathematical-Computational Connection"
 status: Stable
-keywords:
-  - Use when a changed question or observed discrepancy breaks the joint physical answer. Locate the incompatible relation
-  - interpretation
-  - computation or execution
-  - "repair its contribution and carry the result back to the physical use. *Queries:* "Why is a correct calculation unusable here?"
-  - "What continues during a controller pause?"
-  - "Can these observations distinguish the physical cases?"
+keywords: []
 dependencies:
   references:
     - B.5

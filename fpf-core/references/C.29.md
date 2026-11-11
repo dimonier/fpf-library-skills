@@ -2,15 +2,7 @@
 id: C.29
 title: Mathematical Lens Use
 status: Stable
-keywords:
-  - Use when a mathematical representation could expose a needed relation
-  - invariant
-  - obstruction
-  - approximation or resource limit
-  - or when a result is being carried beyond the representation's supported use. Construct the correspondence
-  - "derive a consequence and return its meaning and limits to the working question. *Queries:* "Which mathematical construction answers this question?"
-  - "What does it preserve or lose?"
-  - "What changes in the project if this consequence holds?"
+keywords: []
 dependencies:
   builds_on:
     - A.1.1

@@ -7,7 +7,7 @@ keywords:
   - business model
   - dependencies
   - initiative
-  - provider.
+  - provider
 dependencies:
   references:
     - STR.5

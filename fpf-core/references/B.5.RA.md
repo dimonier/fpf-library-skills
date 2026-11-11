@@ -2,15 +2,7 @@
 id: B.5.RA
 title: Recover an Argument for Its Next Use
 status: Stable
-keywords:
-  - Use when you need to recover or challenge the reasoning behind a result for application
-  - explanation or revision. Reconstruct unclear claims and dependencies
-  - for an already clear defeasible argument
-  - "begin with a consequential critical question. Keep supported results and trace changes through affected grounds. *Queries:* "Why does this step follow?"
-  - "What does this lemma contribute to the whole argument?"
-  - "How can I turn this text into an argument map?"
-  - "Which critical question could change this conclusion?"
-  - "Does this reasoning support the use I need?"
+keywords: []
 dependencies:
   coordinates_with:
     - B.5

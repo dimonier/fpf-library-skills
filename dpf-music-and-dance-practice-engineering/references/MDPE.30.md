@@ -9,7 +9,7 @@ keywords:
   - alternation
   - hand allocation
   - toggle rhythm
-  - accompaniment.
+  - accompaniment
 dependencies:
   references:
     - MDPE.9

@@ -8,7 +8,7 @@ keywords:
   - calculator
   - invocation
   - uncertain effect
-  - receiving use.
+  - receiving use
 dependencies:
   references:
     - C.38

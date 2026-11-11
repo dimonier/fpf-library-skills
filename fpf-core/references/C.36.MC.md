@@ -2,12 +2,7 @@
 id: C.36.MC
 title: Qualify and Develop a Method Culture
 status: Stable
-keywords:
-  - A population claims to generate
-  - transmit
-  - retain or change a way of working. Qualify the actual cultural predicate and connect the available account
-  - recipient performance
-  - adaptation and useful retention
+keywords: []
 dependencies:
   references:
     - C.36

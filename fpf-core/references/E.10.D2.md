@@ -11,7 +11,7 @@ keywords:
   - viewpoint
   - publication
   - representation
-  - DescriptionContext (legacy cue).
+  - DescriptionContext (legacy cue)
 dependencies:
   builds_on:
     - A.7

@@ -8,7 +8,7 @@ keywords:
   - fixture
   - feedback
   - shared error
-  - transfer.
+  - transfer
 dependencies:
   references:
     - HCD.6

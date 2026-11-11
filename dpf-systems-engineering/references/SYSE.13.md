@@ -10,7 +10,7 @@ keywords:
   - baseline
   - effectivity
   - installed state
-  - bill of material.
+  - bill of material
 dependencies:
   references:
     - SYSE.6

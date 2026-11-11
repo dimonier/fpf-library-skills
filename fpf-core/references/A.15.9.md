@@ -2,15 +2,7 @@
 id: A.15.9
 title: Use or Request a Bounded Result from Another Practice
 status: Stable
-keywords:
-  - Use when one decision or piece of Work needs a legal
-  - safety
-  - tax
-  - privacy
-  - engineering
-  - scientific
-  - "or other result governed by another practice. Inspect an already-available result and return the supported answer with its material limit or exact blocker. A further request is selected only when its obtainable contribution warrants the whole acquisition burden. The supplier keeps its Method and professional authority"
-  - while the receiver keeps the receiving decision
+keywords: []
 dependencies:
   builds_on:
     - A.15

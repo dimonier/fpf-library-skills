@@ -2,13 +2,7 @@
 id: B.5.QD
 title: Develop a New Question from a Result or Construction
 status: Stable
-keywords:
-  - Use when a counterexample
-  - result or newly available operation changes what could be investigated but the next question is unclear. Recover the changed dependency
-  - "construct the answer form and work a revealing case before choosing the inquiry. *Queries:* "What useful question follows from this failure?"
-  - "What can we now ask using this construction?"
-  - "Can a bound answer the need?"
-  - "Which next problem opens further work?"
+keywords: []
 dependencies:
   coordinates_with:
     - B.5.RA

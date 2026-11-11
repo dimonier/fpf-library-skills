@@ -9,7 +9,7 @@ keywords:
   - diagram
   - model
   - structural view
-  - architecture description.
+  - architecture description
 dependencies:
   builds_on:
     - E.10

@@ -8,7 +8,6 @@ keywords:
   - migration
   - coexistence
   - retirement
-  - How can present customers continue
 dependencies:
   references:
     - SYSE.27

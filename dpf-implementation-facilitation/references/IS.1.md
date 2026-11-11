@@ -2,9 +2,7 @@
 id: IS.1
 title: "Agree a Useful Implementation-Support Undertaking"
 status: Stable
-keywords:
-  - What help is wanted
-  - permitted and obtainable
+keywords: []
 dependencies:
   references:
     - OCE.6

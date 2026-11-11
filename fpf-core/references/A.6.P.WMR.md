@@ -2,33 +2,15 @@
 id: A.6.P.WMR
 title: Exact Relation Recovery for Method and Work Claims
 status: Stable
-keywords:
-  - "Start with one boundary-word sentence about an input"
-  - raw material
-  - source data
-  - source material
-  - output
-  - result
-  - outcome
-  - deliverable
-  - or handoff. Name the exact thing
-  - what it is related to
-  - "and the direct verb that can safely be said now—or return `factually unsupported`"
-  - "`missing-information`"
-  - "or `missing-governor`. Use formal claim dimensions only when they change or check that answer"
-  - keep planning
-  - Work
-  - production
-  - delivery
-  - acceptance
-  - transfer
-  - and receiving use separate
+keywords: []
 dependencies:
   coordinates_with:
     - A.3.1
     - A.3.2
     - A.6.1
-    - "A.15.1-A.15.3"
+    - A.15.1
+    - A.15.2
+    - A.15.3
     - A.3.4
     - A.15.PROD
     - A.6.RCD
@@ -44,7 +26,7 @@ dependencies:
 > **Problem frame:** **Use this when.** Practitioners **SHOULD** use this pattern after `A.6.P` generic relation recovery has isolated one current method-or-work boundary claim and the exact entity is already in view, but words such as `input`, `raw material` …
 > **First move:** Treat the boundary wording as a claim about one thing relative to another object. Recover the direct verb or reason-specific stop first.
 >
-> **Governing patterns:** `references/A.3.1.md` `references/A.3.2.md` `references/A.6.1.md` `references/A.15.1-A.15.3.md` `references/A.3.4.md` `references/A.15.PROD.md` `references/A.6.RCD.md` `references/C.2.P.md`
+> **Governing patterns:** `references/A.3.1.md` `references/A.3.2.md` `references/A.6.1.md` `references/A.15.1.md` `references/A.15.2.md` `references/A.15.3.md` `references/A.3.4.md` `references/A.15.PROD.md`
 
 ---
 

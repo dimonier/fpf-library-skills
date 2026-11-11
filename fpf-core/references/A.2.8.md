@@ -10,7 +10,7 @@ keywords:
   - prohibition
   - constitutive rule
   - instituting basis
-  - validity interval.
+  - validity interval
 dependencies:
   builds_on:
     - A.2

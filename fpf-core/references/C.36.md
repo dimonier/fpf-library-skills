@@ -2,22 +2,7 @@
 id: C.36
 title: "Cultural Evolution and Cultural-Evolution Engineering"
 status: Stable
-keywords:
-  - Use when a culture
-  - style
-  - tradition
-  - or other shared practice changes—for example
-  - as variants are taught
-  - copied
-  - recognized
-  - selected
-  - retained
-  - mediated
-  - or lost—or when a project needs to influence those relations without mistaking a label
-  - platform
-  - archive
-  - or popularity score for the changing practice. A qualified current account or supported continuation can finish without a new intervention or study. Unresolved generic development or evolution wording enters through E.10.DEV first
-  - "return here only for the recovered cultural-population or discipline-facing case"
+keywords: []
 dependencies:
   builds_on:
     - A.1

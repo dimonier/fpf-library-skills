@@ -2,10 +2,7 @@
 id: B.1.4
 title: "Specify Order-Sensitive or Temporal Aggregation (Γ_ctx, Γ_time)"
 status: Stable
-keywords:
-  - Specify or compute the required aggregate from exact inputs and independently grounded order or temporal relations. Choose the combining rule and result
-  - preserving temporal references
-  - required identity and coverage/overlap conditions. Return a sufficient ordinary answer or the inspectable account the receiving use needs
+keywords: []
 dependencies:
   builds_on:
     - B.1

@@ -9,7 +9,7 @@ keywords:
   - exact used clauses and premises
   - "actual source-use relations"
   - context split
-  - optional convergence.
+  - optional convergence
 dependencies:
   coordinates_with:
     - A.7.1

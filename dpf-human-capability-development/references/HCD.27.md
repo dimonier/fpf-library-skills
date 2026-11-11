@@ -2,9 +2,7 @@
 id: HCD.27
 title: Coordinate Personal Learning Routes with a Shared Rhythm
 status: Stable
-keywords:
-  - How can material transfers
-  - shared occasions and personal return windows remain feasible
+keywords: []
 dependencies:
   references:
     - HCD.22

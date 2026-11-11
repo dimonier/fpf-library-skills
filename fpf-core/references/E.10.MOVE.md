@@ -2,27 +2,7 @@
 id: E.10.MOVE
 title: "Move, Readiness and Trajectory Wording Precision Restoration"
 status: Stable
-keywords:
-  - After F.19 and compact E.10 routing
-  - restores the governed value hidden by move
-  - movement
-  - step
-  - action
-  - readiness
-  - route
-  - path
-  - "or trajectory wording. Separates practice-continuation description"
-  - coordination and ordering
-  - recommendation
-  - transformation
-  - readiness
-  - gate
-  - publication
-  - representation
-  - and Work claims
-  - "returns each to its direct owner without creating a generic Move or Trajectory head. Its mantra branch distinguishes an E.11.PUA practice-continuation description shown in a post-qualification A.22.CGUS slice"
-  - a Plain local mantra
-  - "and a Plain long-mantra map. Evaluation-movement wording returns to E.23 for a separate prediction about a later evaluation result"
+keywords: []
 dependencies:
   builds_on:
     - F.19

@@ -9,18 +9,13 @@ keywords:
   - recognition
   - selection
   - retention
-  - "branch. Query: "Which asset-management practices do people use"
-  - "and should they continue or change?" Establish what the evidence supports and compare continuation"
-  - change
-  - a qualified branch or stopping.
+  - branch
 dependencies:
   references:
     - EAM.14
     - EAM.15
     - C.36.MC
-    - Spec.md
     - C.36
-    - Spec.md
 ---
 
 # EAM.16: Deliberately Continue and Change Engineering Asset-Management Culture
@@ -28,7 +23,7 @@ dependencies:
 > **Problem frame:** Use this pattern when the question concerns how a bounded population generates, transmits, uses, recognizes, selects, retains or loses an asset-management practice.
 > **First move:** State what the recipient needs to know or decide. Bound the practice content, population, setting and interval. “Asset-management culture” is too broad when the question concerns one appraisal rule among a particular group of planners and c …
 >
-> **Governing patterns:** `references/EAM.14.md` `references/EAM.15.md` `references/C.36.MC.md` `references/Spec.md.md` `references/C.36.md`
+> **Governing patterns:** `references/EAM.14.md` `references/EAM.15.md` `references/C.36.MC.md` `references/C.36.md`
 
 ---
 

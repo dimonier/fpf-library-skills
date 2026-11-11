@@ -2,10 +2,7 @@
 id: B.5.4
 title: Recognize a Reusable Concept in a Concrete Situation
 status: Stable
-keywords:
-  - Use when you understand a concept's explanation but cannot yet connect it to an unfamiliar situation. Identify the participants and relations
-  - construct their correspondence
-  - and obtain an interpretation with a consequence that guides the next action
+keywords: []
 dependencies:
   coordinates_with:
     - B.5

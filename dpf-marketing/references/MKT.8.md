@@ -7,7 +7,6 @@ keywords:
   - history
   - possible route
   - decision
-  - Which connections in customer activity matter
 dependencies:
   references:
     - MKT.1

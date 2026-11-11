@@ -2,24 +2,7 @@
 id: E.11.PUA
 title: Pattern Use in a Working Situation and First Useful Result
 status: Stable
-keywords:
-  - Uses one inspected direct pattern for one current subject and practical question. Begin with the subject
-  - question
-  - selected Solution
-  - first useful result or blocker
-  - and stop or return
-  - "a person or assisting system uses the pattern's action- or judgement-guiding content. Recover a `MethodDescription`"
-  - admitted Method
-  - performer
-  - assignment
-  - dated Work
-  - exact predicate
-  - "`ClaimGraph`"
-  - or receiving use only when that distinction changes truth
-  - action
-  - stop
-  - or named reliance. Ordinary bounded use may remain conversational
-  - "reliance-bearing support stays proportional"
+keywords: []
 dependencies:
   builds_on:
     - E.11

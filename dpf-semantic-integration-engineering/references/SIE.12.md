@@ -2,8 +2,7 @@
 id: SIE.12
 title: Govern Modular Semantic Commons without Universal Authority
 status: Stable
-keywords:
-  - How can actual users maintain and rely on shared semantic modules and their changes
+keywords: []
 dependencies:
   references:
     - SIE.3

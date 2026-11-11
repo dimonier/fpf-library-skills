@@ -2,9 +2,7 @@
 id: C.40.OP
 title: Maintain Opportunities and Stepping Stones
 status: Stable
-keywords:
-  - Use when a useful opportunity or stepping stone should survive beyond the current choice. Retain its contribution
-  - enabling conditions and reopening question without turning retention into allocation
+keywords: []
 dependencies:
   references:
     - C.40.PC

@@ -14,7 +14,7 @@ keywords:
   - ReferencePlane
   - Φ/CL policy pins
   - edition pins
-  - RSCRTriggerKindId.
+  - RSCRTriggerKindId
 dependencies:
   builds_on:
     - G.Core

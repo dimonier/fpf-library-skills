@@ -2,9 +2,7 @@
 id: HCD.11
 title: Assess Human Performance in Representative Work
 status: Stable
-keywords:
-  - What did this person contribute under the required conditions
-  - and what bounded capability claim does the evidence support
+keywords: []
 dependencies:
   references:
     - HCD.1

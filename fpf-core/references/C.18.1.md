@@ -12,7 +12,7 @@ keywords:
   - elasticity class
   - knee
   - diminishing returns
-  - probe uncertainty.
+  - probe uncertainty
 dependencies:
   builds_on:
     - C.16

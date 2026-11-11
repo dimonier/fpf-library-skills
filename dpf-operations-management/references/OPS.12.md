@@ -2,8 +2,7 @@
 id: OPS.12
 title: Protect Human Conditions in Operating Decisions
 status: Stable
-keywords:
-  - Which feasible operating intervention protects affected people and supports the service
+keywords: []
 dependencies:
   references:
     - OPS.3

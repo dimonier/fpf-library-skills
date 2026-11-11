@@ -2,17 +2,7 @@
 id: F.17
 title: Make a Settled Naming Decision Recoverable for Reuse (Unified Term Sheet)
 status: Stable
-keywords:
-  - Use when readers need a durable term row
-  - "not merely ordinary wording or a local name. The row returns to one already-governed value and exact kind"
-  - its direct pattern
-  - F.18 NameCard
-  - "exact scheme-and-sense cell"
-  - admitted and blocked uses
-  - "and reopen condition. A needed cross-projection use keeps the actual F.9 Bridge"
-  - separate C.2.1 use claim
-  - and A.10/B.3 reliance distinct. Ordinary demonstrative and mantra wording creates no row
-  - constituting a row neither creates its subject nor makes the row available
+keywords: []
 dependencies:
   builds_on:
     - F.2

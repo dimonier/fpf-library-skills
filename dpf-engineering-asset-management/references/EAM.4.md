@@ -9,13 +9,12 @@ keywords:
   - coincident peak
   - scenario
   - forecast
-  - "service requirement. Query: "What service will be needed under the conditions that matter?" Construct compatible demand scenarios and distinguish their evidence from the mandated service."
+  - service requirement
 dependencies:
   references:
     - EAM.2
     - EAM.6
     - OPS.1
-    - FRAMEWORK.md
 ---
 
 # EAM.4: Assess Demand and Service Need for Asset Decisions
@@ -23,7 +22,7 @@ dependencies:
 > **Problem frame:** Use this pattern when an asset choice depends on how much service will be needed, where and when. Average demand can fit current capability while a seasonal peak, protected service group or changing use makes an option inadequate.
 > **First move:** Identify the service result, recipients and relevant horizon. State the quantity and quality required, its timing and location, and the source and authority of any commitment.
 >
-> **Governing patterns:** `references/EAM.2.md` `references/EAM.6.md` `references/OPS.1.md` `references/FRAMEWORK.md.md`
+> **Governing patterns:** `references/EAM.2.md` `references/EAM.6.md` `references/OPS.1.md`
 
 ---
 

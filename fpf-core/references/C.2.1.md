@@ -2,15 +2,7 @@
 id: C.2.1
 title: "`U.Episteme`: Constitution, Empirical Grounding, and Edition Relations"
 status: Stable
-keywords:
-  - Identifies one episteme through exact claim content
-  - exact EntityOfConcern
-  - and effective ReferenceScheme under EpistemeConstitutionRelation
-  - "governs its empirical-grounding and edition relations while keeping declarations"
-  - views
-  - publications
-  - carriers
-  - and representations separate
+keywords: []
 dependencies:
   builds_on:
     - A.1

@@ -2,13 +2,7 @@
 id: A.10.1
 title: "Revalidate Affected Uses When a Relied-on Source Changes"
 status: Stable
-keywords:
-  - "Use when a relied-on source claim changes and its receivers are not fully known: state the material claim change and search frame"
-  - search from source and receiver sides
-  - confirm actual dependence
-  - "and apply the relevant direct subject guidance only across action-changing reach while keeping coverage gaps visible. A compatible reference repair or sufficient direct result can finish without a second account"
-  - "a no-impact claim still needs adequate coverage and support. Use A.10 for one known bounded reliance use"
-  - use G.11 for currentness or refresh
+keywords: []
 dependencies:
   builds_on:
     - C.2.1

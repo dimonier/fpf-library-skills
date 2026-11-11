@@ -10,7 +10,7 @@ keywords:
   - style line
   - festival
   - school
-  - medium.
+  - medium
 dependencies:
   references:
     - MDPE.8

@@ -11,7 +11,7 @@ keywords:
   - candidate input
   - DSM
   - NAS
-  - LLM.
+  - LLM
 dependencies:
   builds_on:
     - C.30

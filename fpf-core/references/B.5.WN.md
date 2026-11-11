@@ -2,13 +2,7 @@
 id: B.5.WN
 title: Develop Lines of Thought with Working Notes
 status: Stable
-keywords:
-  - Use when retained observations
-  - reading or tentative thoughts do not yet help develop a question or argument. Formulate one thought with its grounds
-  - make a consequential connection
-  - "follow what changes and leave a usable return. Keep a sufficient project record for ordinary continuation. *Queries:* "How can these notes develop an argument?"
-  - "What question emerges from this connection?"
-  - "What should remain for a later occasion?"
+keywords: []
 dependencies:
   coordinates_with:
     - B.5.EA

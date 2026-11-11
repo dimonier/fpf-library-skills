@@ -9,7 +9,7 @@ keywords:
   - route space
   - frame space
   - reopen
-  - settledness.
+  - settledness
 dependencies:
   builds_on:
     - C.2.2a

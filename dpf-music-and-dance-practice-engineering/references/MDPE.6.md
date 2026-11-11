@@ -12,7 +12,7 @@ keywords:
   - reuse
   - revision
   - branch
-  - preservation.
+  - preservation
 dependencies:
   references:
     - C.11

@@ -2,15 +2,7 @@
 id: C.28.MR
 title: Derive an Intervention Consequence by Mechanism Replacement
 status: Stable
-keywords:
-  - Use when a causal model is available and a changed mechanism must be followed to its consequence. Replace the targeted equation
-  - retain the other mechanisms and input law
-  - and derive a value
-  - distribution
-  - "contrast or useful bound. *Queries:* "What follows if this rule is replaced?"
-  - "Which equations stay in place while their output values change?"
-  - "Is the intervention outcome determined when the baseline is not?"
-  - "What later feedback must be represented?"
+keywords: []
 dependencies:
   coordinates_with:
     - C.28

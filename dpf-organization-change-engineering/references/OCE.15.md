@@ -6,8 +6,7 @@ keywords:
   - Method repertoire
   - candidate Method
   - local adaptation
-  - "refresh. Question: Which existing Method or source contribution serves this use"
-  - "and what repertoire repair or candidate construction is needed?"
+  - refresh
 dependencies:
   references:
     - C.39.MF

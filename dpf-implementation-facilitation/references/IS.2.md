@@ -2,11 +2,7 @@
 id: IS.2
 title: Find the Implementation Difficulty and Obtain the Next Useful Contribution
 status: Stable
-keywords:
-  - "What prevents intended use? Is the difficulty in the Method"
-  - means
-  - capability
-  - workload or consequences
+keywords: []
 dependencies:
   references:
     - IS.1

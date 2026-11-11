@@ -2,19 +2,16 @@
 id: E.21
 title: "FPF Pattern-Quality Evaluation CharacteristicSpace"
 status: Stable
-keywords:
-  - Evaluates one FPF pattern version for a declared reader
-  - use and scope with all required coordinates
-  - ordinal values and rationales
-  - "protected trade-offs and a precision-restoration profile. Distinguishes established insufficiency from an unperformed check"
-  - returns a supported status or an explicit incomplete basis
+keywords: []
 dependencies:
   builds_on:
     - E.8
     - E.19
     - C.25
     - C.16
-    - "A.17-A.19"
+    - A.17
+    - A.18
+    - A.19
     - F.18
     - A.19.ECS
   coordinates_with:
@@ -34,7 +31,7 @@ dependencies:
 > **Problem frame:** Use this when an authored FPF pattern edition or bounded version must be evaluated for quality under a named use: ordinary practitioner use, authoring input, landing input, release input, external-review input, high-assurance reuse input, c …
 > **First move:** `E.21` declares the FPF pattern-quality `U.CharacteristicSpace`, its object-specific `A.19.ECS` evaluation specification, ordinal scale, complete result-shape rules, the local non-arithmetic `PatternQualityQBundle` result payload, and local …
 >
-> **Governing patterns:** `references/E.8.md` `references/E.19.md` `references/C.25.md` `references/C.16.md` `references/A.17-A.19.md` `references/F.18.md` `references/A.19.ECS.md` `references/E.22.md`
+> **Governing patterns:** `references/E.8.md` `references/E.19.md` `references/C.25.md` `references/C.16.md` `references/A.17.md` `references/A.18.md` `references/A.19.md` `references/F.18.md`
 
 ---
 

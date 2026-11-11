@@ -2,13 +2,7 @@
 id: E.11.DSG
 title: Architectural Reference
 status: Stable
-keywords:
-  - "Explain the current architecture of a pattern language or a composite whole to its users: its question"
-  - selected arrangement
-  - grounds and meaningful alternatives
-  - and consequences for use and reconsideration. Preserve the reader purpose
-  - complete Method ownership and direct returns at framework
-  - Suite and Library scope
+keywords: []
 dependencies:
   coordinates_with:
     - E.4.PFR

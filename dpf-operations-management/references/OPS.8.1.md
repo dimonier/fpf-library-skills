@@ -2,9 +2,7 @@
 id: OPS.8.1
 title: "Choose Work-Release Rules When Earlier Work Can Return"
 status: Stable
-keywords:
-  - When may new work start if an earlier result can return
-  - and what resource time must remain available
+keywords: []
 dependencies:
   references:
     - OPS.8

@@ -2,12 +2,7 @@
 id: C.29.1
 title: Mathematical Result Transfer
 status: Stable
-keywords:
-  - Use when an operation or result must be carried from one mathematical account to another. Compare performing then mapping with mapping then performing
-  - test representative choice and recover a transferable consequence
-  - "a bound or a repair. *Queries:* "Does this summary preserve the operation and its permissions?"
-  - "Can two represented cases give different answers?"
-  - "Does the receiving answer correspond to a feasible source action?"
+keywords: []
 dependencies:
   coordinates_with:
     - C.29

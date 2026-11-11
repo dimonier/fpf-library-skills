@@ -9,7 +9,7 @@ keywords:
   - infrastructure as code
   - isolation
   - state reconciliation
-  - cleanup.
+  - cleanup
 dependencies:
   references:
     - SYSE.13

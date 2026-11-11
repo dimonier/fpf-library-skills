@@ -14,7 +14,7 @@ keywords:
   - ClaimScope
   - Reliability
   - Congruence Level
-  - provenance.
+  - provenance
 dependencies:
   builds_on:
     - A.1

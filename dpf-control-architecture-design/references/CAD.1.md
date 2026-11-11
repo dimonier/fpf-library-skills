@@ -6,7 +6,7 @@ keywords:
   - Control decomposition
   - information
   - horizon
-  - "computational burden. “Should these decisions be separated?”"
+  - computational burden
 dependencies:
   references:
     - C.39

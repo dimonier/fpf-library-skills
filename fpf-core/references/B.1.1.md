@@ -2,12 +2,7 @@
 id: B.1.1
 title: Dependency Structure and Relation Grounding
 status: Stable
-keywords:
-  - "Resolve what each claimed dependency means and which facts make the relation obtain before using its diagram in an aggregation or whole-level claim. Apply graph checks only through a declared representation and the relation's own rule. *Queries:* "Does this dependency mean parthood"
-  - order
-  - "supply or representation?"
-  - "What makes the relation obtain?"
-  - "Which conclusions can this graph check support?"
+keywords: []
 dependencies:
   builds_on:
     - B.1

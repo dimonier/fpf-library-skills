@@ -6,7 +6,7 @@ keywords:
   - simultaneous work
   - horizons
   - shared capacity
-  - moved burden.
+  - moved burden
 dependencies:
   references:
     - STR.8

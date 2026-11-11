@@ -2,13 +2,7 @@
 id: B.5.2.0
 title: "Question Form for Entering Abduction (`U.AbductivePrompt`)"
 status: Stable
-keywords:
-  - "Defines the explanatory-question publication that B.5.2 accepts as input to hypothesis work. Recover the prompt species"
-  - explanatory question
-  - scope and provenance
-  - "keep the question distinguishable from an asserted answer. *Queries:* "What makes this question an admissible abductive prompt?"
-  - "Is this an open question or a disguised answer?"
-  - "Which prompt species applies?"
+keywords: []
 dependencies:
   builds_on:
     - B.4.1

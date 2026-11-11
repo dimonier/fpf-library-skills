@@ -8,7 +8,7 @@ keywords:
   - verification
   - empirical validation
   - constructive support
-  - assurance profile.
+  - assurance profile
 dependencies:
   builds_on:
     - B.3

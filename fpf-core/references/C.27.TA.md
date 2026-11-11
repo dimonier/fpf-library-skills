@@ -10,7 +10,7 @@ keywords:
   - rhythm
   - cadence
   - validity window
-  - recovery timing.
+  - recovery timing
 dependencies:
   builds_on:
     - A.3.4

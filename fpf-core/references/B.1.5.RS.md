@@ -2,12 +2,7 @@
 id: B.1.5.RS
 title: Evaluate a Constituent Method Replacement in Its Encompassing Uses
 status: Stable
-keywords:
-  - Compare a replacement with the results
-  - interactions and resource conditions required by each encompassing use
-  - accept
-  - restrict
-  - adapt or reject the substitution
+keywords: []
 dependencies:
   builds_on:
     - A.3.1

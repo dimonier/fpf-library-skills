@@ -14,7 +14,7 @@ keywords:
   - capability continuity
   - work enactment
   - method/work granularity
-  - assurance hooks.
+  - assurance hooks
 dependencies:
   builds_on:
     - B.1

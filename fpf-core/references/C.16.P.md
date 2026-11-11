@@ -2,20 +2,7 @@
 id: C.16.P
 title: Restore Precision to Characteristic and Scale Wording
 status: Stable
-keywords:
-  - Repairs overloaded characteristic
-  - scale
-  - coordinate
-  - metric
-  - score
-  - indicator
-  - threshold
-  - comparison
-  - "and scalar-quality wording before applying C.16"
-  - A.17–A.19
-  - C.25
-  - C.29
-  - E.21 or another governing pattern
+keywords: []
 dependencies:
   builds_on:
     - E.10

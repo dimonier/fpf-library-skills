@@ -2,9 +2,7 @@
 id: OPS.8
 title: Coordinate Queues and Buffers
 status: Stable
-keywords:
-  - What is ready for which service
-  - and what should release and protection policy control
+keywords: []
 dependencies:
   references:
     - OPS.3

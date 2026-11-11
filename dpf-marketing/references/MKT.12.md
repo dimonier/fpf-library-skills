@@ -8,7 +8,6 @@ keywords:
   - JTBD
   - evidence
   - useful stop
-  - What must we learn for this decision
 dependencies:
   references:
     - RMP.1

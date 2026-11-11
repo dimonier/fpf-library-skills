@@ -9,15 +9,6 @@ keywords:
   - comparison basis
   - ChoiceRule
   - ChoiceResult
-  - question order
-  - "probe-worthiness"
-  - "non-shared comparison frame"
-  - ValueOfInformation
-  - ValueOfComputation
-  - choose now
-  - reject current set
-  - probe again
-  - reroute.
 dependencies:
   builds_on:
     - A.6.P

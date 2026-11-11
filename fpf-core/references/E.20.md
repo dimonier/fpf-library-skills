@@ -13,7 +13,7 @@ keywords:
   - "declaration-local operation members"
   - alias docking
   - planned baseline
-  - wiring.
+  - wiring
 dependencies:
   builds_on:
     - E.8

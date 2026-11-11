@@ -8,7 +8,7 @@ keywords:
   - semantic branch
   - stable cue
   - "branch-appropriate expression"
-  - receiving use.
+  - receiving use
 dependencies:
   builds_on:
     - C.2.2a

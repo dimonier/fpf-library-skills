@@ -12,7 +12,7 @@ keywords:
   - "positive or governed-negative local fulfilment assertion"
   - reusable predicate semantics
   - variance
-  - no actuality by plan.
+  - no actuality by plan
 dependencies:
   builds_on:
     - C.2.1

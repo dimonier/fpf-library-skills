@@ -2,14 +2,7 @@
 id: C.32.MWA.PP
 title: Construct and Compare Method Performance and Provision Arrangements
 status: Stable
-keywords:
-  - Several realizable ways of performing and supporting Methods are possible. Construct their result joins and compare capability
-  - shared demand
-  - resources and authority
-  - including direct work
-  - shared provision
-  - specialization
-  - federation and external supply
+keywords: []
 dependencies:
   references:
     - C.32.MWA

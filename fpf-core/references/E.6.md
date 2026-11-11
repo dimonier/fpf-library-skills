@@ -8,7 +8,7 @@ keywords:
   - structure
   - narrative flow
   - "on-ramp"
-  - learning.
+  - learning
 dependencies:
   builds_on:
     - E.2

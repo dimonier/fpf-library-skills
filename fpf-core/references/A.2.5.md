@@ -8,7 +8,7 @@ keywords:
   - state condition
   - time window
   - Work admission
-  - evidence boundary.
+  - evidence boundary
 dependencies:
   builds_on:
     - A.2.1

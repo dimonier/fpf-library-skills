@@ -2,12 +2,7 @@
 id: RMP.1
 title: Decide Whether a Question Needs Research and When to Stop
 status: Stable
-keywords:
-  - Does this request need research
-  - and what exact question
-  - supplied answer
-  - owner return
-  - or source hold is warranted
+keywords: []
 dependencies:
   references:
     - F.1

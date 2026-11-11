@@ -6,8 +6,7 @@ keywords:
   - participation
   - resistance
   - working culture
-  - "intervention. Question: Why is a needed contribution not occurring"
-  - "and what response is warranted by the available evidence?"
+  - intervention
 dependencies:
   references:
     - OCE.6

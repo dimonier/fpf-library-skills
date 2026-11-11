@@ -2,25 +2,7 @@
 id: A.6.3.RT
 title: "Representation-Scheme Transition: Change Representation of the Same EntityOfConcern"
 status: Stable
-keywords:
-  - "Move practical content into a target representation without hiding what changed: name the content to survive and the target/use"
-  - produce a target suited to that use
-  - compare it with the source
-  - and state preservation
-  - "representation/reasoning-medium delta"
-  - loss or unsupported additions
-  - bounded use
-  - "and return. Open exact `X`"
-  - "`Y`"
-  - "and `v : X -> Y` only when a named reliance-facing receiver makes claim identity material"
-  - "open `RepresentationSchemeTransitionRelation@Context` only when the historical transition Work and all six exact participants are material. *Queries:* "How do I turn prose"
-  - a table
-  - "or a diagram into another representation without losing what matters?"
-  - What became easier to inspect
-  - what was lost or added
-  - "and when must I return to the source?"
-  - When do I need exact endpoints
-  - "and when is the historical transition occurrence itself material?"
+keywords: []
 dependencies:
   builds_on:
     - A.6.3

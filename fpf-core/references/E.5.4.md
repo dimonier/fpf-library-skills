@@ -2,14 +2,7 @@
 id: E.5.4
 title: "Cross-Disciplinary Bias Audit"
 status: Stable
-keywords:
-  - Inspect a normative pattern through Gov
-  - Arch
-  - Epist
-  - "Prag and Did lenses for a source-discipline bias or an unjustified imbalance. Repair the explanation or state the intended scope"
-  - "and retain the useful Bias-Annotation. Use D.5 for bias"
-  - "fairness or human-impact audit"
-  - "use A.8 only for universal-core placement of a durable U-kind candidate governed by E.24.UK"
+keywords: []
 dependencies:
   refines:
     - E.5

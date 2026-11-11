@@ -2,17 +2,15 @@
 id: SIE.9
 title: Connect a Receiving Use through a Semantic Interface
 status: Stable
-keywords:
-  - What smallest interface carries the required meanings
-  - branches
-  - provenance
-  - and return paths into receiving Work
+keywords: []
 dependencies:
   references:
     - SIE.1
     - SIE.7
     - SIE.8
-    - "SIE.4-SIE.6"
+    - SIE.4
+    - SIE.5
+    - SIE.6
 ---
 
 # SIE.9: Connect a Receiving Use through a Semantic Interface
@@ -20,7 +18,7 @@ dependencies:
 > **Problem frame:** **Use this when** semantic mappings or integrated state exist but the receiving Work still cannot obtain, interpret, challenge, or return the bounded result.
 > **First move:** Design the interface from receiving actions and semantic branches, not from the internal store. Expose the smallest result that preserves interpretation, source/version, currentness, accepted loss, identity and claim status, provenance, acc …
 >
-> **Governing patterns:** `references/SIE.1.md` `references/SIE.7.md` `references/SIE.8.md` `references/SIE.4-SIE.6.md`
+> **Governing patterns:** `references/SIE.1.md` `references/SIE.7.md` `references/SIE.8.md` `references/SIE.4.md` `references/SIE.5.md` `references/SIE.6.md`
 
 ---
 

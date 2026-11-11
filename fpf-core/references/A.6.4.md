@@ -2,13 +2,7 @@
 id: A.6.4
 title: "EntityOfConcern Retargeting: Judge a Bounded Use Across Different Entities"
 status: Stable
-keywords:
-  - "Use when exact source and receiving epistemes concern different exact entities. Identify their exact arrow `r`. For a claimed receiving use"
-  - "state a separate C.2.1 bounded-use assertion `q` whose ClaimGraph contains the invariant"
-  - visible loss
-  - named receiving use
-  - conditions
-  - and affirmative or negative polarity
+keywords: []
 dependencies:
   builds_on:
     - A.6.0

@@ -2,10 +2,7 @@
 id: C.40
 title: Develop Branching Search from Reusable Material
 status: Stable
-keywords:
-  - Use when you have usable material and need to learn what a feasible variation makes possible. Its eventual contribution may already be selected or remain open. Perform the change
-  - examine the difference and retain material needed for the next use. Return the variation with a justified continuation or stop. Use C.40.CD when problems and ways need development together
-  - and C.40.CU to develop an unfamiliar response into a useful and reproducible application
+keywords: []
 dependencies:
   coordinates_with:
     - C.39

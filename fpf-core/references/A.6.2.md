@@ -2,18 +2,7 @@
 id: A.6.2
 title: "Effect-Free Episteme Morphing: Laws for Mathematical Relations Between Epistemes"
 status: Stable
-keywords:
-  - "A local mathematical discipline for law-constrained arrows between exact epistemes. It compares their claims"
-  - EntityOfConcern
-  - and interpreting schemes
-  - declares the allowed ClaimGraph difference and preserve/retarget mode
-  - and keeps the declaration
-  - arrow
-  - use claim
-  - operation application
-  - Work
-  - and publication distinct. EFEM and EpMorphism are local mathematical classes in the selected formal substrate
-  - "not admitted durable U-kinds"
+keywords: []
 dependencies:
   builds_on:
     - A.6.0

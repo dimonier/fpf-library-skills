@@ -9,7 +9,7 @@ keywords:
   - sum
   - set
   - slice
-  - construction account.
+  - construction account
 dependencies:
   builds_on:
     - A.14

@@ -2,25 +2,7 @@
 id: E.8
 title: "FPF Authoring Conventions & Style Guide"
 status: Stable
-keywords:
-  - "Governs practitioner-first pattern authoring"
-  - discriminating titles that retain useful technical terms
-  - "and one bounded material-revision loop over actual predecessor and proposed prose. Materiality follows an actual change in subject"
-  - recognition
-  - action or judgement
-  - first result
-  - boundary
-  - cited contribution
-  - enumeration
-  - or affordability—not its label or physical size. Recover useful predecessor ideas
-  - draft the positive path before guards
-  - compare at comparable effort
-  - "remove non-discriminating apparatus"
-  - keep assurance after the first result
-  - "and close determinate discovery and true-consumer projections"
-  - "a clean comparison creates no per-idea ledger. Develop missing instructions by tracing the required result back to its supplier and attempting the connection forward"
-  - "explain the operation and test a changed use before shortening its publication. Divide a competent-reader method account from pedagogical companions"
-  - "test whether instruction can be constructed without inventing an omitted part of the Method. Reuse the twelve content functions and Architectural Rationale for whole-framework and substantive-profile accounts through E.11.PFP"
+keywords: []
 dependencies:
   references:
     - E.6

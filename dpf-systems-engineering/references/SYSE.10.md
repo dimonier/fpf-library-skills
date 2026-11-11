@@ -10,7 +10,7 @@ keywords:
   - prototype
   - field trial
   - formal proof
-  - validity.
+  - validity
 dependencies:
   references:
     - SYSE.6

@@ -10,7 +10,7 @@ keywords:
   - style recognition
   - applicability
   - cue dependence
-  - transfer.
+  - transfer
 dependencies:
   references:
     - MDPE.12

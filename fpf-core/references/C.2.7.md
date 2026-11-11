@@ -8,7 +8,7 @@ keywords:
   - sparsity
   - symbolicity
   - factor bundle
-  - representation organization.
+  - representation organization
 dependencies:
   builds_on:
     - C.2.2a

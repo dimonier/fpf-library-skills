@@ -6,14 +6,13 @@ keywords:
   - strategy
   - service
   - stakeholder
-  - "required capability. Query: "What required contribution must the assets support?" Relate proposed asset work to an actual service outcome and its authority."
+  - required capability
 dependencies:
   references:
     - EAM.1
     - EAM.4
     - EAM.6
     - OPS.1
-    - FRAMEWORK.md
 ---
 
 # EAM.2: Relate Assets to Strategy, Services, and Required Capability
@@ -21,7 +20,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a desired outcome has been translated directly into an asset purchase or renewal, or when an existing asset's continuing contribution is unclear.
 > **First move:** State the desired outcome and its recipient. Distinguish an aspiration from an adopted objective or service obligation. Identify the required service, population, location, conditions and horizon at the grain that changes the asset decision …
 >
-> **Governing patterns:** `references/EAM.1.md` `references/EAM.4.md` `references/EAM.6.md` `references/OPS.1.md` `references/FRAMEWORK.md.md`
+> **Governing patterns:** `references/EAM.1.md` `references/EAM.4.md` `references/EAM.6.md` `references/OPS.1.md`
 
 ---
 

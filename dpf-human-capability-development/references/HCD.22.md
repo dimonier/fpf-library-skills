@@ -2,11 +2,7 @@
 id: HCD.22
 title: Design Shared Learning Tasks with Necessary Individual Contributions
 status: Stable
-keywords:
-  - How should dependence
-  - actions
-  - visibility
-  - material transfers and feedback make the intended personal contribution possible
+keywords: []
 dependencies:
   references:
     - HCD.6

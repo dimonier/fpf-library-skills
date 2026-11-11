@@ -2,16 +2,7 @@
 id: A.15.7
 title: "Situation-Responsive Work Steering and Next-Action Selection"
 status: Stable
-keywords:
-  - Use when a deciding System in ongoing Work must choose the next action from current facts while a domain Method still bounds what may be done. Returns the bounded decision
-  - intended performer
-  - and any stop or feedback condition needed for that use
-  - "or a blocker due to missing or outdated action-guiding information"
-  - authority
-  - capability
-  - safety
-  - applicability
-  - or no current Work
+keywords: []
 dependencies:
   builds_on:
     - A.3.1

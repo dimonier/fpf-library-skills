@@ -2,21 +2,7 @@
 id: C.22.PFR
 title: "Problematic-For Relation"
 status: Stable
-keywords:
-  - "Governs one actual adverse condition as a `ProblematicForRelation` for one exact entity"
-  - use scope
-  - "and criterion-applicability window. A signal"
-  - evaluation
-  - assessment claim
-  - "or `ProblemCard` may support or describe the claim but does not create the actual Problem"
-  - "separately adverse episodes receive separate occurrence identities. *Queries:* "Which actual condition is adverse for this exact entity and use?"
-  - "Which criterion-applicability relation supplies the predicate"
-  - scope
-  - "and window?"
-  - Is this the actual Problem
-  - or only a signal
-  - assessment
-  - "or ProblemCard?"
+keywords: []
 dependencies:
   builds_on:
     - A.6.REL

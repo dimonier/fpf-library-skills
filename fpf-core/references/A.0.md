@@ -14,12 +14,14 @@ keywords:
   - TypedSetViews
   - ParetoOnly default
   - "scale-probe"
-  - BLP.
+  - BLP
 dependencies:
   builds_on:
     - E.2
     - A.5
-    - "C.17-C.19"
+    - C.17
+    - C.18
+    - C.19
   coordinates_with:
     - E.7
     - E.8
@@ -28,7 +30,10 @@ dependencies:
     - "A.19.SOURCE-SET-SPACE-SUBSTRATE"
     - "A.19.DECLARED-SUBSTRATE-INTERPRETIVE-VIEW"
     - G.5
-    - "G.9-G.12"
+    - G.9
+    - G.10
+    - G.11
+    - G.12
 ---
 
 # A.0: Generative Search Onboarding Glossary (NQD & E/E‑LOG)
@@ -36,7 +41,7 @@ dependencies:
 > **Problem frame:** Engineer-managers choosing a search or selection need to distinguish candidate quality, search coverage, explore/exploit policy and the result being returned.
 > **First move:** | Term | Plain definition (on‑ramp) | See | | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | …
 >
-> **Governing patterns:** `references/E.2.md` `references/A.5.md` `references/C.17-C.19.md` `references/E.7.md` `references/E.8.md` `references/E.10.md` `references/F.17.md` `references/A.19.SOURCE-SET-SPACE-SUBSTRATE.md`
+> **Governing patterns:** `references/E.2.md` `references/A.5.md` `references/C.17.md` `references/C.18.md` `references/C.19.md` `references/E.7.md` `references/E.8.md` `references/E.10.md`
 
 ---
 

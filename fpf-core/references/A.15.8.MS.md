@@ -2,9 +2,7 @@
 id: A.15.8.MS
 title: Configure Methodological Support for Work
 status: Stable
-keywords:
-  - Performers cannot reliably obtain or apply methodological material across the named tasks. Construct a sufficient support arrangement
-  - using a shared Method Base only when its maintained selection is worth the burden
+keywords: []
 dependencies:
   references:
     - A.15.8

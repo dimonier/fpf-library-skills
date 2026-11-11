@@ -2,17 +2,7 @@
 id: B.1.6
 title: "Work-Resource Aggregation"
 status: Stable
-keywords:
-  - Justify a typed resource total
-  - vector
-  - interval or bounded estimate from warranted input values
-  - identified accounting subjects
-  - scope
-  - "time basis and operative rules. Preserve the grounds of actual Work and non-Work carrier phases"
-  - "distinguish repeated resource contributions from different uses of one carrier. *Queries:* "Which resource values and subjects support this total?"
-  - "Does the account count one contribution twice?"
-  - Which additional occurrence
-  - "policy-edition or provenance grounds does this use actually need?"
+keywords: []
 dependencies:
   builds_on:
     - A.15.1

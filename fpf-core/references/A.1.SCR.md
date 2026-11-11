@@ -2,18 +2,7 @@
 id: A.1.SCR
 title: Finding the Acting or Changed System
 status: Stable
-keywords:
-  - Use when a decision depends on which entity acts
-  - changes
-  - persists
-  - "carries a capability or is proposed as the project system-of-interest. Keep the proposed subject"
-  - "distinguish the project role from current local attention. Resolve a different kind of claim through its governing pattern and evaluate systemhood only when the decision depends on it. *Queries:* "Which exact entity acts or is intended to change?"
-  - "Is this proposed whole a System?"
-  - Does the phrase instead name Work
-  - Method
-  - capability
-  - episteme
-  - "structure or another relation?"
+keywords: []
 dependencies:
   builds_on:
     - A.1

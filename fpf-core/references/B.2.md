@@ -2,17 +2,7 @@
 id: B.2
 title: "Meta-Holon Transition — Whole Reidentification"
 status: Stable
-keywords:
-  - Compare changed facts with explanations that preserve the existing whole's identity for the receiving use. Keep a sufficient existing whole
-  - resolve a missing decisive basis
-  - or test the proposed new whole under A.1 and its admitted kind before making a reidentification claim. Materialize a comparison or reidentification account when later work needs it. Use B.3 when the receiving claim and use require assurance. For a selected assertion or record edition
-  - use G.11 for currentness
-  - "the receiving person or system decides reliance. *Queries:* "Which exact existing whole currently explains the claim?"
-  - "Which separately governed facts defeat that explanation?"
-  - "What exact new whole and admitted kind are proposed?"
-  - Does the complete recognition and reidentification basis pass
-  - fail
-  - "or remain unknown?"
+keywords: []
 dependencies:
   builds_on:
     - A.1

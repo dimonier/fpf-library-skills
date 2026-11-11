@@ -10,7 +10,7 @@ keywords:
   - installation
   - qualification
   - build the builder
-  - feasibility.
+  - feasibility
 dependencies:
   references:
     - SYSE.6

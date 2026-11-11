@@ -2,11 +2,7 @@
 id: B.3.5
 title: "Assurance Grounding for Working-Model Relation Claims (CT2R-LOG)"
 status: Stable
-keywords:
-  - "Use when a direct readable relation is already selected and you must decide whether a selected assurance profile needs a current support account. Keep collection-specific belonging and structural parthood separate"
-  - use the branch's current construction trace or other permitted support and declare its validation posture. If no profile is selected
-  - "keep the direct relation and stop. *Query:* "Do I need an additional assurance account for this already selected direct relation"
-  - "and what current support does its branch require?"
+keywords: []
 dependencies:
   builds_on:
     - B.3

@@ -6,15 +6,13 @@ keywords:
   - unit identity
   - configuration
   - effectivity
-  - "source applicability. Query: "Which information applies to this asset and comparison?" Resolve the answer-changing mismatch with a sufficient information basis."
+  - source applicability
 dependencies:
   references:
     - SYSE.13
-    - FRAMEWORK.md
     - EAM.1
     - EAM.5
     - A.10
-    - Spec.md
 ---
 
 # EAM.3: Establish the Asset Information and Configuration Basis
@@ -22,7 +20,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a choice depends on matching asset, condition, cost and intervention records. Two records have the same station label but concern different installed units, or a proposal uses a description that no longer applies.
 > **First move:** Name the receiving decision and select the information it requires. Identify the actual assets or intended asset referents, their locations and the configuration boundaries whose differences matter.
 >
-> **Governing patterns:** `references/SYSE.13.md` `references/FRAMEWORK.md.md` `references/EAM.1.md` `references/EAM.5.md` `references/A.10.md` `references/Spec.md.md`
+> **Governing patterns:** `references/SYSE.13.md` `references/EAM.1.md` `references/EAM.5.md` `references/A.10.md`
 
 ---
 

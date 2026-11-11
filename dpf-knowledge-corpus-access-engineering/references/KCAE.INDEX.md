@@ -9,7 +9,6 @@ keywords:
   - graph
   - fusion
   - persistent search
-  - "“How do I find a useful passage when I cannot name it?”"
 dependencies:
   references:
     - KCAE.SOURCE

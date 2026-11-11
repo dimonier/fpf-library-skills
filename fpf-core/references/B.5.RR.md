@@ -2,13 +2,7 @@
 id: B.5.RR
 title: Revise Reasoning After a Premise or Question Changes
 status: Stable
-keywords:
-  - Use when a changed premise
-  - question or application condition calls earlier reasoning into question. Follow the affected dependencies
-  - retain sufficient alternatives
-  - "derive what now follows and apply the revised result. *Queries:* "Which part needs to be worked again?"
-  - "Does another argument still support the conclusion?"
-  - "What does the changed result let us do?"
+keywords: []
 dependencies:
   coordinates_with:
     - B.5

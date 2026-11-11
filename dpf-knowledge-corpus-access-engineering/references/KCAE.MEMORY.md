@@ -7,7 +7,6 @@ keywords:
   - episode
   - conditional memory
   - recognition question
-  - "“What should survive without fixing the next interpretation?”"
 dependencies:
   references:
     - KCAE.ASSESS

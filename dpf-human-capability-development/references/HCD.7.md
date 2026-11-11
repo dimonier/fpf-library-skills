@@ -2,13 +2,7 @@
 id: HCD.7
 title: "Arrange Providers, Access, Tools, and AI Support for Human Capability Development"
 status: Stable
-keywords:
-  - Which exact provider
-  - source
-  - tool
-  - AI
-  - environment
-  - and checking contributions are actually available when needed
+keywords: []
 ---
 
 # HCD.7: Arrange Providers, Access, Tools, and AI Support for Human Capability Development

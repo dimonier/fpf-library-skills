@@ -6,8 +6,7 @@ keywords:
   - product and organization architecture
   - Conway
   - alignment
-  - "mismatch. Question: How should the two architecture decisions constrain one another"
-  - "including an intentional mismatch?"
+  - mismatch
 dependencies:
   references:
     - OCE.3

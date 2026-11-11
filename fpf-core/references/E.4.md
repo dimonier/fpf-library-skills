@@ -2,11 +2,7 @@
 id: E.4
 title: "FPF Ecosystem Architecture: Framework Families, Products and DPF Suites"
 status: Stable
-keywords:
-  - Choose the next pattern for an FPF ecosystem question
-  - distinguish FPF Core content from an FPF edition
-  - separate support units from independently used products
-  - or constitute a DPF product series and Suite
+keywords: []
 dependencies:
   builds_on:
     - E.1

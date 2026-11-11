@@ -17,7 +17,7 @@ keywords:
   - utterance description
   - institutional target and effect
   - publication relation
-  - evidence carrier.
+  - evidence carrier
 dependencies:
   builds_on:
     - A.2.1

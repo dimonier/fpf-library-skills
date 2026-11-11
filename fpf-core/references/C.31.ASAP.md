@@ -11,7 +11,7 @@ keywords:
   - exception growth
   - waiver
   - scale probe
-  - "coarse-graining."
+  - "coarse-graining"
 dependencies:
   builds_on:
     - C.31

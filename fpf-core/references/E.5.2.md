@@ -2,12 +2,7 @@
 id: E.5.2
 title: Notational Independence
 status: Stable
-keywords:
-  - Keep FPF meaning recoverable while choosing a useful expression. Explain interpretation and any reasoning or construction operation
-  - state correspondences and losses when translating
-  - comparing or substituting expressions. A semantic mapping preserves only its named claims and conditions
-  - not equal reader preparation
-  - capability or effort. Use A.6.3.RT for a representation transition and A.6.3.RT.OE for an operative expression
+keywords: []
 dependencies:
   refines:
     - E.5

@@ -2,19 +2,7 @@
 id: A.21
 title: Gate Decisions from Independent Check Results
 status: Stable
-keywords:
-  - Applies one named gate profile rule to every required independently defined check result for one bounded action or transition. It preserves each source result
-  - maps each under that rule
-  - "and lets the worst mapped value determine `abstain`"
-  - "`pass`"
-  - "`degrade`"
-  - "or `block`"
-  - a gate decision is not readiness
-  - a path
-  - Work
-  - "or publication. *Queries:* "Which action is being decided?"
-  - "Which profile rule and required check results apply?"
-  - "How does each result map and what does the worst value require?"
+keywords: []
 dependencies:
   builds_on:
     - A.20

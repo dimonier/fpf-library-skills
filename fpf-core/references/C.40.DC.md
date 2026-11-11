@@ -2,10 +2,7 @@
 id: C.40.DC
 title: Construct Directions with Support Configurations
 status: Stable
-keywords:
-  - Use when a useful possible change lacks materially different ways and support configurations. Construct comparable directions with the enabling capability
-  - access
-  - means and authority left explicit
+keywords: []
 dependencies:
   references:
     - C.40.PC

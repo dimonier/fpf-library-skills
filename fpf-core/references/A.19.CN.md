@@ -18,7 +18,7 @@ keywords:
   - WLNK discipline
   - conformance checklist
   - SCR/RSCR harness
-  - RSG admission hooks.
+  - RSG admission hooks
 dependencies:
   builds_on:
     - A.19

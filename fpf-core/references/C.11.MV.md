@@ -2,11 +2,7 @@
 id: C.11.MV
 title: Compare the Worth of a Method Option
 status: Stable
-keywords:
-  - A Method option may cost more than its receiving benefit warrants. Compare attainable results with the demands of learning
-  - transition and recurring support
-  - including work they displace
-  - "while preserving the current-way alternative"
+keywords: []
 dependencies:
   references:
     - C.11

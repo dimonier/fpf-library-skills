@@ -7,7 +7,7 @@ keywords:
   - portfolio
   - retained alternatives
   - joint use
-  - authorization.
+  - authorization
 dependencies:
   references:
     - STR.9

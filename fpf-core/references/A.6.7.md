@@ -11,7 +11,7 @@ keywords:
   - "CG-Spec"
   - P2W
   - planned baseline
-  - crossing visibility.
+  - crossing visibility
 dependencies:
   builds_on:
     - E.8

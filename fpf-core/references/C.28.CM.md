@@ -2,13 +2,7 @@
 id: C.28.CM
 title: Construct and Challenge a Causal Model
 status: Stable
-keywords:
-  - Turn a causal account into explicit variables and mechanisms
-  - compare material alternatives
-  - inspect selection and all relevant paths
-  - "and return a conditional consequence or missing premise. Use a sufficient existing model directly. *Queries:* "How do I build a causal model from this working situation?"
-  - "Which rival mechanism changes the proposed action?"
-  - "Could recording or selection explain the apparent relation?"
+keywords: []
 dependencies:
   coordinates_with:
     - B.5.FM

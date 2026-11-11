@@ -2,10 +2,7 @@
 id: C.32.MWA
 title: Synthesize an Architecture Account of Methods and Their Use
 status: Stable
-keywords:
-  - Connects Methods with performed or planned Work
-  - "support and development through structures that do not line up one-for-one. *Queries:* `Which structures of these methods and their use change the decision?`"
-  - "`Which relation is missing or falsely inferred from the source layout?`"
+keywords: []
 dependencies:
   builds_on:
     - C.32

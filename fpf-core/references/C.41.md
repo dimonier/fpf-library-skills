@@ -2,10 +2,7 @@
 id: C.41
 title: Select Checklist Questions for a Work Result
 status: Stable
-keywords:
-  - Work repeatedly misses a consequential distinction. Select a question set from the real subject
-  - Method and result
-  - with coverage sufficient for the intended use and an acceptable interruption and interpretation cost
+keywords: []
 dependencies:
   references:
     - A.3.1

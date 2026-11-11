@@ -7,7 +7,6 @@ keywords:
   - roles
   - circumstances
   - segmentation
-  - Which differences change the offer
 dependencies:
   references:
     - MKT.12

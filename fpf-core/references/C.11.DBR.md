@@ -2,12 +2,7 @@
 id: C.11.DBR
 title: "Reconsider a Decision When Its Relied-on Basis Changes"
 status: Stable
-keywords:
-  - Use when a known earlier choice or recommendation meets a later outcome or changed condition. Recover actual reliance
-  - compare at the same use and horizon
-  - preserve unaffected results
-  - "and either stop with the retained use or prepare a bounded current-choice input. *Queries:* "Does this outcome change our earlier decision?"
-  - "What should be preserved when one premise fails?"
+keywords: []
 dependencies:
   coordinates_with:
     - A.10.1

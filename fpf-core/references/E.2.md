@@ -11,7 +11,7 @@ keywords:
   - "Bitter-Lesson Preference"
   - BLP
   - scalable methods
-  - scale audit.
+  - scale audit
 dependencies:
   builds_on:
     - E.1

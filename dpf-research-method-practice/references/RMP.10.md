@@ -2,10 +2,7 @@
 id: RMP.10
 title: Reconstruct a Candidate Method Account from Practice Evidence
 status: Stable
-keywords:
-  - Which observations
-  - "critical-incident accounts or event logs can resolve a candidate Method claim"
-  - and when is the account sufficient or must it be lowered
+keywords: []
 dependencies:
   references:
     - A.3.1.MR

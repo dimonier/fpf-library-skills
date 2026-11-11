@@ -16,7 +16,7 @@ keywords:
   - edition pins
   - UTS twins
   - RSCRTriggerKindId
-  - telemetry pin.
+  - telemetry pin
 dependencies:
   builds_on:
     - G.Core

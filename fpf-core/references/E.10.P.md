@@ -4,14 +4,13 @@ title: "Conceptual Prefixes (policy & registry)"
 status: Stable
 keywords:
   - conceptual prefixes
-  - U.
   - Γ_
-  - "ut:"
-  - "tv:"
+  - ut
+  - tv
   - namespace
   - registry
   - minting
-  - collisions.
+  - collisions
 dependencies:
   builds_on:
     - E.10

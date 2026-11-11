@@ -10,7 +10,7 @@ keywords:
   - scenario
   - user story
   - requirements
-  - outside effect.
+  - outside effect
 dependencies:
   references:
     - SYSE.1

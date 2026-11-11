@@ -8,7 +8,7 @@ keywords:
   - replace
   - defer
   - restriction
-  - "recommendation. Query: "What maintenance response is supported now?" Compare plausible maintenance responses and finish sufficient advice without compulsory physical work."
+  - recommendation
 dependencies:
   references:
     - MNT.3
@@ -16,7 +16,6 @@ dependencies:
     - MNT.5
     - MNT.7
     - C.11.DUA
-    - Spec.md
 ---
 
 # MNT.6: Diagnose Condition and Choose a Maintenance Response
@@ -24,7 +23,7 @@ dependencies:
 > **Problem frame:** Use this pattern when current condition raises a maintenance choice: repair, replace, adjust, inspect, defer, restrict use or stop.
 > **First move:** Begin with the requested decision and time horizon. Recover the relevant required function, current condition and failure account. Use already adequate evidence before asking for more.
 >
-> **Governing patterns:** `references/MNT.3.md` `references/MNT.4.md` `references/MNT.5.md` `references/MNT.7.md` `references/C.11.DUA.md` `references/Spec.md.md`
+> **Governing patterns:** `references/MNT.3.md` `references/MNT.4.md` `references/MNT.5.md` `references/MNT.7.md` `references/C.11.DUA.md`
 
 ---
 

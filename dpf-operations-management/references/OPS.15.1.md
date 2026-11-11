@@ -2,10 +2,7 @@
 id: OPS.15.1
 title: Derive Operating Quantities from Events
 status: Stable
-keywords:
-  - How do events yield waiting
-  - resource occupancy and completion quantities when work overlaps
-  - returns or remains unfinished at the cutoff
+keywords: []
 dependencies:
   references:
     - OPS.15

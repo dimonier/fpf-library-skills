@@ -2,10 +2,7 @@
 id: A.3.1.WT
 title: Design and Interpret a Method Work Trial
 status: Stable
-keywords:
-  - An unresolved Method question needs evidence from Work. Use suitable existing Work evidence or design a trial with relevant variation
-  - observations and stops
-  - interpret only the conclusion the evidence supports
+keywords: []
 dependencies:
   references:
     - A.15.1

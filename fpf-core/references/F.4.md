@@ -8,7 +8,7 @@ keywords:
   - classification criterion
   - effective scheme
   - description episteme
-  - "non-inference boundary."
+  - "non-inference boundary"
 dependencies:
   builds_on:
     - A.2

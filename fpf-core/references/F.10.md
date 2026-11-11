@@ -12,7 +12,7 @@ keywords:
   - status value
   - scope
   - window
-  - interpretation rule.
+  - interpretation rule
 dependencies:
   builds_on:
     - F.9

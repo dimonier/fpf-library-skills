@@ -2,15 +2,7 @@
 id: B.2.P
 title: "Clarify Emergence and Meta-Holon Transition (MHT) Claims"
 status: Stable
-keywords:
-  - Repairs emergence
-  - synergy
-  - "higher-level property"
-  - MHT
-  - MET
-  - MFT
-  - metric mirage
-  - "and collection words entangled with whole-reidentification by recovering the claim kind first"
+keywords: []
 dependencies:
   builds_on:
     - E.10

@@ -2,11 +2,7 @@
 id: A.15.11
 title: Make Applicable Methods Noticeable in Work
 status: Stable
-keywords:
-  - Use when a useful method goes unconsidered during work
-  - including successful work that could benefit from another way. Arrange an encounter that makes its contribution understandable and its next operation accessible
-  - retain
-  - change or remove the arrangement according to its value and cost
+keywords: []
 dependencies:
   builds_on:
     - A.15

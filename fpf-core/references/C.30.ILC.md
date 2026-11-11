@@ -10,7 +10,7 @@ keywords:
   - structure kind
   - local repair
   - "residual-bearing locus"
-  - first architecture move.
+  - first architecture move
 dependencies:
   builds_on:
     - C.30

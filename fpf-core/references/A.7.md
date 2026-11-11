@@ -6,7 +6,7 @@ keywords:
   - category error
   - EntityOfConcern ≠ Description episteme
   - "system-role kind and assignment ≠ Work"
-  - MethodDescription ≠ Method ≠ Capability ≠ Work.
+  - MethodDescription ≠ Method ≠ Capability ≠ Work
 dependencies:
   builds_on:
     - A.1

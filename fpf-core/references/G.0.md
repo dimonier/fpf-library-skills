@@ -16,7 +16,7 @@ keywords:
   - "CL-routing"
   - ReferencePlane
   - edition pins
-  - RSCRTriggerKindId.
+  - RSCRTriggerKindId
 dependencies:
   builds_on:
     - G.Core

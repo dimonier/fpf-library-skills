@@ -11,7 +11,7 @@ keywords:
   - reconstruction
   - transfer
   - retention
-  - source contribution.
+  - source contribution
 dependencies:
   references:
     - MDPE.6

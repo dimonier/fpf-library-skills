@@ -13,7 +13,7 @@ keywords:
   - launch gate
   - WIP and flow policy
   - planned slot fillings
-  - blocked readiness overread.
+  - blocked readiness overread
 dependencies:
   builds_on:
     - A.15

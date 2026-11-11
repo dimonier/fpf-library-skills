@@ -5,8 +5,7 @@ status: Stable
 keywords:
   - institutional change
   - cultural evolution
-  - capability. Should this rule be retained or changed
-  - and what working contribution is needed
+  - capability
 dependencies:
   references:
     - C.36

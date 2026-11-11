@@ -2,10 +2,7 @@
 id: HCD.18
 title: Select or Construct a Characterization and Evaluation Specification for Instructional Material
 status: Stable
-keywords:
-  - "Which task-based specification can distinguish useful material support"
-  - limiting defects
-  - and the evidence needed for this audience and use
+keywords: []
 dependencies:
   references:
     - A.19.ECS

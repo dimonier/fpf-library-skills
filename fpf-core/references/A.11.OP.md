@@ -2,12 +2,7 @@
 id: A.11.OP
 title: "Decision-Relevant Least Action and Operational Parsimony: Test a Proposed Requirement"
 status: Stable
-keywords:
-  - Screen a proposed mandatory action or apparatus for a substantive decision
-  - selected result
-  - "or relied-on assurance or recovery contribution within a named horizon. Contribution alone does not establish obtainability"
-  - worth or an obligation
-  - complete the live demand or choice question through its direct owner
+keywords: []
 dependencies:
   coordinates_with:
     - C.11.DUA

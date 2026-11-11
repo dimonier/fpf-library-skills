@@ -2,15 +2,7 @@
 id: A.1.STM
 title: "Connect Project Reasoning (System-Thinking Long Mantra)"
 status: Stable
-keywords:
-  - Connect project reasoning from receiving use and encompassing functioning at the operating time to construction
-  - obtaining Methods and creator cooperation. Keep the common product SoI and use in view while engineering its creators
-  - connecting needed capability
-  - provision and finite local acceptance. Enter from a noticed difficulty or use the mantra to expose an unexamined dependency
-  - then obtain a supported continuation. Use and wider functioning give the grounds for construction and creation choices
-  - "actual Work follows its own conditions. A narrower mode locates one gap. *Queries:* "Which product uses constrain this decision?"
-  - "What capability and finite result must this creator provide?"
-  - "Which premise or dependency needs work next?"
+keywords: []
 dependencies:
   builds_on:
     - A.1

@@ -2,8 +2,7 @@
 id: OPS.15
 title: "Build a Decision-Specific Operating Account"
 status: Stable
-keywords:
-  - Which observations and meanings support the receiving operating decision
+keywords: []
 dependencies:
   references:
     - OPS.3

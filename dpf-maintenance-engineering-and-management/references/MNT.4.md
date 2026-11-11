@@ -7,13 +7,12 @@ keywords:
   - alarm
   - baseline
   - forecast
-  - "remaining life. Query: "What does this signal mean under the actual operating conditions?" Return a qualified condition account or the precise interpretation limit."
+  - remaining life
 dependencies:
   references:
     - MNT.1
     - MNT.3
     - C.16
-    - Spec.md
 ---
 
 # MNT.4: Monitor and Interpret System Condition for Maintenance
@@ -21,7 +20,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a measurement, inspection or prediction needs interpretation for a maintenance question. A dashboard turns red, but the planner needs to know what changed, how much confidence to place in the signal and whether it chan …
 > **First move:** Name the condition question first. Identify the functioning or failure concern and what a different answer would change. A request to interpret today's alarm can often be answered from existing observations; it does not automatically justif …
 >
-> **Governing patterns:** `references/MNT.1.md` `references/MNT.3.md` `references/C.16.md` `references/Spec.md.md`
+> **Governing patterns:** `references/MNT.1.md` `references/MNT.3.md` `references/C.16.md`
 
 ---
 

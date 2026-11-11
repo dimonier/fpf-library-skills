@@ -2,10 +2,7 @@
 id: HCD.9
 title: Perform Deliberate Practice with Feedback
 status: Stable
-keywords:
-  - What did this person attempt with which help
-  - what did feedback support correcting or retaining
-  - and does a question still require another attempt
+keywords: []
 dependencies:
   references:
     - HCD.5

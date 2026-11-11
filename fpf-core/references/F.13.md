@@ -9,7 +9,7 @@ keywords:
   - local aliases
   - splitting and merging labels
   - retirement
-  - historical reading.
+  - historical reading
 dependencies:
   builds_on:
     - F.5

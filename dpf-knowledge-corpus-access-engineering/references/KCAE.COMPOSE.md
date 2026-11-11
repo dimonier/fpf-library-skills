@@ -7,8 +7,6 @@ keywords:
   - method set
   - shared resource
   - alternatives
-  - “What else is needed
-  - "and can these contributions work together?”"
 dependencies:
   references:
     - C.39

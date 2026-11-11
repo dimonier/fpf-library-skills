@@ -16,7 +16,7 @@ keywords:
   - interface
   - port
   - API
-  - "reduced-use source label."
+  - "reduced-use source label"
 dependencies:
   builds_on:
     - E.10

@@ -11,7 +11,7 @@ keywords:
   - window
   - rival explanation
   - no group mind
-  - report/export loss.
+  - report/export loss
 dependencies:
   builds_on:
     - C.26

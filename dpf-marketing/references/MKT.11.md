@@ -9,7 +9,6 @@ keywords:
   - provision
   - assignments
   - feedback
-  - Who will actually make the offering obtainable and supply the promised work
 dependencies:
   references:
     - MKT.2

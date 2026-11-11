@@ -2,18 +2,7 @@
 id: E.17.2
 title: "TEVB — Project-local Typical Engineering Viewpoint Bundle Template for Holons"
 status: Stable
-keywords:
-  - "Author one project-local four-position family for functional"
-  - procedural
-  - "allocation-responsibility"
-  - "and module-interface descriptions of holons. This pattern ships only a template: no catalogue"
-  - family designator
-  - reference
-  - or viewpoint edition exists until a project constitutes exact L
-  - "binds four exact local `U.ViewpointRef` values to admitted P editions"
-  - "and preserves their resolution. One later use may select one member and stop. *Queries:* "Have the local catalogue and four bindings been materialized?"
-  - "Which one reference is needed now?"
-  - "Is another concern better kept in a separate local family?"
+keywords: []
 dependencies:
   builds_on:
     - E.17.0

@@ -2,16 +2,7 @@
 id: A.3
 title: "Transformer Quartet: Distinguish Work, Performer, Method and Method Description"
 status: Stable
-keywords:
-  - "Actor-side constitution for performed Work: one individual of `U.Work` is a world-side dated occurrence"
-  - each exact performer first has the A.13 core
-  - "and A.15.1 independently admits the Work while separately stating `enactsMethod`. F.6 enters only when a receiving use also consumes precise assignment-bound attribution through the same obtaining A.13 assignment"
-  - "it compares the already recovered performer with the assignment holder and does not discover the performer. Missing or failed F.6 attribution alone leaves independently grounded Work intact. `U.Method` is run-independent"
-  - "and a `U.MethodDescription` edition enters only when a receiving use relies on it. A Work assertion or description is a separate `U.Episteme`"
-  - records and carriers are not Work. A.3.4 can identify natural
-  - formal
-  - joint
-  - "or non-separable change without inventing an actor or quartet"
+keywords: []
 dependencies:
   builds_on:
     - A.2.1
@@ -26,8 +17,13 @@ dependencies:
     - A.3.2
     - A.3.4
     - A.10
-    - "A.12-A.15"
-    - "B.1.4-B.1.6"
+    - A.12
+    - A.13
+    - A.14
+    - A.15
+    - B.1.4
+    - B.1.5
+    - B.1.6
     - F.9
 ---
 

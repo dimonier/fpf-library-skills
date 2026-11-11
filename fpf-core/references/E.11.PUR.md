@@ -2,11 +2,7 @@
 id: E.11.PUR
 title: "Pattern-Use Applicability, Recommendation, and Coordination"
 status: Stable
-keywords:
-  - After candidate pattern uses have been inspected
-  - decides their applicability
-  - which useful first result to recommend
-  - and how several uses relate
+keywords: []
 dependencies:
   builds_on:
     - E.11

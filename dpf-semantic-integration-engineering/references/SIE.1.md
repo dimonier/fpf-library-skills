@@ -2,11 +2,7 @@
 id: SIE.1
 title: Bound the Receiving Use and Semantic Contract
 status: Stable
-keywords:
-  - What exact receiving use
-  - semantic loss boundary
-  - authority
-  - and validation obligation govern this integration
+keywords: []
 dependencies:
   references:
     - C.37

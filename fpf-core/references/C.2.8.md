@@ -9,7 +9,7 @@ keywords:
   - structural information
   - epiplexity
   - description comparison
-  - reading budget.
+  - reading budget
 dependencies:
   builds_on:
     - A.17

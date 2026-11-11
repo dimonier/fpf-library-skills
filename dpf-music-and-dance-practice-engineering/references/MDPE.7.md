@@ -10,7 +10,7 @@ keywords:
   - rehearsal
   - intervention
   - opportunity cost
-  - current evidence.
+  - current evidence
 dependencies:
   references:
     - MDPE.12

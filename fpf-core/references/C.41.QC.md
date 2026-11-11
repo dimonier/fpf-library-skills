@@ -2,10 +2,7 @@
 id: C.41.QC
 title: Qualify Checklist Criteria and Checking Means
 status: Stable
-keywords:
-  - Passing a checklist does not settle whether its criteria or checking means are adequate. Test their meaning
-  - coverage
-  - discrimination and cost against the actual subject and use
+keywords: []
 dependencies:
   references:
     - C.41

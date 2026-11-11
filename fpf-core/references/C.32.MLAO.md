@@ -10,7 +10,7 @@ keywords:
   - Pareto front
   - stepping stone
   - ideality pressure
-  - scale amenability.
+  - scale amenability
 dependencies:
   builds_on:
     - C.30.ILC

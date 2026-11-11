@@ -2,10 +2,7 @@
 id: B.2.4
 title: "Do Capability or Functioning Changes Require Whole Reidentification?"
 status: Stable
-keywords:
-  - B.2 specialization for cases where independently governed capability
-  - functioning
-  - "or selected in-life transformation-flow facts leave a whole-reidentification question after direct-owner and existing-whole explanations are tested. Evidence bears on claims about those facts"
+keywords: []
 dependencies:
   coordinates_with:
     - A.2.2

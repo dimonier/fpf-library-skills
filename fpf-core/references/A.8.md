@@ -6,7 +6,7 @@ keywords:
   - universality
   - transdisciplinary
   - "domain-agnostic"
-  - "kernel-level U-kind admission."
+  - "kernel-level U-kind admission"
 dependencies:
   builds_on:
     - E.24.UK

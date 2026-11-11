@@ -8,7 +8,6 @@ keywords:
   - opportunities
   - programme
   - common preparation
-  - Which whole customer programme can we support
 dependencies:
   references:
     - MKT.1

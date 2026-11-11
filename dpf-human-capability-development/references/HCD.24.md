@@ -2,8 +2,7 @@
 id: HCD.24
 title: Learn Evaluation and Revision through Peer Review
 status: Stable
-keywords:
-  - How can the reviewer learn judgement and the author use feedback to revise
+keywords: []
 dependencies:
   references:
     - HCD.6.1

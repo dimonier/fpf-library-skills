@@ -2,13 +2,7 @@
 id: C.43
 title: "Connect Observation, Choice and Action in Control"
 status: Stable
-keywords:
-  - Join the current situation
-  - available information
-  - possible continuations
-  - their consequences and actual realization. Explain existing control
-  - "including distributed and self-changing arrangements"
-  - or obtain a suitable continuation and revise it when conditions change
+keywords: []
 dependencies:
   references:
     - A.12

@@ -2,22 +2,7 @@
 id: A.6.6
 title: "Base Declaration Discipline: Say Exactly What Something Depends On"
 status: Stable
-keywords:
-  - Recovers the actual dependent
-  - base
-  - and direct relation hidden by basedness
-  - anchor
-  - support
-  - ground
-  - or similar umbrella wording. State and test the direct relation first
-  - add scope
-  - time
-  - evidence
-  - a reusable RelationSignature
-  - "or a reviewable assertion episteme only when its predicate or one named use needs it. SWBD and `U.ScopedWitnessedBaseDeclaration` are retired. *Queries:* "What depends on what"
-  - "through which direct relation?"
-  - "Does that predicate obtain here?"
-  - "Does a named receiver need a reusable declaration or record?"
+keywords: []
 dependencies:
   builds_on:
     - A.6.REL

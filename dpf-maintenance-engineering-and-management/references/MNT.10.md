@@ -6,16 +6,13 @@ keywords:
   - restored function
   - representative load
   - verification
-  - "test limits. Query: "What required functioning does the evidence support?" Check the actual resulting configuration and return qualified functioning evidence."
+  - test limits
 dependencies:
   references:
     - MNT.9
     - B.3
-    - Spec.md
     - A.10
-    - Spec.md
     - C.16
-    - Spec.md
 ---
 
 # MNT.10: Verify Restored Functioning after Maintenance
@@ -23,7 +20,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a performed maintenance task is being used to claim that the System can again support its required use.
 > **First move:** State the required functioning claim, actual configuration, operating envelope and relevant horizon. Recover the operating and engineering acceptance basis.
 >
-> **Governing patterns:** `references/MNT.9.md` `references/B.3.md` `references/Spec.md.md` `references/A.10.md` `references/C.16.md`
+> **Governing patterns:** `references/MNT.9.md` `references/B.3.md` `references/A.10.md` `references/C.16.md`
 
 ---
 

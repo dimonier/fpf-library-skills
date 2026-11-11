@@ -9,7 +9,7 @@ keywords:
   - attainable observation
   - "Q-Bundle"
   - proxy risk
-  - protected qualities.
+  - protected qualities
 dependencies:
   builds_on:
     - C.32.HCS

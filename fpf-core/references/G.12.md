@@ -12,7 +12,7 @@ keywords:
   - time series
   - views
   - optional publication
-  - selective refresh.
+  - selective refresh
 dependencies:
   builds_on:
     - G.Core

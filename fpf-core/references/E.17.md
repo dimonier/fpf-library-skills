@@ -2,20 +2,7 @@
 id: E.17
 title: Multi‑View Publication Kit
 status: Stable
-keywords:
-  - "Publish a source-backed face or face set for the named readers without changing the accepted engineering account"
-  - "add a form only when a current use needs it. An `MVPK face` defaults to the exact publication form"
-  - source or receiving episteme
-  - "bounded-use declaration"
-  - publication occurrence
-  - and carrier remain separate. Add exact viewpoint
-  - publication
-  - evidence
-  - gate
-  - "or assurance relations only when a named receiving use needs them. *Queries:* "Which reader needs which publication face?"
-  - What is preserved or omitted
-  - "and how does the reader return to source?"
-  - "Which stronger relation is actually required for reliance?"
+keywords: []
 dependencies:
   builds_on:
     - E.17.0

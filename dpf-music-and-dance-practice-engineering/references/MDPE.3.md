@@ -12,7 +12,7 @@ keywords:
   - venue
   - sensing
   - timing
-  - coordination.
+  - coordination
 dependencies:
   references:
     - MDPE.9

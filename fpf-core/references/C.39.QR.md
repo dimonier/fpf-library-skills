@@ -2,14 +2,7 @@
 id: C.39.QR
 title: Return Results to the Original Question
 status: Stable
-keywords:
-  - Partial work through a case
-  - model
-  - part
-  - sample or delegated contribution leaves its return to the original question uncertain. Recover that question
-  - identify the relation and warrant
-  - establish the obtained result
-  - construct the missing contribution and settle what the receiving work can now do
+keywords: []
 dependencies:
   references:
     - C.39

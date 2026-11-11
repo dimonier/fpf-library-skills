@@ -2,14 +2,7 @@
 id: HCD.5
 title: "Select Human Capability-Development Methods"
 status: Stable
-keywords:
-  - Which development Method plausibly fits the target action
-  - observed or proposed entry conditions
-  - mechanism
-  - task
-  - provider
-  - risk
-  - and evidence need
+keywords: []
 dependencies:
   references:
     - HCD.2

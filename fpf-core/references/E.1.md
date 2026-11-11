@@ -11,7 +11,7 @@ keywords:
   - purpose
   - scope
   - goals
-  - "non-goals."
+  - "non-goals"
 dependencies:
   prerequisite_for:
     - E.2

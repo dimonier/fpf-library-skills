@@ -2,11 +2,7 @@
 id: B.1.5.EW
 title: Recover How Constituent Actions Enact Encompassing Work
 status: Stable
-keywords:
-  - "Start with one action and explain what encompassing work is being performed through it. Consider a relevant change in whole-work conditions to determine whether the action"
-  - its coordination or the requested result needs adjustment
-  - "recover missing constituent know-how or capability only as far as this use needs. *Queries:* "What larger work am I doing through this action?"
-  - "Why does an adequate isolated action fail in this combination?"
+keywords: []
 dependencies:
   builds_on:
     - B.1.5

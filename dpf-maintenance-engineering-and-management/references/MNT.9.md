@@ -7,15 +7,13 @@ keywords:
   - deviation
   - interruption
   - actual parts
-  - "work record. Query: "What work actually occurred and in what resulting state?" Perform within operative conditions and preserve useful intervention evidence."
+  - work record
 dependencies:
   references:
     - MNT.6
     - MNT.8
     - A.13
-    - Spec.md
     - A.15.1
-    - Spec.md
 ---
 
 # MNT.9: Perform and Record the Maintenance Intervention
@@ -23,7 +21,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a selected maintenance intervention is being performed and later decisions depend on what actually happened.
 > **First move:** Recover the selected task and the operative work conditions before performing it. The applicable equipment procedure supplies the concrete technique, tool use, tolerances and controls.
 >
-> **Governing patterns:** `references/MNT.6.md` `references/MNT.8.md` `references/A.13.md` `references/Spec.md.md` `references/A.15.1.md`
+> **Governing patterns:** `references/MNT.6.md` `references/MNT.8.md` `references/A.13.md` `references/A.15.1.md`
 
 ---
 

@@ -2,16 +2,7 @@
 id: B.1
 title: "Holon Aggregation and Part-Whole Construction"
 status: Stable
-keywords:
-  - Recover what the aggregation claim is about before choosing a notation. For a part–whole claim
-  - name the whole
-  - parts
-  - obtaining part relations and construction basis. Route collection belonging
-  - Method composition
-  - "performed-Work parts and mathematical representations to their direct patterns"
-  - "use C.13 for the construction account and B.2 only for whole reidentification. *Queries:* "Is this a part–whole claim or another kind of aggregation?"
-  - "What makes these objects parts of this whole?"
-  - "Which pattern supplies the construction or calculation?"
+keywords: []
 dependencies:
   builds_on:
     - A.1

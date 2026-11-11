@@ -12,7 +12,7 @@ keywords:
   - viability envelope
   - proxy metric
   - "admissible quality-family use"
-  - failure mode.
+  - failure mode
 dependencies:
   builds_on:
     - A.2.6

@@ -2,10 +2,7 @@
 id: HCD.6
 title: Design Representative Practice Tasks
 status: Stable
-keywords:
-  - Which tasks
-  - help and alternative pathways could develop the target action
-  - and what observation would redirect them
+keywords: []
 dependencies:
   references:
     - HCD.5

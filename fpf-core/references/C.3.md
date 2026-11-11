@@ -10,7 +10,7 @@ keywords:
   - true/false/unknown judgment
   - optional extension
   - SubkindOf preorder
-  - "distinct-kind KindBridge."
+  - "distinct-kind KindBridge"
 dependencies:
   builds_on:
     - A.1

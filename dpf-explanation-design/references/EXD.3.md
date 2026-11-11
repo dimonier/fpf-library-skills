@@ -8,7 +8,7 @@ keywords:
   - diagram
   - demonstration
   - access
-  - cognitive load.
+  - cognitive load
 dependencies:
   references:
     - EXD.1

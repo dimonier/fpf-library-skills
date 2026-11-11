@@ -2,12 +2,7 @@
 id: A.6.RSIG
 title: "Recognition Signatures: Find the Defining Episteme for a Description"
 status: Stable
-keywords:
-  - "description-recognition signature"
-  - "encountered carrier vs defining `U.Episteme`"
-  - API/access description not promise
-  - method applicability note
-  - false neighboring description
+keywords: []
 dependencies:
   references:
     - A.6

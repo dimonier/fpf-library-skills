@@ -12,7 +12,7 @@ keywords:
   - stack
   - open architecture
   - substitutability
-  - interface specification.
+  - interface specification
 dependencies:
   builds_on:
     - A.6.P

@@ -2,14 +2,7 @@
 id: C.2.P
 title: "Clarify Episteme, Publication, and Source Wording (Epistemic Precision Restoration)"
 status: Stable
-keywords:
-  - Clarifies wording that leaves an episteme
-  - publication
-  - "source-to-use"
-  - carrier
-  - "or use-disposition distinction unresolved. Recover the sentence's function and the missing distinction"
-  - then repair it or use the exact subject pattern
-  - stop when that pattern and its current field are already clear
+keywords: []
 dependencies:
   builds_on:
     - E.10

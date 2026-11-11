@@ -2,24 +2,16 @@
 id: E.17.1
 title: Viewpoint Bundle Library — Reusable Viewpoint Reference Bundles
 status: Stable
-keywords:
-  - Reuse one already admitted catalogue edition L
-  - retrieve its local declaration through the family designator
-  - "and resolve only the needed exact `U.ViewpointRef` subset to admitted viewpoint editions P. Open `<G_L"
-  - K_L
-  - "R_L>` constitution only for authoring"
-  - admission
-  - disputed identity
-  - "or a named use that needs those premises. Labels and compact locators do not identify L or grant viewpoint membership. *Queries:* "Which exact catalogue edition and declaration are reused?"
-  - "Which references are needed now?"
-  - "Does cross-project reuse resolve the same L and members?"
+keywords: []
 dependencies:
   builds_on:
     - C.2.1
     - E.17.0
     - C.13
     - A.22
-    - "A.6.2-A.6.4"
+    - A.6.2
+    - A.6.3
+    - A.6.4
     - A.7
     - E.7
     - E.10
@@ -35,7 +27,7 @@ dependencies:
 > **Problem frame:** **Selected-family discipline.** A local declaration states the exact target-kind compatibility condition it uses: either a by-value criterion or a reference that resolves to the exact ClaimGraph defining or constraining the admitted target …
 > **First move:** `E.17.1` defines a reusable form for one ordinary C.2.1 catalogue episteme L whose local bundle declarations package exact `U.ViewpointRef` values resolving to exact E.17.0 viewpoint episteme editions.
 >
-> **Governing patterns:** `references/C.2.1.md` `references/E.17.0.md` `references/C.13.md` `references/A.22.md` `references/A.6.2-A.6.4.md` `references/A.7.md` `references/E.7.md` `references/E.10.md`
+> **Governing patterns:** `references/C.2.1.md` `references/E.17.0.md` `references/C.13.md` `references/A.22.md` `references/A.6.2.md` `references/A.6.3.md` `references/A.6.4.md` `references/A.7.md`
 
 ---
 

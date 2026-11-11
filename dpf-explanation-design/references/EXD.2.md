@@ -6,7 +6,7 @@ keywords:
   - worked example
   - correspondence
   - analogy
-  - counterexample.
+  - counterexample
 dependencies:
   references:
     - EXD.1

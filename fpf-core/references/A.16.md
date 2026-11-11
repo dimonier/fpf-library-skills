@@ -8,14 +8,16 @@ keywords:
   - reopen
   - "sketch-backoff"
   - respecify
-  - retire.
+  - retire
 dependencies:
   builds_on:
     - C.2.2a
     - C.2.LS
     - A.19
   coordinates_with:
-    - "A.16.0-A.16.2"
+    - A.16.0
+    - A.16.1
+    - A.16.2
     - B.4.1
     - E.18
     - E.10.MOVE
@@ -26,7 +28,7 @@ dependencies:
 > **Problem frame:** The language-state `U.CharacteristicSpace` in `C.2.2a` makes positions explicit, but practitioners still need admissible moves for preserving, publishing, narrowing, reopening, or docking selected content to a later use.
 > **First move:** `A.16` defines admissible move names, guards, identity decisions, and next-use docking.
 >
-> **Governing patterns:** `references/C.2.2a.md` `references/C.2.LS.md` `references/A.19.md` `references/A.16.0-A.16.2.md` `references/B.4.1.md` `references/E.18.md` `references/E.10.MOVE.md`
+> **Governing patterns:** `references/C.2.2a.md` `references/C.2.LS.md` `references/A.19.md` `references/A.16.0.md` `references/A.16.1.md` `references/A.16.2.md` `references/B.4.1.md` `references/E.18.md`
 
 ---
 

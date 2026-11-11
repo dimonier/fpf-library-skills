@@ -2,9 +2,7 @@
 id: E.17.ID.CR
 title: Compare Sources Within a Shared Review Frame (ComparativeReviewUnit)
 status: Stable
-keywords:
-  - Recover the receiving review question and the relevant claims
-  - "conditions and support in each source. Establish their comparison basis and derive a bounded contrast or the exact missing basis. Keep an explicit downstream limit when the wording or use needs it. A source-linked paragraph or small table can suffice"
+keywords: []
 dependencies:
   references:
     - C.2.2a

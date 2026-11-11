@@ -2,9 +2,7 @@
 id: HCD.15
 title: Sustain Continuing Human Capability Development
 status: Stable
-keywords:
-  - What can this person learn from successful Work
-  - or which continuing arrangement should respond to changed Work or evidence
+keywords: []
 dependencies:
   references:
     - HCD.14

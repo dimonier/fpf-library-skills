@@ -10,7 +10,7 @@ keywords:
   - episteme
   - claim
   - provenance
-  - "role-shaped source phrase."
+  - "role-shaped source phrase"
 dependencies:
   builds_on:
     - A.2

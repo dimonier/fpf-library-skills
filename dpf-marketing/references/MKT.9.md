@@ -6,7 +6,6 @@ keywords:
   - suitable variant
   - personalised service
   - configuration
-  - Is there a fitting offer or must one be constructed
 dependencies:
   references:
     - MKT.1

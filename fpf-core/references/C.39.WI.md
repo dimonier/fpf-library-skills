@@ -2,16 +2,7 @@
 id: C.39.WI
 title: Discover Worthwhile Method Improvements
 status: Stable
-keywords:
-  - Work consumes substantial resources
-  - causes avoidable loss or leaves a useful result unattainable
-  - and the worthwhile change is unclear. Follow the receiving work
-  - compare complete consequences and burden
-  - distinguish Method
-  - explanation
-  - access
-  - provision and execution remedies
-  - and select an attainable contribution or continued practice
+keywords: []
 dependencies:
   references:
     - C.39.MF

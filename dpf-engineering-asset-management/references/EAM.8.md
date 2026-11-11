@@ -10,21 +10,16 @@ keywords:
   - retire
   - later intervention
   - horizon
-  - "residual value. Query: "Which continued-use or change option is worth considering?" Construct supported policies with dated consequences and a compatible ending premise."
+  - residual value
 dependencies:
   references:
     - EAM.5
     - EAM.9
     - MNT.6
-    - FRAMEWORK.md
     - MNT.7
-    - FRAMEWORK.md
     - FIN.6
-    - FRAMEWORK.md
     - FIN.7
-    - FRAMEWORK.md
     - C.11
-    - Spec.md
 ---
 
 # EAM.8: Generate Maintenance, Renewal, and Retirement Alternatives
@@ -32,7 +27,7 @@ dependencies:
 > **Problem frame:** Use this pattern when an engineered asset's future use is in question: retain it with maintenance, renew it, replace it, repurpose it or withdraw it.
 > **First move:** Recover the required service, asset configuration and horizon. Use the relevant condition and diagnostic account to establish which maintained-use responses are supported.
 >
-> **Governing patterns:** `references/EAM.5.md` `references/EAM.9.md` `references/MNT.6.md` `references/FRAMEWORK.md.md` `references/MNT.7.md` `references/FIN.6.md` `references/FIN.7.md` `references/C.11.md`
+> **Governing patterns:** `references/EAM.5.md` `references/EAM.9.md` `references/MNT.6.md` `references/MNT.7.md` `references/FIN.6.md` `references/FIN.7.md` `references/C.11.md`
 
 ---
 

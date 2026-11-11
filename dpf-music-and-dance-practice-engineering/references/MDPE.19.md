@@ -11,7 +11,7 @@ keywords:
   - replacement performer
   - teaching
   - venue
-  - cultural variant.
+  - cultural variant
 dependencies:
   references:
     - MDPE.17

@@ -7,14 +7,13 @@ keywords:
   - corrective
   - preventive
   - "condition-based"
-  - "failure-finding. Query: "Which task should be retained or changed for this failure?" Compare applicable tasks and response conditions without a technology ladder."
+  - "failure-finding"
 dependencies:
   references:
     - MNT.3
     - MNT.4
     - MNT.5
     - C.11.DUA
-    - Spec.md
 ---
 
 # MNT.2: Select and Reopen the Maintenance Policy
@@ -22,7 +21,7 @@ dependencies:
 > **Problem frame:** Use this pattern when a recurring maintenance task, inspection interval or proposed technology needs a reason to be retained or changed.
 > **First move:** Start from the required function and a failure account sufficient to distinguish policy alternatives. Identify the loss of function, credible mechanisms and consequences.
 >
-> **Governing patterns:** `references/MNT.3.md` `references/MNT.4.md` `references/MNT.5.md` `references/C.11.DUA.md` `references/Spec.md.md`
+> **Governing patterns:** `references/MNT.3.md` `references/MNT.4.md` `references/MNT.5.md` `references/C.11.DUA.md`
 
 ---
 

@@ -15,7 +15,7 @@ keywords:
   - credential
   - generated explanation
   - copied approval
-  - publication face.
+  - publication face
 dependencies:
   builds_on:
     - A.15

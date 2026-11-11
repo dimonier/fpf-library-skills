@@ -2,20 +2,7 @@
 id: E.11
 title: "First-Practical Entry and Pattern-Use Discoverability Discipline"
 status: Stable
-keywords:
-  - Gives each public entry unit one job and compares titles
-  - "complete ToC rows and retrieved fragments under the information actually shown. Worked comparisons clarify a first choice when compact cues still leave a genuine ambiguity. *Query:* "Which fact changes my first pattern choice?" A reader starts from a recognizable situation"
-  - practical question
-  - first useful result or blocker
-  - opens one direct pattern or small plausible set
-  - and may stop without filling a card. Continue with E.11.PUA after selecting one pattern and with E.11.PUR when applicability
-  - recommendation
-  - coordination
-  - ordering
-  - or reuse of an earlier result is current. Use E.11.PFP when one public FPF
-  - DPF
-  - or LPF edition needs the common publication form
-  - form conformance and pattern count do not establish framework adequacy
+keywords: []
 dependencies:
   builds_on:
     - E.8

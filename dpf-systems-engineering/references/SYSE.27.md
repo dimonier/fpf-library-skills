@@ -10,7 +10,7 @@ keywords:
   - physical connections
   - adapters
   - contribution
-  - versioned change.
+  - versioned change
 dependencies:
   references:
     - SYSE.13

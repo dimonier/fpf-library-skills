@@ -11,7 +11,7 @@ keywords:
   - architecture
   - viewpoint
   - environment
-  - positive wording repair.
+  - positive wording repair
 dependencies:
   builds_on:
     - E.10

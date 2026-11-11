@@ -8,7 +8,7 @@ keywords:
   - exact subject and direct owner
   - one selected analysis apparatus
   - actual system performing under an assignment
-  - bounded unresolved result.
+  - bounded unresolved result
 dependencies:
   coordinates_with:
     - A.7.2

@@ -2,12 +2,7 @@
 id: B.5.PI
 title: Initiate Inquiry from Ongoing Work
 status: Stable
-keywords:
-  - Use an ordinary work occasion to examine what a result enables and what obtaining it required
-  - before a problem or help request is recognized. A suitable mantra can expose unexamined dependencies through its Method and a concrete or possible case. Develop a qualified question
-  - "retain an early cue or continue without change. *Queries:* "Why does nobody ask for help?"
-  - "Is this recurring adjustment worth examining?"
-  - "Why does this answer leave the original concern untouched?"
+keywords: []
 dependencies:
   coordinates_with:
     - A.15.11

@@ -11,7 +11,7 @@ keywords:
   - survey
   - bridge result
   - export loss
-  - evidence window.
+  - evidence window
 dependencies:
   builds_on:
     - C.26

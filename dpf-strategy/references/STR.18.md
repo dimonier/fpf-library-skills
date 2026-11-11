@@ -2,10 +2,7 @@
 id: STR.18
 title: Connect Strategic Reasoning — The Strategizing Mantra
 status: Stable
-keywords:
-  - How do a worthwhile contribution
-  - its obtaining way
-  - available means and commitments fit together
+keywords: []
 dependencies:
   references:
     - STR.1

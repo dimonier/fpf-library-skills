@@ -2,14 +2,7 @@
 id: C.32.LCA
 title: Construct and Compare a Control Architecture
 status: Stable
-keywords:
-  - Construct how observations
-  - decisions and interventions obtain a result together under information
-  - time
-  - resource and authority constraints. Compare arrangements
-  - "preserve joint conditions and return infeasibility to revision of the goal or means. *Queries:* "How should planning"
-  - "correction and coordination work together?"
-  - "Which division of decisions fits the available information and time?"
+keywords: []
 dependencies:
   builds_on:
     - C.32

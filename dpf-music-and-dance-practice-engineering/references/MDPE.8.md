@@ -10,7 +10,7 @@ keywords:
   - material
   - medium
   - performing whole
-  - change question.
+  - change
 dependencies:
   references:
     - A.15.1

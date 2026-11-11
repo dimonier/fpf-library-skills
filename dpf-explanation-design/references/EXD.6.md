@@ -7,7 +7,7 @@ keywords:
   - reader
   - effort
   - incumbent
-  - marginal improvement.
+  - marginal improvement
 dependencies:
   references:
     - EXD.1

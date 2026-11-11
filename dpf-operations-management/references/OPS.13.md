@@ -2,9 +2,7 @@
 id: OPS.13
 title: "Align Commitments, Resources, and Service Outcomes"
 status: Stable
-keywords:
-  - What service can the authorized parties agree under actual resources
-  - evidence and conditions
+keywords: []
 dependencies:
   references:
     - OPS.10

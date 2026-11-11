@@ -7,7 +7,6 @@ keywords:
   - restoration
   - ending
   - obligations
-  - Should this relationship continue and on what terms
 dependencies:
   references:
     - MKT.6

@@ -2,16 +2,7 @@
 id: A.19.SPR
 title: Repair State and Status Wording
 status: Stable
-keywords:
-  - Repair state
-  - status
-  - posture
-  - readiness
-  - stance and currentness wording by recovering the bearer
-  - actual claim and governing rule. Stop with a clear ordinary sentence when that is enough
-  - recover a formal state frame
-  - value set
-  - bounded use and reopen condition only when the claim requires them
+keywords: []
 dependencies:
   builds_on:
     - E.10

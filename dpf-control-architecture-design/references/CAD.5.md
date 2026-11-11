@@ -7,7 +7,7 @@ keywords:
   - partial sensing
   - action history
   - information state
-  - "set estimation. “Which sensors and memory let this controller act within its limits?” “Can any action work with these observations?”"
+  - set estimation
 dependencies:
   references:
     - A.3.3.PI

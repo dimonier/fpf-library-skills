@@ -8,7 +8,7 @@ keywords:
   - provenance
   - consumer trust
   - destination configuration
-  - verification.
+  - verification
 dependencies:
   references:
     - SYSE.13

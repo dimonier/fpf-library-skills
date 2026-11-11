@@ -9,7 +9,7 @@ keywords:
   - ordered composition
   - singleton identity
   - bounds
-  - "cross-scale consistency."
+  - "cross-scale consistency"
 dependencies:
   coordinates_with:
     - B.1

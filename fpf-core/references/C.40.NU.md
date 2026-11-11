@@ -2,8 +2,7 @@
 id: C.40.NU
 title: Search Neighboring Uses and Means
 status: Stable
-keywords:
-  - Use when a familiar solution or field hides neighboring uses and means. Search meaningful alternatives and preserve what each source actually supplies
+keywords: []
 dependencies:
   references:
     - C.40.OI

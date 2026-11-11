@@ -9,7 +9,7 @@ keywords:
   - product
   - solution
   - project boundary
-  - outside effect.
+  - outside effect
 dependencies:
   references:
     - A.1.SCR

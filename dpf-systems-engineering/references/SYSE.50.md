@@ -9,7 +9,7 @@ keywords:
   - need
   - confidence
   - calibration
-  - fallback.
+  - fallback
 dependencies:
   references:
     - C.38

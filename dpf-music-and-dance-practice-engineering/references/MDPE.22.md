@@ -11,7 +11,7 @@ keywords:
   - access
   - organizer
   - support Work
-  - resource burden.
+  - resource burden
 dependencies:
   references:
     - MDPE.1

@@ -2,10 +2,7 @@
 id: A.15.10
 title: Resume Interrupted Work
 status: Stable
-keywords:
-  - Use when an interruption or handoff has left the next item visible but the purpose
-  - operative method or usable prior result uncertain. Recover only what a useful continuation needs
-  - prepare a return cue when its benefit warrants the effort. Continue directly when the working basis is already available
+keywords: []
 dependencies:
   builds_on:
     - A.15

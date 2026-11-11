@@ -2,22 +2,7 @@
 id: A.3.1
 title: "U.Method: Reusable Way of Doing with Explicit Applicability"
 status: Stable
-keywords:
-  - Use when a project must identify one reusable way of doing or untangle a claim described as Method specialization. It distinguishes a Method meeting several kind criteria
-  - a Method kind having several broader kinds
-  - one Method contributing to several whole Methods
-  - and refinement or replacement comparisons. Other questions—for example parameter variation
-  - family grouping
-  - fallback
-  - dispatch
-  - descriptions
-  - performed Work
-  - capability
-  - provider contribution
-  - "or cultural change—return to the pattern that defines or tests them. *Queries:* "Is this one Method or two?"
-  - "Does this Method meet these kind criteria?"
-  - "Does this Method contribute to more than one whole Method?"
-  - "What is preserved and changed in this refinement or replacement claim?"
+keywords: []
 dependencies:
   builds_on:
     - A.1

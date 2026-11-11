@@ -6,7 +6,7 @@ keywords:
   - scenarios
   - plausible futures
   - causal conditions
-  - signposts.
+  - signposts
 dependencies:
   references:
     - STR.3

@@ -2,9 +2,7 @@
 id: SIE.3
 title: Construct or Reuse a Semantic Model for a Named Use
 status: Stable
-keywords:
-  - Does an available model answer the receiving questions
-  - or what semantic extension is needed
+keywords: []
 dependencies:
   references:
     - SIE.1

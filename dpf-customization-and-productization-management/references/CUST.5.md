@@ -8,7 +8,6 @@ keywords:
   - probe
   - inquiry
   - product feedback
-  - What can local work teach the common offering
 dependencies:
   references:
     - IS.1

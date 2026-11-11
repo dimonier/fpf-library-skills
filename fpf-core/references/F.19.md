@@ -2,20 +2,7 @@
 id: F.19
 title: "Ontology-First Plain Technical Rewriting"
 status: Stable
-keywords:
-  - "Repairs unsupported relations and truthful but non-contributing semantic structure in technical prose. Recover predicates"
-  - required operands or participants
-  - referents
-  - kinds
-  - and the governing message
-  - test every guard
-  - contrast
-  - modifier
-  - example
-  - and coordinated member by what it changes for a plausible intended reader. A series must earn its form before its membership is checked. Return repaired text or an exact blocker
-  - "then reread the changed passage locally. *Cues:* phrase-level boilerplate"
-  - negative catalogues
-  - "pattern-application drift. *Query:* "How can I simplify technical text without making the reader guess who does what or how things relate?"
+keywords: []
 dependencies:
   builds_on:
     - E.8

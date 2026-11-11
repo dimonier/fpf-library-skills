@@ -9,8 +9,7 @@ keywords:
   - "ArchitectureOf@Context"
   - selected structure
   - actual and candidate architecture
-  - architecture question
-  - next architecture move.
+  - architecture
 dependencies:
   builds_on:
     - A.22

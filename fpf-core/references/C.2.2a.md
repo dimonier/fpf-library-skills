@@ -13,7 +13,7 @@ keywords:
   - representation
   - source and use conditions
   - local thresholds
-  - episteme publication.
+  - episteme publication
 dependencies:
   builds_on:
     - A.19

@@ -7,15 +7,13 @@ keywords:
   - release
   - certification
   - control
-  - "resumed use. Query: "Who can resume which use of the returned System?" Reconcile functioning"
-  - state and applicable release conditions while transferring control.
+  - resumed use
 dependencies:
   references:
     - MNT.8
     - MNT.9
     - MNT.10
     - A.2.8.PER
-    - Spec.md
 ---
 
 # MNT.11: Hand Back and Authorize Resumed Use after Maintenance, with Certification Where Required
@@ -23,7 +21,7 @@ dependencies:
 > **Problem frame:** Use this pattern when maintenance control is being returned to operation and the receiving person needs a supported basis to resume use.
 > **First move:** Identify the receiving use and its decision holder. Recover what that holder needs to take control: the actual configuration, supported functioning, material unfinished work and restrictions.
 >
-> **Governing patterns:** `references/MNT.8.md` `references/MNT.9.md` `references/MNT.10.md` `references/A.2.8.PER.md` `references/Spec.md.md`
+> **Governing patterns:** `references/MNT.8.md` `references/MNT.9.md` `references/MNT.10.md` `references/A.2.8.PER.md`
 
 ---
 

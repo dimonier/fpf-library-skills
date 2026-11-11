@@ -10,7 +10,7 @@ keywords:
   - direction
   - loss
   - evidence
-  - receiving use.
+  - receiving use
 dependencies:
   builds_on:
     - F.3

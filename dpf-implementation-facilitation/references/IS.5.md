@@ -2,9 +2,7 @@
 id: IS.5
 title: "Sustain, Transfer, Extend or End Implementation Support"
 status: Stable
-keywords:
-  - What remains needed when help
-  - "recipients or conditions change? Can support end or transfer"
+keywords: []
 dependencies:
   references:
     - A.3.1.MI

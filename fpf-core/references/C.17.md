@@ -11,7 +11,7 @@ keywords:
   - bounded quantitative result
   - evidence
   - uncertainty
-  - incomparability.
+  - incomparability
 dependencies:
   builds_on:
     - A.17

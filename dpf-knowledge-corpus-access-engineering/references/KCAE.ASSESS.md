@@ -8,7 +8,6 @@ keywords:
   - contradiction
   - reranking
   - typed decision
-  - "“Is this useful evidence or merely similar text?”"
 dependencies:
   references:
     - KCAE.COMPOSE

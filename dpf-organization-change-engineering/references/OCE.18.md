@@ -8,7 +8,7 @@ keywords:
   - qualified preparation
   - shared obligations
   - later use
-  - "appointment. Question: How can a person prepare for and use a new work contribution while the organization supplies the opportunity and preserves continuing commitments?"
+  - appointment
 dependencies:
   references:
     - OCE.6

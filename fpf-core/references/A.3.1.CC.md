@@ -2,10 +2,7 @@
 id: A.3.1.CC
 title: Check the Coherence of a Method Claim
 status: Stable
-keywords:
-  - "A Method-related claim may contradict its maintained basis. Compare the exact claim"
-  - source and use
-  - then return any needed correction to the maintained result that owns the claim
+keywords: []
 dependencies:
   references:
     - A.10

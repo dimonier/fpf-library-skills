@@ -2,9 +2,7 @@
 id: C.41.TF
 title: Construct a Checklist Template That Preserves Its Questions
 status: Stable
-keywords:
-  - Shared questions must be presented in a usable checklist form. Construct templates
-  - instances and local views that preserve the meaning and interpretation of the questions
+keywords: []
 dependencies:
   references:
     - C.41

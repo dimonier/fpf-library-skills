@@ -9,7 +9,7 @@ keywords:
   - material development
   - diversity
   - stepping stones
-  - target transfer.
+  - target transfer
 dependencies:
   references:
     - STR.5

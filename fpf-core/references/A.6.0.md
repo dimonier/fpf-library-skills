@@ -2,15 +2,7 @@
 id: A.6.0
 title: "U.Signature - Reusable Law-Governed Declaration Episteme"
 status: Stable
-keywords:
-  - Identifies one reusable declaration episteme by its claim content
-  - exact EntityOfConcern
-  - and effective ReferenceScheme
-  - governs vocabulary
-  - laws
-  - applicability
-  - "relation-facing RelationSignature use"
-  - and only the specialized typed declarations needed by receiving uses
+keywords: []
 dependencies:
   builds_on:
     - A.7

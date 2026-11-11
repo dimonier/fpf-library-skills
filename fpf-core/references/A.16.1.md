@@ -8,7 +8,7 @@ keywords:
   - early publication
   - cue nucleus
   - primary witness
-  - candidate route cues.
+  - candidate route cues
 dependencies:
   builds_on:
     - A.16

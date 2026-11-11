@@ -10,7 +10,7 @@ keywords:
   - event system
   - persistence
   - architecture
-  - reidentification.
+  - reidentification
 dependencies:
   references:
     - MDPE.21

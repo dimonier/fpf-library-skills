@@ -2,14 +2,7 @@
 id: D.2
 title: Recognize Ethical Concerns Across Levels and Scopes (Multilevel Ethics)
 status: Stable
-keywords:
-  - Entry pattern for ethical questions where a system
-  - holon
-  - method
-  - work
-  - policy
-  - recommendation
-  - or architecture move may improve one declared level or scope while harming another
+keywords: []
 dependencies:
   builds_on:
     - D.1

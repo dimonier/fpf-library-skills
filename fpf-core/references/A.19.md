@@ -14,7 +14,7 @@ keywords:
   - product
   - structural overlays
   - coordinatewise comparability
-  - "system-role–Method–Work assertions stay outside A.19."
+  - "system-role–Method–Work assertions stay outside A.19"
 dependencies:
   builds_on:
     - E.24

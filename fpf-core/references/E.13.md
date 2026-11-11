@@ -8,7 +8,7 @@ keywords:
   - Goodhart
   - Campbell
   - surrogation
-  - minimally viable value slice.
+  - minimally viable value slice
 dependencies:
   builds_on:
     - E.2

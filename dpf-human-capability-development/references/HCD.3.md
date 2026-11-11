@@ -2,9 +2,7 @@
 id: HCD.3
 title: "Diagnose Whether a Capability, Misconception, or Behaviour Limits Work"
 status: Stable
-keywords:
-  - Which smallest changeable human limitation is supported
-  - "or which non-training branch owns the next result"
+keywords: []
 dependencies:
   references:
     - HCD.1

@@ -7,7 +7,6 @@ keywords:
   - shared development
   - productization
   - commitments
-  - How do the local and common results fit
 dependencies:
   references:
     - CUST.2

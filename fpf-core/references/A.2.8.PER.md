@@ -8,7 +8,7 @@ keywords:
   - "matching dated-work exercise"
   - "checked non-violation"
   - permission or prohibition conflict
-  - exact policy rule or decision result.
+  - exact policy rule or decision result
 dependencies:
   coordinates_with:
     - A.2.8

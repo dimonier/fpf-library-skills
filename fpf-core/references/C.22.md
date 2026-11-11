@@ -2,23 +2,7 @@
 id: C.22
 title: "Task Typing and TaskSignature Assignment (Problem-CHR)"
 status: Stable
-keywords:
-  - "Constitutes one selector-facing `TaskSignature` as a C.2.1 episteme and species of `U.Signature`"
-  - when a receiving use is current
-  - "separately relates the exact problem-side episteme"
-  - exact TaskSignature
-  - "and exact receiving-use episteme through `TaskSignatureAssignmentRelation`. Keeps CHR typing"
-  - unknowns
-  - scope
-  - "evidence-use relations"
-  - currentness
-  - and required crossings visible without adding a generic setting
-  - carrier
-  - "or organization as a constituent or assignment participant. *Queries:* "When is a stable problem-side episteme ready for a selector-facing TaskSignature?"
-  - "Which typed fields and unknowns belong in its exact edition?"
-  - "How do I relate the problem-side episteme"
-  - TaskSignature
-  - "and receiving use without preselecting a method?"
+keywords: []
 dependencies:
   builds_on:
     - A.6.0

@@ -11,7 +11,7 @@ keywords:
   - digital twin
   - configuration
   - correspondence
-  - contradiction.
+  - contradiction
 dependencies:
   references:
     - SYSE.6

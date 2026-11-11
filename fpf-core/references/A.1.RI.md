@@ -2,14 +2,7 @@
 id: A.1.RI
 title: Reidentifying an Object across Observations
 status: Stable
-keywords:
-  - Determines which observations can concern the same continuing object under subject and observation rules. Constructs jointly compatible associations
-  - separates supported identity from remaining alternatives
-  - "and permits a use that gives the same result under those alternatives. Queries: same object"
-  - tracking
-  - reused identifier
-  - process restart
-  - ambiguous association
+keywords: []
 dependencies:
   builds_on:
     - A.1

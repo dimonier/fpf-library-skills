@@ -2,11 +2,7 @@
 id: SIE.7
 title: Specify Semantic Extraction and Transformation Mappings
 status: Stable
-keywords:
-  - Which executable rules preserve the accepted correspondences
-  - identities
-  - claim branches
-  - and losses
+keywords: []
 dependencies:
   references:
     - SIE.2

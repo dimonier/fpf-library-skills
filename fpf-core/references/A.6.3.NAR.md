@@ -2,24 +2,7 @@
 id: A.6.3.NAR
 title: "Structure-to-Narrative Rendering"
 status: Stable
-keywords:
-  - "Turn selected source structure into a reader-useful sequence: choose the reader and use"
-  - select and order source structure
-  - draft a narrative that serves the reader's use
-  - compare it with the source
-  - and state preservation
-  - loss
-  - unsupported additions
-  - bounded use
-  - "and return. Open exact `X`"
-  - "`Y`"
-  - "and `n : X -> Y` only when a named receiving use makes claim identity material"
-  - "publicness alone does not. *Queries:* "How do I explain tangled structure as a sequence without replacing the source?"
-  - What did this narrative preserve
-  - omit
-  - or add
-  - "and when must a reader return?"
-  - "When does a narrative need exact source and receiving episteme identity?"
+keywords: []
 dependencies:
   coordinates_with:
     - A.6.3.CR

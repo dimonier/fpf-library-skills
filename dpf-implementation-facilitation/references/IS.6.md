@@ -2,9 +2,7 @@
 id: IS.6
 title: Broker a Practice Change Across Unequal Influence
 status: Stable
-keywords:
-  - Whose contribution cannot affect the change
-  - and how can the right owner act on it
+keywords: []
 dependencies:
   references:
     - IS.1

@@ -2,11 +2,7 @@
 id: OPS.23
 title: Connect Operational Reasoning — The Operational Mantra
 status: Stable
-keywords:
-  - How do local work
-  - accepted results
-  - resources and receiving conditions fit together
-  - and what does a changed answer reopen
+keywords: []
 dependencies:
   references:
     - OPS.1

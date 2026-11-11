@@ -14,7 +14,7 @@ keywords:
   - "one-characteristic-one-scale rule"
   - lawful comparability
   - no illegal averaging
-  - measurement interpretability.
+  - measurement interpretability
 dependencies:
   builds_on:
     - A.17

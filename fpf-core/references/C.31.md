@@ -11,7 +11,7 @@ keywords:
   - interface variation
   - evidence reuse
   - bespoke residue
-  - ModularityVectorLite.
+  - ModularityVectorLite
 dependencies:
   builds_on:
     - C.16
