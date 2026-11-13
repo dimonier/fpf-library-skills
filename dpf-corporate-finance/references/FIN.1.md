@@ -129,7 +129,7 @@ Can a second practitioner identify the proposed action, receiver, entities, clai
 
 ### FIN.1:8 - Common Anti-Patterns and How to Avoid Them
 
-Starting with the most familiar model invites a precise answer to a different question; name the action first. Calling all entities “the business” can make unavailable money appear spendable; recover the paying entity. Requiring a complete new ontology for an adequate routine account adds work without changing the decision; use that account.
+Starting with the most familiar model invites a precise answer to a different question; name the action first. Calling all entities “the business” can make unavailable money appear spendable; recover the paying entity.
 
 ### FIN.1:9 - Consequences
 

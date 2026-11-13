@@ -19,4 +19,4 @@ If the proposed intervention is already familiar but its value is disputed, PSDA
 
 If a discussion contains reports and opinions but no usable conclusion, B.5.SD constructs the missing inference with competent contributors. Professional facilitation can supply the participation conditions through PSDA.13. It may also supply the subject integration when the facilitator has that competence. A clear direct explanation needs no meeting.
 
-An assisting agent can explain or apply these Methods in ordinary language. Ask for the actual objects, differences, grounds and next useful action, rather than a list of framework names.
+An assisting agent can explain or apply these Methods in ordinary language. Ask for the actual objects, differences, grounds and next useful action.

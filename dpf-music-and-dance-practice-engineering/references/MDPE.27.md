@@ -87,7 +87,7 @@ Start with a short passage the pair can already perform, including its ending an
 | Movement ended, but a handhold drew the partner back or kept them waiting. | Practice ending the contact and making departure available. Distinguish a courteous optional offer from a continued demand. | Include release and each person's onward action in the next complete attempt. |
 | Both were ready to leave, but the exit was blocked by the arrangement. | Change the floor or exit provision through its organizer, using MDPE.5. | Try the exit with representative traffic; individual repetition cannot supply missing space. |
 
-Feedback names the observed failure and lets the learner retry its missing contribution. Then restore the whole passage. Change one condition that matters: continuous music, an earlier requested finish, an unfamiliar partner or another available exit. Ask the participants what they perceived and compare that with their actions. A partner who followed the teacher's gesture has not yet shown that the participant's own ending was usable.
+Feedback names the observed failure and lets the learner retry its missing contribution. Then restore the whole passage. When the receiving use requires a changed condition, use adequate existing observations or try that condition: continuous music, an earlier requested finish, an unfamiliar partner or another available exit. Ask the participants what they perceived and compare that with their actions. A partner who followed the teacher's gesture has not yet shown that the participant's own ending was usable.
 
 ### MDPE.27:5 - Archetypal Grounding
 
@@ -122,15 +122,15 @@ During learning, check the learner's own cue and action rather than an unnoticed
 
 ### MDPE.27:9 - Consequences
 
-Ending becomes something the participants can perform, not only a convention they can recite. The teacher can correct the failed connection, and an organizer can see when the obstacle belongs to floor or exit provision.
+Ending becomes something the participants can perform. The teacher can correct the failed connection, and an organizer can see when the obstacle belongs to floor or exit provision.
 
 The method may interrupt an intended artistic form or require time to settle and leave. Those consequences are made explicit instead of concealing continued participation inside a promised graceful finish. Its cooperative construction does not resolve deliberate restraint or supply missing specialist disengagement skills.
 
 ### MDPE.27:10 - Architectural Rationale
 
-The finishing decision governs further voluntary action, while physical support constrains how disengagement can be performed. Separating these questions permits prompt acknowledgement without pretending that every bodily configuration can stop in the same way.
+The finishing decision governs further voluntary action, while physical support constrains how disengagement can be performed. Separating these questions permits prompt acknowledgement.
 
-The connected account also preserves a useful distinction for teaching: a cue error calls for communication practice, an unavailable halt for movement construction, and a blocked path for a provision change. Repeating one etiquette instruction after all three failures would obscure their different causes.
+The connected account also preserves a useful distinction for teaching: a cue error calls for communication practice, an unavailable halt for movement construction, and a blocked path for a provision change.
 
 ### MDPE.27:11 - SoTA-Echoing
 
@@ -138,7 +138,7 @@ Primary community guidance supplies the participation conditions. [WSDC's Social
 
 The method connects those participation conditions to the stopping and transition construction in MDPE.26, the actual provision in MDPE.5, and the attempt–correction–return logic in MDPE.10. This changes practice from rehearsing an attractive final movement to rehearsing the complete voluntary ending. The case illustrates that construction; it does not report a tested teaching intervention.
 
-A description of the sequence lets a reader recognize and prepare the use. Evidence that a particular pair can perform it requires the joint attempt, including the changed condition and the partner's experience. A different support relation, communication channel or floor arrangement reopens the affected contribution. Preserve a usable ending where those conditions remain the same.
+A description of the sequence lets a reader recognize and prepare the use. Evidence that a particular pair can perform it requires an adequate joint attempt and the partner's experience under the conditions claimed. Include changed-condition evidence when that extension is needed; reuse observations that already meet it. A different support relation, communication channel or floor arrangement reopens the affected contribution. Preserve a usable ending where those conditions remain the same.
 
 ### MDPE.27:12 - Relations
 

@@ -36,7 +36,7 @@ dependencies:
 
 Use this method when several local solutions suggest a common contribution, when a current family has accumulated exceptions, or when a new offering needs a deliberate range of variation. The input may be completed cases, qualified component results or explicit prospective cases; their evidence status must remain distinguishable.
 
-The first move is to compare the result and the conditions that make it obtainable, then propose what must remain invariant and what may vary. A list of similar requests, a shared codebase or a productization gate does not construct that family.
+The first move is to compare the result and the conditions that make it obtainable, then propose what must remain invariant and what may vary. A list of similar requests or a shared codebase does not construct that family.
 
 Keep a one-off solution local when there is no useful, supported common contribution. A known adequate family can be used directly through CUST.4.
 
@@ -115,7 +115,7 @@ For a changed delivery or outcome model, receive the integrated concept from [SY
 
 #### CUST.3:4.7 - Decide what becomes supported and keep the reason revisable
 
-Admit the common contribution only when its result, applicable members, variations, provision, permissions and ongoing responsibilities fit together. The decision can instead require a narrower family, a separately funded investigation, a local service or no change. A gate is the point at which these constructed grounds are judged; it is not a substitute for them.
+Admit the common contribution only when its result, applicable members, variations, provision, permissions and ongoing responsibilities fit together. The decision can instead require a narrower family, a separately funded investigation, a local service or no change.
 
 Identify the common owner and any local owner by their actual responsibility, not merely repository access. Give future users enough explanation to recognize membership and return an exception. CUST.4 provides the choice method and CUST.8 the change method.
 
@@ -138,8 +138,6 @@ For a physical test-bench family, a common base and interchangeable measurement 
 ### CUST.3:6 - Bias-Annotation
 
 Family construction can favor the provider's convenience over meaningful customer differences. Test invariants against the intended result, not only common implementation. Conversely, customer-specific wording can conceal a useful common method.
-
-The constructed cases illustrate how to distinguish supported members from excluded cases.
 
 ### CUST.3:7 - Conformance Checklist
 

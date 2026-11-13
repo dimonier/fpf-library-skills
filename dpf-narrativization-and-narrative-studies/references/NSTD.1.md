@@ -226,7 +226,7 @@ NarrativePurposeIntake@FPFSeminarOrientation:
   - Solution as admissible move under conditions
   - neighboring-pattern exits
   - quality and improvement loop entry
-  sourceStructureSelectionRationale: new practitioners fail when they treat patterns as recipes rather than condition-bound moves
+  sourceStructureSelectionRationale: the learner needs to recognize the method's applicable conditions, first operation, result and next useful move
   sourceTemporalPosture: prospective planned learning route over current FPF source corpus
   renderingMediationMode: direct-source-structure
   renderingContribution: seminar author
@@ -251,7 +251,7 @@ narrativeVoiceOrViewpoint: teacher-facing explanatory voice under NSTD.4
 generatedDraftInspectionRef: the NSTD.7 case that identifies the generated draft, source comparison and acceptance for its intended use; C.35 applies only when the result informs architecture work
 ```
 
-One person may operate the tool, choose the voice and decide how to use the result. The output still needs comparison with the selected material; authorship alone does not establish its fidelity.
+One person may operate the tool, choose the voice and decide how to use the result. The output still needs comparison with the selected material.
 
 
 
@@ -335,7 +335,7 @@ A writer can select only the material that supports a desired conclusion. Compar
 | --- | --- | --- |
 | Desired conclusion selects its own evidence | The account suppresses a relevant conflicting relation. | Compare the draft with the needed source relations and alternatives; change its selection or qualify the conclusion. |
 | Unexplained selection | Neither the writer nor reader can say why a relation was included or omitted. | Recover that choice from the intended use and source; revise the selection where it fails. |
-| Motivation as truth support | A moving narrative is treated as stronger evidence. | Route evidence to `A.10` and keep motivation as reader-use support. |
+| Motivation as truth support | A moving narrative is treated as stronger evidence. | Use the claim's subject grounds and keep motivation as reader-use support. Use `A.10` when the source-to-use account is implicit or must remain replayable. |
 | Unstated limit that changes reliance | A reader uses an incident chronology as its causal explanation. | State which causal claim is unresolved and where to obtain the needed account. |
 
 ### NSTD.1:9 - Consequences

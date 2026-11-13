@@ -230,7 +230,7 @@ A selected trial belongs to its direct Method. Keep branch availability, trial p
 
 Before removing or collapsing a branch, state the present use from which it is removed; the evidence, constraint, or decision supporting removal; whether the reason is reversible; the source, lineage, minority, recovery, contrast, or stepping-stone value that would be lost; which affected Agents and Systems bear the loss; whether archive-only retention is useful; and the condition that could reopen membership.
 
-Do not call an alternative eliminated merely because it is not today's winner. Do not keep it live merely because deletion feels irreversible.
+
 
 #### MDPE.16:3.9 - Keep the result usable
 
@@ -251,7 +251,7 @@ Source return or archive relation when needed:
 Stop or reopen condition:
 ```
 
-Include upkeep and trial fields only when those actions are selected. Keep a limitation or retained reason with the substantive availability result only when it changes a later recipient's choice.
+Use the entries needed by the particular availability claim. Include upkeep and trial fields only when those actions are selected, and association or causal fields only when such a claim is relied on. Keep a limitation or retained reason with the substantive availability result only when it changes a later recipient's choice.
 
 This result can supply live candidates to a current `C.11 OptionSet`, constraints to a local intervention, or inputs to direct repertoire, archive, curation, teaching, production, and engineering Methods. Each receiving Method specifies its admissible inputs and characteristic result; a capable Agent performs Work that enacts it to obtain that result.
 
@@ -319,8 +319,7 @@ For party programming, the alternatives are event arrangements: the playlist, te
 participant capability, consent and timing jointly matter. A booked milonga event is available through those
 operating relations, not through the existence of a track with that name. For one dancer's development, retain
 the specified coordination or partner-response variants through capability practice and appropriate receiving use.
-Split the sets when their decisions differ. Ballet, university, press or competition visibility alone does not
-establish that either set serves the adults in this project.
+Split the sets when their decisions differ.
 
 
 
@@ -332,7 +331,7 @@ When the local challenge changes to responsive partnering, the small phrase beco
 
 The receiving decision now keeps three different uses: the compact social response, the prepared display, and the tested responsive combination. Ren removes the challenge's large-change entry condition and observes from close enough to see the response. This changes eligibility and observation; it does not retroactively turn the earlier contest into a test of social capability. The retained small phrase supplied something the display branch alone lacked, while the display phrase supplied a challenge its practitioners still valued.
 
-Retention has a price. The participants permit internal teaching use of their short recordings, the teacher can explain the three uses, and Ren allocates four minutes of the event's existing briefing to the revised judging task. These resources are obtained, not assigned to an unnamed volunteer. Existing capability and observations can remain sufficient without scheduled renewal trials. If maintaining three versions begins to displace needed practice, compare that loss with the actual social, display and combination uses. A programme that now needs only the compact response can retain it live and keep the other descriptions as archive material. If a required performer leaves, the combination loses its supported availability until another pair can realize it; changing the entry rule does not restore that capability. Keeping these project alternatives makes a later choice possible, but does not establish population-level cultural retention.
+Retention has a price. The participants permit internal teaching use of their short recordings, the teacher can explain the three uses, and Ren allocates four minutes of the event's existing briefing to the revised judging task. Existing capability and observations can remain sufficient without scheduled renewal trials. If maintaining three versions begins to displace needed practice, compare that loss with the actual social, display and combination uses. A programme that now needs only the compact response can retain it live and keep the other descriptions as archive material. If a required performer leaves, the combination loses its supported availability until another pair can realize it; changing the entry rule does not restore that capability. Keeping these project alternatives makes a later choice possible, but does not establish population-level cultural retention.
 
 ### MDPE.16:5 - Recognition and Assurance
 
@@ -398,7 +397,7 @@ Costs and limits:
 | Source or maintained result | Use here | Limit |
 | --- | --- | --- |
 | Current FPF `C.17`, `C.18`, `C.19`, `G.5`, `C.11`, `A.10`, `C.28`, `C.29`, and `C.36` | Characterization, generation, archive/front stewardship, pool policy, selected-set declaration, local choice, evidence, causal-use bounds, representation, and cultural relations. | Do not supply Music-or-Dance alternatives, upkeep Work, checked availability, performer-facing trials, or domain selection pressures. |
-| `MDPE.9` and its direct sources | Performance-candidate kinds, performer-involving comparison, and branch or rejection dispositions. | A performance-candidate set serves a bounded performance comparison; continued availability for later development uses is a separate decision. |
+| `MDPE.9` and its direct sources | Performance-candidate kinds, comparison grounds, performer-involving trials when needed, and branch or rejection dispositions. | A performance-candidate set serves a bounded performance comparison; continued availability for later development uses is a separate decision. |
 | Chédin et al., [co-designing movement-generation models with Voguing and Dancehall dancers](https://doi.org/10.1145/3772318.3791515) and [repository copy](https://ualresearchonline.arts.ac.uk/id/eprint/26884/) | Practitioner collaboration, repertoire curation, model/interface variants, dancer improvisation, and the different value of high- and low-fidelity outputs in the reported case. | Does not establish a universal fidelity curve, style authority, or prevalence claim. |
 | Ableton Live 12, [Comping](https://www.ableton.com/en/live-manual/12/comping/) | Direct Music-production Method for retaining and auditioning takes while preserving source material. | A tool lane is not a universal alternative kind, repertoire, or development decision. |
 | Timing examples in the [Dance profile](#mdpereference72---dance-making-movement-usable-for-its-participants) and the local Balboa cases | Continuous carrier, discrete articulation, several perceived timing centers, partner-readable timing, and candidate teaching and movement variants. | Supplies Method-design input, not a demonstrated universal Balboa repertoire or cultural-retention result. |

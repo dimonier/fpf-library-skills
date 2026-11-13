@@ -69,7 +69,7 @@ Assemble representative decision inputs with independently qualified target answ
 
 Use paired conditions where they discriminate need: present versus withheld premise, ambiguous versus settled target, applicable versus revised rule. Obtain actual assistance returns where the policy relies on them. An oracle answer unavailable in deployment cannot qualify the deployed help branch.
 
-Separate construction examples, calibration examples and final policy comparisons. Select enough variation for the consequence and reliance; do not infer population calibration from a few illustrative examples. SYSE.49 can construct the missing distinction and challenge the labels. A disputed label remains unresolved until its result meaning has grounds. When the target is human acquisition, use HCD's practice purpose and permitted help: a hint and a complete answer can have different effects on the action being learned.
+Keep final policy comparisons outside rule construction. When calibration is selected, give it separate calibration examples. Select enough variation for the consequence and reliance; do not infer population calibration from a few illustrative examples. SYSE.49 can construct the missing distinction and challenge the labels. A disputed label remains unresolved until its result meaning has grounds. When the target is human acquisition, use HCD's practice purpose and permitted help: a hint and a complete answer can have different effects on the action being learned.
 
 #### SYSE.50:4.3 - Construct the rule and its fallback
 
@@ -113,7 +113,7 @@ A text-only endpoint exposes no token scores. The engineer chooses observable pr
 
 Challenge both with a source that confidently names the wrong target. Agreement among samples cannot establish the target's identity; the qualified reference defeats it. Challenge the acquisition branch with an unavailable capacity endpoint: repeated requests cannot repair access, so the result is the missing observation. A new rule edition requiring another measurement defeats the earlier completeness assessment.
 
-The trial compares supported completion, unwarranted continuation, unnecessary assistance and total burden on separate service tasks. If a small direct rule performs adequately, retain it without claiming statistical calibration. If the more adaptive rule earns reliance, retain its observed scope and fallback. These are constructed cases and a proposed comparison, not measured performance.
+The trial compares supported completion, unwarranted continuation, unnecessary assistance and total burden on separate service tasks. If a small direct rule performs adequately, retain it without claiming statistical calibration. If the more adaptive rule earns reliance, retain its observed scope and fallback. These are constructed cases and a proposed comparison.
 
 ### SYSE.50:6 - Bias-Annotation
 

@@ -51,7 +51,7 @@ An observation says what was measured or inspected. A diagnosis explains the con
 
 A policy is the reusable selection of task and applicability conditions. A particular intervention decision selects a response now. A Method is a reusable way of obtaining a result; this framework's pattern prose explains those ways. A plan describes intended work, while the performed work and its effects require evidence of what occurred.
 
-These distinctions matter where they change action. Ordinary equipment and maintenance language is enough elsewhere; a routine repair need not acquire an ontology form. FPF supplies the general recognition, evidence, comparison, permission and assurance Methods. MNT adds the failure, task, support, operating and restoration reasoning that those general contributions do not decide by themselves.
+These distinctions matter where they change action. Ordinary equipment and maintenance language is enough elsewhere. FPF supplies the general recognition, evidence, comparison, permission and assurance Methods. MNT adds the failure, task, support, operating and restoration reasoning that those general contributions do not decide by themselves.
 
 ## MNT.Reference:4 - Competing values and the whole-use constraints
 
@@ -107,7 +107,7 @@ The supporting DPF results have concrete receiving uses. [SYSE.12](SYSTEMS-ENGIN
 
 Use [SYSE.12](SYSTEMS-ENGINEERING-PRINCIPLES-FRAMEWORK.md#syse12---develop-or-retain-an-engineering-platform-for-practitioner-work) for enabling-platform questions and [SYSE.13](SYSTEMS-ENGINEERING-PRINCIPLES-FRAMEWORK.md#syse13---establish-configuration-identity-variants-and-effectivity) for configuration. The relevant OPS results support management of maintenance Work and provision.
 
-For related explanations across the engineering languages, use the [Engineering DPF Suite Reference](ENGINEERING-DPF-SUITE-REFERENCE.md). Direct governing Methods remain with FPF and the named DPF patterns; a source catalogue is a finding aid rather than independent confirmation of their claims.
+For related explanations across the engineering languages, use the [Engineering DPF Suite Reference](ENGINEERING-DPF-SUITE-REFERENCE.md). Direct governing Methods remain with FPF and the named DPF patterns.
 
 ## MNT.Reference:10 - Framework boundary and revision
 

@@ -47,13 +47,13 @@ Do not use PSDA.11 merely because a chooser must select among an already-qualifi
 
 | Working term | Meaning in this pattern |
 | --- | --- |
-| decision-support engagement | The bounded situation in which a performer is expected to make a useful result available to a receiving decision or Work. The phrase alone establishes no Method, assignment, authority, WorkPlan, dated Work, service, or product. |
-| decision-support performer | The actual or intended person, team, organization, tool-supported arrangement, or other capable System expected to prepare the return. A title, department, model, report, or tool output does not establish this performer or its authority. |
+| decision-support engagement | The bounded situation in which a performer is expected to make a useful result available to a receiving decision or Work. |
+| decision-support performer | The actual or intended person, team, organization, tool-supported arrangement, or other capable System expected to prepare the return. |
 | recipient | The person or arrangement to whom the decision-support return is addressed for a named use. The recipient may or may not own the later choice. |
 | holder or subject | The person, organization, System, arrangement, place, policy, capability, or other exact subject whose alternatives or consequences are under consideration. It is not inferred from the recipient's identity. |
 | choice owner | The Agent authorized to make, reject, defer, probe, or reroute the later decision. It may coincide with the recipient or performer only when that coincidence and authority are independently supported. |
 | receiving decision or Work | The later choice or Work whose next action can change because of the decision-support return. A recommendation is one premise for that use, not the choice or Work itself. |
-| bounded engagement question | The smallest decision-support question that makes the intended return, use, participants, scope, authority boundary, and reopen condition usable now. It is a practitioner result, not a universal account schema. |
+| bounded engagement question | The smallest decision-support question that makes the intended return, use, participants, scope, authority boundary, and reopen condition usable now. |
 
 ### PSDA.11:1 - Problem frame
 
@@ -106,7 +106,7 @@ Name each position separately even when one System may occupy two positions:
 3. which exact holder or subject is under consideration; and
 4. who owns the later choice, deferral, probe, or reroute.
 
-State any coincidence explicitly. A manager can receive advice without owning the board's later decision. A team can perform analysis for its own authorized choice, but the analysis Work, recommendation result, and later `ChoiceResult` remain distinct. A tool, document, score, model, department, job title, or meeting creates none of these positions by visibility alone.
+State any coincidence explicitly. A manager can receive advice without owning the board's later decision. A team can perform analysis for its own authorized choice, but the analysis Work, recommendation result, and later `ChoiceResult` remain distinct.
 
 Recover assignment, capability, permission, responsibility, conflict, commitment, or authority only to the extent that the current use relies on it. Use their direct patterns for consequential claims. If the required choice owner or authority basis cannot be recovered, return that exact gap.
 
@@ -118,7 +118,7 @@ Name at least one consequence of getting the boundary wrong. This is a recogniti
 
 #### PSDA.11:4.4 - Choose a provisional boundary and the next truthful branch
 
-Record what is inside the engagement now, what remains outside, and what observation would move that boundary. Do not treat package order or the numbering of patterns as a practitioner sequence. Choose the next branch from the missing result:
+Record what is inside the engagement now, what remains outside, and what observation would move that boundary. Choose the next branch from the missing result:
 
 | Current situation | Next truthful branch |
 | --- | --- |
@@ -130,7 +130,7 @@ Record what is inside the engagement now, what remains outside, and what observa
 | another practice owns a premise that can reverse the return | inspect or request the smallest bounded result through `A.15.9` |
 | an authorized chooser already has an adequate option set and comparison basis | use `C.11` or the direct domain choice rule; stop treating engagement framing as the live question |
 
-Several branches may be live together. Their results can proceed concurrently when their subjects and returns are clear. Co-occurrence does not turn the table into a workflow or make the engagement one Method.
+Several branches may be live together. Their results can proceed concurrently when their subjects and returns are clear.
 
 #### PSDA.11:4.5 - Record the bounded engagement question or exact stop
 
@@ -150,7 +150,7 @@ A compact result may be one sentence and one stop:
 
 > For **[recipient]** and **[receiving decision]**, prepare **[return]** about **[subject]** within **[horizon]**; **[choice owner]** retains the later choice. The engagement is blocked until **[exact missing value]** is recovered.
 
-Do not add a role register, stage model, workshop plan, evidence pack, or account field merely because a larger case might need it.
+
 
 #### PSDA.11:4.6 - Reopen locally and preserve the later choice
 
@@ -230,13 +230,13 @@ A procurement board is the authorized chooser, has three qualified pump options,
 
 A decision-support engagement gains a usable first result before it gains heavy apparatus. Practitioners can stop on one missing value, route contestation to participation and plural-formulation Work, or proceed directly to alternatives and recommendation when the question is already bounded. Recommendations become easier to inspect because their recipient, subject, horizon, authority boundary, and next use were not reconstructed after the analysis.
 
-The cost is explicit clarification at the start and occasional reopening later. Some requests will stop before analysis because no receiving decision, choice owner, horizon, or subject can be supported. Others will widen after affected participants or rival formulations become visible. Those are useful returns, not failed stages.
+The cost is explicit clarification at the start and occasional reopening later. Some requests will stop before analysis because no receiving decision, choice owner, horizon, or subject can be supported. Others will widen after affected participants or rival formulations become visible. Those are useful returns.
 
 ### PSDA.11:10 - Rationale
 
 The engagement boundary is the smallest professional decision-support result that can coordinate problem structuring and later analysis without pretending that either has already occurred. Starting from a fixed problem statement is too narrow for contested or revisable framing. Starting from an unlimited situation is too broad to guide a return. Starting from a Method confuses the means with the receiving use.
 
-Generic FPF patterns already govern outside-practice results, evidence, permission, agency, and choice. PSDA.11 does not reproduce them. It contributes the field-specific opening that connects a separately governed later decision to a provisional problem-structuring and decision-support boundary, and it tells the practitioner which exact downstream question is now live.
+Generic FPF patterns already govern outside-practice results, evidence, permission, agency, and choice. PSDA.11 contributes the field-specific opening that connects a separately governed later decision to a provisional problem-structuring and decision-support boundary, and it tells the practitioner which exact downstream question is now live.
 
 ### PSDA.11:11 - SoTA-Echoing
 
@@ -251,8 +251,8 @@ Generic FPF patterns already govern outside-practice results, evidence, permissi
 - `PSDA.1` receives the case when materially different problem formulations imply different boundaries, evidence, values, or interventions. `PSDA.2` receives the deliberate included/excluded scope and reopen decision.
 - `PSDA.3`, `PSDA.4`, `PSDA.13` receive model, PSM-selection, and facilitation questions only when those results are current. `PSDA.5`, `PSDA.6`, `PSDA.7`, `PSDA.8`, `PSDA.9` receive alternatives and comparison questions after the engagement is bounded.
 - `PSDA.14` prepares and returns a recommendation without authorizing the later decision. `PSDA.15` relates changed premises and later observations to continuation, adjustment, evidence refresh, or reframing.
-- `A.15.9` supplies the inspect-reuse-or-request boundary for one outside-practice result. `A.10` governs any evidence, source, currentness, or bounded reliance claim actually used.
+- `A.15.9` supplies the inspect-reuse-or-request boundary for one outside-practice result. Preserve the direct evidence, provenance, currentness and domain grounds of any claim actually used. Use `A.10` when its source-to-use account remains implicit or a needed reproducible account is missing.
 - `C.11` governs the later choice over an already-available option set. `A.13`, assignment, capability, permission, responsibility, and authority patterns govern those actual claims when the engagement relies on them.
-- Both `PSDA-CARD-01` and `PSDA-CARD-02` begin from this same engagement and authority meaning. The entries add unlike extended-use examples; they neither redefine PSDA.11 nor impose a traversal order.
+- Both `PSDA-CARD-01` and `PSDA-CARD-02` begin from this same engagement and authority meaning. The entries add unlike extended-use examples.
 
 ### PSDA.11:End

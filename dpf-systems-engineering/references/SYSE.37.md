@@ -18,7 +18,7 @@ dependencies:
 
 # SYSE.37: Alert on Actionable Software-Service Reliability Risk
 
-> **Problem frame:** Use this pattern when a measured service objective and a usable response arrangement exist, but alerts arrive too often, too late or without an action someone can take.
+> **Problem frame:** Use this pattern when alerts for a software-service loss arrive too often, too late or without an action someone can take. Start with the loss that matters, the time available to respond and the person or mechanism actually able to act.
 > **First move:** Identify the user task and the condition that merits action. Distinguish budget risk, a direct task or integrity failure, and loss of observation. They can have different urgency, evidence and recipients.
 >
 > **Governing patterns:** `references/SYSE.36.md` `references/SYSE.38.md`
@@ -33,7 +33,7 @@ dependencies:
 
 ### SYSE.37:1 - Problem frame
 
-Use this pattern when a measured service objective and a usable response arrangement exist, but alerts arrive too often, too late or without an action someone can take. Start with the loss that matters, the time available to respond and the person or mechanism actually able to act.
+Use this pattern when alerts for a software-service loss arrive too often, too late or without an action someone can take. Start with the loss that matters, the time available to respond and the person or mechanism actually able to act.
 
 The first result is an exercised alert rule with its intended response and known blind spots, or the missing observation or response capability. An alert rule alone is not an operating on-call arrangement.
 
@@ -60,7 +60,7 @@ The opposite failure is silence caused by lost telemetry, the wrong denominator 
 
 Identify the user task and the condition that merits action. Distinguish budget risk, a direct task or integrity failure, and loss of observation. They can have different urgency, evidence and recipients.
 
-Recover the qualified measurement, actual objective and response policy. Determine how much loss may occur before a useful response is no longer possible, including measurement delay, notification, acknowledgement, diagnosis and mitigation time.
+Recover the qualified observation and response basis; for budget-risk alerting, include the actual objective and response policy. Determine how much loss may occur before a useful response is no longer possible, including measurement delay, notification, acknowledgement, diagnosis and mitigation time.
 
 Choose an interrupting notification, ordinary work item or observation-only signal according to that response need. Name the actual responsibility and permission. If nobody can receive or perform the response, return that missing capability instead of declaring the alert operational.
 
@@ -84,7 +84,7 @@ Treat missing data separately from no bad events. A zero denominator, stale seri
 
 #### SYSE.37:4.4 - Exercise evaluation, delivery and action
 
-Verify the actual numerator, denominator, labels, windows and evaluation cadence in the deployed monitoring mechanism. A vendor's lookback or duration can mean something different from the intended decision window. Check that the configured rule implements the chosen logic.
+Verify the rule's actual inputs, subject labels, triggering and clearing conditions, and evaluation cadence in the deployed monitoring mechanism. For a ratio or windowed rule, check its numerator, denominator and windows; a vendor's lookback or duration can mean something different from the intended decision window. Check that the configured rule implements the chosen logic.
 
 Use representative recorded or controlled synthetic histories to exercise a significant active failure, recovery, isolated variation and missing telemetry. Inspect when the rule fires and resets, which notifications arrive, and whether related rules duplicate or suppress a needed action.
 
@@ -112,7 +112,7 @@ For example, under the same constant-rate, 30-day, 99.9% assumptions as section 
 
 Check the time available after detection. A correctly evaluated predicate may still be too late when collection, evaluation, delivery and mitigation together exceed the useful response interval. Shorten those delays, change the detection rule, or redesign the mitigation if it can no longer protect the result. A higher-sensitivity rule cannot compensate for an unavailable responder or a recovery procedure that takes longer than the remaining useful time.
 
-Replay complete event histories through the intended implementation. Include a short spike, a sustained failure, intermittent loss, slow degradation, recovery and a telemetry outage. Compare the first firing time, clearing time, notifications and required action for each. Vary task volume as well as error fraction. At rapidly changing volume, p × T / w is no longer an exact statement about the fraction of the objective's event budget consumed; use actual counts under the selected objective-window convention and state any remaining forecast assumption. A time-window burn alert can still be a useful risk heuristic under that limitation.
+Replay complete histories that can challenge the selected budget-risk rules: for example, a short spike, sustained or intermittent loss, slow degradation, recovery or telemetry outage. Compare the first firing time, clearing time, notifications and required action. Vary task volume where it affects the rule. At rapidly changing volume, p × T / w is no longer an exact statement about the fraction of the objective's event budget consumed; use actual counts under the selected objective-window convention and state any remaining forecast assumption. A time-window burn alert can still be a useful risk heuristic under that limitation.
 
 Check that the implementation can express the selected interval. For example, the linked Cloud Monitoring built-in SLO alerting procedure limits its lookback compliance period to 24 hours. The three-day calculation above cannot be copied directly into that mechanism. Obtain an aggregation or another implementation that supports the intended interval, or select and exercise a different rule that preserves the needed slower-loss coverage. Shortening the window changes the decision rule even if the threshold label stays the same.
 
@@ -150,7 +150,7 @@ Teams can tune thresholds to reduce page count while losing important failures, 
 - Each rule has a named service/task loss and a usable response.
 - Budget-risk logic uses the matching measured objective and eligible population.
 - Thresholds and windows follow the selected loss/response basis.
-- Low traffic, impossible thresholds and missing data receive explicit treatment.
+- Missing observations have an explicit disposition; count- or rate-based rules also address low traffic and impossible thresholds.
 - Evaluation, notification, acknowledgement and response are exercised as distinct links.
 - Recovery and suppression do not hide remaining user harm or exhausted budget.
 - Platform and application alerts do not exchange subjects or denominators.

@@ -152,7 +152,7 @@ This repair assumes the receiving requirement concerns f(x). If it instead asks 
 
 ### CMP.8:6 - Bias-Annotation
 
-Numerical language can conceal discrete approximation. The subset construction keeps feasible objects while coarsening selection values; the function construction changes arithmetic while preserving the real function. Neither branch makes calculus, floating-point arithmetic or an optimization objective mandatory for every approximate computation.
+Numerical language can conceal discrete approximation. The subset construction keeps feasible objects while coarsening selection values; the function construction changes arithmetic while preserving the real function.
 
 ### CMP.8:7 - Conformance Checklist
 

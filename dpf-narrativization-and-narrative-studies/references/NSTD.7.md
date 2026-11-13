@@ -84,7 +84,7 @@ Choose additional checks from the claim being made:
 
 | Question | Applicable content |
 | --- | --- |
-| Source selection and any evidence claim | `NSTD.1` for ordinary source selection; `G.2` for SoTA harvesting and synthesis across traditions; `A.10` when evidence is claimed. |
+| Source selection and any evidence claim | `NSTD.1` for ordinary source selection; `G.2` for SoTA harvesting and synthesis across traditions; the claim's subject grounds for evidence, with `A.10` when the source-to-use account is implicit or must remain replayable. |
 | Generated result will inform architecture work | `C.35`; generation alone does not select it. |
 | Source-to-narrative relation | `A.6.3.NAR` and this DPF |
 | Reader recovery of selected structure | `C.2.8` through `NSTD.6`; `C.33` separately when architecture-description adequacy is the question. |
@@ -92,7 +92,7 @@ Choose additional checks from the claim being made:
 | Generation procedure | method or method-description owner, with source-pack grounding |
 | Narrative rendering quality evaluation | `NSTD.6`, `A.19.ECS`, `C.16` |
 | Repeated quality improvement | `E.22` when the quality question is not framed, then `E.23` using `NSTD.6` result rows and re-evaluation |
-| Evidence | `A.10` |
+| Evidence | The claim's defining or testing rule and adequate source basis; `A.10` when the source-to-use account is implicit or must remain replayable. |
 | Assurance | `B.3` |
 | Ethics, harm, bias, affected parties | `D.1` through `D.5` |
 | Responsibility for a consequential use | The applicable organizational assignment or decision authority; precise Work claims use their own FPF grounds. |
@@ -211,7 +211,7 @@ For a franchise continuation, compare the generated scene with the selected cont
 #### NSTD.7:5.6 - FPF owner teaching
 
 
-`NSTD.7` connects content planning, realization and evaluation. A generated account has claims conveyed by a particular expression; its fluency alone does not establish those claims. Use `C.2.8` for reader recovery, `A.10` for evidence claims and `B.3` for assurance claims when they arise. `C.35` is restricted to generated or discovered results intended to inform architecture work. Source changes and changed generator behavior can reopen an earlier comparison.
+`NSTD.7` connects content planning, realization and evaluation. A generated account has claims conveyed by a particular expression; its fluency alone does not establish those claims. Use `C.2.8` for reader recovery, the relevant subject grounds for evidence claims, and `B.3` for actual named assurance claims. Use `A.10` when a source-to-use account is implicit or must remain replayable. `C.35` is restricted to generated or discovered results intended to inform architecture work. Source changes and changed generator behavior can reopen an earlier comparison.
 
 An LLM drafts an explanation of FPF pattern use from notes. Compare its selected relations, order and returns with those notes and the applicable pattern content. `NSTD.6` can assess the candidate immediately; if the necessary subject basis is missing, it leaves that amount unassigned while retaining independently supported defect findings. An absent generation journal does not erase visible product qualities or defects.
 
@@ -232,7 +232,7 @@ Use these examples to distinguish evaluation from acceptance:
 | A homotopy metaphor with an unstated analogy limit. | Diagnose the missing condition and clarify it. | An intuitive explanation can be evaluated before it is fit for proof-related reliance. |
 
 
-When automated repair is used, preserve version identity. "Regenerate until better" destroys improvement evidence. Record the previous carrier, changed prompt or method, selected changed slice, expected value movement, protected trade-offs, and re-evaluation route. A generated variant can be more fluent and still worse on epiplexity, source return, or agency discipline.
+When claiming improvement from automated repair, retain the compared versions or changed spans, the relevant quality results, protected trade-offs, and any costs or risks that affect the claim or continuing use. Keep prompt or method changes when the comparison, continuing workflow or a claim about the repair process needs them. A one-off correction can finish with the changed passage and its source comparison. A variant can be more fluent and still worse on epiplexity, source return or agency discipline.
 
 Pipeline variants by source type:
 

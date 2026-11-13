@@ -82,7 +82,7 @@ Identify the actual or intended Work whose relations matter to the decision. Che
 
 For actual Work, preserve each independently supported Work whole and identify any supported parts or episodes separately. Record precedence, succession, or overlap only as relations among the identified Work. For intended Work, keep the `WorkPlan` and its conditions distinct from performed Work. Shared performers, timestamps, resources, labels, or diagrams do not establish parthood.
 
-An admission–processing–inspection–delivery order can be real for one case while service coordination and improvement Work overlap it as separate wholes. Record both facts. Do not turn all concurrent activity into one process or all ordered activity into organization levels.
+An admission–processing–inspection–delivery order can be real for one case while service coordination and improvement Work overlap it as separate wholes. Record both facts.
 
 #### OPS.19:4.3 - Select the structures that can reverse the choice
 
@@ -90,7 +90,7 @@ Select only the subjects, Work, Methods, resources, commitments, accounts, autho
 
 Keep every process diagram, board, event log, financial model, and dashboard separate from what it represents. State what the representation preserves, what it omits, and which current decision uses it. Use `C.32.MWA` when a general synthesis across non-isomorphic practice structures is needed; its result is architecture evidence, not the operating decision returned here.
 
-Inspect a capable existing integrated account before assembling another. It may already preserve subjects, participants, production and coordination, resource calendars, promises and evidence. Reuse its supported results and add only a missing relation whose answer can reverse the choice. Count the cost of keeping that addition current, including specialist returns; a more elaborate cross-scale model is not inherently better.
+Inspect a capable existing integrated account before assembling another. It may already preserve subjects, participants, production and coordination, resource calendars, promises and evidence. Reuse its supported results and add only a missing relation whose answer can reverse the choice. Count the cost of keeping that addition current, including specialist returns.
 
 A compact working account can use these positions:
 
@@ -143,7 +143,7 @@ Send the result to `OPS.16` only when it changes a feasible Method trial or prot
 
 The practitioner should be able to state the conflict, alternatives, decision, and reopen condition in a brief account. Add structural detail only when it changes feasibility, consequence, authority, or evidence reach.
 
-Recognition is the ability to spot when a local operating choice is exporting harm or consuming another scope's protected condition. Assurance requires supported Work and relation claims, qualified consequences, current authority, and explicit evidence limits. A larger model, more measures, or a cleaner diagram supplies none of those by itself.
+Recognition is the ability to spot when a local operating choice is exporting harm or consuming another scope's protected condition. Assurance requires supported Work and relation claims, qualified consequences, current authority, and explicit evidence limits.
 
 What changes in practice: the operator stops asking which local measure should win and instead records which simultaneous results can reverse the choice, compares feasible arrangements, protects current conditions, and returns one authorized action or exact unresolved conflict.
 
@@ -165,7 +165,7 @@ The local utilization proposal starts all four ready packages and therefore cons
 
 Compare a capable bounded integrated arrangement: its transaction account identifies the package request, promise, result and receiver; its schedule distinguishes test, incident and coordination Work, the six rig-hours, specialist E27 and the repeat reserve. This arrangement already yields two packages plus the two-hour repeat. OPS.19 does not add that arithmetic or need a new enterprise model. If the same arrangement also carries the third package's qualified financial horizon and later agreement, the unresolved fourth-package disposition and E27's recovery protection, reuse its complete return.
 
-Where only the resource schedule is current, the needed addition is those exact receiving constraints. Their owners confirm the third package's supported deferral and the absence of qualified specialist relief; the fourth package remains unresolved. These facts defeat an extension and keep the Method trial closed. Mapping them to the schedule costs source consultation, horizon checking and later refresh. That cost is warranted here because the proposed extension would consume a protected condition, not because multiple diagrams are desirable.
+Where only the resource schedule is current, the needed addition is those exact receiving constraints. Their owners confirm the third package's supported deferral and the absence of qualified specialist relief; the fourth package remains unresolved. These facts defeat an extension and keep the Method trial closed. Mapping them to the schedule costs source consultation, horizon checking and later refresh. That cost is warranted here because the proposed extension would consume a protected condition.
 
 `OPS.19` returns a bounded cross-scale reconfiguration: preserve incident coverage and E27's recovery; complete the two selected packages and reserve the possible two-hour repeat inside six rig-hours; defer the third package to its qualified later slot; hold the fourth package's start and return its later disposition as unresolved because no qualified priority, acceptance-window, or financial premise selects it; and keep the Method trial closed until service recovery, support, permission, and trial conditions are current. Reopen if qualified relief and access become available, the financial horizon or acceptance premise changes, a qualified fourth-package disposition basis returns, or the incident or service result changes.
 
@@ -247,7 +247,7 @@ The competent comparator in section 5.1 is a constructed arrangement using those
 
 The integrated material, information and financial model of [Perez et al. (2023)](https://doi.org/10.1016/j.compchemeng.2023.108363) is another serious source line for coupled decisions. Its published scope does not make its complete optimization construction an implemented supplier here. A more detailed model can be worth its data and maintenance cost when resource interactions repeatedly change the schedule; it is not necessary for the simple arithmetic in this case. `C.32.MWA` supplies general structure selection and synthesis, while the operation retains its actual allocation, service obligations and authority.
 
-The full incremental burden of the OPS synthesis is recovering missing owner results, aligning their subjects and horizons, checking that one benefit has not displaced another protected use, and maintaining the resulting correspondence. It can lose to a mature integrated practice that already does this. TameFlow's distinct operational, financial, informational and human concerns and the historical constraint-accounting sources help expose moved burdens, but none establishes a universal financial objective or a school-wide advantage. Reopen when a missing relation reverses an actual decision, a source assumption ceases to fit, or a simpler incumbent preserves the same commitments, protections and truthful unresolved remainder at lower total effort.
+The full incremental burden of the OPS synthesis is recovering missing owner results, aligning their subjects and horizons, checking that one benefit has not displaced another protected use, and maintaining the resulting correspondence. It can lose to a mature integrated practice that already does this. TameFlow's distinct operational, financial, informational and human concerns and the historical constraint-accounting sources help expose moved burdens. Reopen when a missing relation reverses an actual decision, a source assumption ceases to fit, or a simpler incumbent preserves the same commitments, protections and truthful unresolved remainder at lower total effort.
 
 ### OPS.19:12 - Relations
 

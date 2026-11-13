@@ -103,7 +103,7 @@ Choose a sharing scope from actual interaction. Components that exchange one lib
 
 Give each relevant instance and binding an unambiguous place in the proposed configuration. “Use library 2” is incomplete if two processes have different instances and only one is updated. A single global version is also unnecessarily restrictive when the consuming contract permits qualified isolation.
 
-Test isolation at the point where results meet. If two isolated tools exchange a versioned file, recover the file schema, units, state and permitted losses at that boundary. If a proposed adapter translates between them, its supported transformation becomes another component and another requirement; its name supplies no compatibility. SYSE.27 and SIE.7 develop that changed interface and mapping. Return a missing boundary result before relying on isolation.
+Test isolation at the point where results meet. If two isolated tools exchange a versioned file, recover the file schema, units, state and permitted losses at that boundary. If a proposed adapter translates between them, its supported transformation becomes another component and another requirement. SYSE.27 and SIE.7 develop that changed interface and mapping. Return a missing boundary result before relying on isolation.
 
 Keep shared resource and authority conditions when they affect feasibility. Two individually usable instances can still exceed the available capacity or lack permission for concurrent use. Model those joint conditions directly; adding more isolated copies does not settle them.
 
@@ -121,7 +121,7 @@ One small problem can be represented by a table. Larger problems can use a suita
 
 Do not presume that pairwise checks settle a shared whole. With one shared definition D and allowed sets {1,2}, {2,3} and {1,3}, each pair has a common value. The three-way intersection is empty. The condition is that one D satisfies all three consumers simultaneously.
 
-Cycles require interpretation as well. A mutually constrained group may be a legitimate simultaneous selection, while a build cycle with no supported bootstrap can prevent construction. Keep the selection relation distinct from the obtaining order and send an unsupported realization cycle to SYSE.3/SYSE.30. A graph edge by itself does not decide either question.
+Cycles require interpretation as well. A mutually constrained group may be a legitimate simultaneous selection, while a build cycle with no supported bootstrap can prevent construction. Keep the selection relation distinct from the obtaining order and send an unsupported realization cycle to SYSE.3/SYSE.30.
 
 #### SYSE.53:4.5 - Obtain a witness or a justified search return
 
@@ -155,7 +155,7 @@ Choose preferences among feasible arrangements with comparable burden. A smaller
 
 #### SYSE.53:4.7 - Return a composition that realization can use
 
-Return the selected releases and variants, their instance bindings, required sources or access, the supported consuming use and the conditions that can reopen it. Keep the derivation from demands to selections and any remaining limits. Existing manifests, configuration records and dependency reports can carry this information; a new universal schema is unnecessary.
+Return the selected releases and variants, their instance bindings, required sources or access, the supported consuming use and the conditions that can reopen it. Keep the derivation from demands to selections and any remaining limits. Existing manifests, configuration records and dependency reports can carry this information.
 
 Separate that selection from its realization. SYSE.13 identifies the configuration. SYSE.30 reconstructs software artifacts from selected inputs. SYSE.33 provides and exercises the required environment; SYSE.11 addresses a wider bounded integration. The receiving operation must obtain the named releases, preserve the chosen bindings and observe the actual task. Successful resolution alone does not prove installation, trustworthy bytes or correct behavior.
 
@@ -246,7 +246,7 @@ For “How do declared requirements become a concrete package selection?”, **a
 
 For “When should several roots share dependencies?”, **adapt** [Spack 1.0.4 environments](https://spack.readthedocs.io/en/v1.0.4/environments.html): its shared, sharing-when-possible and independent concretization alternatives expose a real configuration choice. Its separation of requested specs, selected specs, installation and activation informs sections 4.3, 4.7 and 4.8. The serious alternative is one globally shared version for every use. Isolation can remove a needless constraint, but adds boundary and resource obligations; this pattern requires those grounds rather than selecting a mode by convenience.
 
-CMP.4 remains the source for constructing an appropriate covering search. SIE.4/SIE.6 supply qualified semantic relations, and SYSE.13/SYSE.30/SYSE.33 supply configuration, construction and provision. Their joint use here adds the derivation and scope choices needed before search; it does not replace those Methods. Reopen the construction when a resolver's semantics, a supplier's compatibility claim, a required exchange or the available catalogue changes. Neither these documents nor the worked calculations qualify an untested installation.
+CMP.4 remains the source for constructing an appropriate covering search. SIE.4/SIE.6 supply qualified semantic relations, and SYSE.13/SYSE.30/SYSE.33 supply configuration, construction and provision. Their joint use here adds the derivation and scope choices needed before search; it does not replace those Methods. Reopen the construction when a resolver's semantics, a supplier's compatibility claim, a required exchange or the available catalogue changes.
 
 ### SYSE.53:12 - Relations
 

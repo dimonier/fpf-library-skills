@@ -72,7 +72,7 @@ First use decisive conditions to exclude arrangements that cannot serve the cont
 
 #### SIE.8:4.2 - Record the Result
 
-The result follows the conclusion actually supplied. A sufficient rejection of one proposed arrangement is complete with the receiving use, named proposal, decisive grounds and evidence, scope, and material limits. It does not require a comparison with unrequested alternatives or an implementation and interface design. Unused positions create no empty fields, waivers, or explanations of omission.
+The result follows the conclusion actually supplied. A sufficient rejection of one proposed arrangement is complete with the receiving use, named proposal, decisive grounds and evidence, scope, and material limits. It does not require a comparison with unrequested alternatives or an implementation and interface design.
 
 | Decision content | When it is needed | Content supplied |
 | --- | --- | --- |
@@ -119,7 +119,7 @@ The decision selects the hybrid arrangement because stable semantic premises can
 
 ### SIE.8:7 - Conformance Checklist
 
-Check the conclusion being returned. Only its applicable checks need an answer; unused branches require neither a record nor an omission explanation.
+Check the conclusion being returned. Only its applicable checks need an answer.
 
 **For every result**
 

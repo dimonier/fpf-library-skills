@@ -281,11 +281,11 @@ different contingency and lie outside this particular decision.
 
 #### SYSE.18:5.1 - Derive and compare the alternatives
 
-The decisive timeline starts at receipt of the notice. Municipal reception remains available through hour 4;
-the fallback can receive the flow from hour 6. The unsupported interval is therefore hours 4–6. With no other
-outflow during that interval, **50 m³/h × 2 h = 100 m³** must be held. This is a storage-volume requirement,
-not yet a qualified buffer design. For a varying flow, the corresponding quantity is the accumulated net
-inflow over the unsupported interval.
+Consider the limiting permitted timeline: notice arrives four hours before municipal reception ends, and
+fallback reception begins six hours after notice. The two-hour gap at the permitted 50 m³/h requires
+**50 m³/h × 2 h = 100 m³** of storage to cover that case. This bounds the required coverage; actual demand
+may be lower. It is not yet a qualified buffer design. For a varying flow, use the accumulated net inflow
+over the unsupported interval.
 
 A supplier offers an existing mobile buffer with **120 m³ of usable storage**, qualified for the stated
 medium and connection. The supplied hydraulic assessment supports its inlet rate, location and recovery
@@ -298,7 +298,7 @@ The same decision compares the following arrangements for the same service inter
 
 | Arrangement | Result under the stated premises | Authority, availability and burden | Present disposition |
 | --- | --- | --- | --- |
-| Retain the four-hour notice with no buffer | Leaves 100 m³ without an allowed destination | Immediately available; violates the required result | Excluded for this use. |
+| Retain the four-hour notice with no buffer | Cannot cover the permitted two-hour gap at 50 m³/h | Immediately available; cannot meet the required coverage | Excluded for this use. |
 | Obtain six-hour notice | Could remove the unsupported interval with the current fallback | Municipal operator controls the change and cannot commit before the required date | Keep as a possible later improvement; it is unavailable for the current reliance. |
 | Shorten fallback mobilization to four hours | Could remove the same interval | Current qualified Method needs six hours; no adequate shorter Method is supplied | Return the specific development or qualification need; do not assume faster dispatch solves it. |
 | Install the qualified 120 m³ buffer | Holds the required 100 m³ and retains 20 m³ of additional usable capacity | Within the integrator's authority and date; adds hire, installation, inspection and later removal | Feasible for the declared use. |

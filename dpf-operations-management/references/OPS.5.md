@@ -98,11 +98,11 @@ Record the conditions that can change the admission decision. Test exact identit
 
 Judge readiness for the proposed consuming operation, not for every eventual use. `OPS.8:4.2` supplies receiver-ready work; `OPS.13:4.2` connects preparation to a promised result. Recover the applicable prerequisites and the person who can confirm them. Name the start bound's unit, interval and counting rule, including how safe stops and suspended work count. A supplied justified bound can be applied here; deriving its value is a capacity or policy question.
 
-Do not translate these into a universal score. Some conditions are mandatory, some admit qualified comparison, and some require a return to another owner.
+Some conditions are mandatory, some admit qualified comparison, and some require a return to another owner.
 
 #### OPS.5:4.4 - Choose only where a real choice exists
 
-When a direct domain rule, mandatory condition, or recognition branch gives the answer, apply it and record the basis. When several live admissible alternatives genuinely require comparison, form a stable current OptionSet and comparison basis and use `C.11`. If the options or comparison facts are insufficient, choose a bounded probe only when it can change the decision, or return the missing condition. Do not manufacture an OptionSet merely to make admission look analytical.
+When a direct domain rule, mandatory condition, or recognition branch gives the answer, apply it and record the basis. When several live admissible alternatives genuinely require comparison, form a stable current OptionSet and comparison basis and use `C.11`. If the options or comparison facts are insufficient, choose a bounded probe only when it can change the decision, or return the missing condition.
 
 #### OPS.5:4.5 - Give every item a usable disposition
 
@@ -200,9 +200,9 @@ The four dispositions prevent the false binary “start or lose”. Direct rules
 
 ### OPS.5:11 - SoTA-Echoing
 
-The question is which prepared work may start now. The serious comparator is competent policy-governed pull, not a ranked list masquerading as permission. The [Kanban Guide 2025.5](https://kanbanguides.org/the-kanban-guide/2025.5/) already provides explicit workflow policies and active-work control; TameFlow's preparation account adds useful-package readiness and distinguishes optional from committed demand. OPS adopts these contributions.
+The question is which prepared work may start now. The serious comparator is competent policy-governed pull. The [Kanban Guide 2025.5](https://kanbanguides.org/the-kanban-guide/2025.5/) already provides explicit workflow policies and active-work control; TameFlow's preparation account adds useful-package readiness and distinguishes optional from committed demand. OPS adopts these contributions.
 
-Apply both approaches to section 5.1. A capable pull policy sees one free slot, keeps the WIP bound, applies the authorized incident exception and starts I73-D. It does not need OPS to discover that starting everything overloads the operation. The possible residual is narrower: the fixture readiness required for R42-T9 differs from the safety decision required for release, and the operating coordinator cannot manufacture the latter. Sections 4.3–4.6 distinguish those consuming uses, apply the existing bound and return S19 to its owner while retaining permissible work. If the incumbent's policies and records already do this, they are the adequate admission arrangement.
+Apply both approaches to section 5.1. A capable pull policy sees one free slot, keeps the WIP bound, applies the authorized incident exception and starts I73-D. The possible residual is narrower: the fixture readiness required for R42-T9 differs from the safety decision required for release, and the operating coordinator cannot manufacture the latter. Sections 4.3–4.6 distinguish those consuming uses, apply the existing bound and return S19 to its owner while retaining permissible work. If the incumbent's policies and records already do this, they are the adequate admission arrangement.
 
 The addition costs a check of current prerequisites and permission, an exact return for a missing condition, and follow-up on deferred demand. Where eligibility rarely changes and one authority already covers the operation, a separate per-item OPS form costs more without altering starts. Reuse the existing policy and item record; do not duplicate its queue history. Where multiple authorities or prerequisites differ by action, that bounded work can prevent a ready-looking item from acquiring a permission it lacks.
 
@@ -215,6 +215,6 @@ FPF `C.11` supplies comparison among genuine admissible alternatives; it neither
 - `OPS.6` consumes the applicable admission and independently supported current permission for the same matter and conditions; an admission account may carry both results.
 - `OPS.7` separately governs current priority or bounded commitment revision. `OPS.8`–`OPS.13` retain queue, buffer, constraint, capacity, interacting-structure, and wider commitment questions.
 - Clinical, safety, legal, privacy, security, finance, product release, capability, and other specialist practices retain their subjects, evidence, permission, authority, and conclusions.
-- Pattern order is not Work order. Practitioners may enter OPS.5 directly when matching current inputs already exist, repeat it as demand changes, or stop after its result.
+- Practitioners may enter OPS.5 directly when matching current inputs already exist, repeat it as demand changes, or stop after its result.
 
 ### OPS.5:End

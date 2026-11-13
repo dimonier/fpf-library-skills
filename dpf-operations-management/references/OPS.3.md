@@ -31,9 +31,9 @@ dependencies:
 
 Use this pattern when one card, ticket, order, object identifier, case file, event row, or status label is being asked to stand for several different things. Enter when a measure cannot say what it measures, a queue cannot say what waits, an incident record is treated as the incident, a resource is treated as its availability, or two views cannot agree because they identify their subjects differently.
 
-The first useful move is to choose one decision-bearing subject and write:
+The first useful move is to resolve one decision-bearing subject and the claim needed about it. An existing account or a short explanation can carry this result:
 
-> Subject `S` is of `kind K`, with identity condition `I`. The decision-bearing claim `Q` about `S` and its relations `R` to Work and commitments is qualified for time or horizon `T`, supported by evidence `E`, and represented in record or view `V`. Missing identity or relation governor: `G`.
+> Subject `S` has identity condition `I`. The decision-bearing claim `Q` about `S` and its relations `R` is qualified for time or horizon `T` and supported by `E`. State a formal kind, represented view, governing rule or missing condition when the receiving use depends on it.
 
 Repeat only for items whose distinction changes the decision. The result is a small operating-subject account, not a universal data model.
 
@@ -54,8 +54,8 @@ Do not use OPS.3 to model every object in the operation, redesign a database, de
 | resource relation | The exact availability, access, consumption, support, allocation, or other relation through which a System, capability, material, information, time, or condition is used by Work. The resource and relation remain distinct. |
 | event | An occurrence or change under its subject rule and time boundary. An event record or timestamp is evidence about it, not the event by identity. |
 | record or trace | A claim-bearing episteme about subjects, Work, events, relations, or decisions, recorded on an identified carrier. Its claims have stated sources and scope limits. |
-| state claim | A qualified claim about one subject at a stated time or horizon with provenance, uncertainty, conditions, and authority. A status label is one possible representation. |
-| control participant meaning | Observer, controller, plant, or supervisor as the participant meaning in one actual direct relation and selected control structure. The label is not a universal kind or proof that the relation obtains. |
+| state claim | A qualified claim about one subject at a stated time or horizon with provenance, uncertainty and conditions; include authority where the claimed state or receiving action depends on it. A status label is one possible representation. |
+| control participant meaning | Observer, controller, plant or supervisor as the participant meaning in an actual control relation. Qualify a selected control structure when that claim is needed. The label does not establish that the relation obtains. |
 | operating-subject account | The smallest relation-specific set of identities, direct relations, records, state claims, and explicit gaps needed by the current operating decision. |
 
 ### OPS.3:1 - Problem Frame
@@ -96,11 +96,13 @@ Build the smallest operating-subject account that preserves exact identities, ob
 7. **Recover commitments and direct relations.** Use `A.6.REL` or the direct governor for each relied-on relation. Keep promise, obligation, fulfilment, responsibility, authority, assignment, and evidence distinct.
 8. **Apply the control branch only when selected.** Preserve actual Systems or holons and direct observation, actuation, reference, supervision, and feedback relations. Treat observer, controller, plant, and supervisor as relation-specific meanings. Use `B.2.5` only when both observation/report and returned influence/constraint sides obtain.
 9. **Reconcile records by subject and claim, not by row.** When a relation or timestamp is disputed, identify the source that can settle that particular meaning and the person authorized to correct its account. Preserve the original observation and explain the correction. Recompute only the state, elapsed time, queue membership or other decision that used the defective relation. Keep an unresolved association unusable for that inference; do not guess a replacement. Retain independently supported claims and ongoing work. A correction to a record does not itself change permission or undo performed Work.
-10. **Stop at the smallest sufficient account.** Return exact subjects, direct relations, records, state claims, gaps, and reopen conditions to OPS.4. Leave unrelated objects outside.
+10. **Stop at the smallest sufficient account.** Return the subjects, relations, state claims and support needed by the decision, with any unresolved condition. Use OPS.4 when participants need to maintain or share the current account; otherwise the resolved identity or relation can finish this use. Identify revision conditions when the result will be reused. Leave unrelated objects outside.
 
-#### OPS.3:4.2 - Record the Result
+#### OPS.3:4.2 - Carry the Result
 
-| Result position | Required content |
+Preserve the content needed by the selected question. Use the existing record or explain the result directly; create or maintain a record only when coordination, later reliance or another governing requirement needs it.
+
+| Result position | Content when relevant to the receiving use |
 | --- | --- |
 | use boundary | User, decision, horizon, suspected compression, and useful stop. |
 | subjects and identity | Exact primary and related subjects, governing kinds or predicates, identity conditions, and unresolved referents. |
@@ -109,7 +111,7 @@ Build the smallest operating-subject account that preserves exact identities, ob
 | events and records | Occurrences, claim-bearing records and carriers, source, scope, time, uncertainty, and non-admissible inferences. |
 | state and commitments | Qualified state claims, commitment relations, provenance, authority, conflicts, and currentness. |
 | control relations, when the control branch is selected | The actual participants and decision-bearing observation, actuation, reference or supervision relations. Omit this row for an account that makes no control claim. |
-| continuation | Account content supplied to OPS.4, explicit gaps, and observable reopen conditions. |
+| continuation | Any unresolved condition or needed account maintenance; revision conditions for a result that will be reused. |
 
 #### OPS.3:4.3 - What Changes in Practice
 
@@ -158,10 +160,10 @@ The result supplies OPS.4 with exact subjects, records, current claims, conflict
 - [ ] Case, actual Work, Work item, queue membership, buffer membership, resource, event, record, and state claim remain distinct.
 - [ ] Work items state start, finish, subject/result relation, and receiving use.
 - [ ] Queue, buffer, and resource claims name exact participants, purpose or policy, interval, and obtaining relation.
-- [ ] Records state source, carrier, claim scope, time, uncertainty, and non-admissible inference.
+- [ ] A relied-on record preserves its source, subject, claim scope, time and uncertainty, and any inference limit material to the receiving use.
 - [ ] Direct relations use current governors; a representation or co-occurrence creates none.
 - [ ] Control participants and two-sided feedback are recorded only where actual relations obtain.
-- [ ] The result is the smallest account sufficient for the decision and names gaps and reopen conditions.
+- [ ] The result is the smallest account sufficient for the decision, with any unresolved condition and the revision conditions needed for reuse.
 
 ### OPS.3:8 - Common Anti-Patterns and How to Avoid Them
 
@@ -186,9 +188,9 @@ Operations decisions act on subjects and obtaining relations, while coordination
 
 ### OPS.3:11 - SoTA-Echoing
 
-The question is which subjects, relations and times must be recovered before an operating decision can trust its records. A capable object-centric account already relates events to several objects, retains histories and distinguishes relation meanings. OPS adapts that contribution. It does not compare multi-object analysis only with a badly used ticket identifier.
+The question is which subjects, relations and times must be recovered before an operating decision can trust its records. A capable object-centric account already relates events to several objects, retains histories and distinguishes relation meanings. OPS adapts that contribution.
 
-[OCEL](https://www.ocel-standard.org/specification/overview/) supplies an exchange model for that account. The [2026 object-centric process management manifesto](https://publications.rwth-aachen.de/record/1036372/files/1036372.pdf), particularly §2.3 and §3, distinguishes execution data from their representations and identifies changing relations as a limitation of OCEL 2.0. The [2026 object-centric data-quality study](https://link.springer.com/article/10.1007/s44311-026-00043-x), “Relationship-based quality issues” and its practitioner cases, shows why a well-formed multi-object log can still have wrong or insufficiently qualified links and changing timestamp meanings. These are grounds for the correction in steps 6 and 9 of OPS.3:4.1 and in OPS.3:5, not proof of its field effectiveness or a complete data-engineering method.
+[OCEL](https://www.ocel-standard.org/specification/overview/) supplies an exchange model for that account. The [2026 object-centric process management manifesto](https://publications.rwth-aachen.de/record/1036372/files/1036372.pdf), particularly §2.3 and §3, distinguishes execution data from their representations and identifies changing relations as a limitation of OCEL 2.0. The [2026 object-centric data-quality study](https://link.springer.com/article/10.1007/s44311-026-00043-x), “Relationship-based quality issues” and its practitioner cases, shows why a well-formed multi-object log can still have wrong or insufficiently qualified links and changing timestamp meanings. These ground the correction in steps 6 and 9 of OPS.3:4.1 and in OPS.3:5.
 
 In the L17 choice, a competent data-quality procedure that already checks the build, timestamp meaning, correction provenance and affected consumers is sufficient. Use it unchanged. Where it repairs the log but leaves the operating consequence undecided, OPS adds the narrow return: withdraw the unsupported R42 completion, recompute only dependent membership and age, and retain the independently supported work. The extra cost is consulting the responsible source and following the faulty relation into its actual consumers. Recreating every object or copying all histories into a second account is unnecessary. An unresolved relation can block one inference without blocking the rest of the operation.
 

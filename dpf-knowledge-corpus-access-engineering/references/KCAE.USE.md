@@ -71,7 +71,7 @@ Use a break-even calculation only for commensurable quantities. Suppose A costs 
 
 #### KCAE.USE:4.5 - Return the design basis and its reopen conditions
 
-The result identifies the chosen or proposed arrangement, first usable result, alternative retained for comparison, unknown premises and observations that would change the choice. Feed source requirements to KCAE.SOURCE, discovery requirements to KCAE.INDEX, delivery capability to KCAE.DELIVER and adoption questions to KCAE.EVAL. A single concise account can carry this basis; no mandatory per-query form follows.
+The result identifies the chosen or proposed arrangement, first usable result, alternative retained for comparison, unknown premises and observations that would change the choice. Feed source requirements to KCAE.SOURCE, discovery requirements to KCAE.INDEX, delivery capability to KCAE.DELIVER and adoption questions to KCAE.EVAL. A single concise account can carry this basis.
 
 ### KCAE.USE:5 - Archetypal Grounding
 

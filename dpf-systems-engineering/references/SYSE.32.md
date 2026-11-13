@@ -95,7 +95,7 @@ Make the selected artifact available with its identity, applicable evidence, sep
 
 Exercise at least the consequential substitution and missing-evidence cases for the chosen mechanism. Check that the consumer obtains the intended bytes and can distinguish failure from a completed verification. Reuse an earlier result only while its subject, required claim and material conditions remain the same.
 
-Hand the result to SYSE.41 when an actual runtime deployment is needed. The deployment must still establish the target's effective configuration, dependencies and observed behavior. Use SYSE.14 to obtain the separately authorized release decision; artifact promotion does not widen exposure by itself.
+Hand the result to SYSE.41 when an actual runtime deployment is needed. The deployment must still establish the target's effective configuration, dependencies and observed behavior. Use SYSE.14 when a separately authorized release decision is needed; artifact promotion does not widen exposure by itself.
 
 #### SYSE.32:4.6 - Build a promotion mechanism whose evidence reaches actual use
 

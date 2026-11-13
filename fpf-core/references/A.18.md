@@ -1,6 +1,6 @@
 ---
 id: A.18
-title: "A.CSLC-KERNEL — Minimal CSLC in Kernel (Characteristic/Scale/Level/Coordinate)"
+title: "A.CSLC-KERNEL — CSLC in Kernel (Characteristic/Scale/Level/Coordinate)"
 status: Stable
 keywords:
   - CSLC
@@ -26,16 +26,16 @@ dependencies:
     - B.3
 ---
 
-# A.18: A.CSLC-KERNEL — Minimal CSLC in Kernel (Characteristic/Scale/Level/Coordinate)
+# A.18: A.CSLC-KERNEL — CSLC in Kernel (Characteristic/Scale/Level/Coordinate)
 
-> **Problem frame:** We often need to **characterize some aspect** of a subject, whether the subject is one entity or a relationship between entities.
+> **Problem frame:** **Characterizing an aspect** of an entity or a relationship between entities can mean recording a physical quantity, an architectural property or a performance rating. The characterization must:
 > **First move:** **Bind each measurement template to one Characteristic and one Scale.** A Coordinate is one value on that Scale; a named Level is optional when the Scale supplies discrete categories or tiers.
 >
 > **Governing patterns:** `references/A.17.md` `references/C.16.md` `references/A.19.md` `references/A.19.CN.md` `references/G.0.md` `references/B.3.md`
 
 ---
 
-## A.18 - Minimal CSLC in Kernel (Characteristic ⟷ Scale ⟷ Level ⟷ Coordinate) (A.CSLC‑KERNEL)
+## A.18 - CSLC in Kernel (Characteristic ⟷ Scale ⟷ Level ⟷ Coordinate) (A.CSLC‑KERNEL)
 
 > **Status:** Stable
 
@@ -45,11 +45,11 @@ dependencies:
 
 ### A.18:1 - Problem Frame
 
-We often need to **characterize some aspect** of a subject, whether the subject is one entity or a relationship between entities. Whether it’s recording a physical quantity, an architectural property, or a performance rating, the characterization must:
+**Characterizing an aspect** of an entity or a relationship between entities can mean recording a physical quantity, an architectural property or a performance rating. The characterization must:
 
 -  remain _domain-neutral_ (work for engineering metrics, subjective scores, etc.),
 
--  support direct magnitude comparison when values have the same Characteristic and Scale and compatible measurement conditions; a declared conversion may establish that common basis, and
+-  support magnitude comparison when values have the same Characteristic and Scale and compatible measurement conditions; a declared conversion may establish that common basis, and
 
 -  accommodate both **ordered tiers** (qualitative levels like Low/Medium/High) and **numeric magnitudes** (continuous or interval values) without mixing them up.
 
@@ -73,23 +73,23 @@ A practitioner needs the measured aspect, its Scale and the rule for the propose
 
 - **F3 — Scale integrity.** Retain the distinction between category, order, interval and ratio structure. Numerical labels alone establish neither distances nor admissible arithmetic.
 
-- **F4 — Optional named Levels.** A Scale can provide named tiers, such as Technology Readiness Levels or bond credit ratings. A continuous measurement needs no Level labels unless an explicit categorization is introduced.
+- **F4 — Optional named Levels.** A Scale can provide named tiers, such as Technology Readiness Levels or bond credit ratings. A continuous measurement needs no Level labels unless a categorization is introduced.
 
 - **F5 — Method agnosticism.** CSLC defines the Characteristic, Scale and value structure. The applicable domain patterns (e.g. Sys-CAL or KD-CAL) govern how values are obtained through sensing, simulation or expert judgement. C.16 and the receiving use supply the further measurement and comparability conditions.
 
 ### A.18:4 - Solution
 
-**Bind each measurement template to one Characteristic and one Scale.** A Coordinate is one value on that Scale; a named Level is optional when the Scale supplies discrete categories or tiers. A performed measurement may attribute one value or a set of values, with uncertainty and measurement conditions under C.16. CSLC types those values; it does not require every observation to determine one exact Coordinate.
+**Bind each measurement template to one Characteristic and one Scale.** A Coordinate is one value on that Scale; a named Level is optional when the Scale supplies discrete categories or tiers. A performed measurement may attribute one value or a set of values, with uncertainty and measurement conditions under C.16. CSLC types those values; it does not require every observation to determine one Coordinate.
 
 > **Exactly one Characteristic + exactly one Scale; each reported Coordinate belongs to that Scale, with an optional named Level.**
 
-Concretely, the parts of this clause are defined as follows:
+The parts of this clause are defined as follows:
 
 - **Characteristic:** the aspect being measured, such as Distance, Temperature or a defined quality or reliability aspect. It answers “What are we measuring?”
 
 -  **Scale:** the organized set of possible values that the Characteristic can take, including the type of scale (_nominal_, _ordinal_, _interval_, or _ratio_), the measurement **Unit** (if applicable), and any bounds or structure. The Scale defines “_How are values represented, and which operations does the Scale permit?_” – e.g. “meters on a linear scale from 0 up to 1000” or “ratings 1 through 5 with ordering only”.
 
-- **Coordinate:** one value in the declared Scale's value domain, numeric or categorical. A measurement result may attribute one Coordinate or a set of admissible Coordinates to its subject; C.16 supplies the model, uncertainty and conditions for that attribution. Examples of individual Coordinates are 7.4 on a meter Scale or Expert on the declared expertise Scale.
+- **Coordinate:** one value in the declared Scale's value domain, numeric or categorical. A measurement result may attribute one Coordinate or a set of admissible Coordinates to its subject; C.16 supplies the model, uncertainty and conditions for that attribution. Examples of Coordinates are 7.4 on a meter Scale or Expert on the declared expertise Scale.
 
 - **Level (optional):** a named tier or category within a Scale, such as _Low, Medium, High_ on an ordinal Scale. When a continuous measurement is categorized, define the category boundaries; an uncategorized continuous Scale needs no Level labels.
 
@@ -99,7 +99,7 @@ Keep distinct reported Characteristics in separate templates. A quantity calcula
 
 #### A.18:4.1 - Characteristic-space support must stay declared
 
-When a comparison uses a declared space, make the subject kind and active CharacteristicSpace recoverable. Use `SpaceRef` when its identity matters. Different questions about the same subjects may use different spaces; a shared display or atlas label does not determine which one applies.
+When a comparison uses a declared space, make the subject kind and CharacteristicSpace recoverable. Use `SpaceRef` when its identity matters. Different questions about the same subjects may use different spaces; a shared display or atlas label does not determine which one applies.
 
 Keep outcome-side, representation-side and search-side spaces distinct when their difference affects the comparison. Use `OutcomeMapRef` only when the receiving use needs a declared map from a set result into an outcome or effect space. Identify that source result and target space together; the map supplements the view's interpretation rather than selecting a universal space for it.
 
@@ -113,17 +113,17 @@ For evaluative comparison or combination across different CSLC templates, the Sc
 
 #### A.18:4.3 - Preserve value meaning through change
 
-A Scale is identified by its interpreted values and their domain, the equality or order structure it supplies, and, where applicable, its unit, reference and origin. A label or numeral alone supplies none of these. A Level denotes a value or declared category within that Scale; changing its spelling can preserve the Level, while moving a category boundary changes what it denotes. A Coordinate is a value of that particular Scale, not an independently measured object or the content that attributes the value to a subject. Keep the declared Scale recoverable when writing, comparing or passing Coordinates.
+A Scale is identified by its interpreted values and their domain, the equality or order structure it supplies, and, where applicable, its unit, reference and origin. A label or numeral alone supplies none of these. A Level denotes a value or declared category within that Scale; changing its spelling can preserve the Level, while moving a category boundary changes what it denotes. A Coordinate is a value of that Scale, not an independently measured object or the content that attributes the value to a subject. Keep the declared Scale recoverable when writing, comparing or passing Coordinates.
 
 A measurement unit is an adopted reference for expressing quantities of the applicable kind. Its symbol is a representation of that reference. A change of unit can preserve the quantity through an established conversion while changing the Scale-specific Coordinate; an unchanged symbol does not establish that the unit, quantity kind or Scale is the same. A changed measurement model or calibration can change the attributed result without changing the Scale. Recover which interpretation or assertion changed before revising a dependent calculation.
 
-For a proposed replacement, establish the required correspondence of Characteristics and Scales, then apply the conversion or evaluation rule actually used by the receiver. Being a Coordinate on some Scale is insufficient for filling a position on another Scale. Where no classification decision is needed, this exact declaration and correspondence suffice; recurring typed receivers can use the content and space ranges in C.16:5.5.1 and A.19:5.1.1.1. Membership in those ranges does not establish comparability or authorize arithmetic.
+For a proposed replacement, establish the required correspondence of Characteristics and Scales, then apply the conversion or evaluation rule used by the receiver. Being a Coordinate on some Scale is insufficient for filling a position on another Scale. Where no classification decision is needed, this declaration and correspondence suffice; recurring typed receivers can use the content and space ranges in C.16:5.5.1 and A.19:5.1.1.1. Membership in those ranges does not establish comparability or authorize arithmetic.
 
 ### A.18:5 - Archetypal Grounding (System & Episteme Examples)
 
 **In a physical scenario (`U.System`):** Consider an athlete’s long jump. We define a Characteristic **Jump Distance** with a Scale “meters (m)” ranging from 0 upward (ratio scale with meters as the unit). When the athlete jumps and lands at 7.45 m, we record a **Coordinate** of _7.45 m_ for the Jump Distance Characteristic. This ratio Scale permits interpreting a 1.5 m distance difference between comparable jumps.
 
-For another physical measurement, consider **Battery Health** of a device, which might be categorized qualitatively. We could define an ordinal Scale with Levels like _Good, Fair, Poor_ for the Battery Health Characteristic. If a particular device is rated “Poor”, that is a Coordinate on the Battery Health scale (with _Poor_ as the Level name). No arithmetic is done on these labels, but we can order devices by health (Good > Fair > Poor).
+For another physical measurement, consider **Battery Health** of a device, which might be categorized qualitatively. We could define an ordinal Scale with Levels like _Good, Fair, Poor_ for the Battery Health Characteristic. If a device is rated “Poor”, that is a Coordinate on the Battery Health scale (with _Poor_ as the Level name). No arithmetic is done on these labels, but we can order devices by health (Good > Fair > Poor).
 
 **In knowledge-related assessment:** A person's expertise may be assessed on a declared ordinal Scale _Novice < Competent < Expert_. Alice is assessed as Expert in software engineering and Bob as Competent. Their Coordinates are ordered by that rubric; numerical labels alone supply no mean expertise. The bearer here is the person, not the description of the assessment.
 
@@ -145,26 +145,26 @@ When defining a new metric template or using measurements, practitioners **SHALL
 
 4.  **Scale-appropriate operations only:** Only perform those comparisons or calculations that are valid for the given scale type. For a nominal scale, the Scale supplies equality but no intrinsic order; a use-dependent preference is a separate rule. For an ordinal Scale, its order alone does not justify arithmetic differences between numerical labels. For interval scales, an operation must respect the Scale's admissible changes of origin and unit; differences and appropriate means can be meaningful, while ratios of raw values generally are not. For ratio scales, ratios are meaningful, but further calculation still needs the applicable quantity or scoring relation and its conditions, with compatible units. For example, encoding High as 3 and Medium as 2 supplies no interpretation of their mean, 2.5.
 
-5.  **No bare numbers:** Never present a raw number or value without its context of Characteristic and Scale. If someone sees “42” in your output, they should _also_ see or know “42 of what, measured how.” A reader who is not aware of the metric’s template should not be left guessing what a given value signifies. In practice, this means labeling reports and data with the metric name or identifier so that values can be traced back to their meaning.
+5.  **No bare numbers:** Never present a raw number or value without its context of Characteristic and Scale. A reader seeing “42” should be able to recover “42 of what, measured how,” even without knowing the metric’s template. Label reports and data with the metric name or identifier so values can be traced back to their meaning.
 
 6. **Cross-template operations:** For a conversion, recover the relation between compatible Scales, including units. For a quantity calculation, recover the model and its conditions under C.16. For an evaluative comparison or combination, state the ScoringMethod, its preference under A.17-R7 and its Score Scale and output range, including any required bounds. For example, converting 0.5 minutes to 30 seconds preserves duration; combining cost and reliability into a score needs an evaluation rule.
 
 7. **Level optionality:** Use named Levels when they help express the selected Scale's discrete values or non-overlapping categories. Define the categories and their boundaries; leave Level unused for an uncategorized continuous measurement.
-8. **Comparability test:** For a direct magnitude comparison, use the same Characteristic and Scale, with compatible measurement conditions under C.16. A declared conversion can establish that common basis. A preference judgement additionally uses its declared preference; changing that preference alone does not change the measurement Scale.
+8. **Comparability test:** For a magnitude comparison, use the same Characteristic and Scale, with compatible measurement conditions under C.16. A declared conversion can establish that common basis. A preference judgement additionally uses its declared preference; changing that preference alone does not change the measurement Scale.
 
 A.17 and E.10 supply the vocabulary. A template can expose missing fields; it does not establish that the declared meanings, measurement model or resulting inference are adequate.
 
 ### A.18:8 - Consequences
 
-Adopting the minimal CSLC Standard in the kernel yields a number of benefits:
+Adopting the CSLC Standard in the kernel yields these benefits:
 
 - **Recoverable value meaning:** Each reported value names or resolves its Characteristic and Scale, with Unit and Level when applicable. C.16 supplies the measurement model, conditions and uncertainty needed to interpret a performed reading.
 
-- **Interpretable comparison and calculation:** A magnitude comparison retains the Characteristic, Scale and measurement conditions that make the values comparable. A valid unit conversion preserves that basis across presentations. A derived quantity uses its measurement model; a composite Score adds the evaluation rule. Readers can therefore question a scoring choice separately from the measurement it uses.
+- **Interpretable comparison and calculation:** A magnitude comparison retains the Characteristic, Scale and measurement conditions that make the values comparable. A unit conversion preserves that basis across presentations. A derived quantity uses its measurement model; a composite Score adds the evaluation rule. Readers can therefore question a scoring choice separately from the measurement it uses.
 
 - **Reuse across domains:** temperature, length, code complexity and satisfaction assessments can expose their Characteristic, Scale and Coordinate through the same structure. Their methods and interpretation still need the applicable domain rules.
 
-- **Explicit Scale limits:** categorical assessments and quantitative measurements retain the operations their Scales allow. Named Levels can expose categories without pretending that their numerical labels measure equal distances.
+- **Scale limits:** categorical assessments and quantitative measurements retain the operations their Scales allow. Named Levels can expose categories without pretending that their numerical labels measure equal distances.
 
 - **Interpretable multi-factor scoring:** A ScoringMethod exposes how its input Coordinates contribute to the Score. Its preference, score order and declared output range allow the reader to examine the weighting or formula and judge whether it represents the intended evaluation.
 
@@ -180,11 +180,11 @@ Defining a measurement template makes the aspect, Scale and value meaning availa
 
 - **Shared structure, distinct domain rules:** a usability rating and a throughput measurement both identify an aspect, Scale and reading. Their common structure exposes the difference rather than supplying a common calculation or evidence rule.
 
-- **Comparability vs. freedom:** Measurement comparison needs a common interpretation of the Characteristic, Scale and measurement conditions. A unit conversion can establish that interpretation across compatible presentations. Preference answers a further question: which result serves the intended use? The same temperature Scale supports identifying the hotter sample, choosing a cooling intervention or maintaining a target. Only the latter uses add a preferred direction or target rule.
+- **Comparison and preference:** Measurement comparison needs a common interpretation of the Characteristic, Scale and measurement conditions. A unit conversion can establish that interpretation across compatible presentations. Preference answers a further question: which result serves the intended use? The same temperature Scale supports identifying the hotter sample, choosing a cooling intervention or maintaining a target. Only the latter uses add a preferred direction or target rule.
 
 - **Preserved information:** an ordinal Scale states order without asserting distances. An interval or ratio model can support further calculations only when its additional assumptions are justified; wanting an average is not a reason to assume such a model.
 
-- **Optional Levels:** named tiers make category boundaries recoverable where the Scale uses them. A continuous measurement needs no Level labels unless an explicit categorization is introduced.
+- **Optional Levels:** named tiers make category boundaries recoverable where the Scale uses them. A continuous measurement needs no Level labels unless a categorization is introduced.
 
 - **Separate structure and method:** the same CSLC structure can describe measurements made through different methods. Domain measurement patterns supply their procedures, applicability and evidence conditions; sharing the template does not make those methods interchangeable.
 

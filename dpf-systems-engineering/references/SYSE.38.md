@@ -112,7 +112,7 @@ Use SYSE.25 when the platform's supported path needs a product improvement and S
 
 #### SYSE.38:4.7 - Develop diagnosis from the task path and build recoverable operations
 
-Use the task's causal path to choose observations. An accepted request may wait before dispatch, execute on a worker, call a dependency, commit an effect and return a result. A missing result can arise at any of those boundaries. Find the last boundary at which the particular attempt is known to have progressed and the next boundary for which evidence is missing or adverse. This narrows the next investigation without treating an architectural diagram as proof of what actually happened.
+Use the task's causal path to choose observations. An accepted request may wait before dispatch, execute on a worker, call a dependency, commit an effect and return a result. A missing result can arise at any of those boundaries. Find the last boundary at which the particular attempt is known to have progressed and the next boundary for which evidence is missing or adverse. This narrows the next investigation.
 
 Build competing explanations at that boundary. If a worker has started but no dependency response arrives, consider a call that was never sent, an unavailable route, refused access, slow execution and lost response. Choose an observation that separates consequential alternatives. A local successful ping cannot establish that the application identity can perform the required database operation. A diagnostic call through the application's actual route can be more informative, but its side effects and added load must be acceptable. Keep suggestive evidence distinguishable from an observation that rules out an explanation.
 
@@ -190,7 +190,7 @@ For technical diagnosis, **adopt and adapt** the developed 2016 [SRE Effective T
 
 For a coordinated major incident, **adopt** the [PagerDuty During an Incident Method](https://response.pagerduty.com/during/during_an_incident/) through section 4.5's local assignments, informed by the 2018 [SRE Incident Response](https://sre.google/workbook/incident-response/) treatment. Its coordination is useful when scope and consequences require it; a bounded failure handled by one authorized practitioner need not acquire the same overhead.
 
-Reopen the recovery procedure when task paths, access, dependency behavior, persistent effects or observation change. OPS.3 and OPS.4 supply the shared operating distinctions and account; neither that account nor an incident status substitutes for restored task evidence.
+Reopen the recovery procedure when task paths, access, dependency behavior, persistent effects or observation change. OPS.3 and OPS.4 supply the shared operating distinctions and account.
 
 ### SYSE.38:12 - Relations
 

@@ -112,7 +112,7 @@ The opposite failure is an unbounded scenario list. If trajectories name no mech
 
 ### MDPE.20:3 - Solution
 
-Name the practice, population, horizon and receiving decision; recover the available evidence or qualified expert basis; construct the serious trajectories and their distinguishing implications; then return the preparation, continuation, change or stop that this basis supports. Keep drift or no stable attractor among the possibilities when relevant. Select further observation only when its contribution warrants its full cost and delay and it is obtainable. An empirical update uses the observation actually obtained; an adequate current forecast is not an unfinished experiment plan.
+Name the practice, population, horizon and receiving decision; recover the available evidence or qualified expert basis; construct the serious trajectories and their distinguishing implications; then return the preparation, continuation, change or stop that this basis supports. Keep drift or no stable attractor among the possibilities when relevant. Select further observation only when its contribution warrants its full cost and delay and it is obtainable. An empirical update uses the observation actually obtained.
 
 
 
@@ -128,7 +128,7 @@ State:
 - the Agent's authority and the separate permissions needed for any proposed intervention; and
 - the conditions under which no forecast is worth further effort.
 
-Do not forecast “the future of dance” when the decision concerns whether one school should test two teaching arrangements during the next season. Do not use one local population as though it were every practitioner carrying the same label.
+Do not use one local population as though it were every practitioner carrying the same label.
 
 #### MDPE.20:3.2 - Recover present practice without turning one trace into prevalence
 
@@ -147,7 +147,7 @@ Use only current results that can change the trajectories or decision. Possible 
 
 A lineage story, archive count, enrolment figure, streaming trace, competition result, platform impression, press corpus, university syllabus, or expert estimate may be useful evidence for a named claim. None alone establishes enacted prevalence or continued reproduction.
 
-When direct evidence is too costly or absent, use the best available expert estimate with its basis, uncertainty, and update condition. Do not demand an infeasible population study merely to avoid making a bounded decision.
+When direct evidence is too costly or absent, an informed expert estimate can support the bounded decision when its stated basis and uncertainty are adequate. State what would revise it. If no adequate estimate is available, retain the unknown and compare supported narrower or reversible responses, attainable inquiry and stop.
 
 #### MDPE.20:3.3 - Choose structures and representations for the forecast question
 
@@ -178,7 +178,7 @@ Build a set of serious, materially different trajectories. Use only mechanism fa
 - **transmission, retention, and loss:** variants reproduce with transformation, remain locally available, split across populations, or cease to be enacted; and
 - **drift, branching, or no stable attractor:** change has no stable basin under the selected horizon, or several branches remain viable.
 
-Keep serious rivals whose differences matter to the forecast or its receiving use. The same preparation can be warranted across remaining trajectories; do not invent an action-changing rival merely to force another probe.
+Keep serious rivals whose differences matter to the forecast or its receiving use. The same preparation can be warranted across remaining trajectories.
 
 For each trajectory, state the mechanism claim, conditions, expected direction or distribution, uncertainty, and observations that would be surprising under it. Use `A.3.3` only when an actual state-space and transition-law claim is made. Use `C.28` only when the decision relies on a causal contribution.
 
@@ -195,7 +195,7 @@ First decide whether a further observation is needed for the receiving judgement
 - what result would retain, narrow, reject, replace, or add a trajectory; and
 - what decision may change.
 
-Prefer a selected observation that can discriminate among mechanisms over one that merely adds compatible evidence. Ground relied-on observations through `A.10`; state characteristics and temporal limits through `C.16` and `C.27`. An inconclusive observation is a complete empirical result with its limits. A qualified current forecast or preparation/stop decision can also be complete without commissioning an observation.
+Prefer a selected observation that can discriminate among mechanisms over one that merely adds compatible evidence. Preserve its source, currentness, interpretation and limits for the relied-on claim. Use `A.10` when that source-to-use account is unresolved or must remain replayable, `C.16` when measurement construction or interpretation is needed, and `C.27` for a remaining action-changing temporal-claim adequacy question. An inconclusive observation is a complete empirical result with its limits. A qualified current forecast or preparation/stop decision can also be complete without commissioning an observation.
 
 #### MDPE.20:3.6 - Choose the supported response and obtain observations when selected
 
@@ -203,7 +203,7 @@ During ongoing Work, use `A.15.7` to select the next action. Use `C.11` for a bo
 
 Possible next Work includes observing one discriminating event; running a bounded trial under changed context, representation, teaching, network, event, or selection conditions; preparing for two trajectories because both remain consequential; keeping alternatives available through `MDPE.16`; selecting a reversible response through `MDPE.14`; changing a support arrangement through `MDPE.22`; or stopping because no remaining distinction changes current Work.
 
-For an intervention, name the changed subject, intended receiving use, authorized Agent, affected Agents and Systems, expected local result, possible cultural consequences, and observation that could defeat the relied-on causal claim. Project selection does not establish later cultural selection. Do not call a proposed probe a test result or a future observation obtained.
+For an intervention, name the changed subject, intended receiving use, authorized Agent, affected Agents and Systems, expected local result, possible cultural consequences, and observation that could defeat the relied-on causal claim.
 
 #### MDPE.20:3.7 - Include the forecast's possible influence
 
@@ -292,7 +292,7 @@ A team sees tools, live-code performances, a manifesto, events, recordings, teac
 
 The forecast distinguishes tool accessibility, performer capability, live-performance recognition, event operations, publication, community reproduction, and dependence on named organizers and venues. Observations include independent new performers, repeated events without the original team, transformed but recognizable Methods, audience and curator recognition, and survival under changed tools or venue conditions.
 
-If the question becomes whether these relations constitute a new cultural whole rather than a branch or event format, use `MDPE.24`. A coined name, manifesto, or successful series alone does not answer either question.
+If the question becomes whether these relations constitute a new cultural whole rather than a branch or event format, use `MDPE.24`.
 
 #### MDPE.20:4.5 - Constructed feedback: teaching can change what selection recognizes
 
@@ -300,11 +300,11 @@ In the [shared-practice case](#mdpe2551---a-complete-constructed-case-the-evenin
 
 Compare two explanations before committing the programme. In a **fixed-preference account**, observers can already distinguish the relevant partner recovery, but continue to value visible display more highly for this event. Better instruction or a closer view need not change their selection; separate display and social opportunities may remain useful. In a **learning-and-selection feedback account**, observers initially miss the small recovery relation or judge it through the display task. Teaching the contrast and making it observable can change which variants they recognize as successful; changed eligibility then gives those variants more encounters, from which performers may construct further variations. This is a conditional loop, not a prediction that teaching inevitably reforms taste or a whole scene.
 
-The accounts suggest different longer-term programmes, but both support the present bounded move: preserve the social task, explain what its challenge recognizes, keep the prepared-display achievement available for its own use, and avoid spending a whole season on a presumed change of taste. Sol's existing clinic and Ren's already allocated briefing can supply this preparation. Another research session is not needed to authorize it. No attendee is required to prefer social recovery or take an instructional role.
+The accounts suggest different longer-term programmes, but both support the present bounded move: preserve the social task, explain what its challenge recognizes, keep the prepared-display achievement available for its own use, and avoid spending a whole season on a presumed change of taste. Sol's existing clinic and Ren's already allocated briefing can supply this preparation. No attendee is required to prefer social recovery or take an instructional role.
 
 In a constructed return, the same observers first reject the small variation under the inherited entry rule. After the recovery contrast is demonstrated, close viewing makes its timing visible and partner reports make comfortable continuation available to judgement. They now admit it under the revised rule. Some still prefer the larger display. Ren therefore drops the forecast that these observers' recognition and selection will remain wholly unchanged. He retains uncertainty about their preferences and about the contribution of teaching, viewing position, explicit criteria and the changed invitation: these changed together. The result supports continuing the bounded challenge and a distinct display opportunity; it does not establish that teaching caused a stable population preference or that the admitted variation will persist.
 
-The feedback account itself can fail in use. If observers recognize the small response but the performers cannot reproduce it with receiving partners, more publicity or a revised rubric will not supply that capability. Return to the relevant practice task and preserve the recognition result at its scope. If adequate observation and explanation leave display preference intact, the fixed-preference account remains consequential and the programme may keep different occasions. If a costly expansion really depends on identifying a mechanism, use the specialist theory-to-observation construction to specify competing generative assumptions, observations that separate them and an obtainable comparison. Do not commission it when the supported programme decision remains the same under both accounts.
+The feedback account itself can fail in use. If observers recognize the small response but the performers cannot reproduce it with receiving partners, more publicity or a revised rubric will not supply that capability. Return to the relevant practice task and preserve the recognition result at its scope. If adequate observation and explanation leave display preference intact, the fixed-preference account remains consequential and the programme may keep different occasions. If a costly expansion really depends on identifying a mechanism, use the specialist theory-to-observation construction to specify competing generative assumptions, observations that separate them and an obtainable comparison.
 
 ### MDPE.20:5 - Recognition and Assurance
 
@@ -382,7 +382,7 @@ Costs and limits:
 | Heald, Lengyel, and Wolpert, [Contextual inference underlies the learning of sensorimotor repertoires](https://doi.org/10.1038/s41586-021-04129-3) | Supplies a testable human sensorimotor model of context-sensitive creation, expression, and updating of multiple motor memories. | Wider Music, Dance, cognition, robot, AI, and cultural use remains a rival-bearing hypothesis. |
 | Marjieh et al., [Characterizing the Interaction of Cultural Evolution Mechanisms in Experimental Social Networks](https://arxiv.org/abs/2502.12847) | In controlled singing networks, topology differences diminished when selection or reproduction bias was removed; use the result to construct and update rival trajectories involving topology, selection, and reproduction together. | The source population and Work are controlled melody choice and singing, not a universal cultural law, a Dance scene, or evidence that the same interaction governs another population. |
 
-Use source editions and case conditions that can change the current trajectories, observation, or decision. A newer or more popular model does not displace a better-grounded local hypothesis by status alone.
+Use source editions and case conditions that can change the current trajectories, observation, or decision.
 
 ### MDPE.20:9 - Relations
 

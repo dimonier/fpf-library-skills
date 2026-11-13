@@ -223,7 +223,7 @@ An ideal reference helps bound real proposals when its admitted operations and t
 
 **One occurrence and repeatable performance.** [Marletto, Deutsch and Vedral, Tests of constructor theory (2026), §1.4 and §3.2](https://arxiv.org/html/2606.07352v1) develops the distinction between an allowed evolution and a device able to repeat a specified transformation, including the difference between reversing dynamics and supplying a reusable inverse operation. The pattern adopts that problem distinction. The article's new constructor-theoretic principles are research proposals with their own tests; they are unnecessary premises for the two established arguments above.
 
-The synthesis selects operations for constructing a physical limitation and reopening it under changed conditions. It does not require one universal physical resource theory. A new account of the permitted operations, an omitted resource or a changed performance condition is a reason to revisit the affected argument and its source premises.
+The synthesis selects operations for constructing a physical limitation and reopening it under changed conditions. A new account of the permitted operations, an omitted resource or a changed performance condition is a reason to revisit the affected argument and its source premises.
 
 ### PHY.3:12 - Relations
 

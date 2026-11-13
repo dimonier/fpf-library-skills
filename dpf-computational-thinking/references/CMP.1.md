@@ -232,7 +232,7 @@ The reduction retains responsibility for inputs, answers and resource effects at
 
 Effective conversion and answer recovery make reduction a computational method. Mathematical correspondence supplies the relevant implication, while computability and cost determine whether the connection can be used under the stated conditions.
 
-Solver reuse and impossibility belong together because the latter follows by assuming and then constructing the former. Their guarantees and direction remain explicit. The shortest-path and program-wrapper cases demonstrate different uses of that shared method; neither application defines the scope of computational thinking.
+Solver reuse and impossibility belong together because the latter follows by assuming and then constructing the former. Their guarantees and direction remain explicit. The shortest-path and program-wrapper cases demonstrate different uses of that shared method.
 
 C.29.2 already supplies the computational question, representation and ordinary progress account. This pattern develops a missing reduction, its answer relation and the consequence of an available or assumed solver. More specialized algorithm constructions can supply the conversion or the target solver.
 

@@ -179,7 +179,7 @@ A fixed sequence would reopen settled questions and delay urgent responses. Pure
 
 ### CUST.1:11 - SoTA-Echoing
 
-The useful source line combines service productization, bounded solution spaces and continuing field/product learning. Compared with “standardize everything” or “let field teams solve each case,” it preserves explicit variation, assistance and a path back to common development.
+The useful source line combines service productization, bounded solution spaces and continuing field/product learning.
 
 Wirtz and colleagues' conceptual account of service productization supports defining and systematizing an offering; Salvador, de Holan and Piller's mass-customization account adds solution-space development, robust processes and choice navigation. CUST adapts those contributions and combines them with the full Management, Engineering and Implementation Facilitation methods named above.
 

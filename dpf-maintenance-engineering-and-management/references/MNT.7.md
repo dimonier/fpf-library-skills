@@ -87,7 +87,7 @@ Repair estimates often reflect the technician's direct work and omit operator pr
 
 Does the arrangement consume a valid operating-capacity and service result? Are preparation, protected work, testing, restoration and material contingency accounted for without double counting? Are overlaps compatible with actual resources and protection? Is there a supported response when the plan no longer fits?
 
-A coordination result is complete when the responsible people can act on its bounded arrangement or know the unmet condition. Completing every maintenance Method is not its acceptance test.
+A coordination result is complete when the responsible people can act on its bounded arrangement or know the unmet condition.
 
 ### MNT.7:8 - Common Anti-Patterns and How to Avoid Them
 

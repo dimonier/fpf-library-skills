@@ -113,7 +113,7 @@ Reopen the affected claim when the passage, convention, performing whole, suppor
 
 ### RHY.13:5 - Archetypal Grounding
 
-These are constructed probes with stipulated outcomes, not empirical reports or standardized tests.
+These are constructed probes with stipulated outcomes.
 
 #### RHY.13:5.1 - A later success still uses the teacher's reference
 

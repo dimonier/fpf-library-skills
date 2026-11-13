@@ -228,7 +228,7 @@ The cost grows when dependence, calendars or uncertain service matter. A bounded
 
 ### OPS.10.1:10 - Architectural Rationale
 
-To compare capacity choices, explain how available resources perform activities under a policy and produce the required results. Measurement supplies the quantities, mathematics supplies relations and computing obtains consequences. Their correspondence to the operating work determines what a calculation answers.
+To compare capacity choices, explain how available resources perform activities under a policy and produce the required results. Observations, estimates or stipulated case inputs supply the quantities; mathematics relates them and calculation obtains the consequences. Their correspondence to the operating work determines what a calculation answers.
 
 The construction therefore separates what the resources must do, how their service evolves and which result is requested. The same arrangement can need a finite deadline model today and a continuing mean model for another decision. Cases 5.1–5.3 show changes of variation, dependence and interpretation that a single scalar capacity value cannot retain.
 

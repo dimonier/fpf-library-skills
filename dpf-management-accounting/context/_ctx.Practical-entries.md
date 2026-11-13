@@ -97,7 +97,7 @@ The calculations below are constructed cases under supplied operating, contractu
 
   Obtain only the aggregate information that can resolve those thresholds, or a feasible revised operating arrangement. Precise measurement of every customer's effort is unnecessary if a supported aggregate bound settles the question. For a feasible month-2 branch, the future difference remains **60** when month 3 fits the basic supply, or becomes **−120** when month 3 also needs its 180 block. The month-2 receipts remain conditional while service feasibility is unresolved. Do not invent a second block or promise unchanged receipts for work that cannot be performed.
 
-Constructing the cohort hours performs part of constructing this joint account. The combined capacity, dates and remaining uncertainty determine whether the whole account can be used, even when every local multiplication is correct.
+The combined capacity, dates and remaining uncertainty determine whether the whole account can be used, even when every local multiplication is correct.
 
 ### MA-E5 — The required economics has no supported design
 

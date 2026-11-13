@@ -87,7 +87,7 @@ The reason is replication: choose an underlying holding and borrowing or lending
 
 At an allowed early-exercise date, compare immediate exercise with the value of retaining the claim; at a date without that right, do not insert the exercise branch. For multiple periods apply the same local valuation backward under the model's trading assumptions. Intermediate distributions, exercise restrictions, transaction frictions, borrowing limits, counterparty risk or path-dependent settlement can change both the payoff and replication. Obtain a model that treats those features when they matter instead of importing the simple price unchanged.
 
-Match estimated inputs to the modeled quantity and period. Volatility of an underlying value, volatility of accounting profit and beta are different measures. An uncertainty estimate for the whole project including flexibility cannot automatically serve as the uncertainty of a fixed underlying activity to which that flexibility is then added. More finely spaced tree branches do not repair the wrong underlying definition or unavailable replication.
+Match estimated inputs to the modeled quantity and period. Volatility of an underlying value, volatility of accounting profit and beta are different measures. An uncertainty estimate for the whole project including flexibility cannot automatically serve as the uncertainty of a fixed underlying activity to which that flexibility is then added.
 
 
 

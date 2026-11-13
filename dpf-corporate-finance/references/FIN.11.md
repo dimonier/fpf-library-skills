@@ -16,7 +16,7 @@ dependencies:
 # FIN.11: Select Capital Structure
 
 > **Trigger:** The corporation must choose or reconsider its mix of debt, equity and other financing, rather than just select one instrument. Compare the mix under actual cash, tax, control, access and distress conditions.
-> **Problem frame:** The object is a financing mix for the corporation or a specified financing need. Its usefulness depends on the operating assets, obligations and adverse states it must support. This method does not establish a universal optimal debt ratio.
+> **Problem frame:** The object is a financing mix for the corporation or a specified financing need. Its usefulness depends on the operating assets, obligations and adverse states it must support.
 > **First move:** 1. State the financing need, existing claims, operating cash generation and required liquidity. Separate the current mix, proposed transaction and longer-term analytical target. 2. Form materially different feasible mixes.
 >
 > **Governing patterns:** `references/FIN.5.md` `references/FIN.10.md` `references/FIN.12.md`
@@ -35,7 +35,7 @@ The corporation must choose or reconsider its mix of debt, equity and other fina
 
 ### FIN.11:1 - Problem frame
 
-The object is a financing mix for the corporation or a specified financing need. Its usefulness depends on the operating assets, obligations and adverse states it must support. This method does not establish a universal optimal debt ratio.
+The object is a financing mix for the corporation or a specified financing need. Its usefulness depends on the operating assets, obligations and adverse states it must support.
 
 ### FIN.11:2 - Problem
 
@@ -109,7 +109,7 @@ Compare immediate and staged transitions when both are possible. Immediate chang
 
 A debt-to-value target creates a consistency question when value itself changes with the financing choice. Solve or iteratively reconcile the proposed debt amount, resulting claims, qualified valuation and target weights. Do not combine an old equity market value with new debt and declare the target attained if the transaction changes equity value. Actual execution amounts and institutional ratio tests still use their own definitions.
 
-Return a preferred policy or set of acceptable policies with a funded transition and the trade-offs that justify it. A range can be appropriate when several policies have similar supported value and different resilience. Explain why a proposed increase or reduction is worthwhile and what new evidence would change that answer. The output supports a financing decision; it does not require perpetual adherence to a single numerical ratio regardless of conditions.
+Return a preferred policy or set of acceptable policies with its planned transition, funding conditions and the trade-offs that justify it. A range can be appropriate when several policies have similar supported value and different resilience. Explain why a proposed increase or reduction is worthwhile and what new evidence would change that answer. The output supports a financing decision; it does not require perpetual adherence to a single numerical ratio regardless of conditions.
 
 ### FIN.11:5 - Archetypal Grounding
 
@@ -130,7 +130,7 @@ The 40 loan pays interest 2.4 each year and saves tax 0.6 each year, so the savi
 | Debt 40 | 200 | 1.12 | 0.20 | 0.20 | 200.72 |
 | Debt 80 | 200 | 3.72 | 5.00 | 0.50 | 198.22 |
 
-The smaller debt has the highest value among these alternatives on the supplied grounds. If it fails the separate dated service or consent conditions, that does not make it available merely because its value is highest. If the larger policy's additional loss falls below about 2.50, with all other grounds retained, its value exceeds the smaller policy's value. That threshold identifies the consequential disputed estimate; extra decimal precision in the debt ratio would not settle it.
+The smaller debt has the highest value among these alternatives on the supplied grounds. If it fails the separate dated service or consent conditions, that does not make it available merely because its value is highest. If the larger policy's additional loss falls below about 2.50, with all other grounds retained, its value exceeds the smaller policy's value. That threshold identifies the consequential disputed estimate.
 
 This comparison is of total value before allocation to claims. Deriving old owners' wealth after an issue, repayment or payout requires the actual proceeds and ownership treatment. Subtracting all new principal as an additional resource loss here would misrepresent the borrowing; ignoring its claim when subsequently deriving equity value would be the opposite error.
 

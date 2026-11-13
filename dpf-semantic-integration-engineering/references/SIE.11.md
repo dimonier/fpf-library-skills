@@ -42,7 +42,7 @@ Start by comparing the earlier and later meaning at the receiving question. A co
 
 The object is the affected semantic reliance and its consequences for receiving uses. The gain is a justified continuation, repair, narrowed use, or scoped unresolved result. To assert that all uses remain unaffected, establish adequate coverage of the relevant uses and their reliance.
 
-Use the applicable domain Method directly for a known operational change that does not alter a relied-on source or semantic premise. If one already identified use is the whole question, resolve that use directly with the relevant domain Method and A.10 reliance guidance. A.10.1 is needed when affected uses must be discovered across a scope.
+Use the applicable domain Method directly for a known operational change that does not alter a relied-on source or semantic premise. If one already identified use is the whole question, resolve it with the relevant domain Method and retain the source, currentness and result-specific grounds that the use needs. Use A.10 when the source-to-use account is still implicit or needs to be made replayable. A.10.1 is needed when affected uses must be discovered across a scope.
 
 ### SIE.11:2 - Problem
 
@@ -101,7 +101,7 @@ For a direct repair, use the result already needed by its consumer. For a common
 | Unresolved reach | Unexamined or inaccessible reliance, discovery gaps, and their effect on the conclusion. |
 | Continued use | What the receiver can now rely on and which changed conditions would reopen it. |
 
-The account summarizes its constituent results. It does not serve as a circular input that those results must await before they can be completed.
+The account summarizes its constituent results.
 
 #### SIE.11:4.4 - What Changes in Practice
 
@@ -158,7 +158,6 @@ If the service owner needs an integration-wide continuation decision, the accoun
 | Schema compatibility as semantic compatibility | Compare the question answered by the field, including its horizon and applicability. |
 | Every reference occurrence requires revalidation | Establish whether the result relies on the changed proposition. |
 | One repaired branch clears the whole integration | Bound the conclusion by discovered and assessed uses. |
-| Summary required before its constituent decisions | Complete direct domain results first and summarize only when a receiver needs it. |
 
 ### SIE.11:9 - Consequences
 

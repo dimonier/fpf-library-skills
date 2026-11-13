@@ -51,7 +51,7 @@ The first candidate pool contains the current resend section, old localization, 
 
 The table and procedure reveal a missing case fact. The first returned result is therefore: “The automatic route depends on the destination protocol and stable batch identity. Obtain the authorized configuration report; do not infer those values from the successful export.” This result is useful because it specifies which fact changes the action and how it can be obtained.
 
-Two continuations make the distinction inspectable:
+Three outcomes make the distinction inspectable:
 
 | Configuration result | Assessment | Useful next result |
 | --- | --- | --- |

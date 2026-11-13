@@ -224,7 +224,7 @@ whose grounds that correction can invalidate. The comparison with the old result
 neither every test nor only the originally failing one by default.
 
 Proceed when the corrected interaction meets the next step's condition and no unresolved discrepancy can
-defeat that reliance. A fix record alone does not show this. If correction is infeasible in the available
+defeat that reliance. If correction is infeasible in the available
 window, reconsider the boundary, substitute or fallback under its own supported use, or stop. Repeated fixes
 that expose the same unmodelled interaction reopen the architecture or strategy, rather than just adding
 another repetition of the same test.
@@ -325,8 +325,8 @@ fabrication question. The teams' dated Work and its results remain distinct from
 through welding, cooling and rework, and from the station's transformation from C18 to C19.
 
 The progression condition is substantive: correct range, direction and stop response permit the subsequent
-installed check, which then permits the whole-use trial under its own conditions. A correction entry cannot
-substitute for these results. If the manifold arrives late, the rig result remains useful for its tested
+installed check, which then permits the whole-use trial under its own conditions. If the manifold arrives
+late, the rig result remains useful for its tested
 configuration, but neither C19 nor emergency-discharge fitness has thereby been established. The team revises
 the outage plan instead of treating software completion as permission to proceed.
 
@@ -483,7 +483,7 @@ The construction here connects the selected integration results to SYSE.10's ord
 only when another choice is live, to C.11. The worked margin and changed buffer premise show the bounded
 consequence of that connection. They do not establish empirical superiority over a competent professional
 integration programme. Qualification of domain models, equipment and tests remains real work in every
-arrangement; the pattern does not remove its cost by naming its result.
+arrangement.
 
 Reopen the comparison when a qualified existing strategy covers a previously missing interaction, an earlier
 check fails to represent the installed relation, the cost or timing of intermediate integration changes, or a

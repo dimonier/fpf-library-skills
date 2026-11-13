@@ -82,7 +82,7 @@ For each material condition, connect the premise to the recommendation claim, co
 
 The observation may concern an expected consequence, an assumption, a new opportunity, a source's qualification, a participant's material objection, a protection breach or a changed authority condition. It need not be a numeric metric. A new affected group can reopen scope even while existing performance indicators remain favourable.
 
-Use a small relation account such as the following; it is ordinary working content, not a prescribed register.
+Use a small relation account such as the following.
 
 | Follow-up position | What must be recoverable |
 | --- | --- |
@@ -95,7 +95,7 @@ Use a small relation account such as the following; it is ordinary working conte
 
 A **signpost** is something watched because it can reveal a material change. A **reconsideration condition** states when that information requires a named question to be reopened. Neither is automatically a decision to change action. An operational rule may separately authorize a response to a defined signal; its authority and conditions must be established through that rule.
 
-Choose timing from the consequence of late knowledge, not a universal calendar. If observation plus interpretation and authorized response would arrive after the relevant decision window, move the observation earlier, choose a feasible proxy with its limits, change the arrangement, or return that the promised follow-up is not adequate. Do not invent a threshold to make the table complete.
+Choose timing from the consequence of late knowledge. If observation plus interpretation and authorized response would arrive after the relevant decision window, move the observation earlier, choose a feasible proxy with its limits, change the arrangement, or return that the promised follow-up is not adequate.
 
 #### PSDA.15:4.3 - Generate and compare follow-up arrangements
 
@@ -107,7 +107,7 @@ Targeted monitoring tests a named question; broader observation can reveal unexp
 
 Use a `PSDA.17` conflict/facilitation-architecture result only if it constrains this design choice. For example, a material participant correction must reach the analyst before the comparison is used, or an observer cannot also carry an incompatible facilitation burden. The constraint does not choose the follow-up arrangement. Generate and compare alternatives that respect it; return to `PSDA.17` only when the underlying interference itself needs a different decision.
 
-Use `A.22` when the selected organization of independently identified constituents and obtaining relations is itself the subject of a structure claim. A proposed arrangement remains a design description until the required participants, access, assignments and relations are established. A diagram or a filled table does not establish the arrangement, its adequacy or its work.
+Use `A.22` when the selected organization of independently identified constituents and obtaining relations is itself the subject of a structure claim. A proposed arrangement remains a design description until the required participants, access, assignments and relations are established.
 
 #### PSDA.15:4.4 - Establish a viable observation and return arrangement
 
@@ -123,7 +123,7 @@ Record whether the result is a proposed arrangement with conditions, an establis
 
 #### PSDA.15:4.5 - Interpret actual observations before revising advice
 
-When evidence arrives, first establish its subject, configuration, interval, provenance, Method, uncertainty and allowed use. A current source label alone is insufficient. Use `A.10` for the actual reliance. An adequate existing interpretation may support the answer; a missing one may limit or block it. Select a further specialist result through `A.15.9` and `C.11.DUA` only when its attainable contribution warrants the whole burden within the receiving window.
+When evidence arrives, first establish its subject, configuration, interval, provenance, Method, uncertainty and allowed use. Use `A.10` when the source-to-use account remains implicit or a needed reproducible account is missing. An adequate existing interpretation may support the answer; a missing one may limit or block it. Select a further specialist result through `A.15.9` and `C.11.DUA` only when its attainable contribution warrants the whole burden within the receiving window.
 
 Compare the qualified evidence with the exact condition it was meant to test. Distinguish a change in the world, a changed source claim, an expired reliance window, a changed value judgement, a revised model and a merely changed representation. A diary review date is not by itself an expired reliance window. When meaning, applicability and access remain compatible, a repaired reference may finish the source update without renewed advice, multi-use search or another result record. A real expired reliance window or missing necessary observation still limits present use.
 
@@ -143,11 +143,11 @@ Trace the changed premise into the particular claim or disposition that relies o
 | Reopen a named contributor | A needed stronger answer warrants an obtainable source, candidate, value, uncertainty, model, consequence, robustness or scope result, considering the complete acquisition burden. | Request that bounded result through its direct owner. The present qualified limit can close the earlier answer; a pending request is not the refreshed result. |
 | Compose a later recommendation | Changed qualified premises require a different disposition or a newly composed answer to the receiving question. | Use `PSDA.14` with the current premises and remaining gaps. Preserve the earlier recommendation occurrence and the separate later choice. |
 
-These are scoped conclusions, not a universal status system or a five-step lifecycle. One event can leave an internal-development claim unchanged, narrow a mixed-arrangement claim to configuration A, block advice about B, and reopen its evaluation supplier. Only the affected combined recommendation needs recomposition.
+These are scoped conclusions. One event can leave an internal-development claim unchanged, narrow a mixed-arrangement claim to configuration A, block advice about B, and reopen its evaluation supplier. Only the affected combined recommendation needs recomposition.
 
 Keep **continue, adjust, refresh and reframe** precise. Continuing reliance on unchanged advice is a decision-support return. Adjusting a selected action requires the competent owner and its authorized decision, even if the original formulation remains adequate. Refreshing a model or evidence invokes its supplier and does not itself change action. Reframing reopens the problem or boundary through `PSDA.1` or `PSDA.2` when the old question no longer covers the material situation.
 
-For one known reliance question, use `A.10` and the direct subject guidance. If a changed source requires discovering and revalidating several actual receiving uses, use `A.10.1` for its bounded search, coverage, direct-reliance test and subject-result return. That discovery preserves actual dependence and material gaps; equivalent irrelevant mentions can be grouped. The direct decision-support answer can finish without an additional common account unless a receiver needs that overview. Any no-impact claim still requires adequate coverage and support. Citation or adjacency is not dependence. Use `G.11` for currentness, decay and scoped refresh planning/reporting when that is the live result; neither pattern supplies a new domain conclusion or recipient choice.
+For one known reliance question, use the direct subject guidance and any adequate explicit source-use account. Invoke `A.10` when that account remains implicit or a needed reproducible account is missing. If a changed source requires discovering and revalidating several actual receiving uses, use `A.10.1` for its bounded search, coverage, direct-reliance test and subject-result return. That discovery preserves actual dependence and material gaps; equivalent irrelevant mentions can be grouped. The direct decision-support answer can finish without an additional common account unless a receiver needs that overview. Any no-impact claim still requires adequate coverage and support. Citation or adjacency is not dependence. Use `G.11` for currentness, decay and scoped refresh planning/reporting when that is the live result; neither pattern supplies a new domain conclusion or recipient choice.
 
 #### PSDA.15:4.7 - Close the present return and preserve the next useful question
 
@@ -208,7 +208,7 @@ A population without a population-local recipient or choice owner does not acqui
 
 Confirmation bias favours observing only the consequences that made the recommendation attractive. Include the discriminating failure and an affordable route for material unexpected change. Avoid turning this into exhaustive surveillance: the receiving decision and possible loss still bound effort and access.
 
-Automation bias can make an alert look like an interpreted result or authorized command. Separate collection, qualification, judgement and decision even when software assists several of them. A human label alone also proves neither competence nor independence.
+Automation bias can make an alert look like an interpreted result or authorized command. Separate collection, qualification, judgement and decision even when software assists several of them.
 
 Outcome bias can rewrite the earlier advice as obviously correct or wrong after the event. Judge the earlier recommendation against its then-current premises and intended use; judge the later return against the changed evidence. A causal effectiveness claim remains a separate question.
 
@@ -251,7 +251,7 @@ The arrangement costs observation and interpretation effort and can expose a lim
 
 The decision-support remainder is not generic monitoring or generic source refresh. It connects this recommendation's consequences, assumptions, alternatives, models, authority and problem boundary to a feasible observation-and-interpretation arrangement and a current advice return.
 
-This connection must be designed before it is relied on, but design and use need not form a universal lifecycle. One changed observation can open the pattern directly. A proposal can stop at an infeasible observation condition; a later source can leave the answer unchanged; a changed boundary can require formulation work without first rerunning every calculation.
+This connection must be designed before it is relied on. One changed observation can open the pattern directly. A proposal can stop at an infeasible observation condition; a later source can leave the answer unchanged; a changed boundary can require formulation work without first rerunning every calculation.
 
 Locality is semantic rather than file-based. A shared file does not make all claims dependent, and separate documents do not make actually coupled claims independent. The stopping point is the last receiving question whose answer can change.
 
@@ -269,12 +269,12 @@ The practice question is **how to keep decision support useful under change with
 
 - `PSDA.14` supplies the recommendation's receiving decision, conditions, dissent, gaps and reopen basis. It supplies no evidence that the later decision or implementation occurred.
 - `PSDA.17` supplies only a constraint that changes follow-up design. This pattern still generates and compares its own alternatives.
-- `PSDA.1`, `PSDA.2` receive a materially changed formulation or boundary question; `PSDA.3` and `PSDA.5`, `PSDA.6`, `PSDA.7`, `PSDA.8`, `PSDA.9` receive only the affected model, candidate, value, uncertainty, consequence or robustness question. Availability does not imply that every contributor must run again.
-- `A.10` qualifies one reliance use; `A.15.9` obtains a bounded external result; `A.10.1` discovers and revalidates affected receiving uses of a changed source when its several-use condition holds. `G.11` governs currentness and scoped refresh planning/reporting, not the new domain result.
+- `PSDA.1`, `PSDA.2` receive a materially changed formulation or boundary question; `PSDA.3` and `PSDA.5`, `PSDA.6`, `PSDA.7`, `PSDA.8`, `PSDA.9` receive only the affected model, candidate, value, uncertainty, consequence or robustness question.
+- `A.10` supplies a source-to-use account when it remains implicit or a needed reproducible account is missing; `A.15.9` obtains a bounded external result; `A.10.1` discovers and revalidates affected receiving uses of a changed source when its several-use condition holds. `G.11` governs currentness and scoped refresh planning/reporting, not the new domain result.
 - `A.22` governs a selected-structure claim when made. It does not establish the proposed arrangement, participant assignment, observation, decision or effectiveness from a representation.
 - `A.2.9`, `C.11` and direct domain authority distinguish actual authorization, recipient choice and their records. `A.15.2` and `A.15.1` distinguish intended from performed Work; causal claims retain their direct evidence requirements.
 - `PSDA.16` may use this bounded follow-up evidence when it can change a repertoire decision under the relevant conditions. Evidence neither authorizes nor entails the repertoire result.
-- Strategy-direction follow-up, domain operations and professional service management retain their direct owners. A `STR.12` result may be considered only when its exact subject, claims, authority, evidence and effective conditions fit; no strategy framework is a blanket prerequisite.
-- An unavailable, stale, out-of-scope or incompatible input requires a qualified direct result or the exact missing-result return. A profile, pattern body or available Method is not an actual observation or decision.
+- Strategy-direction follow-up, domain operations and professional service management retain their direct owners. A `STR.12` result may be considered only when its exact subject, claims, authority, evidence and effective conditions fit.
+- An unavailable, stale, out-of-scope or incompatible input requires a qualified direct result or the exact missing-result return.
 
 ### PSDA.15:End

@@ -95,7 +95,7 @@ Protect both the component receiving pressure and the dependency receiving calls
 
 #### SYSE.40:4.5 - Exercise overload, isolation and recovery
 
-Test representative ordinary demand, a burst, an expensive variant and a dependency slowdown or failure within a safe permitted environment. Observe accepted, rejected, delayed and partial task outcomes as well as resources.
+Test representative ordinary demand and the bursts, expensive variants or dependency slowdowns/failures that can defeat the claimed operating envelope, within a safe permitted environment. Observe accepted, rejected, delayed and partial task outcomes as well as resources.
 
 Verify that the protected class still obtains its qualified result, queues stay bounded, and other tenants or downstream Systems are not made worse in an unaccepted way. Check the control/observation path under pressure; repair the arrangement if its state cannot be observed or admission cannot resume under the selected recovery conditions.
 
@@ -164,7 +164,7 @@ Average throughput can conceal expensive requests and a small class losing all s
 - The protected envelope and priority trade-offs have an actual basis and holder.
 - Admission and waiting are bounded by capacity and task usefulness.
 - Isolation includes consequential downstream and control-path dependencies.
-- Retry has a qualified effect model and aggregate amplification limit.
+- Any retry mechanism has a qualified effect model and aggregate amplification limit.
 - Rejected, delayed and degraded work remains visible as its actual user outcome.
 - Ordinary use, overload and recovery are exercised before relying on the envelope.
 

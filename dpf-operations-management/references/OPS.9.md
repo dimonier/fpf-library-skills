@@ -34,7 +34,7 @@ dependencies:
 
 Use this Method when an operation is not producing its accepted result as required and someone proposes to remove a bottleneck, increase capacity, automate a step or accelerate a team. The question is which relation currently limits completion, and what treatment the evidence supports.
 
-The first useful result is a bounded constraint account: the lost result and observation window, relevant observations, a candidate explanation and a serious rival, discriminating support or an exact probe request, and a treatment or hold decision. It can conclude that the proposed resource addition is unsupported while specifying a useful readiness or measurement action.
+The first useful result is a bounded constraint account: the lost result and observation window, relevant observations, the supported limiting relation or still-live explanations, and a treatment, hold or precise inquiry. Compare a serious rival when it could fit the observations and change treatment. The result can conclude that a proposed resource addition is unsupported while specifying a useful readiness or measurement action.
 
 Use OPS.8 when a queue policy can be repaired without settling a wider constraint claim. Use OPS.10 when the immediate question is a load/capacity/service comparison with an already adequate causal basis. A safety, clinical, engineering or financial diagnosis remains with the qualified practice that supplies it.
 
@@ -78,13 +78,13 @@ If the result is delayed by many small waits, inspect cadence, handoff and decis
 
 Choose the time question before choosing the bottleneck measure. Sustained accepted output, the first accepted result by a deadline and the elapsed wait of a particular case can have different useful treatments. For accumulated delay, sum the actual waits along the consequential path and identify which can be removed together without merely moving work into another queue. A nonlimiting resource can still govern a first-result deadline; a faster sustained pace need not produce that first result sooner.
 
-#### OPS.9:4.3 - State a mechanism and a rival
+#### OPS.9:4.3 - State the mechanism and resolve live alternatives
 
 Express the candidate explanation as a relation: “Under this demand and access pattern, the final test cannot process the required eligible load before the horizon,” or “Late prerequisite delivery leaves the booked rig without eligible packages.”
 
-Name an alternative that could produce the same observation and change treatment. Examples are insufficient usable rig time versus incomplete kits; scarce acceptance effort versus evidence repeatedly missing at acceptance; or slow processing versus arrivals concentrated near the deadline.
+Consider alternatives that could fit the available observations and change treatment. Examples are insufficient usable rig time versus incomplete kits; scarce acceptance effort versus evidence repeatedly missing at acceptance; or slow processing versus arrivals concentrated near the deadline. Keep only those still plausible under the current grounds. A supported bound or directly established condition can settle the bounded question without constructing another rival.
 
-Give each explanation an expected observation and a possible defeater. If both predict the same data, the present observation cannot choose between them. Do not rename a queue “the constraint” to close that gap.
+For a live alternative, identify an observation that distinguishes it and a condition that would defeat the explanation. If the alternatives predict the same data, that observation cannot choose between them. Preserve the unresolved cause and use any treatment or hold already justified without deciding it.
 
 #### OPS.9:4.4 - Obtain the least burdensome discriminating basis
 
@@ -194,7 +194,7 @@ The analyst needs two hours to qualify and align the existing events, three to i
 
 1. Is the accepted result and shortfall fixed for the relevant population and horizon?
 2. Do observations distinguish the mechanisms that could change treatment?
-3. Is there a serious rival with a discriminatory observation or defeater?
+3. Are action-changing alternatives resolved by the available grounds or carried into a discriminating observation or precise inquiry?
 4. Does the selected bound, replay, probe or specialist analysis support the claim actually made?
 5. Does the treatment act on that mechanism and include consequential interactions and transition costs?
 6. Can participants act on the treatment, hold or exact probe request and recognize when it must reopen?
@@ -221,13 +221,13 @@ The cost is some additional measurement and comparison discipline. The appropria
 
 A constraint claim connects an arrangement to an operating result. Its meaning therefore depends on demand, acceptance, time and complementary resources. A resource label cannot retain that meaning when those conditions change.
 
-Diagnosis and treatment belong together, but they are different conclusions. Keeping the rival and evidence limit visible permits action at the smallest justified scope without turning either caution or urgency into a universal rule.
+Diagnosis and treatment belong together, but they are different conclusions. Retaining a live alternative and the evidence limit permits action at the smallest justified scope; a sufficient bound or established condition can finish the current decision.
 
 ### OPS.9:11 - SoTA-Echoing
 
 | Practice question and selected line | Serious alternative, trade-off and pattern change | Source roles, limits and reopen condition |
 | --- | --- | --- |
-| What should be treated when local speed does not improve accepted output? **Adapt** result-relative diagnosis followed by mechanism-specific treatment. | Constraint-focused improvement is useful, but a forced single-resource answer can miss many waits or incomplete inputs. Sections 4.1–4.3 and 5.1/5.3 preserve the accepted result and require a serious rival. The extra event discrimination is worthwhile when it can reverse treatment. | Tendon, *The Book of TameFlow* (2022), constraint and complete-kit reasoning, is a mechanism candidate. Reinertsen, *The Principles of Product Development Flow* (2009), E8's accumulated small waits, is the action-changing rival. Neither proves the current case's cause. Reopen for a different waiting mechanism or demand regime. |
+| What should be treated when local speed does not improve accepted output? **Adapt** result-relative diagnosis followed by mechanism-specific treatment. | Constraint-focused improvement is useful, but a forced single-resource answer can miss many waits or incomplete inputs. Sections 4.1–4.3 and 5.1/5.3 preserve the accepted result and compare a serious rival when the available grounds leave one live. The extra event discrimination is worthwhile when it can reverse treatment. | Tendon, *The Book of TameFlow* (2022), constraint and complete-kit reasoning, is a mechanism candidate. Reinertsen, *The Principles of Product Development Flow* (2009), E8's accumulated small waits, is the action-changing rival. Neither proves the current case's cause. Reopen for a different waiting mechanism or demand regime. |
 | How much evidence is enough before acting? **Adapt** the least burdensome bound, replay or admissible probe that can distinguish the live alternatives. | Pure utilization ranking is cheaper but cannot support the causal move; a complete optimizer or experiment is unnecessarily costly for some bounded decisions. Sections 4.4–4.6 and 5.2 separate infeasibility, feasible scenario and actual effect. | Current FPF C.16 and C.28 supply measurement and causal-use discipline; C.11.CRC supplies finite comparison. The professional operational data, probe and authority remain case inputs. Reopen when confounding, interference or consequence makes the selected basis insufficient. |
 | Should the former constraint keep receiving improvement effort? **Adopt** remeasurement of the accepted result and current arrangement after change. | A fixed improvement programme can keep optimizing a relation that no longer limits completion. Section 4.6 and the changed certification case make migration observable at modest extra comparison effort. | The constraint-refocusing line in Tendon and the changing-information reasoning in Reinertsen are compatible mechanism candidates, not guarantees of improvement. Reopen if the result, acceptance conditions or connected resources change. |
 

@@ -1,6 +1,6 @@
 ---
 id: E.10.MOVE
-title: "Move, Readiness and Trajectory Wording Precision Restoration"
+title: "Clarify Wording About Moves, Readiness and Trajectories"
 status: Stable
 keywords: []
 dependencies:
@@ -25,7 +25,7 @@ dependencies:
     - G.11
 ---
 
-# E.10.MOVE: Move, Readiness and Trajectory Wording Precision Restoration
+# E.10.MOVE: Clarify Wording About Moves, Readiness and Trajectories
 
 > **Problem frame:** "Move" is useful in project conversation. It can mean a chess-like next choice, a first FPF use, a TameFlow `MOVE`, an architecture candidate, a language-state transition, a call-planning next action, a work-preparation item, or an ordinary …
 > **First move:** **Cheap ordinary use.** When the governed value and its direct pattern are already evident, apply `F.19`, name the value, rewrite the phrase without changing the claim, confirm the remaining admissible reader use, and stop.
@@ -34,19 +34,21 @@ dependencies:
 
 ---
 
-## E.10.MOVE - Move, Readiness and Trajectory Wording Precision Restoration
+## E.10.MOVE - Clarify Wording About Moves, Readiness and Trajectories
 
 > **Type:** Part E precision-restoration pattern
 > **Status:** Stable
 > **Normativity:** Normative for move-like, movement-like, readiness-like, route-like, path-like, and trajectory-like wording-use restoration.
 
-**Use this when.** After the normal `F.19` reading and compact `E.10` routing, use this pattern only while move-like, movement-like, readiness-like, route-like, path-like, or trajectory-like wording still hides the governed claim—for example, a demonstrated continuation, a prediction, readiness for a named Work, or an actual, planned, or modelled trajectory.
+**Use this when.** After the `F.19` reading and compact `E.10` routing, use this pattern only while move-like, movement-like, readiness-like, route-like, path-like, or trajectory-like wording hides the governed claim—for example, a demonstrated continuation, a prediction, readiness for a named Work, or an actual, planned, or modelled trajectory.
 
 **Primary EntityOfConcern.** One bounded wording-use restoration within the scope above.
 
-**First output.** Repaired wording, a truthful split, or a blocker. When later replay relies on the repair, use the temporary `MoveAndReadinessWordingRepairNote` in §4.1.
+**First output.** Repaired wording, a truthful split, or a blocker. When later replay relies on the repair, retain its wording and interpretation basis in an existing account or use the temporary `MoveAndReadinessWordingRepairNote` in §4.1.
 
-**Not this pattern when.** Use `A.3.4.P` first when the wording is primarily about a transformation or change situation. Use `E.10.DEV` first when *development* or *evolution* still hides the changed subject, continuity or membership, or direction or value claim; continue here only if an independent trajectory, route, ordering, posture, or representation ambiguity remains. Use `F.19` and the direct subject pattern immediately when the current object is already known. Generic *process*, *workflow*, *loop*, or *flow* wording stays outside unless it independently carries one of the governed move, readiness, route, path, or trajectory claims.
+**Not this pattern when.** Use `A.3.4.P` first when the wording is primarily about a transformation or change situation. Use `E.10.DEV` first when *development* or *evolution* still hides the changed subject, continuity or membership, or direction or value claim; continue here only if an independent trajectory, route, ordering, posture, or representation ambiguity remains.
+
+Use `F.19` and the direct subject pattern when the current object is already known. Generic *process*, *workflow*, *loop*, or *flow* wording stays outside unless it independently carries one of the governed move, readiness, route, path, or trajectory claims.
 
 ### E.10.MOVE:1 - Problem Frame
 
@@ -76,15 +78,23 @@ Without this restoration:
 
 ### E.10.MOVE:4 - Solution
 
-**Cheap ordinary use.** When the governed value and its direct pattern are already evident, apply `F.19`, name the value, rewrite the phrase without changing the claim, confirm the remaining admissible reader use, and stop. Do not materialize the repair note or traverse the disposition table. Open the fuller procedure only when the wording remains ambiguous, carries several governed values, imports a source term, or must be replayed later.
+**Cheap ordinary use.** When the governed value and its direct pattern are already evident, apply `F.19`, name the value, rewrite the phrase without changing the claim, confirm the remaining admissible reader use, and stop. Skip the repair note and disposition table for that case.
 
-For a mantra, recover the pattern use before deciding that two phrases mean different moves. A question about a difficulty can refer to the `Problem frame` or `Problem`; a reminder of what to do can refer to the same use through the `Solution`. “Find what the trial establishes” can state the difficulty and the action intended to resolve it. When the subject, intended result and conditions are clear, retain the useful wording. Clarify a missing participant or relation where the reader would otherwise choose a different pattern or action. This wording choice decides neither whether a mantra is local or long nor whether a surrounding presentation is a demonstrative slice of an independently qualified CGUS.
+Open the fuller procedure only when the wording remains ambiguous, carries several governed values, imports a source term, or must be replayed later.
+
+For a mantra, recover the pattern use before deciding that two phrases mean different moves. A question about a difficulty can refer to the `Problem frame` or `Problem`; a reminder of what to do can refer to the same use through the `Solution`. “Find what the trial establishes” can state the difficulty and the action intended to resolve it.
+
+When the subject, intended result and conditions are clear, retain the useful wording. Clarify a missing participant or relation where the reader would otherwise choose a different pattern or action. This wording choice decides neither whether a mantra is local or long nor whether a surrounding presentation is a demonstrative slice of an independently qualified CGUS.
 
 Restore the governed target before choosing replacement wording:
 
 1. Name the exact `GovernedTextSpan`, the `ClaimBeingMade`, and the `ObjectUnderWordingRepair`.
 2. Decide whether the wording is ordinary prose, a quotation, or wording relied on for an FPF-governed claim. Ordinary and quotation uses can close without inventing a technical target.
-3. When the phrase is `mantra move`, first ask which use is present. In a post-qualification A.22.CGUS demonstrative slice that shows pattern use, recover the exact E.11.PUA `PatternUsePracticeContinuationDescription@Context`: its proposed use, expected result and kind, PatternID and name, current condition, and continuation disposition. Keep `mantra move` only as bounded Plain wording for that shown continuation. A.22.CGUS supplies the structure and slice boundary; it does not create a universal displayed-row kind. For a Plain local mantra, name the bounded result and restore the move-like wording through that result's exact predicate or constraint. For a Plain long mantra, recover the intended connected reasoning and the particular question now at issue. State the answer or blocker, the subject pattern that supplies it, and the other answers whose use depends on its conditions. A whole-account question may require comparing those answers rather than finding one final result or one missing map location. Do not invent a demonstrated row, collapse the long map into one pattern's Solution, or treat any branch as Work order.
+3. When the phrase is `mantra move`, first ask which use is present. In a post-qualification A.22.CGUS demonstrative slice that shows pattern use, recover the exact E.11.PUA `PatternUsePracticeContinuationDescription@Context`: its proposed use, expected result and kind, PatternID and name, current condition, and continuation disposition. Keep `mantra move` only as bounded Plain wording for that shown continuation. A.22.CGUS supplies the structure and slice boundary; it does not create a universal displayed-row kind.
+
+  For a Plain local mantra, name the bounded result and restore the move-like wording through that result's exact predicate or constraint.
+
+  For a Plain long mantra, recover the intended connected reasoning and the particular question now at issue. State the answer or blocker, the subject pattern that supplies it, and the other answers whose use depends on its conditions. A whole-account question may require comparing those answers rather than finding one final result or one missing map location. Do not invent a demonstrated row, collapse the long map into one pattern's Solution, or treat any branch as Work order.
 4. When `move`, `movement`, `direction`, or similar wording predicts a later evaluation result, recover the coordinate-and-scale-qualified prediction, its proposal basis, and protected tradeoffs under `E.23`. Use `ExpectedEvaluationResultChange@Context` only when E.23's conditional account is needed for the receiving use. The prediction is not an operation, transition, movement, work occurrence, or proof of improvement.
 5. For every other governed use, name the exact recovered value or relation, its kind, and its subject pattern. For a relation claim, name the admitted direct predicate and actual participants. Add a `RelationSignature` reference only when an admitted reusable typed declaration is current and the receiving use needs that declaration. If the governed value is already clear, use its pattern directly.
 6. Split the text when one phrase carries more than one governed value. A recommendation, method, transformation, readiness claim or result, gate decision, publication relation, and performed Work do not become one value because the same word was used for them.
@@ -113,7 +123,15 @@ MoveAndReadinessWordingRepairNote:
   ReopenCondition:
 ```
 
-The governed-value ref and kind ref are both present or both absent. `BlockedOverread?` states a rejected reading and appears only when independent local evidence makes the exact rival reading plausible to the intended reader and deleting the boundary would change understanding, selection, safety, reliance, stop, or action. The relation-signature ref is present only when an admitted reusable typed declaration is current and the receiving use needs that declaration. Otherwise a relation claim names the admitted direct predicate and actual participants without a signature ref. A governed use has a non-semantic `SubjectPatternLocator`: an ordinary PatternID that identifies the pattern whose content defines, constrains, or tests the recovered value. Where the receiving claim needs a Method or MethodDescription, use the independent `A.3.1` and `A.3.2` conditions; admit any Method-use relation under its direct relation owner. For ordinary prose or quote-only use, the disposition explains why no FPF object is claimed; the corresponding object positions may remain absent. The `...Ref` fields carry references of the declared RefKinds; they do not carry the referenced values or kinds. A retained repair includes the edition, source, context or time boundary needed for its later use, its interpretation basis and any consequential reopening condition. An existing account can carry this information; use the temporary note when its structure helps. Use `G.11` only when actual refresh orchestration is current; the note merely records its own currentness boundary. `FinalWordingOrBlocker` gives the wording or blocker for this bounded repair under its qualification and currentness conditions; a later change can reopen it. The note is a temporary wording-restoration aid; substantive results use their direct pattern's admission rules. Ordinary immediate repair need not materialize the note.
+The governed-value ref and kind ref are both present or both absent. `BlockedOverread?` states a rejected reading and appears only when independent local evidence makes the exact rival reading plausible to the intended reader and deleting the boundary would change understanding, selection, safety, reliance, stop, or action. The relation-signature ref is present only when an admitted reusable typed declaration is current and the receiving use needs that declaration. Otherwise a relation claim names the admitted direct predicate and actual participants without a signature ref.
+
+A governed use has a non-semantic `SubjectPatternLocator`: an ordinary PatternID that identifies the pattern whose content defines, constrains, or tests the recovered value. Where the receiving claim needs a Method or MethodDescription, use the independent `A.3.1` and `A.3.2` conditions; admit any Method-use relation under its direct relation owner.
+
+For ordinary prose or quote-only use, the disposition explains why no FPF object is claimed; the corresponding object positions may remain absent. The `...Ref` fields carry references of the declared RefKinds; they do not carry the referenced values or kinds.
+
+A retained repair includes the edition, source, context or time boundary needed for its later use, its interpretation basis and any consequential reopening condition. An existing account can carry this information; use the temporary note when its structure helps. Use `G.11` only when actual refresh orchestration is current; the note records the boundary on its own currentness.
+
+`FinalWordingOrBlocker` gives the wording or blocker for this bounded repair under its qualification and currentness conditions; a later change can reopen it. The note is a temporary wording-restoration aid; substantive results use their direct pattern's admission rules. Ordinary immediate repair need not materialize the note.
 
 #### E.10.MOVE:4.2 - Trigger groups
 
@@ -139,13 +157,13 @@ Stay in E.10.MOVE only while `readiness`, `ready`, `full kit`, `work entry`, or 
 | A named gate decides whether one bounded action or transition may proceed under an applicable profile | `A.21` combines independently established check results into a `GateDecisionResult`; publication is a separate optional use. A ready label or readiness result alone is not gate passage. |
 | A publication use, permission claim, preparation Work, or target Work is meant | Use `E.17` for a source-backed publication face, `E.24.PUB` for availability or publication identity, the direct permission pattern, or `A.15.1` for performed Work, as applicable. Keep each claim separate. |
 
-If the direct pattern and value were already clear, bypass this table and use that pattern immediately.
+If the direct pattern and value were already clear, bypass this table and use that pattern.
 
 #### E.10.MOVE:4.2a - No synonym closure
 
 Recover the governed value and its subject pattern before closing a synonym replacement. Ordinary-prose or quote-only use closes when no FPF-governed value is claimed.
 
-If responsibility is the remaining claim, name the admitted System, direct domain predicate, actual participants, and applicability, or return the exact A.6.RCD missing governor; an assignment is not a responsibility result. Individuate the responsibility-relation occurrence separately only when a named receiving use needs to distinguish that occurrence.
+If responsibility is the remaining claim, name the admitted System, direct domain predicate, actual participants, and applicability, or identify the missing governor under A.6.RCD. An assignment is not a responsibility result. Individuate the responsibility-relation occurrence separately only when a named receiving use needs to distinguish that occurrence.
 
 #### E.10.MOVE:4.2b - Trajectory wording recovery
 
@@ -174,7 +192,9 @@ These are recovery questions, not fields of a new `Trajectory`, `TrajectoryAccou
 | Mathematical trajectory lens | `C.29` for the selected representation and explicit correspondence, with declared losses; keep the represented subject under its direct owner. |
 | Ordinary or quote-only wording | Preserve it and stop unless a later FPF use relies on a stronger claim. |
 
-For *development trajectory*, open `E.10.DEV` first when the action-changing doubt is what develops, what remains identifiable, or whether improvement is asserted. Continue here only if trajectory still carries an independent claim about position, ordering, posture, or representation. If the bearer and development claim are already clear and only path posture is unresolved, start here and open `E.10.DEV` afterward only for a remaining separate ambiguity. Do not require two notes or two full passes by spelling alone.
+For *development trajectory*, open `E.10.DEV` first when the action-changing doubt is what develops, what remains identifiable, or whether improvement is asserted. Continue here only if trajectory still carries an independent claim about position, ordering, posture, or representation.
+
+If the bearer and development claim are already clear and only path posture is unresolved, start here and open `E.10.DEV` afterward only for a remaining separate ambiguity. Do not require two notes or two full passes by spelling alone.
 
 #### E.10.MOVE:4.3 - Wording-use dispositions
 
@@ -212,7 +232,7 @@ These are repair demonstrations, not a global replacement table.
 
 Source sentence: "The next mantra move is to compare the two patterns."
 
-For the post-qualification demonstrative case, recover one E.11.PUA practice-continuation description inside a named post-qualification demonstrative slice. The description states its proposed use, expected result and kind, direct PatternID and name, current condition, and continuation disposition. That PatternID locates the applicable pattern. If the pattern choice is unresolved, the description may point to a separate nested selection question.
+For the demonstrative case, recover one E.11.PUA practice-continuation description inside a named post-qualification demonstrative slice. The description states its proposed use, expected result and kind, direct PatternID and name, current condition, and continuation disposition. That PatternID locates the applicable pattern. If the pattern choice is unresolved, the description may point to a separate nested selection question.
 
 Selected fields of an optional note; include `BlockedOverread` only for an observed or independently grounded misreading:
 
@@ -233,13 +253,19 @@ ReopenCondition: the enclosing structure or slice boundary changes, the E.11.PUA
 
 Source sentence: "The repair should create an upward evaluation movement."
 
-If the claim predicts a later evaluation result, restore the evaluation pattern, coordinate, scale, current result, one expected scale value, range, or closed direction, candidate proposal basis, and protected tradeoffs. Keep an ordinary prediction description when it is sufficient; use `ExpectedEvaluationResultChange@Context` only when E.23's conditional account is needed for the receiving use. If those positions are unavailable, keep a provisional prediction description or use E.22 and E.23 to obtain the missing prediction basis.
+If the claim predicts a later evaluation result, restore the evaluation pattern, coordinate, scale, current result, one expected scale value, range, or closed direction, candidate proposal basis, and protected tradeoffs. Keep an ordinary prediction description when it is sufficient; use `ExpectedEvaluationResultChange@Context` only when E.23's conditional account is needed for the receiving use.
+
+If those positions are unavailable, keep a provisional prediction description or use E.22 and E.23 to obtain the missing prediction basis.
 
 #### E.10.MOVE:5.3 - Next FPF use
 
 Source sentence: "The next FPF move is to check architecture."
 
-If this is a project-local recommendation, recover its applicability, expected result, worth and boundary under E.11.PUR, and identify the architecture pattern being recommended. Materialize PatternUseRecommendation@Context only when a named later use needs the recommendation addressable. With this sentence alone, the architecture, check question, and expected result remain unspecified. Return the blocker: "Specify which architecture is to be checked, which question the check must answer, and which result is required." Once those are known, the recommendation may say "next useful pattern use" and name the operation on that architecture and its expected result.
+If this is a project-local recommendation, recover its applicability, expected result, worth and boundary under E.11.PUR, and identify the architecture pattern being recommended. Materialize PatternUseRecommendation@Context only when a named later use needs the recommendation addressable.
+
+With this sentence alone, the architecture, check question, and expected result remain unspecified. Return the blocker: "Specify which architecture is to be checked, which question the check must answer, and which result is required."
+
+Once those are known, the recommendation may say "next useful pattern use" and name the operation on that architecture and its expected result.
 
 #### E.10.MOVE:5.4 - TameFlow `MOVE`
 
@@ -265,7 +291,11 @@ Use A.10 to recover the selected claim, exact sources, independently established
 
 Source sentence: "The next move is to heat-treat the shaft."
 
-If this names the reusable way of changing the shaft, recover the Method under A.3.1; use A.3.2 only if the claim depends on a particular episteme's MethodDescription membership. If it places a heat-treatment operation in intended work, recover the WorkPlan or PlanItem under A.15.2. If heat treatment has occurred, recover the dated A.15.1 Work occurrence, affected shaft, method enactment, and result. If the question is whether that intended work can start, recover A.15.5 work-entry readiness. If the receiving context does not select among them, return the blocker: "Specify whether this describes the heat-treatment method, plans the work, reports completed heat treatment, or asks whether the planned work can start."
+If this names the reusable way of changing the shaft, recover the Method under A.3.1; use A.3.2 only if the claim depends on a particular episteme's MethodDescription membership. If it places a heat-treatment operation in intended work, recover the WorkPlan or PlanItem under A.15.2.
+
+If heat treatment has occurred, recover the dated A.15.1 Work occurrence, affected shaft, method enactment, and result. If the question is whether that intended work can start, recover A.15.5 work-entry readiness.
+
+If the receiving context does not select among them, return the blocker: "Specify whether this describes the heat-treatment method, plans the work, reports completed heat treatment, or asks whether the planned work can start."
 
 #### E.10.MOVE:5.8 - Clinical readiness
 
@@ -279,13 +309,21 @@ Initial sentence: "The next mantra move is: name the thing."
 
 An initial repair classified the phrase as `boundedDemonstratedContinuation`. Inspection then shows that the enclosing text is A.6.P's local RPR mantra: a short rendering of the A.6.P Solution. It has no qualifying wider `ConstraintGovernedUnfoldingStructure@Context`, no post-qualification slice of an independently qualified CGUS, and no E.11.PUA practice-continuation description with the required proposed use, expected result, pattern, condition, and disposition.
 
-That evidence overturns the initial disposition. Remove the demonstrated-continuation claim, retain the local RPR mantra as Plain didactic wording, use the A.6.P Solution and its direct relation-recovery guidance, and write: "Apply the first clause of the local RPR mantra: name the thing; then recover the relation or comparison." The `A.6.P` locator and Solution establish neither a `U.Method` nor a `U.MethodDescription`. Establish a separate `U.Method`, a qualifying `U.MethodDescription` episteme, and any Method-use relation only if A.3.1 and A.3.2 independently admit them and the receiving claim depends on those identities. Reopen the demonstrative-slice question only if a later qualified structure and slice actually show a complete E.11.PUA practice-continuation description.
+That evidence overturns the initial disposition. Remove the demonstrated-continuation claim, retain the local RPR mantra as Plain didactic wording, use the A.6.P Solution and its direct relation-recovery guidance, and write: "Apply the first clause of the local RPR mantra: name the thing; then recover the relation or comparison."
+
+The `A.6.P` locator and Solution establish neither a `U.Method` nor a `U.MethodDescription`. Establish a separate `U.Method`, a qualifying `U.MethodDescription` episteme, and any Method-use relation only if A.3.1 and A.3.2 independently admit them and the receiving claim depends on those identities.
+
+Reopen the demonstrative-slice question only if a later qualified structure and slice actually show a complete E.11.PUA practice-continuation description.
 
 #### E.10.MOVE:5.10 - Trajectory under changing constraints
 
 Constructed wording for repair: `Our architecture follows a trajectory under changing constraints.`
 
-Read the sentence through `F.19` first. If it means only that the team expects to revise the architecture as constraints change, state that proposed action directly. When an FPF inference relies on the trajectory claim, recover the exact architecture or system subject, the changing constraints and reference window, whether the sentence concerns actual changes to the architecture, editions of its description, a proposed evolution policy, or a modelled sequence, and the direct architecture, transformation, or model owner. For a C.29 curve or ordered rendering, name its correspondence to the architecture and the losses allowed by that use; establish transformation and evidence claims under their direct owners.
+Read the sentence through `F.19` first. If it means only that the team expects to revise the architecture as constraints change, state that proposed action directly.
+
+When an FPF inference relies on the trajectory claim, recover the exact architecture or system subject, the changing constraints and reference window, whether the sentence concerns actual changes to the architecture, editions of its description, a proposed evolution policy, or a modelled sequence, and the direct architecture, transformation, or model owner.
+
+For a C.29 curve or ordered rendering, name its correspondence to the architecture and the losses allowed by that use; establish transformation and evidence claims under their direct owners.
 
 Overlap example: `The development trajectory improved.` Start with `E.10.DEV` to recover the developed subject and the basis of *improved*. Open this branch only when a separately relied-on ordered path, model, plan, or representation remains. Stop when the recovered direct claim answers the question.
 
@@ -293,7 +331,7 @@ Overlap example: `The development trajectory improved.` Start with `E.10.DEV` to
 
 Lenses: **Gov**, **Arch**, **Onto/Epist**, **Prag**, **Did**. Scope: FPF-governed move, readiness, route, path, and trajectory wording uses.
 
-The method deliberately foregrounds Onto/Epist distinctions and direct subject ownership. The cheap ordinary-use path protects practical use and readability: recover only the distinctions that matter to the current claim and keep useful familiar wording. The concrete recurring misuses and their repairs are in §8.
+The method foregrounds Onto/Epist distinctions and direct subject ownership. The cheap ordinary-use path protects practical use and readability: recover only the distinctions that matter to the current claim and keep useful familiar wording. Recurring misuses and their repairs are in §8.
 
 ### E.10.MOVE:7 - Conformance Checklist
 
@@ -310,7 +348,14 @@ The method deliberately foregrounds Onto/Epist distinctions and direct subject o
 
 #### E.10.MOVE:7.1 - Lowering and Reopen Conditions
 
-Lower, block, or reopen the repair when the governed text span, claim being made, or object under wording repair is not recoverable, the wording-use disposition is uncertain, the proposed wording changes kind or relation without an accepted subject pattern, the subject pattern is missing, a change-situation claim was not separated from pattern-use or readiness wording, the repaired wording loses the remaining reader use, or changed source wording invalidates the recorded source-licensed use.
+Lower, block, or reopen the repair under any of these conditions.
+
+- The governed text span, claim being made, or object under wording repair is not recoverable.
+- The wording-use disposition is uncertain.
+- The proposed wording changes kind or relation without an accepted subject pattern, or the subject pattern is missing.
+- A change-situation claim was not separated from pattern-use or readiness wording.
+- The repaired wording loses the remaining reader use.
+- Changed source wording invalidates the recorded source-licensed use.
 
 ### E.10.MOVE:8 - Common Anti-Patterns and How to Avoid Them
 
@@ -318,7 +363,7 @@ Lower, block, or reopen the repair when the governed text span, claim being made
 | --- | --- | --- |
 | Synonym replacement | "Move" becomes "action" or "use" without recovered kind. | Recover governed text span, claim being made, object under wording repair, relation, and subject pattern first. |
 | Imported MOVE kind | TameFlow source wording becomes FPF ontology. | Recover intended work, readiness, gate, preparation work, or performed work. |
-| Readiness as gate passage | A ready label is taken to establish a `GateDecisionResult` with decision `pass`. | Recover the applicable A.21 profile, complete required check set and mapped decision. Readiness supplies only the input that the profile actually consumes. |
+| Readiness as gate passage | A ready label is taken to establish a `GateDecisionResult` with decision `pass`. | Recover the applicable A.21 profile, complete required check set and mapped decision. Readiness supplies only the input that the profile consumes. |
 | Path as work-authorization route | Evidence path or source-reference path becomes a way to authorize work by resemblance. | Recover evidence relation, source relation, graph path, gate relation, work authorization, or deontic permission separately. |
 | Local expression generalized | A bounded local phrase is generalized to unrelated project work. | Preserve the chosen branch: a post-qualification E.11.PUA continuation description, a Plain local mantra tied to its bounded result, or a Plain long-mantra map tied to its current answer or stop. Recover each claim through its own direct pattern. |
 | Trajectory shell generalized | Ordered points, paths, plans, histories, lineages, and archive or front succession are treated as one world-side kind or Method. | Recover the direct claim and owner, then the subject, identity or continuity, reference order, posture, and receiving-use distinctions it needs; keep only a declared C.29 representation relation when that is the actual claim. |
@@ -355,14 +400,14 @@ The comparison separates direct-claim recovery, cue preservation, and imported s
 | When a familiar local or imported cue helps a reader find the intended use, should the cue be retained? | Retain bounded Plain or source wording while making the governed value and contextual sense explicit. | Mechanical replacement can erase a useful cue; lexical equivalence can hide different governed values. | Inspect the familiar cue in the same local repair; retain it when it helps recover the intended use. |
 | When TameFlow `MOVE`, Full-Kitting, or readiness wording is imported, what survives? | Preserve the source-practice designation and route intended Work, work-entry condition, gate, preparation Work, target Work, and value claims to their direct owners. | Universalizing the source vocabulary imports a local work-management ontology; stripping the label loses source return. | Recover the source meaning, then separate the intended-work and readiness claims consumed by this use. |
 
-**Effort boundary.** Each clear case takes the cheap exit; an ambiguous case opens only the branch whose question is live. The deliberate cost is an honest exact gap when the subject or posture cannot be recovered.
+**Effort boundary.** Each clear case takes the cheap exit. An ambiguous case opens only the branch whose question remains. If the subject or posture cannot be recovered, the cost is leaving the claim open and stating the precise gap.
 
 | Source line | Contribution used here | Limitation and reopen condition |
 | --- | --- | --- |
 | FPF internal basis: `E.10`, `E.10.ARCH`, `A.6.P`, `A.6.RCD`, `A.3.4.P`, `A.19.SPR`, `A.22.CGUS`, `E.11.PUA`, `E.11.PUR`, and `E.23` | Use a trigger word as a cue to inspect the current claim; restore any unresolved governed value and relation before rewriting, preserve ordinary useful wording, and use the direct pattern for the final claim. | These patterns govern internal recovery rather than external empirical rank. Reopen only the affected slice when one changes the relevant kind settlement, authority boundary, or recovery fields. |
-| Current `A.3.3`, `A.3.4`, `B.4`, `C.27.TA`, `C.29`, `C.17`–`C.19`, `C.36`, and `A.16.0`; Schaffter, Bounekkar, and Negre, [“Trajectory-Based Recommender Systems as Control Systems”](https://arxiv.org/abs/2606.22957), arXiv v1, 2026-06-22 | Supply direct internal owners and a domain case that preserves goal, state, model, action, and posture; the comparison informs the trajectory trigger, recovery questions, direct exits, exact-gap result, and no-general-head boundary. | The preprint is exploratory, synthetic, simplified, and specific to trajectory-based recommender systems. Reopen only if a later edition or rival supplies validated cross-domain structure that changes the subject, identity, ordering, posture, direct-owner, or general-head decision. |
+| Current `A.3.3`, `A.3.4`, `B.4`, `C.27.TA`, `C.29`, `C.17`–`C.19`, `C.36`, and `A.16.0`; Schaffter, Bounekkar, and Negre, [“Trajectory-Based Recommender Systems as Control Systems”](https://arxiv.org/abs/2606.22957), arXiv v1, 2026-06-22 | Supply direct internal owners and a domain case that preserves goal, state, model, action, and posture; the comparison informs the trajectory trigger, recovery questions, direct exits, exact-gap result, and no-general-head boundary. | The preprint is exploratory, synthetic, simplified, and specific to trajectory-based recommender systems. Reopen only if a later edition or rival supplies validated cross-domain structure that changes the subject, identity, ordering, posture, direct-owner, or general-head decision. Monitor this claim continuously only if it is high-value, likely to change, and someone will use the signal (E.15:4.8). |
 | Zhu, Reinecke, and Mitra, [*Language Scent: Exploring Cross-Language Information Navigation*](https://arxiv.org/abs/2604.03604v2), arXiv v2, 2026-08-06 | Analogy for cue preservation: the study concerns query-language selection and proximal cues, with a laboratory study of 16 multilingual speakers. It motivates testing whether a familiar cue helps the current reader; the in-situ wording decision still uses `F.19`. | Cross-language navigation is the study's scope. Reopen the adopted cue hypothesis if broader evidence shows that a cue obscures the governed value or impedes the intended reader use. |
-| Steve Tendon, [*The Book of TameFlow: Theory of Constraints Applied to Knowledge-Work Management*](https://leanpub.com/tameflow), publisher's contents | The contents identify `MOVE` (Minimal Outcome-Value Effort), Full-Kitting and its relation to execution management. Preserve those source-practice terms while using the direct Work, readiness and gate patterns for the FPF claims. | This bounded source locator does not establish a universal move or readiness ontology. Reopen the affected interpretation if the used source meaning or its direct FPF conditions change. |
+| Steve Tendon, [*The Book of TameFlow: Theory of Constraints Applied to Knowledge-Work Management*](https://leanpub.com/tameflow), publisher's table of contents, chapters 11–16 (accessed 12 November 2026) | The contents identify `MOVE` (Minimal Outcome-Value Effort) and place Full-Kitting both in preparation for execution and in ongoing execution management. Preserve those source-practice terms while using the direct Work, readiness and gate patterns for the FPF claims. | This bounded source locator does not establish a universal move or readiness ontology. Reopen the affected interpretation if the used source meaning or its direct FPF conditions change. |
 
 The selected line is FPF's direct-claim recovery. The external sources contribute a domain comparison, a cue-preservation hypothesis, and imported practice meanings; the constructed architecture case is in §5.10.
 
@@ -370,6 +415,6 @@ The selected line is FPF's direct-claim recovery. The external sources contribut
 
 - **Builds on:** `F.19`, `E.10`, `E.10.ARCH`, `A.3.4.P`, `A.22.CGUS`, `E.11.PUA`, `E.11.PUR`, `E.23`, `A.15.5`, and `E.24`.
 - **Coordinates with:** `E.11.PUA` for the `PatternUsePracticeContinuationDescription@Context` shown by a qualified practice continuation; `E.11.PUR` for `PatternUseCoordination@Context`, one `PatternUseOrderingRelation@Context`, or the bounded total-order `PatternUseSequence@Context`; `E.10.DEV` when development or evolution wording and trajectory wording carry independent ambiguities; `A.1.STM` for connected system-thinking project reasoning and its long-mantra reminder; `A.3.3`, `A.3.4`, `A.3.4.P`, `B.4`, `C.27.TA`, `C.29`, `C.17`–`C.19`, `C.22.2`, `C.11`, A.15.2, `C.36`, and `A.16.0` for trajectory exits; and `E.18`, `E.18.1`, `A.15`, `A.21`, `C.24`, `C.30`, `E.17`, `F.17`, `F.18`, `G.11`, A.10, and each recovered value's direct subject pattern. `F.18` governs a durable-name decision; `G.11` governs refresh orchestration only when currentness, edition, telemetry, freshness, or decay is the actual claim.
-- **Selected by:** E.10 compact routing when move, readiness, route, path, or trajectory wording still has an unresolved FPF-governed use after the `F.19` reading and no direct subject pattern has already resolved it.
+- **Selected by:** E.10 compact routing when move, readiness, route, path, or trajectory wording still has an unresolved FPF-governed use after the `F.19` reading and no direct subject pattern has resolved it.
 
 ### E.10.MOVE:End

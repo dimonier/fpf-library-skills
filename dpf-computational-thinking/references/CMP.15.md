@@ -40,7 +40,7 @@ dependencies:
 
 Start by choosing the combinations the receiving application must support. Find the first required combination whose implementation is absent or whose selection is unclear, and provide the joining contribution that knows both additions. The useful result is a composed set of operations with explicit coverage, selection rules and preservation conditions. A small composition can be assembled and examined directly; a promise about arbitrary future additions requires stronger interfaces and checking.
 
-This method concerns computational data variants and operations. The reader can follow a recursive function and distinguish a data constructor from an operation that processes it. CMP.12 explains how to derive an interpretation and its correspondence with the intended meaning. The construction here keeps independently supplied additions composable; it does not require the reader to know object algebras or a particular extension system beforehand.
+This method concerns computational data variants and operations. The reader can follow a recursive function and distinguish a data constructor from an operation that processes it. CMP.12 explains how to derive an interpretation and its correspondence with the intended meaning. The construction here keeps independently supplied additions composable.
 
 Keep a closed representation and ordinary functions when one owner can maintain the required cases affordably. If only the data variants change, methods attached to those variants may suffice. If only the operations change, functions over a stable closed data type may suffice. Independent extension on both axes earns its additional machinery when those simpler arrangements obstruct actual changes.
 
@@ -346,7 +346,7 @@ For this grammar, all recursive calls stay within the declared eight pairs. Cove
 
 A static alternative represents a term by its use of constructor operations. Instead of first constructing a stored tree and then dispatching on it, the term receives an algebra: a collection of constructor functions whose common result type `R` is chosen by the interpretation.
 
-The notation below is typed pseudocode. `Base<R>` and `LetPart<R>` are records of functions; `&` requires both sets of fields. It specifies the constraints a realization must enforce, not a claim about compilation by a particular compiler.
+The notation below is typed pseudocode. `Base<R>` and `LetPart<R>` are records of functions; `&` requires both sets of fields. It specifies the constraints a realization must enforce.
 
 ```text
 Base<R> = {

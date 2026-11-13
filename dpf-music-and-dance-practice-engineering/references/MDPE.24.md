@@ -148,7 +148,7 @@ actual participants and extent. Then name the separate, existing relation by whi
 result, or another continuity-bearing contribution supports later recovery. An assignment, roster, archive, or
 configuration record alone does not establish performed Work, recovery, or cultural memory.
 
-No single row establishes a whole. A popular name can lack constitutive relations. An archive can supply memory but
+A popular name can lack constitutive relations. An archive can supply memory but
 no current performance capability. A network can persist but remain only an exchange relation among existing
 organizations. A platform can select variants without becoming either the artistic practice or the whole that
 performs it.
@@ -202,8 +202,7 @@ A project-boundary decision can be kept in this compact form:
 > - **Needed observation:** [only when the result remains open].
 > - **Reopen condition:** [new construction, loss of persistence, changed identity rule, or contrary evidence].
 
-The record describes a decision about actual wholes. It does not create either whole, make a label into a kind,
-or turn evidence and models into world-side construction.
+
 
 ### MDPE.24:4 - Worked Cases
 
@@ -259,7 +258,7 @@ editions, including the months between them. The following arrangement is alread
 | Actual construction | From the joint arrangement's start, the three units function as integrated components of Series Operations under the adopted production rule: the scheduling unit commits the shared teacher-time pool and joint calendar; North and South production accept those allocations, realize the local events and return cancellations and remaining capacity to that same unit. A local unit cannot independently spend time already allocated elsewhere. These obtaining component relations and connected operations constitute the assembly under `A.14`, `B.1` and `C.13`; agreements describe the rule but are not themselves the components. |
 | Identity through change | The continuing Series Operations organization retains one live commitment-and-allocation process joining a scheduling unit and at least two local production units. Staff or a unit may be replaced through transfer of live commitments and operating control; a scheduled suspension with that continuity preserved does not end the whole. Dissolving the joint allocation process and returning to independent local production ends this organization, even if the brand survives. |
 | Composition-grounded characteristic | The integrated organization can check both cities' remaining capacity and make one executable reallocation of the shared teacher-time pool. Neither local producer can do that alone; the scheduling unit cannot realize an edition alone. In this constructed case a withdrawn North session has been reallocated to an available South session through the common process and carried out there. |
-| Acting eligibility | The connected scheduling and production operations change bookings, resource use and realized sessions while the organization continues under its identity rule. This supplies the operational organization required for `U.System`; a name, archive or claim of influence would not. |
+| Acting eligibility | The connected scheduling and production operations change bookings, resource use and realized sessions while the organization continues under its identity rule. This supplies the operational organization required for `U.System`. |
 
 A larger assembly also needs a particular construction rule. In this case, the regional arts-season organization
 already uses a rule for integrating continuing production units beneath its season office. Each unit must expose

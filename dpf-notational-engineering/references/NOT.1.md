@@ -68,7 +68,7 @@ Describe what the user starts with, what they do and what they need to obtain. P
 
 Specify the preparation and access on which the operation relies. A mathematician may use established algebraic conventions; a performer may recognize a learned gesture; a program may receive only serialized text. An AI agent's access to a rendered page, a text extraction and an editor's internal structure are different conditions. Include the context that is actually available, rather than assuming that every reader receives the designer's view.
 
-For a small task, one operation is enough to begin. If the notation will be used for a family of operations, choose cases that exercise materially different demands. For example, interpreting a completed expression and changing a shared component can need different support. Do not turn this selection into an inventory of every conceivable use.
+For a small task, one operation is enough to begin. If the notation will be used for a family of operations, choose cases that exercise materially different demands. For example, interpreting a completed expression and changing a shared component can need different support.
 
 #### NOT.1:4.2 - Find cases whose difference changes the work
 
@@ -114,7 +114,7 @@ Trying a candidate can reveal that the original question was incomplete. Revise 
 
 #### NOT.1:4.6 - Retain the decision at the scale needed for the next construction
 
-State the operation to support, the distinction it needs, how a candidate carries it and the burden or unresolved choice that remains. A short explanation beside the candidate can suffice. Keep the contrasting cases when they will help construct, teach or revise the rule; no separate requirements document is necessary for an ordinary small use.
+State the operation to support, the distinction it needs, how a candidate carries it and the burden or unresolved choice that remains. A short explanation beside the candidate can suffice. Keep the contrasting cases when they will help construct, teach or revise the rule.
 
 Stop when the next notation construction or choice is clear enough to undertake. Detailed expression formation, interpretation and transformation can then be developed where needed. Do not reopen every design choice merely because a new example is available; reopen the choice whose supported operation or conditions changed.
 
@@ -155,7 +155,7 @@ A successful notation for one audience can require unavailable preparation in an
 
 ### NOT.1:7 - Conformance Checklist
 
-Use these questions to examine the design decision when its adequacy matters. They do not require a separate written answer for each ordinary application.
+Use these questions to examine the design decision when its adequacy matters.
 
 - Can the intended user identify the working operation, its starting information and the result they need?
 - Does a consequential difference between cases explain why the selected distinction is required? If a difference is omitted, is the resulting loss acceptable for that use?
@@ -186,7 +186,7 @@ A notation provides ways to form and use expressions. What to support depends on
 
 Contrasting cases make an omitted distinction consequential. If two cases with the same available representation require different answers, a reader using only that representation cannot be guaranteed the right answer in both. The design must recover the difference, obtain additional information or accept the resulting limitation. This argument identifies a requirement; trying the supported operation is still needed to learn whether the candidate is usable at the available effort.
 
-The pattern chooses requirements through small constructive trials. NOT.2-.4 develop formation, interpretation and transformation rules. A.6.3.RT.OE addresses a different starting condition: the scheme is available and an operative expression must be built under it. C.2.8 characterizes what a prepared observer can extract; the present method uses that question to construct or choose a scheme. These contributions can be combined without making notation design a compulsory step in every reading task.
+The pattern chooses requirements through small constructive trials. NOT.2-.4 develop formation, interpretation and transformation rules. A.6.3.RT.OE addresses a different starting condition: the scheme is available and an operative expression must be built under it. C.2.8 characterizes what a prepared observer can extract; the present method uses that question to construct or choose a scheme. These contributions can be combined.
 
 ### NOT.1:11 - SoTA-Echoing
 
@@ -199,7 +199,7 @@ The pattern chooses requirements through small constructive trials. NOT.2-.4 dev
 
 **Choosing the design move.** When the needed distinction is still unknown, construct a contrasting pair first. A gallery-based comparison already needs expressions that implement chosen tasks; preparing that gallery cannot replace discovering the missing task or distinction. Once several viable notations support a stable family of work, a shared set of examples becomes useful: compare the same readings and edits, use metrics to find costly cases, then inspect those cases. This costs more than the first pair but can expose repeated-change burdens hidden by one successful example. Reopen the small comparison when that broader burden could change the choice; NOT.7 develops the corresponding redesign. Cognitive Dimensions and PUX can also help discover or reformulate the operations to compare.
 
-The contrast-based requirement construction and the two worked cases are the present synthesis. They connect notation design to available FPF representation, extraction and problem-development methods without prescribing one notation across practices.
+The contrast-based requirement construction and the two worked cases are the present synthesis. They connect notation design to available FPF representation, extraction and problem-development methods.
 
 ### NOT.1:12 - Relations
 

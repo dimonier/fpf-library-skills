@@ -20,7 +20,7 @@ The reader needs enough subject knowledge to identify the relevant material, or 
 
 ### NSTD.Reference:1.1 - From material to narrative objects and relations
 
-Narrative studies investigates how accounts of events and experiences are formed, interpreted and used. Narrativization is the constructive practice developed here: making a sustained, sequential account of a situation, experience, argument, design or imagined world. Its readers may seek understanding, orientation, imaginative experience, a reason to continue, or a basis for discussion and action. The publication draws from several traditions within narrative studies. It does not claim one theory of everything those traditions study.
+Narrative studies investigates how accounts of events and experiences are formed, interpreted and used. Narrativization is the constructive practice developed here: making a sustained, sequential account of a situation, experience, argument, design or imagined world. Its readers may seek understanding, orientation, imaginative experience, a reason to continue, or a basis for discussion and action. The publication draws from several traditions within narrative studies.
 
 The difficulty begins before sentence order. A collection of letters, observations or draft scenes does not arrive with an uncontested list of events, participants and meaningful connections. Someone must decide what counts as the same occurrence, which change matters, how accounts refer to it, and what relationship is being proposed. Even an established event can mean different things to its participants. An institution's account of a successful relocation and a resident's account of losing a neighbourhood can concern the same move while asking different questions about it. Their relation must be worked out; choosing the more fluent account does not settle it.
 
@@ -54,7 +54,7 @@ The combined practice makes a narrative revisable at the right level: the reader
 
 ### NSTD.Reference:1.4 - Interpretation, invention and research boundaries
 
-Analysis belongs inside narrativization whenever it changes what can responsibly or usefully be told. This includes constructing an account from fragments, comparing interpretations, examining how viewpoint creates meaning, and retaining a supported range of possible readings. A writer can perform that analysis without running a population study or writing literary history. NSTD.9 supplies the bounded interpretive method; NSTD.10 supplies construction of fictional events and explicitly hypothetical scenarios. Neither promises to recover every possible meaning or produce artistic success on demand.
+Analysis belongs inside narrativization whenever it changes what can responsibly or usefully be told. This includes constructing an account from fragments, comparing interpretations, examining how viewpoint creates meaning, and retaining a supported range of possible readings. A writer can perform that analysis without running a population study or writing literary history. NSTD.9 supplies the bounded interpretive method; NSTD.10 supplies construction of fictional events and explicitly hypothetical scenarios.
 
 Research asks additional questions about narrative objects, people or practices. A claim that one framing is common in a population needs a defensible corpus and sampling basis. A claim about reader learning or persuasion needs a study that can distinguish the proposed effect from alternatives. Interview research needs an appropriate research relationship, collection and analysis method; a participant's story is not an unmediated recording of experience. NSTD can help examine and present the resulting interpretations and design a local reader question, but it does not supply those complete research designs. Use the relevant research method and return its qualified result. NSTD.6 preserves this separation for evaluations of a particular narrative.
 
@@ -165,7 +165,7 @@ Construction route:
 
 Intentionally lost or deferred: full monolith detail, all neighboring patterns, all source-pack rows, and advanced formal variants. These return through source links.
 
-Related work: use `E.17` and `E.17.AUD` for teaching-publication and audience-unit questions, `NSTD.6` for narrative quality, the subject sources for the taught claims, and `A.10` for evidence claims. `G.2`/`G.11` apply when synthesizing or refreshing a SoTA basis.
+Related work: use `E.17` and `E.17.AUD` for teaching-publication and audience-unit questions, `NSTD.6` for narrative quality, the subject sources for the taught claims, and `A.10` when the source-to-use account is implicit or must remain replayable. `G.2`/`G.11` apply when synthesizing or refreshing a SoTA basis.
 
 Low `NSTD.6` repair: if learners enjoy sessions but cannot reconstruct pattern use, repair `NSTD.2`, `NSTD.3`, and `NSTD.8` before changing only style.
 
@@ -224,7 +224,7 @@ Construction route:
 
 Intentionally lost or deferred: full proof detail, every lemma, historical order, and advanced generalizations not needed for declared learner use.
 
-Related work: `C.29` supports a mathematical lens when one is being constructed; the mathematical source supplies the definition or proof. `A.10` applies to an evidence claim and `E.17` to the explanation's publication form.
+Related work: `C.29` supports a mathematical lens when one is being constructed; the mathematical source supplies the definition or proof. `A.10` recovers an implicit or needed replayable source-to-use account; `E.17` governs the explanation's publication form.
 
 Low `NSTD.6` repair: if learners can retell an analogy but cannot state definitions, dependency order, example boundaries, or proof status, repair `NSTD.1`, `NSTD.2`, and `NSTD.3`; do not raise engagement alone.
 
@@ -307,7 +307,7 @@ These terms help distinguish questions that occur in narrative work. A local fie
 
 | Term | Meaning in this DPF | When a related method is needed |
 | --- | --- | --- |
-| source basis; admitted source basis | Material used for the account: a formal text, event record, story premise, canon, architecture description or another relevant source. “Admitted” adds a receiving-use condition only when one is specified. | Compare ordinary sources directly. Use `G.2` for SoTA synthesis, `A.10` for an evidence claim or `E.17.EFP` for a source-based explanation. |
+| source basis; admitted source basis | Material used for the account: a formal text, event record, story premise, canon, architecture description or another relevant source. “Admitted” adds a receiving-use condition only when one is specified. | Compare ordinary sources directly and retain an adequate existing basis for the claim. Use `G.2` for SoTA synthesis, `A.10` when the source-to-use account is implicit or must remain replayable, or `E.17.EFP` for a source-based explanation. |
 | selected source structure | The relations or distinctions selected for the narrative. | `NSTD.9` constructs a missing working interpretation; `A.6.3.NAR` relates the available source to the account; `A.22` helps describe structure, `C.2.8` its recovery by a reader, and `C.33` architecture-description adequacy. |
 | source-structure selection rationale | Why those relations matter for the reader's use. | `NSTD.1` revises selection and purpose together. |
 | source temporal posture | Whether the account concerns past events, a live situation, a plan, prospective fiction or a combination. | `NSTD.1` keeps observation, inference and invention distinguishable when their difference matters. |
@@ -378,8 +378,8 @@ Use this route when the package is already being applied and one of its source, 
 1. Revisit a source when a missing, stale or contradicted claim could change the narrative's use. Use `G.2` for a renewed SoTA synthesis; compare an ordinary event record or fictional canon directly.
 2. Return to `NSTD.6` when the evaluated object kind, declared use, value meaning, quality characteristic, evidence basis, or low-value repair route changes.
 3. Use `E.22` when the improvement question is underframed: purpose, floor, protected trade-offs, expected evidence, result form, or cost and risk are not explicit.
-4. Use `E.23` only for an exact changed narrative rendering version or declared changed slice with `NSTD.6` re-evaluation planned.
-5. Use `G.11` refresh when FPF Core edition, generated-narrative practice, reader telemetry, teaching-test evidence, source pack, or the `NSTD.6` evaluation characteristic space changes.
+4. Use `E.23` for repeated improvement of a narrative version or selected part under `NSTD.6` evaluation, with the improvement aim, protected qualities and re-evaluation basis established before changing it.
+5. Use `G.11` when a change in FPF Core edition, generated-narrative practice, reader telemetry, teaching-test evidence, source pack or the `NSTD.6` evaluation characteristic space could alter whether the available basis supports the narrative's receiving use. Retain sufficient unaffected results.
 6. Distinguish the teaching or narrative product from observations about its use. Reuse an observation only for the claim and conditions it actually supports; a worked example may remain in the pattern that explains the method.
 
 For source qualifications, citation and edition information, see the [Sources and Edition Notes](#narrativization-and-narrative-studies-principles-framework-sources-and-edition-notes).

@@ -173,7 +173,7 @@ Carvalho and colleagues' [Kalman-filter ensemble model](https://arxiv.org/abs/24
 
 Li and colleagues' [2026 violin study](https://doi.org/10.1038/s41598-026-46205-6) qualifies a uniform adjustment rule: auditory correction depended on the performance conditions, and the predicted general increase towards a recording was not found. Its bounded ensemble task supports inspecting the actual interaction rather than assuming automatic compensation.
 
-Nelson's *Solkattu Manual* (2008), printed pp. 15–17, supplies phrase-against-gesture practice. Cha's Takadimi critique makes omitted duration and unarticulated reference positions explicit. Their contributions support the gap-continuation construction; they establish no universal training duration or one preferred cue for every performer.
+Nelson's *Solkattu Manual* (2008), printed pp. 15–17, supplies phrase-against-gesture practice. Cha's Takadimi critique makes omitted duration and unarticulated reference positions explicit. Their contributions support the gap-continuation construction.
 
 ### RHY.10:12 - Relations
 

@@ -24,7 +24,7 @@ dependencies:
 # PSDA.14: Prepare and Return a Decision-Support Recommendation
 
 > **Problem frame:** **Use this when** analysis is available, or its decisive gap is known, but the recipient still cannot tell what the decision-support performer recommends and on what conditions.
-> **First move:** Compose the recommendation at the strength and scope of its decision-bearing premises, then return it for the agreed use. The following moves express information dependencies, not a compulsory sequence of meetings or documents.
+> **First move:** Compose the recommendation at the strength and scope of its decision-bearing premises, then return it for the agreed use. The following moves express information dependencies. Adequate existing results may close several needs at once.
 >
 > **Governing patterns:** `references/PSDA.11.md` `references/PSDA.5.md` `references/PSDA.6.md` `references/PSDA.7.md` `references/PSDA.8.md` `references/PSDA.9.md` `references/A.15.9.md` `references/A.10.md`
 
@@ -70,23 +70,23 @@ The practitioner needs a positive composition rule, not just warnings. Which con
 
 ### PSDA.14:4 - Solution
 
-Compose the recommendation at the strength and scope of its decision-bearing premises, then return it for the agreed use. The following moves express information dependencies, not a compulsory sequence of meetings or documents. Adequate existing results may close several needs at once.
+Compose the recommendation at the strength and scope of its decision-bearing premises, then return it for the agreed use. The following moves express information dependencies. Adequate existing results may close several needs at once.
 
 #### PSDA.14:4.1 - Recover the receiving use and the right to provide this advice
 
 State who receives the answer, the exact subject or holder, the horizon, the question and the later decision or other Work that will use it. Recover the actual choice owner separately. A recipient may also be the choice owner when that authority is established; receiving an answer does not establish it.
 
-Use an adequate `PSDA.11` engagement result for the same subject and decision. Otherwise obtain the qualified direct facts or return the exact missing recipient, question, scope or authority premise. Do not infer the engagement from a title, course, department or tool output.
+Use an adequate `PSDA.11` engagement result for the same subject and decision. Otherwise obtain the qualified direct facts or return the exact missing recipient, question, scope or authority premise.
 
 For development-direction advising, distinguish the recommending performer from the recipient at the grain of this application. The client, sponsor, holder, recipient and chooser may coincide in some respects and differ in others; recover only the differences that affect the advice, disclosure or later choice. A larger organization may contain both adviser and recipient. Merely naming two roles of one self-advisory actor does not create the distinct-performer engagement; direct domain and `C.11` guidance remain available.
 
 Establish applicable professional scope, competence, material conflicts and permitted reliance before offering positive advice. For example, management-consultancy engagement and conflict conditions are informed by the [ICMCI competence framework v4.0, C.1.1–2, C.2.1 and E.3.5](https://www.cmc-global.org/sites/default/files/public/icmci_cmc002_competence_framework_version_4.0_1.pdf). Human career-service consent and assessment limits come from the applicable professional source, such as the [NCDA 2024 Code of Ethics, A.2 and E.2](https://www.ncda.org/aws/NCDA/asset_manager/get_file/3395). These are different service conditions, not one universal profession or evidence that a proposed intervention works.
 
-If a material mandate, competence, conflict or admissibility condition cannot be satisfied, return the scoped blocker or appropriate referral. A persuasive presentation cannot repair that condition. Existing emergency, safety or legal response duties retain their own direct authority and must not wait for completion of a PSDA account.
+If a material mandate, competence, conflict or admissibility condition cannot be satisfied, return the scoped blocker or appropriate referral. Existing emergency, safety or legal response duties retain their own direct authority and must not wait for completion of a PSDA account.
 
 #### PSDA.14:4.2 - Recover what the available premises actually support
 
-For every premise that can change the disposition, recover its claim, exact subject and configuration, source or supplier, applicable window, intended use, uncertainty and reliance limit. Inspect available results first; use `A.15.9` to reuse an adequate result, retain its useful limit, or select a worthwhile obtainable missing contribution, and `A.10` to qualify the actual reliance. This pattern adds no second specialist-acquisition Method.
+For every premise that can change the disposition, recover its claim, exact subject and configuration, source or supplier, applicable window, intended use, uncertainty and reliance limit. Inspect available results first; use `A.15.9` to reuse an adequate result, retain its useful limit, or select a worthwhile obtainable missing contribution; use `A.10` when the source-to-use account remains implicit or a needed reproducible account is missing.
 
 Read a comparison as a result over particular alternatives under particular values, evidence and assumptions. A `PSDA.9` robustness result contributes only where it can change this recommendation for the same configuration and horizon. It neither entails the whole recommendation nor authorizes the later decision. Preserve the `PSDA.6`, `PSDA.7`, `PSDA.8` comparison basis needed to interpret it.
 
@@ -94,11 +94,11 @@ Keep the live set and the compared subset explicit. A result about internal deve
 
 Preserve material agreement, disagreement and affected-party concerns from `PSDA.13` or a qualified direct account. Distinguish a factual objection, a value conflict, an authority condition and a question about representation; they call for different responses. Give the objection and its consequence enough prominence to survive the return. Attribution and disclosure must respect the applicable protection and confidentiality conditions.
 
-For development opportunities, consume a qualified opportunity result: the problem or promise, dependencies, bounded reachability, uncertainty and next question. A search/archive entry, a fashionable technology or a candidate label supplies none of those by itself. Opportunity construction is a separate Method with an independently useful result; composing advice does not complete missing search, dependency or reachability work.
+For development opportunities, consume a qualified opportunity result: the problem or promise, dependencies, bounded reachability, uncertainty and next question. Opportunity construction is a separate Method with an independently useful result; composing advice does not complete missing search, dependency or reachability work.
 
 #### PSDA.14:4.3 - Select the warranted recommendation disposition
 
-Ask what the recipient can responsibly consider **now**, given the question, alternatives, protected conditions, comparison and consequence of delay. Explain the inference from the relied-on premises to the disposition. The six forms below are result branches, not stages to complete.
+Ask what the recipient can responsibly consider **now**, given the question, alternatives, protected conditions, comparison and consequence of delay. Explain the inference from the relied-on premises to the disposition. The six forms below are result branches.
 
 | Disposition | Positive basis and useful return | Boundary |
 | --- | --- | --- |
@@ -117,7 +117,7 @@ When a total order is unwarranted, prefer an explicit partial answer to invented
 
 #### PSDA.14:4.4 - Make the recommendation account inspectable at the smallest useful size
 
-The account is a claim-bearing result, not a mandatory template or new record kind. A short message may carry it; a consequential institutional matter may need a larger package and protected annex. Keep the following content recoverable wherever it can change reliance.
+The account is a claim-bearing result. A short message may carry it; a consequential institutional matter may need a larger package and protected annex. Keep the following content recoverable wherever it can change reliance.
 
 | Position | Decision-useful content |
 | --- | --- |
@@ -139,7 +139,7 @@ Make the result available to the actual recipient in a form suited to the agreed
 
 Keep the communicative Work, recommendation content, carrier, recipient response and later effect distinct. Delivery establishes neither understanding nor reliance, consent, choice, implementation or effectiveness. A recorded acknowledgement may support receipt; it does not establish an authorized decision. A communication can perform an authorization only under its own actual performer, authority and institutional conditions.
 
-The authority-holding System may later choose, reject, retain alternatives, commission a probe or reroute under `C.11` or its direct domain rule. A corporate organ may consume the recommendation and unresolved disagreement through `CGOV.11`; that organ, not this account, performs the authorization Work. Do not require a corporate-governance framework where the actual decision is personal or otherwise outside its subject.
+The authority-holding System may later choose, reject, retain alternatives, commission a probe or reroute under `C.11` or its direct domain rule. A corporate organ may consume the recommendation and unresolved disagreement through `CGOV.11`; that organ, not this account, performs the authorization Work.
 
 Returning the advice closes this recommendation application, including an honest stop branch. Later premise refresh and a newly composed recommendation are later work. Any promised professional contact, referral or service closure remains governed by the actual relationship; closing this application neither invents nor cancels those duties.
 
@@ -179,7 +179,7 @@ For a person asking a separate adviser about four months of engineering-manageme
 
 For an authorized team considering an AI scaffold or human–AI allocation, name the exact changed object, version, environment, evaluation validity, oversight and protected conditions. Use AI/security and, where relevant, organization-allocation results. A human learning study or a ranked recommender-system output does not establish those premises. If a known inadmissible configuration cannot meet the protected boundary, block that recommendation; if the evidence is merely absent, name the gap rather than claiming failure.
 
-For a non-cultural population or lineage with no population-local recipient or chooser, abstain from attributing a recipient-owned development recommendation to it. Return population change to its evolutionary account. A separately authorized research team considering an intervention is a different recipient-owned case with scientific, safety and governance premises; naming that case establishes none of them.
+For a non-cultural population or lineage with no population-local recipient or chooser, abstain from attributing a recipient-owned development recommendation to it. Return population change to its evolutionary account. A separately authorized research team considering an intervention is a different recipient-owned case with scientific, safety and governance premises.
 
 For a chooser who already has an adequate option set and needs only to make their own decision, use direct domain or `C.11` guidance. Neither an adviser nor a PSDA return package needs to be invented.
 
@@ -252,6 +252,6 @@ The practice question is **how to return useful advice from qualified analysis w
 - `A.2.9` supplies receiving-use judgement and the distinction between communication and its institutional effects. `C.11` or the direct domain rule owns the later choice; WorkPlan, Work and effect remain separate.
 - `PSDA.15` uses this recommendation to establish which later decision, consequences, signposts and premise changes matter. It obtains later authorized decision and implementation evidence as distinct results; this recommendation supplies neither.
 - `CGOV.11` may use the recommendation and unresolved disagreement for the named corporate matter. Only the authority-holding System supplies the authorization Work.
-- Missing, stale, out-of-scope or incompatible contributions call for an adequate qualified direct result or the exact missing-result return. A neighboring pattern, profile or source being available does not supply a performed result or require a complete language traversal.
+- Missing, stale, out-of-scope or incompatible contributions call for an adequate qualified direct result or the exact missing-result return.
 
 ### PSDA.14:End

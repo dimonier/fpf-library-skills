@@ -178,7 +178,7 @@ The account can overvalue formal courses, the current manager's knowledge or an 
 
 The learning and work plans constrain each other early enough to expose a missing receiving opportunity or incompatible allocation. Adequate existing provision can be retained. The arrangement can also cost more than current competent delivery because it intentionally develops another performer. Its value depends on that further result and its actual use, not on having arranged training.
 
-The Method does not guarantee promotion, employment, instructional effectiveness or a lasting culture. It makes the conditions and separate decisions obtainable and revisable at the scope of the transition.
+The Method makes the conditions and separate decisions obtainable and revisable at the scope of the transition.
 
 ### OCE.18:10 - Rationale
 

@@ -157,7 +157,7 @@ The first contributor offers a solution immediately. The facilitator returns to 
 
 The owner takes away one justified information-gathering action and reports the later result. It excludes one interpretation but leaves another condition uncertain. The returned account helps the contributors refine the advice. The clinic has supplied a useful continuation without claiming that the equipment was repaired.
 
-If nobody can supply the needed technical judgement, the group can still clarify the question and return it to a qualified source. Interest and active discussion do not close that missing contribution.
+If nobody can supply the needed technical judgement, the group can still clarify the question and return it to a qualified source.
 
 #### CB.5:5.2 - Twenty minutes broaden a design question
 

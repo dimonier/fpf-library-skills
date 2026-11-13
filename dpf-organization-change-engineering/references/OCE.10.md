@@ -177,7 +177,7 @@ Sponsor-centred inquiry can turn valid objections into resistance. Fear of conse
 - Rival explanations that change action have been considered and uncertainty remains visible. A new contrast is selected only for a worthwhile attainable contribution, including design effort, delay and displaced work; a response supported across the rivals can finish without it.
 - A sufficient current response is used directly. Any remaining intervention has a supported mechanism, suitable Method, owner, protection and stop; its comparison includes whole participant and support work, later use and any accepted disadvantage.
 - A claimed performed intervention uses actual observations of use, non-use, burden and receiving consequences. A recommendation, current continuation or selected probe is not reported as a newly performed intervention.
-- A cultural claim includes transmission, recognition and later use within a named population and window.
+- A cultural claim identifies its relation, population and window, with supporting evidence for that claim. A claim that working practice has changed or continued includes the later-use observations in step 4.5.
 - A stronger causal or professional claim is not inferred from a local participation result.
 
 ### OCE.10:8 - Common Anti-Patterns and How to Avoid Them

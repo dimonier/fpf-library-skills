@@ -119,7 +119,7 @@ Explain the path's technical decisions to practitioners and contributors. Demons
 
 #### SYSE.26:4.5 - Exercise the interaction before relying on it
 
-Try the supported case with a representative user and the intended result consumer. Include one valid variation, one invalid or unsupported request, one delayed attempt and one interrupted operation whose effect may already have occurred. Check that each leaves an intelligible next move and preserves the result's identity.
+Try the supported case with a representative user and the intended result consumer. Select further cases from the supported variants and actual failure modes: a valid variation, an invalid or unsupported request, delay where timing matters, and interruption where an operation's effect may already have occurred. Check that each selected case leaves an intelligible next move and preserves the result's identity.
 
 A desk walkthrough tests the description. A trial against the actual provision tests more: whether the request reaches the right System, the operation works under the stated conditions and the result can be used. Keep those evidence claims separate. SYSE.12 distinguishes a readiness assessment made before relying work from a later assessment of actual use; SYSE.36 helps observe software-service user tasks. Stop at the design result or bounded trial result that the current decision needs.
 

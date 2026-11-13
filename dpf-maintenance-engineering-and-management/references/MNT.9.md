@@ -56,7 +56,7 @@ When the actual condition differs from the expected one, determine what changes.
 
 Handle interruption explicitly. Preserve a condition that the next practitioner can safely recognize, transfer the relevant unfinished work and protection through the applicable arrangement, and re-establish any condition that no longer has usable support. If fatigue or working conditions impair the task, change allocation, relief or timing. The completion pressure does not supply capability.
 
-Preserve the facts that later users actually need. These commonly include material actions, installed or removed part identities, relevant settings and measurements, deviations from the selected work and unresolved conditions. Use the existing maintenance record when it serves that purpose. Applicable regulatory or organizational retention requirements remain in force; the framework does not create a separate universal bundle.
+Preserve the facts that later users actually need. These commonly include material actions, installed or removed part identities, relevant settings and measurements, deviations from the selected work and unresolved conditions. Use the existing maintenance record when it serves that purpose. Applicable regulatory or organizational retention requirements remain in force.
 
 Keep statements at their supported level. “Bearing installed using the applicable procedure” concerns the intervention. “The required flow is restored” needs functioning evidence. “This recurring failure has been eliminated” needs a different horizon and causal basis. Link those later results when they exist without assigning them to a task-completion entry.
 
@@ -94,7 +94,7 @@ The tester and operator receive an account that corresponds to the intervention,
 
 ### MNT.9:10 - Architectural Rationale
 
-Performance and its account are joined because later maintenance decisions rely on that correspondence. The Method does not make the record the work itself. Separating intervention evidence from functioning and release prevents one completion claim from silently taking on several incompatible meanings.
+Performance and its account are joined because later maintenance decisions rely on that correspondence. Separating intervention evidence from functioning and release prevents one completion claim from silently taking on several incompatible meanings.
 
 ### MNT.9:11 - SoTA-Echoing
 

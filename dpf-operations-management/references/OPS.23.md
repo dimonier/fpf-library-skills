@@ -66,7 +66,7 @@ These are connected questions to keep in attention. Their answers constrain one 
 
 **Return observations to the answers they change.** OPS.15 keeps the observed result and its population clear; OPS.18 distinguishes containment, correction and evidence about recurrence. If a constraint moves, a return consumes a reserve or an input becomes unavailable, reconsider the starts, commitments and resource choices that relied on the earlier condition. Keep unrelated valid results. A change to the way of working uses OPS.16 with its own trial conditions, including coexistence with continuing service. This can improve an operation; continued development toward further problems requires its own purpose and means, described in FPF C.40.OD. The operational mantra supplies the operating conditions for that undertaking without making every operating correction a development project.
 
-The connection works at a workplace as well as across an organization. A worker can revise a permissible local choice from the shared operating facts; a change to another person's commitment, resource allocation or protected condition must reach whoever can decide it. The mantra helps keep that shared reasoning recoverable. It neither gives one participant authority over the whole operation nor requires everyone to maintain a complete enterprise model.
+The connection works at a workplace as well as across an organization. A worker can revise a permissible local choice from the shared operating facts; a change to another person's commitment, resource allocation or protected condition must reach whoever can decide it. The mantra helps keep that shared reasoning recoverable.
 
 #### OPS.23:4.1 - Assemble the decision and select its next useful question
 
@@ -76,7 +76,7 @@ Follow a suspected mismatch in both directions. If a test cannot finish on time,
 
 A current sufficient answer closes the question. Otherwise choose the next inquiry, coordination or permitted operating action by the consequence its result can change. State the first missing fact or decision when action remains unavailable. Do not treat every unknown as an obstacle to independent work, or issue a commitment merely to make the account look complete.
 
-Recognition and assurance are different. A plausible mismatch is enough to select this Method. Reliance on a schedule, service promise, causal diagnosis or protected human condition needs the corresponding qualified result. The connected account retains those limits rather than producing one new blanket assurance verdict.
+Recognition and assurance are different. A plausible mismatch is enough to select this Method. Reliance on a schedule, service promise, causal diagnosis or protected human condition needs the corresponding qualified result.
 
 ### OPS.23:5 - Archetypal Grounding
 
@@ -90,7 +90,7 @@ Suppose additional rig hours are offered while specialist relief is still unavai
 
 #### OPS.23:5.2 - One workplace can need the same connection
 
-A technician has a finished repair and wants to begin the next. Under the stated working conditions, the recipient can use the repair only after an acceptance test, and the test fixture will be free in the afternoon. Preparing the required test input now can advance the accepted result more than beginning another repair. If that preparation is already complete, a permissible independent task can proceed instead. The Method does not impose idleness or a universal WIP number; it relates the local choice to the actual missing contribution and current permissions.
+A technician has a finished repair and wants to begin the next. Under the stated working conditions, the recipient can use the repair only after an acceptance test, and the test fixture will be free in the afternoon. Preparing the required test input now can advance the accepted result more than beginning another repair. If that preparation is already complete, a permissible independent task can proceed instead. Relate the local choice to the missing contribution and current permissions.
 
 If the recipient cancels the afternoon acceptance window, the technically finished repair remains finished. The service promise and useful next action change. Seek the revised receiving decision instead of reporting the local completion as delivered service or silently making a new promise.
 
@@ -123,13 +123,13 @@ Participants can explain why a local action helps, why an apparently feasible st
 
 ### OPS.23:10 - Architectural Rationale
 
-The reusable move is assembling and revising a coherent operating judgement. It is distinct from producing each contributing answer and from resolving one already identified conflict. A person, team or organization can need it; scale does not change readiness into permission or local completion into receiving use. The compact mantra aids attention to the connected explanation. The mnemonic alone does not establish a learning advantage.
+The reusable move is assembling and revising a coherent operating judgement. It is distinct from producing each contributing answer and from resolving one already identified conflict. A person, team or organization can need it; scale does not change readiness into permission or local completion into receiving use. The compact mantra aids attention to the connected explanation.
 
 ### OPS.23:11 - SoTA-Echoing
 
 The serious smaller alternative is direct use of a competent current workflow and its operating rules. The [Kanban Guide, May 2025](https://kanbanguides.org/the-kanban-guide/2025.5/), sections “Why Use Kanban?”, “Defining and Visualizing the Workflow” and “Improving the Workflow”, connects value, workflow definition, active management and improvement. Its treatment permits multiple workflow definitions and contextual additions; it is not merely a board or an activity count. Reuse such an account when it already makes the relevant promise, provision and response clear.
 
-This Method adds a needed construction only when those answers remain disconnected for the receiving decision. In the PumpWorks case, a correct resource schedule alone leaves the specialist, incident-response, recovery and later-disposition questions unanswered. The remedy is to obtain those answers and reconcile their consequences, not to reject Kanban or impose another enterprise model. OPS.8–OPS.14 and OPS.19 retain the specific flow, scheduling, service and financial source qualifications. Their results are used under those conditions; neither this synthesis nor the worked cases establish superiority across operations.
+This Method adds a needed construction only when those answers remain disconnected for the receiving decision. In the PumpWorks case, a correct resource schedule alone leaves the specialist, incident-response, recovery and later-disposition questions unanswered. The remedy is to obtain those answers and reconcile their consequences, not to reject Kanban or impose another enterprise model. OPS.8–OPS.14 and OPS.19 retain the specific flow, scheduling, service and financial source qualifications. Use their results under those conditions.
 
 Keep the simpler arrangement if it supplies the same judgement with less reconstruction. Reopen this choice when an operating method supplies the missing connection directly, a changed receiving condition invalidates a join, or use shows that maintaining the account costs more than the decisions it improves.
 

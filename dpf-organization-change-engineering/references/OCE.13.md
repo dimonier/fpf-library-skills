@@ -66,7 +66,7 @@ The practitioner needs to assemble the consequences that can change the decision
 
 Choose the consequence questions from the receiving decision, obtain or reuse observations at their supported scope, compare them without hiding conflicting effects, and state the next usable result or gap.
 
-Recognition needs only a consequential unanswered question. Assurance depends on how the comparison will be used. An ordinary count under an agreed procedure can support a bounded descriptive claim. A patient-effect estimate, a causal claim, a general reliability claim or an assertion about a whole population requires the corresponding professional method and evidence. More polished reporting does not strengthen the underlying claim.
+Recognition needs only a consequential unanswered question. Assurance depends on how the comparison will be used. An ordinary count under an agreed procedure can support a bounded descriptive claim. A patient-effect estimate, a causal claim, a general reliability claim or an assertion about a whole population requires the corresponding professional method and evidence.
 
 #### OCE.13:4.1 - Start with the decision and what could change it
 
@@ -221,7 +221,7 @@ Participant evidence can expose what records omit, but contributors may face une
 
 The practitioner obtains a result that can support a specific next decision without concealing displaced work or overstating causation. A useful local contrast can survive an unresolved wider question, and a missing observation becomes an actionable request rather than a vague demand for more study.
 
-The cost includes participants and providers as well as analysis: comparability, access, interpretation, reconciliation, return, displaced work and continued support while waiting. An existing competent result can avoid a new inquiry. An extension may instead justify greater effort for an earlier or better-supported choice, as in PumpWorks; neither its narrower scope nor its OCE label proves economy. A late or inaccessible result can make a narrower return, permitted deferral or separately authorized precaution the better continuation.
+The cost includes participants and providers as well as analysis: comparability, access, interpretation, reconciliation, return, displaced work and continued support while waiting. An existing competent result can avoid a new inquiry. An extension may instead justify greater effort for an earlier or better-supported choice, as in PumpWorks. A late or inaccessible result can make a narrower return, permitted deferral or separately authorized precaution the better continuation.
 
 ### OCE.13:10 - Rationale
 

@@ -46,7 +46,7 @@ Do not use OPS.2 to classify Work into a universal natural kind, infer performed
 
 | Name used here | Meaning |
 | --- | --- |
-| Work | Intended or performed activity under its governing FPF pattern. A management view describes or coordinates Work; it does not create another Work occurrence. |
+| Work | Actual dated activity under its governing FPF pattern, including the enacted Method. Intended activity belongs to a plan or proposal. A management view describes or coordinates Work; it does not create another Work occurrence. |
 | viewpoint question | The exact question a view must answer for a named user and decision, such as dates and allocation, repeatability, changing subject state, aggregate waiting, or feedback and rate separation. |
 | Work-management mode | The selected use of one or more descriptions and coordination Methods for the current Work and questions. It is a decision result, not a Work kind or maturity stage. |
 | project view | A description emphasizing a time-bounded undertaking, commitments, intended results, decisions, dates, WorkPlan content, allocation, dependencies, and closure conditions. |
@@ -90,17 +90,19 @@ Select views and coordination Methods from the operating questions they must ans
 1. **Recover the operating input.** Start from the OPS.1 operating System, continuing result, commitments, subjects, units, horizon, and decision. Stop if the mode question is only a label preference.
 2. **List the viewpoint questions.** Name each user, decision, subject, grain, horizon, and missing information. Separate planning, recurring execution, case continuation, aggregate waiting/capacity, and control questions.
 3. **Generate serious view candidates.** Include project or programme, process, case, queueing, and control-structure views only where their questions are current. Include the incumbent as the no-change option, and a simpler view when it is a plausible alternative.
-4. **Compare fit to the current Work.** Examine predictability, recurrence, subject identity, decision latency, runtime discretion, plannability, shared-resource coupling, exception frequency, evidence refresh, and authority. These are comparison prompts, not a universal scoring formula.
+4. **Compare fit to the current Work.** Examine the conditions that distinguish the serious candidates: for example, predictability, recurrence, subject identity, decision latency, runtime discretion, plannability, shared-resource coupling, exception frequency, evidence refresh or authority. Reuse an adequate existing selection when its grounds still hold.
 5. **Select the coordination Method separately.** Recover the actual rule or reusable way currently used: what fact permits a start or continuation, who applies it, what it orders, what evidence it needs and when it stops. Use `OPS.17:4.1`–`OPS.17:4.4` when a real alternative or combination must be chosen. Compare the incumbent with that alternative at the same operating decision and include application and maintenance effort. Retain the incumbent when adequate. A notation, board, model or view alone is not this rule.
-6. **Select actual structures independently.** Use `A.22` when a transformation-flow, queue/resource-dependency, commitment, event, case-state, control, or other actual structure changes the decision. A mathematical graph or diagram remains a representation.
-7. **Use the control branch conditionally.** When observation, decision, actuation, supervision, feedback, or rate separation changes coordination, use `A.22` and `C.30.LCA` to identify one selected control structure and recover the needed view. Use `B.2.5` only for an obtaining two-sided supervisor relation and `C.27.TA`, `C.27`, or `A.3.3` for the exact rate, temporal, or dynamics claim. Stop without a control view when no control relation changes the decision.
+6. **Qualify a selected structure when needed.** Use `A.22` when the decision needs a claim about a selected transformation-flow, queue/resource-dependency, commitment, event, case-state, control or other structure. Preserve its actual constituents and relations. A mathematical graph or diagram represents that subject under its own correspondence conditions.
+7. **Use the control branch conditionally.** When observation, decision, influence or their timing changes coordination, use `C.43` to recover the actual participants, information, choice, realization and return. That ordinary account can suffice. Use `A.22` and `C.30.LCA` when a selected control structure and view are needed; use `B.2.5` only for an obtaining two-sided supervisor relation and `C.27.TA`, `C.27` or `A.3.3` for the exact rate, temporal or dynamics claim. Stop without a control account when no such relation changes the decision.
 8. **Compose views explicitly.** State the shared subjects, relevant grain and horizon, state and evidence correspondence, governing commitments, receiving decisions, handoff and update rules. If Methods coexist, settle which rule governs a disputed permission, ordering, resource or stop decision; retain the other rule where its conditions still hold. Use the existing `OPS.17:4.4` composition result where current. An unresolved conflict returns to its authority; a “hybrid” label does not settle it.
-9. **Work one consequential change.** In a bounded replay, change an input that the selected rule actually uses, apply the resulting permitted action or stop, and identify the unaffected subwork. A new fact may retire one exception without changing the recurring procedure, the case identity or every view. Record what the next participant can still rely on.
-10. **Return and reopen.** Record selected and rejected views, coordination Methods, unresolved correspondences, next subject-account need, and one observation that reopens the decision.
+9. **Examine a consequential change when its handling is unresolved.** For a new or changed rule or an uncertain correspondence, change an input the rule uses and apply the resulting permitted action or stop. Identify unaffected subwork: a new fact may retire one exception without changing the recurring procedure, case identity or every view. Reuse a current qualifying replay or operating observation when it already answers this question; communicate what the next participant can still rely on.
+10. **Return the selection.** State the views and coordination Methods to use, the grounds for a material rejection, and any unresolved correspondence or needed input. A sufficient existing selection can finish the decision. Identify revision conditions when the selection will be maintained or reused.
 
-#### OPS.2:4.2 - Record the Result
+#### OPS.2:4.2 - Carry the Result
 
-| Result position | Required content |
+Use the current coordination account when adequate. The following content is needed only for the questions and combinations selected above; retain it in a record when the receiving use or governing requirement needs one.
+
+| Result position | Content for the receiving use |
 | --- | --- |
 | use boundary | Users, decisions, subjects, grains, horizons, and useful stop. |
 | viewpoint questions | The planning, recurrence, case-state, aggregate waiting/capacity, control, or other exact questions that remain current. |
@@ -108,8 +110,8 @@ Select views and coordination Methods from the operating questions they must ans
 | coordination Methods | Named Methods, applicability, burden, evidence, authority, and stops; no identity with the view or tool. |
 | selected structures | Exact actual structures and direct relations relied on, plus representation and mathematical-lens boundaries. |
 | mixed-mode correspondences | Subjects, grains, commitments, state correspondence, handoffs/coexistence, update and decision rules, conflicts, and stops. |
-| control branch | When a control question can change coordination, the selected FPF control view and relied-on relation or rate claims, or the missing result to obtain. |
-| continuation | Inputs supplied to OPS.3/OPS.4 and an observable reopen condition. |
+| control branch | Actual information, choice, influence and return needed by the operating question; a selected control view and qualified relation, rate or dynamics claims when that stronger use is needed, or the precise missing result. |
+| continuation | Any still-needed subject or state-account input; revision conditions for a maintained or reused selection. |
 
 #### OPS.2:4.3 - What Changes in Practice
 
@@ -164,11 +166,11 @@ Reopen the mode decision when a new subject cannot be related across views, a pl
 - [ ] Work identity is preserved across every selected view.
 - [ ] Project, programme, process, case, queueing, and control are selected for questions rather than declared natural Work kinds.
 - [ ] Coordination Methods, views, actual structures, diagrams, and tools remain distinct.
-- [ ] Selection considers predictability, recurrence, subject identity, decision latency, runtime discretion, plannability, and relevant coupling without pretending to use a universal score.
+- [ ] Selection uses the conditions that distinguish the serious candidates and reuses an adequate current answer.
 - [ ] Every mixed-mode use states subject and grain correspondence, commitments, coexistence or handoff, update and decision rules, conflicts, and stops.
 - [ ] The control branch names actual participants and direct relations only where they obtain and returns rate/dynamics claims to their FPF owners.
 - [ ] A changed case or cross-view probe can expose a failed selection or correspondence.
-- [ ] Rejected views, unresolved gaps, next inputs, and a reopen condition are explicit.
+- [ ] Material rejection grounds, unresolved gaps and any required continuation are explicit; maintained or reused selections retain their revision conditions.
 
 ### OPS.2:8 - Common Anti-Patterns and How to Avoid Them
 
@@ -199,12 +201,12 @@ At PumpWorks, such an arrangement can retain T8's procedure while a case manager
 
 This synthesis costs rule recovery, agreement on the one disputed decision, mapping of the shared subject and evidence, and maintenance of that correspondence. It can be more expensive than using a capable integrated case model, especially when one owner already maintains all relevant policies. Its conditional gain is avoiding an unsupported cross-view action when those policies were separately governed. Stop adding views when their answers cannot change a decision; retire a duplicate view rather than paying its synchronization cost.
 
-OPS adopts CMMN's coexistence of planned and discretionary work, and the DCR tradition's explicit conditions and responses, without claiming that either source automatically gives domain evidence or external authority. The [Kanban Guide](https://kanbanguides.org/the-kanban-guide/2025.5/) supplies the bounded flow-policy contribution. FPF `A.22`, `C.29`, `C.30.LCA` and the applicable temporal patterns govern selected structures, representations and control claims; a control view is still conditional. Reopen when the integrated incumbent already settles the same conflicts more simply, or a new case defeats a relied-on composition rule.
+OPS adopts CMMN's coexistence of planned and discretionary work, and the DCR tradition's explicit conditions and responses, without claiming that either source automatically gives domain evidence or external authority. The [Kanban Guide](https://kanbanguides.org/the-kanban-guide/2025.5/) supplies the bounded flow-policy contribution. FPF `C.43` supplies the ordinary control account; `A.22`, `C.29`, `C.30.LCA` and the applicable temporal patterns govern selected structures, mathematical representations and stronger control claims. Reopen when the integrated incumbent already settles the same conflicts more simply, or a new case defeats a relied-on composition rule.
 
 ### OPS.2:12 - Relations
 
 - `OPS.1` supplies the operating System, continuing result, commitments, subjects, units, horizon, and control concern.
-- `A.22` governs selected structures; `C.29` governs mathematical-lens use; `C.30.LCA`, `B.2.5`, `C.27.TA`, `C.27`, and `A.3.3` govern the conditional control branch.
+- `C.43` supplies the ordinary control account. `A.22` governs selected structures; `C.29` governs mathematical-lens use; `C.30.LCA`, `B.2.5`, `C.27.TA`, `C.27` and `A.3.3` govern the corresponding view, supervisor, rate, temporal and dynamics claims when needed.
 - `OPS.3` receives selected subjects, grains, view correspondences, direct-relation questions, and representation gaps. `OPS.4` receives the selected participant views and their state-correspondence obligations.
 - `OPS.5` later consumes the selected coordination form for admission. `OPS.6` later consumes case-state and continuation needs. `OPS.8`–`OPS.11` later consume queue, constraint, capacity, and interacting-structure questions without making those structures values of one mode taxonomy.
 - Project Management, case management, BPM, Kanban, SRE, and other practices offer candidate coordination Methods. Select a particular Method using its applicability conditions and evidence.

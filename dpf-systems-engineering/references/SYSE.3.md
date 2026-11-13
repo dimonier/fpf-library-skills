@@ -216,9 +216,9 @@ or revising the architecture candidate. Select the
 action that resolves the first unsupported answer; do not schedule every visible branch.
 
 The WorkPlan states intended Work and its conditions. Establish every later assignment, capability, resource
-availability, relation, Work occurrence, transformation, and result through its direct evidence and pattern. When Work is later performed, use `A.15.1` and `F.6` for its performer and
-attribution, `A.3.4` for actual changes, and `A.15.PROD` for production, identity-inception, or completion
-claims. Compare the resulting facts with the plan only when that separate question is current.
+availability, relation, Work occurrence, transformation, and result through its direct evidence and pattern. When Work is later performed, use `A.13` for its actual performer and `A.15.1` for independent Work admission,
+`F.6` when precise assignment-bound attribution is needed, `A.3.4` for actual changes, and `A.15.PROD` for
+production, identity-inception, or completion claims. Compare the resulting facts with the plan only when that separate question is current.
 
 #### SYSE.3:4.6 - Obtain specialist results without absorbing their Methods
 
@@ -305,7 +305,7 @@ For this case, the PlanItem records the following intended Work and conditions:
 | Intended Work | Compare feasible fixture and welding arrangements for the selected manifold material, geometry, tolerance, access, and interface conditions. |
 | Intended performer and local role condition | The already admitted System `StationRealizationEngineeringTeam-2` is the intended performer. The plan requires a positive classification judgment under local `FixtureAndSupplierFeasibilityInvestigatorSystemRole`, constituted in `StationRealizationFeasibilityPractice-2026` by the assignable contribution of comparing fixture-and-weld branches and producing `FixtureAndWeldFeasibilityAccount-1`. This investigation-facing condition is distinct from `SupplierWeldCell-4` as the candidate transformer System for later welding Work. The plan establishes neither the classification judgment nor an assignment occurrence. |
 | Method, capability, resources, and dependencies | The plan names `FixtureAndSupplierFeasibilityMethod-v2`; requires a current capability-fit result for the engineering team before Work entry; and supplies the architecture candidate, manifold material and geometry claims, access conditions, supplier capability statements, and their evidence references as inputs. These planned conditions establish no capability or resource availability. |
-| Planned result and affected earlier answer | The intended result is `FixtureAndWeldFeasibilityAccount-1`, which identifies a supported fixture-and-supplier branch or names the failed interface, material, module, or placement assumption that requires renewed `C.32` comparison. The result does not yet exist merely because the PlanItem names it. |
+| Planned result and affected earlier answer | The intended result is `FixtureAndWeldFeasibilityAccount-1`, which identifies a supported fixture-and-supplier branch or names the failed interface, material, module, or placement assumption that requires renewed `C.32` comparison. |
 
 `Station7RecursiveRealizationArrangement-R1 : U.Episteme` is the case result. Its EntityOfConcern is
 `StationArchitectureDecision-7` for the bounded station-realization question. It cites the provisional
@@ -317,9 +317,7 @@ If the fixture itself must be developed, that need opens one recursive branch fo
 capability. The engineer stops there unless this branch changes the immediate investigation. If no admissible
 weld or fixture branch remains, the engineer reopens the `C.32` comparison of interface, material, module split,
 and placement alternatives. The engineer reassesses the linked station concept under `SYSE.2` only if the concept or outside-use claim must change.
-The fixture does not become part of the pump merely because realization needs it. The supplier's shop title
-does not establish welding capability, and the WorkPlan does not establish that welding Work or manifold
-change occurred.
+The fixture does not become part of the pump merely because realization needs it.
 
 
 #### SYSE.3:5.2 - Manufacturer's ERP-enabled planning change
@@ -349,8 +347,7 @@ If the gap concerns who may change source definitions, which organization holds 
 authority relation applies, the engineer obtains that result from Organization Engineering or Governance
 rather than encoding it as a technical interface. If the branch cannot preserve the required decision timing
 or data meaning, the engineer reopens the `C.32` comparison of interface, placement, and responsibility
-structures. The engineer reassesses the linked planning concept under `SYSE.2` only when the planning-use claim must change. The words *platform* and *migration pipeline* establish
-neither integration capability nor one universal Work order.
+structures. The engineer reassesses the linked planning concept under `SYSE.2` only when the planning-use claim must change.
 
 
 #### SYSE.3:5.3 - Occupied building retrofit

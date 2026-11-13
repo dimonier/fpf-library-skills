@@ -87,7 +87,7 @@ Use effort arithmetic where the units are comparable, but keep reliability, risk
 
 When an intervention is selected, construct a bounded change that can test the proposed gain without losing the required result. Retaining the current method or an unresolved comparison creates no intervention or trial requirement. For an interface change, SYSE.26 or SYSE.27 supplies the supported-use and compatibility work. For automation, define the actual input, permitted operation, result and failure/exception behavior.
 
-Retain necessary judgment and authority. Retrieving an already authorized result is different from granting new access or accepting a nonconforming product. An automated wrapper cannot supply a missing decision Method or appointment.
+Retain necessary judgment and authority. Retrieving an already authorized result is different from granting new access or accepting a nonconforming product.
 
 Provide a qualified stop or return for unsupported cases and uncertain effects. Use actual maintenance and support capability, not a generic statement that “the team will own it.” Keep any temporary workaround's limits and removal condition visible.
 

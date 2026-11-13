@@ -200,9 +200,9 @@ Before:
 
 After:
 
-> In this configuration the database waits for replica acknowledgement before confirming a commit. That choice protects the required consistency but increases the service's response time. To change the trade-off, consult the configuration decision and measured latency; the personification only helped introduce it.
+> In this configuration the database waits for replica acknowledgement before confirming a commit. That choice protects the required consistency but increases the service's response time. To change the trade-off, consult the configuration decision and measured latency.
 
-This repair keeps the narrative value while protecting ontology. The viewpoint is a lens over selected source structures, not a new actor.
+
 
 
 
@@ -229,7 +229,7 @@ NarrativeViewpointRecord@FutureUserScenario:
 
 Keep wording that already makes the relevant action clear. If a viewpoint hides a needed relation, add that relation, change perspective or name the responsible participant. Mark a scenario or metaphor when the reader could otherwise rely on it as an observation. Replace the device if its effect depends on concealing a fact needed for the intended use.
 
-To compare alternatives, try a short literal account or another viewpoint and ask what the reader can now recover. For the database case, the comparison is whether the reader can explain the wait and locate the configurable choice. For the future-user case, it is whether the reader distinguishes a proposed experience from observed user evidence. Use `NSTD.6` when a declared quality result is needed; these diagnostic questions are not a second ordinal scale.
+To compare alternatives, try a short literal account or another viewpoint and ask what the reader can now recover. For the database case, the comparison is whether the reader can explain the wait and locate the configurable choice. For the future-user case, it is whether the reader distinguishes a proposed experience from observed user evidence. Use `NSTD.6` when a declared quality result is needed.
 
 
 
@@ -321,7 +321,7 @@ An initial treatment tries to make the voice warmer:
 
 The editor rejects two specific choices. The opening invents experience absent from the material. The closing asks the reader to share a judgement before seeing the decisive conditions. Adding Mira's short sentences or “I” would leave both problems. The next treatment instead uses her example's movement from detail to bounded judgement:
 
-> The report gives a small, tidy success: in three tests at 20 °C, the sensor's absolute error stayed within 1 °C. The proposed cold store operates below 5 °C. There are no test results for that range. A colder room is doing rather a lot of work in this purchase decision. Before selecting the sensor, we need results from its intended operating range against the same error limit.
+> The report gives a small, tidy success: in three tests at 20 °C, the sensor's absolute error stayed within 1 °C. The proposed cold store operates below 5 °C. There are no test results for that range. A colder room is doing rather a lot of work in this purchase decision. Before selecting the sensor, we need adequate evidence that it meets the same error limit in its intended operating range.
 
 Read between the purchase proposal and the next paragraph, the passage supplies a reason to seek the additional evidence. The lightly ironic fourth sentence belongs to the selected essay treatment. The final “we” includes the writer and reader in the decision being examined; another relationship could state “the purchaser needs” instead. Neither choice is a general recipe for voice.
 
@@ -329,7 +329,7 @@ The comparisons yield different conclusions. The passage realizes the selected p
 
 Now Mira needs a formal recommendation to a purchasing committee. The intended voice still treats the reader as capable and makes the decisive limitation inspectable, but the committee needs the recommendation immediately. The editor retains that relationship, moves the decision first and drops the reflective joke:
 
-> Defer selection until the sensor has been tested in the cold store's operating range against the 1 °C error limit. The three reported tests met that limit at 20 °C; no results below 5 °C are supplied. They therefore do not establish that the sensor meets the requirement in the proposed cold store.
+> Defer selection until adequate evidence establishes that the sensor meets the 1 °C error limit in the cold store's operating range. The three reported tests met that limit at 20 °C; no results below 5 °C are supplied.
 
 This changed occasion alters order, rhythm and address while retaining the evidence-to-judgement relation. Blindly retaining the joke or first-person recollection would have mistaken a local realization for the whole voice. If Mira instead required a deliberately personal public statement, that different choice would reopen the treatment, not the supplied temperature facts.
 
@@ -387,7 +387,7 @@ The benefit is a usable way to obtain and continue the requested voice, includin
 
 Voice and focalization change how a reader encounters events, knowledge and consequences. Relating expressive choices to a speaking relationship explains why some can carry into a new passage while others must change. Comparing connected expression makes that choice inspectable without reducing a voice to a fixed list of words or sentence lengths.
 
-Meaning and attribution constrain this construction because the chosen expression invites inferences about who knows, experiences or does what. A single viewpoint is often sufficient for a scene; an explanation or decision may need another perspective when the first conceals a relevant participant or relation. Separate comparisons keep a successful manner from standing in for those different grounds. The method is a reasoned authoring synthesis; its general usefulness does not establish an empirical success rate across authors, languages or readers.
+Meaning and attribution constrain this construction because the chosen expression invites inferences about who knows, experiences or does what. A single viewpoint is often sufficient for a scene; an explanation or decision may need another perspective when the first conceals a relevant participant or relation. Separate comparisons keep a successful manner from standing in for those different grounds. The method is a reasoned authoring synthesis.
 
 ### NSTD.4:11 - SoTA-Echoing
 
@@ -401,7 +401,7 @@ For constructing a continuing voice, Kumar et al.'s [Whose story is it?](https:/
 
 Two 2026 preprints qualify the choice. Zhang, Bu and Dhillon's [Who Owns the Text?](https://arxiv.org/html/2601.10236v1) distinguishes an assistant's coaching persona from personalization to the writer's style; its short writing tasks and combined design do not establish each design element's isolated effect. Van Nuenen's [Voice Under Revision](https://arxiv.org/html/2604.22142v1) finds aggregate stylistic shifts in English personal narratives even under preservation instructions. Its measured features are proxies, not a determination of any particular reader's recognition. These results support inspecting the actual rewrite, not a universal profile, approval sequence or diagnostic score.
 
-Direct use of an apt example is a serious alternative to an explicit profile: it retains expression that a summary can miss and can be sufficient for a short continuation. Working observations help when several contributors, a changed genre or a recurrent loss make the relevant choices hard to carry. A broader maintained profile costs more to construct and can overgeneralize the samples; use it when repeated work benefits from that additional account. In all three arrangements, the decisive comparison concerns the new passage, its required content and its use. The construction across existing voices, stylization and new narrators in NSTD.4:4 is this DPF's synthesis, not a validated universal algorithm reported by the cited studies.
+Direct use of an apt example is a serious alternative to an explicit profile: it retains expression that a summary can miss and can be sufficient for a short continuation. Working observations help when several contributors, a changed genre or a recurrent loss make the relevant choices hard to carry. A broader maintained profile costs more to construct and can overgeneralize the samples; use it when repeated work benefits from that additional account. In all three arrangements, the decisive comparison concerns the new passage, its required content and its use. The construction across existing voices, stylization and new narrators in NSTD.4:4 is this DPF's synthesis.
 
 ### NSTD.4:12 - Relations
 

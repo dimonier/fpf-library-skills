@@ -115,7 +115,7 @@ At a proposed connection between branches, make the receiving action explicit:
 
 To test a claimed dependency, remove the supplying result in thought while keeping the other conditions fixed. Identify the specific receiving operation that becomes impossible or inadequate. If existing knowledge still supports the product, the new research is not a prerequisite for that product. Its scientific worth can remain a separate reason to fund it. If an unknown operation is indispensable to the product promise, either construct it, commission an appropriately bounded inquiry, use another way, or narrow the promise. A research schedule cannot guarantee discovery.
 
-For each real dependency, explain why the supplied result meets the receiver's conditions. A general method account may need a subject model, permitted data, an interpretation and a preparation arrangement before it can be used. Perform that connection on a representative piece of material. A matching title is not enough. Retain a gap when the necessary operation remains unknown, but continue every branch whose grounds do not depend on it.
+For each real dependency, explain why the supplied result meets the receiver's conditions. A general method account may need a subject model, permitted data, an interpretation and a preparation arrangement before it can be used. Perform that connection on a representative piece of material. Retain a gap when the necessary operation remains unknown, but continue every branch whose grounds do not depend on it.
 
 Distinguish development of content from its first use and its later improvement. An AI-produced explanation might help a practitioner perform a familiar operation immediately. A new reusable method requires its own construction and grounds; a new capability requires evidence about the subject that acquired it. Include the actual context, tools, interpretation, checking and repair needed by the chosen AI use in its demand.
 
@@ -351,7 +351,7 @@ Use these questions to examine the construction, not as a separate form required
 - Does the comparison retain protected conditions, meaningful characteristic scales, uncertainty, displaced work and the actual accepted trade-off?
 - Can the next performer identify what is now authorized and what remains conditional?
 - Does a changed shared contribution reopen its affected uses without needlessly stopping independent branches?
-- After success, can the organization identify a worthwhile next development question without mistaking routine repetition for a new capability?
+- Where further development is intended, can the organization identify a worthwhile next development question after success without mistaking routine repetition for a new capability?
 
 These questions can establish the intelligibility and conditional coherence of the proposal. Empirical effectiveness, safety, research truth, learning transfer and actual organizational capability need their own evidence.
 
@@ -373,9 +373,9 @@ These questions can establish the intelligibility and conditional coherence of t
 
 The organization obtains a portfolio it can reason about and take into action through bounded decisions. Shared support becomes an explicit contribution with costs and receivers. Independent research and cultural work can remain visible without invented sales dependencies. A resource change can lead to a precise reconstruction rather than an indiscriminate cut.
 
-The construction costs joint attention and qualified estimates. It can expose that a desired combination is currently unavailable. Sharing can create common failure and maintenance obligations; separate provision can create repetition and divergence. Neither cost disappears because the portfolio is well explained.
+The construction costs joint attention and qualified estimates. It can expose that a desired combination is currently unavailable. Sharing can create common failure and maintenance obligations; separate provision can create repetition and divergence.
 
-The result supports a start and subsequent reconsideration. It supplies no guarantee that research will produce a preferred answer, clients will buy, a participant will learn, or the organization will acquire the intended capability.
+The result supports a start and subsequent reconsideration.
 
 ### STR.16:10 - Architectural Rationale
 

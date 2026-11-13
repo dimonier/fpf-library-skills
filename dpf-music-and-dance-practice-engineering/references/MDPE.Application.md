@@ -89,8 +89,7 @@ readability, safety, performer burden, available time, and what another observat
 one unfamiliar-partner transfer trial and keeps the present event block for one month. It does not buy the larger
 slot yet.
 
-Video views, applause, one event, and the changed configuration do not establish transmission, continuation,
-cultural selection, or a new whole.
+
 
 The case stops without `MDPE.17`, `MDPE.19`, or `MDPE.24`: no second receiving group, delayed reproduction, or
 independently persistent whole is yet part of the decision. If the team asks whether another receiving group can
@@ -197,7 +196,7 @@ Ask the analogous question of a recording or notation: what must the receiving p
 
 ### MDPE.Application:2.6 - Keep the useful result when the next question changes
 
-Return selectively. An impossible physical requirement reopens the model, means or brief; an unnoticed cue reopens recognition and presentation; recognized but unavailable action reopens practice or selection; an unclear artistic relation reopens composition or its intended effect. Preserve a valid calculation when changing the choreography, and preserve useful movement material when abandoning an inaccurate analogy. A single rating of “successful workshop” would erase these different results.
+Return selectively. An impossible physical requirement reopens the model, means or brief; an unnoticed cue reopens recognition and presentation; recognized but unavailable action reopens practice or selection; an unclear artistic relation reopens composition or its intended effect. Preserve a valid calculation when changing the choreography, and preserve useful movement material when abandoning an inaccurate analogy.
 
 For an actual teaching design, select the learners, accessible encounters, support and evidence with HCD, and use MDPE.17 when the claim concerns transmission of a dance method. Later work on [embodied physics learning](https://doi.org/10.1080/10508406.2021.2023543) and [formative assessment](https://doi.org/10.1080/10508406.2025.2569583) treats learners' movement, language and cultural experience as resources for expressing and revising ideas. This reinforces asking participants to explain their meaning rather than assigning it from a gesture. It does not make this application an evaluated curriculum or guarantee transfer from artistic activity to scientific understanding. The constructive source here remains Coates and Demers' book; the fixed-score cases in [MDPE.29](#mdpe29---compose-movement-from-a-physical-relation-or-scientific-image) develop one of its composition branches in greater detail.
 
@@ -245,7 +244,7 @@ Use [MDPE.30](#mdpe30---construct-a-rhythmic-part-from-a-seed-phase-and-action-r
 
 ### MDPE.Application:4.5 - Return the useful part and its limits
 
-[MDPE.30:4.4](#mdpe3044---try-the-receiving-part-and-retain-the-usable-result) connects the score to a receiving trial and retains the actual conditions of use. Application 5.3 develops the related distinction between a method's structure, understanding its description and acquiring performing capability.
+[MDPE.30:4.4](#mdpe3044---try-the-receiving-part-and-retain-the-usable-result) returns the constructed part or supported receiving use and selects a receiving trial when needed. Application 5.3 develops the related distinction between a method's structure, understanding its description and acquiring performing capability.
 
 ## MDPE.Application:5 - Participation, learning, recognition and renewal in music and movement practices
 
@@ -302,7 +301,7 @@ The following entries recover different uses of recurring labels. They are not a
 
 An event can advertise several forms under an umbrella while teachers distinguish them more narrowly. For example, an organizer may include authentic kizomba, urban kiz, tarraxo, semba, compa and an afro-animation segment under a local event label. That programme is not evidence that the names denote disjoint movement kinds, that every name denotes the same kind of subject, or that every community accepts the umbrella. Recover the exact programme and the claim before using such a list.
 
-Write the shortest ordinary sentence that preserves the needed distinctions and the useful action. Then return to that action. Do not require a learner or organizer to complete an ontology form before booking a room or trying a clearly specified phrase.
+Write the shortest ordinary sentence that preserves the needed distinctions and the useful action. Then return to that action.
 
 #### MDPE.Application:5.2.4 - Apply the restoration to a cross-combination
 
@@ -399,7 +398,7 @@ For the current learning question, name the particular relations and operations 
 | Coordinate the response in time | The learner recovers the timing relation | The response occurs within the local receiving criterion | Develop coordination or change support; another verbal explanation alone may be insufficient. |
 | Adapt after an unfamiliar response | The learner reconstructs why the original continuation no longer fits | A changed partner or condition yields a usable recovery | Work on the missing adaptation and return to the whole interaction. |
 
-The table is an optional explanation of the gap. It is not a universal scale, required student record or diagnosis from a single failure. Select the contributions that matter to the particular use.
+The table is an optional explanation of the gap. Select the contributions that matter to the particular use.
 
 #### MDPE.Application:5.3.6 - A worked acquisition contrast
 

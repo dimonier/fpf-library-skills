@@ -102,7 +102,7 @@ In a constructed payment operation, a clerk can change a supplier's bank details
 
 Adding a third amount approval leaves that exposure. The selected control instead confirms a bank-detail change through a previously established supplier contact and separates that confirmation from release of the payment. The confirmer needs the established contact information and authority to hold the change; the releaser needs the confirmed result.
 
-A walkthrough reveals that confirmation uses the new contact number entered from the same change request. The confirmer could therefore reach a destination supplied by the unverified instruction. The team restores use of the previously established supplier contact and protects its update route before relying on the control. After implementation, observed operation can support the bounded claim that this route is used; it does not prove immunity to every fraud or collusion.
+A walkthrough reveals that confirmation uses the new contact number entered from the same change request. The confirmer could therefore reach a destination supplied by the unverified instruction. The team restores use of the previously established supplier contact and protects its update route before relying on the control. After implementation, observed operation can support the bounded claim that this route is used.
 
 #### CGOV.9:5.2 - Detection after the useful response window
 

@@ -102,7 +102,7 @@ When an assignment itself changes the
 decision, record the `A.2.1` assignment species and direct predicate, actual holder and other participants,
 assigned local system-role kind, and relevant extent. If performed Work attribution matters, use `F.6` and name
 the Work-facing contribution separately. Otherwise name the direct Work, capability, authority, access, participation, or
-resource relation. Creating a role label or an assignment does not make the needed Work occur.
+resource relation.
 
 ### MDPE.22:1 - Problem
 
@@ -136,7 +136,7 @@ The project must connect an environment change to one actual Music-or-Dance resu
 
 ### MDPE.22:3 - Solution
 
-Choose one intended Music-or-Dance result, recover the surrounding relation that blocks or distorts it, compare several bounded environment changes, realize one change through the relevant engineering or management Method, and observe actual practice before deciding what to keep.
+Choose one intended Music-or-Dance result, recover the surrounding relation that blocks or distorts it, and compare the consequential available changes and the current arrangement. Develop another alternative when it can change the choice. Realize the selected change through the relevant engineering or management Method, and use actual practice observations to decide what to keep.
 
 In continuing programmes, environment Work, Music-or-Dance Work, observation, and revision can overlap.
 
@@ -151,7 +151,7 @@ Begin with the Work or cultural relation that should change. Examples include:
 - several alternatives survive a selection event; or
 - practitioners can return an archive result to a current teaching, performance, attribution, or restoration decision.
 
-State the practitioner population, place, period, affected Systems, success observation, and evidence limit. Do not start with “build a community,” “launch a platform,” or “create an ecosystem.” Those phrases do not say what Music-or-Dance result should improve.
+State the practitioner population, place, period, affected Systems, success observation, and evidence limit.
 
 #### MDPE.22:3.2 - Recover the current supporting relation
 
@@ -240,8 +240,7 @@ Call an arrangement *functioning* only when the relations required by its stated
 difference an intervention *effect* only when the admitted `C.28` result supports that causal use. Neither word is
 required for a complete failed or inconclusive result.
 
-A positive local observation establishes no culture-wide adoption, source contribution, attractor, new level, or
-new cultural whole. Use `MDPE.24` when treating the practice as a new whole could change the project subject, architecture, or another development decision. Use `MDPE.20` for competing
+Use `MDPE.24` when treating the practice as a new whole could change the project subject, architecture, or another development decision. Use `MDPE.20` for competing
 future trajectories.
 
 A compact return can read:
@@ -251,7 +250,7 @@ A compact return can read:
 > partner-responsive Work with varied partners; eight completed it and four still required teacher cues. The event
 > relation obtained and the mixed receiving result was observed under the changed arrangement. Causal contribution
 > was not tested. Suppose two further protected trials have available participants and a useful window, and their expected contribution warrants the design, teaching and participant burden; the project selects them to address the
-> remaining cue dependence. This is not formation of a city scene or durable cultural continuation.
+> remaining cue dependence.
 
 ### MDPE.22:4 - Worked Cases
 
@@ -322,7 +321,7 @@ Recognize a complete first result when a practitioner can point to:
 
 1. one intended Music-or-Dance Work or cultural relation;
 2. one surrounding relation that blocked or distorted it;
-3. several meaningfully different environment changes;
+3. the consequential environment alternatives considered and the grounds for the selected change;
 4. one authorized environment-change Work occurrence;
 5. whether the intended surrounding relation now obtains;
 6. later Music-or-Dance observations, including failure or worsening; and
@@ -412,13 +411,13 @@ status alone.
 | Related result | Use here |
 | --- | --- |
 | `E.10.ROLE`, `A.2.1`, and `F.6` | Recover ambiguous role wording, an obtaining assignment species and occurrence, and performed-Work attribution only when those distinctions change the support decision. None establishes agency, capability, authority, or Work. |
-| `MDPE.21` | Supplies the selected style-development architecture and first support relation worth testing. It does not make the environment change occur. |
+| `MDPE.21` | Supplies the selected style-development architecture and the support relation to establish or retain. |
 | `MDPE.12` and `MDPE.13` | Supply compatible observations about performance, recognition, and selection when they identify an environmental blocker or distortion. |
 | `MDPE.17` | Supplies receiving-enactment and transmission limits that can expose missing provider, access, teaching, or context relations. |
 | `MDPE.18` and `MDPE.19` | Supply memory, lineage, continuation, and fragile-support evidence when the environment change concerns archive use, restoration, or sustained reproduction. |
-| `MDPE.14` | Returns a decision about a conflict among simultaneous Work, selected structures, holon positions, slower constraints, or representation uses exposed by the environment change. One tested change does not settle that wider decision. |
+| `MDPE.14` | Returns a decision about a conflict among simultaneous Work, selected structures, holon positions, slower constraints, or representation uses exposed by the environment change. |
 | `MDPE.16` | Preserves alternatives and stepping stones that the environment change might otherwise remove. |
-| `MDPE.20` and `MDPE.24` | Use the tested local environment-change result when forecasting trajectories or testing a new cultural whole. The result establishes neither trajectory nor new whole. |
+| `MDPE.20` and `MDPE.24` | Use the tested local environment-change result when forecasting trajectories or testing a new cultural whole. |
 | `C.36` and `C.36.P` | Supply the general cultural relations and boundary discipline. |
 | Systems Engineering, Organization Change Engineering, Operations Management, Organization Administration, Human Capability Development, and direct domain Methods | Use each for its supporting-System, organization, recurring Work, service, human learning, or specialist result; capable Agents perform the Work. |
 | `C.28` and `C.11.DUA` | `C.28` governs a causal contribution used by the decision. `C.11.DUA` appraises a questioned demand for further inquiry: what obtainable inquiry could change the decision, and whether that contribution warrants its full work, delay and cost. |

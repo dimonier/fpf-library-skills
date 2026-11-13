@@ -127,7 +127,7 @@ The chosen next result is a limited comparison of the current interaction with a
 
 This selects an improvement question and probe, not a shared-platform winner. The identity and environment repair can be implemented locally or through a thin shared provision. Without matched maintenance and failure evidence, those complete obtaining arrangements remain tied under SYSE.24. The unsupported language-specific variant remains outside the probe.
 
-If the comparison removes identity confusion but slow or unreliable feedback remains, the next question goes to SYSE.31. A healthy artifact path does not repair the old rollback failure; that still needs the actual data construction in SYSE.34. The team has gained a concrete next action and a way to reject a cosmetic change, rather than another broad feature promise.
+If the comparison removes identity confusion but slow or unreliable feedback remains, the next question goes to SYSE.31. A healthy artifact path does not repair the old rollback failure; that still needs the actual data construction in SYSE.34.
 
 Suppose the bounded trial contains six matched attempts. On both routes, the same two artifact transfers fail once. The repair returns the tested artifact identity in all six outcomes, including the failures, and the developer can distinguish retrying a transfer from rebuilding a package. The existing route requires two manual identity reconciliations. The provider performs no new per-attempt reconciliation. This supports the functional result for the tested service class; a repair that merely hides the two failed transfers would fail the question.
 

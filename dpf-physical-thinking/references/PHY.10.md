@@ -240,7 +240,7 @@ For the drag comparison, the disjoint force ranges give a sufficient design with
 
 For a noise question within that setting, the paper compares reconstruction from simple sequences with methods requiring many pulses. It also exposes different limitations: finite pulse timing, a restricted accessible frequency range and sensitivity of time derivatives to measurement error. Choosing more elaborate control is therefore not a general improvement. The simpler sequence can be sufficient for the needed distinction, while a different noise or control question calls for another method.
 
-The three numerical cases are constructed comparisons under stated physical laws. Their purpose is to exhibit the changed preparation, response and interpretation; they are not reports of performed experiments. New physical effects or apparatus limits change the corresponding case premises.
+The three numerical cases are constructed comparisons under stated physical laws. Their purpose is to exhibit the changed preparation, response and interpretation. New physical effects or apparatus limits change the corresponding case premises.
 
 ### PHY.10:12 - Relations
 

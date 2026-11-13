@@ -157,7 +157,7 @@ A sponsor asks why business trips are failing. An employee has returned from a s
 
 The inquiry identifies the repair work and its intended result, the journey that enabled the visit, and the administrative provision and records. It examines their actual connections: timely travel and site access may enable the repair, while closing an expense case does not settle whether the repair is complete. The first result is a corrected question: what prevents completion of the remote repair, and which travel or administrative conditions contribute to that difficulty? Faster expense processing may be useful, but its completion cannot answer the repair question.
 
-For an unlike case, “access granted” can mean that permission was issued while the account is still unable to open the needed system. Identify the permission, configured access and actual use before deciding what failed. Conversely, an employee and administrator discussing the duration and reimbursable cost of the same identified journey can retain one common object with different concerns. Roles and words alone do not decide object identity.
+For an unlike case, “access granted” can mean that permission was issued while the account is still unable to open the needed system. Identify the permission, configured access and actual use before deciding what failed. Conversely, an employee and administrator discussing the duration and reimbursable cost of the same identified journey can retain one common object with different concerns.
 
 ### PSDA.12:6 - Bias-Annotation
 

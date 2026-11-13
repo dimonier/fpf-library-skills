@@ -49,13 +49,13 @@ The gain is an attainable arrangement that preserves the required participation,
 
 **First useful move.** Start with the episode in which an improvement has made a valued receiving activity worse. Identify what each affected person needs to obtain and one relation the group can change.
 
-Use a direct teaching, rehearsal, production or event method when it already supplies the needed result and no consequential connection remains unresolved. Use MDPE.20 for a forecast without a waiting arrangement change. This method does not require a new competition, school, study or cultural institution.
+Use a direct teaching, rehearsal, production or event method when it already supplies the needed result and no consequential connection remains unresolved. Use MDPE.20 for a forecast without a waiting arrangement change.
 
 ### MDPE.25:2 - Problem
 
 The progression from informal participation to schools, qualifications and competitions is one possible development. It is not a law that every community must follow, nor a claim that every competition rewards display at the expense of interaction.
 
-Each activity has its own useful results. Participants may want an enjoyable evening, teachers a learnable progression and sustainable work, skilled performers challenging partners and visible achievement, organizers a viable recurring event, and tradition bearers continued access to a meaningful repertoire. The same person can have several of these interests. Their practical compatibility must be established; an invitation to discuss them supplies no missing time, teaching capacity or decision power.
+Each activity has its own useful results. Participants may want an enjoyable evening, teachers a learnable progression and sustainable work, skilled performers challenging partners and visible achievement, organizers a viable recurring event, and tradition bearers continued access to a meaningful repertoire. The same person can have several of these interests. Their practical compatibility must be established.
 
 The group needs a way to make those contributions work together for the intended occasion and its continuation. Improving one contribution can preserve the relation that caused the difficulty: a better-taught course can still occupy the only social floor, and a more consistent judging panel can still reward a result that does not serve the intended participation.
 
@@ -106,13 +106,13 @@ Follow the connections far enough to find a changeable relation:
 
 Write the causal claim at the scope the evidence permits. An observed association can direct the next inquiry without establishing that a school or contest caused a population change. A source account of one city and period does not establish the present local relation.
 
-Keep an action-changing rival when it would require a different repair. Do not manufacture an extra investigation if available evidence already selects a sufficiently robust response.
+Keep an action-changing rival when it would require a different repair.
 
 #### MDPE.25:4.3 - Construct an arrangement by working backward from its receiving use
 
 First identify what the desired occasion needs to receive. Then ask which available contribution can supply it, and what must change where they do not join.
 
-If the social floor needs partners who can notice and respond to a pause, replace or supplement an uninterrupted sequence drill with practice in noticing a cue, choosing a continuation and recovering when the expected response does not arrive. Use the same musical and spatial conditions that matter to the receiving use, or explain the transfer from a simplified setting. A teacher must possess the corresponding instructional method; writing “provide coaching” does not supply it.
+If the social floor needs partners who can notice and respond to a pause, replace or supplement an uninterrupted sequence drill with practice in noticing a cue, choosing a continuation and recovering when the expected response does not arrive. Use the same musical and spatial conditions that matter to the receiving use, or explain the transfer from a simplified setting. A teacher must possess the corresponding instructional method.
 
 If recognition is selecting a different result, decide whether to change the evaluation task, its observation conditions, the consequence of its result, or the relationship between activities. Four responses can be materially different:
 
@@ -121,7 +121,7 @@ If recognition is selecting a different result, decide whether to change the eva
 3. Add a separate opportunity for experiments, with its own stated conditions, so an unfamiliar variant need not first win under criteria designed for the established repertoire.
 4. Keep distinct event or teaching branches where their desired results cannot be met in one setting, and deliberately preserve a useful connection between them.
 
-These are alternatives and can combine. They are not a maturity ladder. Random pairing by itself does not establish enjoyable partnering, fair access or an unbiased assessment.
+These are alternatives and can combine. Random pairing by itself does not establish enjoyable partnering, fair access or an unbiased assessment.
 
 When continuity matters, state the retained distinction and allowed variation. “Preserve the tradition” is insufficient if nobody can say whether the concern is musical phrasing, a partnering relation, historical attribution, a repertoire or the social occasion. [MDPE.Application:5.3](#mdpeapplication53---connect-style-method-structure-and-acquisition) supplies a way to compare the stylistic distinctions, the Method's organization and what a performer can acquire.
 
@@ -131,7 +131,7 @@ Follow each serious candidate through the complete occasion. Compare it with ret
 
 Count a shared room or teaching contribution once, but include simultaneous demands and the work of making it available. A second room helps only if it has a floor, sound, staff and affordable access. Moving advanced practice to another day can preserve social time while excluding people who cannot attend twice. Asking skilled participants to welcome newcomers can create a valuable connection and an unpaid burden.
 
-Do not require one scalar score. Preserve conditions whose violation would defeat the promised use. Then compare the remaining differences in effort, access, desired achievement, continuity and opportunities for development. State a trade-off instead of reporting that “everyone wins.”
+Do not require one scalar score. Preserve conditions whose violation would defeat the promised use. Then compare the remaining differences in effort, access, desired achievement, continuity and opportunities for development.
 
 A technically suitable proposal can remain unattainable because its provider or affected participant does not agree. Negotiate the actual task, compensation or allocation with the person who can change it. If that fails, use a feasible smaller arrangement, retain independent activities or return the unsolved provision problem. More facilitated discussion is useful only if it can change such a result.
 
@@ -153,7 +153,7 @@ Use observations that can decide whether the arrangement should continue. A clas
 
 Look for the original gain and the new complications. A separate advanced room may retain expert participants while removing them from the shared floor. A novel award may attract performers while inviting them to optimize for the award's newest visible cue. A shorter class may preserve social time but leave an essential entry condition untaught.
 
-Return to the failed connection. Retain the parts whose receiving conditions still hold. Do not undo successful teaching merely because a second room became unaffordable.
+Return to the failed connection. Retain the parts whose receiving conditions still hold.
 
 #### MDPE.25:4.7 - Renew the criteria as well as the selected repertoire
 
@@ -167,13 +167,13 @@ Try the consequential receiving use when the available basis does not decide amo
 
 Preserve the historical account when the present canon changes. A formerly excluded variant can become common without making the earlier repertoire worthless or erasing its contributors. State where a new rule applies; adoption by one event does not settle the whole field.
 
-Finish when the supported arrangement or bounded decision supplies the current use. Reopen it when a receiving failure, changed resource, new participant group or useful excluded variant defeats a relied-on condition. The continuing possibility of renewal does not require perpetual assessment of a satisfactory evening.
+Finish when the supported arrangement or bounded decision supplies the current use. Reopen it when a receiving failure, changed resource, new participant group or useful excluded variant defeats a relied-on condition.
 
 #### MDPE.25:4.8 - What must hold together
 
 Its constituent methods characterize the situation, construct and compare arrangements, obtain support or acquisition, enact a selected local change, examine receiving results and revise the affected arrangement or criterion. Characterization supplies the conditions that arrangement comparison consumes. A proposed teaching change must supply what receiving performance needs; an access change must make its provider obtainable. Parallel activities join only if their simultaneous resource demands and receiving conditions hold. A failed trial returns the affected contribution to development, while qualified independent uses continue.
 
-Its useful result is a supported local arrangement or qualified proposal, with the required contributions obtainable to the extent asserted, or a precise unsolved connection and a usable narrower continuation. A claimed realized change additionally requires the performed work and resulting observations. Calling a proposal useful does not establish implementation.
+Its useful result is a supported local arrangement or qualified proposal, with the required contributions obtainable to the extent asserted, or a precise unsolved connection and a usable narrower continuation. A claimed realized change additionally requires the performed work and resulting observations.
 
 The method preserves the declared participation purpose, material limits, honest result meanings and the ability to revise an inadequate criterion. Different schedules and providers can be variants when they preserve those bases. Changing the purpose from accessible social participation to selecting a stage spectacle changes the comparison's basis; similarity of the activities does not make their methods interchangeable.
 
@@ -229,7 +229,7 @@ Visible recognition can hide less visible contributions. A winning performer, te
 
 For assurance of a proposed arrangement, follow its actual joins, resource limits, affected interests and changed condition. For assurance of an implemented result, inspect the performed receiving use and the evidence for each claimed change. Classroom success, an altered timetable, participant satisfaction, retained membership and a cultural trajectory are different results. They need the evidence appropriate to the claim; none stands in for all the others.
 
-Reject an account that merely lists teaching, competitions and culture. It must explain the decision, why the selected actions fit together, what happens when a needed contribution is unavailable and which complication returns the work to development.
+The account must explain the decision, why the selected actions fit together, what happens when a needed contribution is unavailable and which complication returns the work to development.
 
 Before relying on the result, answer the questions that bear on the proposed continuation:
 

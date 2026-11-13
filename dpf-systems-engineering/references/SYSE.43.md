@@ -73,7 +73,7 @@ Keep read/write scope aligned with the permitted user or task. Prevent a record 
 
 Several valid episodes may need a better organization even when none is false. Begin with a source-linked record or index that preserves the needed facts. Extract the action-changing features of each episode: task/configuration, input, action, effect status, actual observation and recovery. Propose a conditional summary, grouping or link only when it answers the receiving query better than that simple arrangement.
 
-Test the proposed relation against its source episodes and a contrary episode. A shared word such as “timeout” does not establish the same recovery condition or cause. Preserve exact exceptional facts and links to raw evidence. Mark generated associations and explanations as candidate interpretations; do not rewrite an observed event to fit them.
+Test the proposed relation against its source episodes and available relevant contrary experience. A shared word such as “timeout” does not establish the same recovery condition or cause. Preserve exact exceptional facts and links to raw evidence. Mark generated associations and explanations as candidate interpretations; do not rewrite an observed event to fit them.
 
 Change the index, retrieval description or linked-note organization, then run the same receiving query. Check what is now returned and which continuation it supports. Keep the richer organization only when the gain warrants writing, retrieval, checking and maintenance burden. Retain a rare contrary episode when forgetting it changes a consequential action. An executable recovery operation belongs to SYSE.48; this step organizes the evidence used to select or perform it.
 
@@ -87,7 +87,7 @@ Have the receiver state what the retrieved contribution supplies. Incorporate it
 
 Test a representative continuation with its expected relevant material known. Ask separately whether that material was written faithfully, whether the current retrieval returned it, and whether the task used it correctly. Supplying the needed record directly can help distinguish retrieval from utilization, provided that the comparison changes only that support.
 
-Use SYSE.46 to qualify the intended reliance, including delayed and shifted use when relevant. Check an old plausible fact, a newly authoritative change, a no-match case and a distractor that could displace the needed contribution. Preserve necessary fresh access even when repeated memory calls become cheaper. A retrieval score or larger store cannot alone establish improved work.
+Use SYSE.46 to qualify the intended reliance, including delayed and shifted use when relevant. Select cases that can defeat this use: an old plausible fact, a newly authoritative change, a no-match case or a distractor displacing the needed contribution. Preserve necessary fresh access even when repeated memory calls become cheaper. A retrieval score or larger store cannot alone establish improved work.
 
 ### SYSE.43:5 - Archetypal Grounding
 
@@ -132,7 +132,7 @@ Conversational recall tests favor facts easy to express in text. Engineering con
 - Retained content serves a named continuation and preserves consequential provenance and applicability.
 - Retrieval uses the unresolved premise and separates relevance from currentness.
 - Summaries retain their needed conditions and source return.
-- Reorganization over valid episodes tests proposed links or abstractions against originals and contrary experience.
+- Reorganization over valid episodes tests proposed links or abstractions against originals and available relevant contrary experience.
 - Conflict, supersession and retirement change the affected records and direct projections; rare action-changing counterexamples remain recoverable.
 - The receiver uses the returned contribution or identifies the missing one.
 - Qualification separates writing, retrieval and utilization, and preserves necessary fresh observation.

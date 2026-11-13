@@ -70,7 +70,7 @@ Reconcile the engagement around the result and its necessary conditions. Preserv
 
 For an ongoing engagement, inspect a concrete occurrence: the objection that could not enter the model, the evidence received after a comparison closed, or the attention demand that stopped a participant's contribution. Distinguish an observed failure from a suspected mechanism. For a proposed engagement, use its intended-use case and proposed arrangement; name the later observation that would test it. A prospective design has no performed success to cite.
 
-Recover the receiving question, subject, scope, horizon and decision boundary. Keep only participants, concerns, models and Method conditions that can change the arrangement decision. Existing `PSDA.11`, `PSDA.12`, `PSDA.1`, `PSDA.2`, `PSDA.3`, `PSDA.4`, `PSDA.13` results can supply these inputs under the conditions in section 12; no complete earlier traversal is required.
+Recover the receiving question, subject, scope, horizon and decision boundary. Keep only participants, concerns, models and Method conditions that can change the arrangement decision. Existing `PSDA.11`, `PSDA.12`, `PSDA.1`, `PSDA.2`, `PSDA.3`, `PSDA.4`, `PSDA.13` results can supply these inputs under the conditions in section 12.
 
 Ask what a usable return must preserve. Examples include a materially different service concern, an interpretable model assumption, a qualified configuration-specific result, a workable challenge route, or the distinction between a recommendation and the recipient's choice. A deadline is a condition to address, not evidence that these requirements have been met.
 
@@ -109,7 +109,7 @@ When the interaction remains uncertain, compare continuing under that uncertaint
 
 #### PSDA.17:4.4 - Construct alternatives that change the relationship
 
-Compare the incumbent with at least one materially different workable arrangement. Select alternatives from the conflict, not from a universal menu.
+Compare the incumbent with at least one materially different workable arrangement. Select alternatives from the conflict.
 
 A local separation can reserve discussion time while calculation pauses. Parallel inquiry and modelling can use explicit exchange points for consequential changes. Separate contribution channels can preserve a protected or unavailable participant's input, provided a usable correction route exists. A simpler provisional model can support discussion while a specialist develops the stronger analysis elsewhere. A different allocation of modelling and facilitation can remove an attention conflict, if the required people and capabilities are available.
 
@@ -143,7 +143,7 @@ Reopen when the receiving question, a material participant or premise, the model
 
 #### PSDA.17:4.7 - What changes in practice
 
-The practitioner can say not only what the engagement does, but why its contributions can coexist without falsifying the return. A necessary sequence remains; a harmful coupling is changed; the unclosed part stays visible. The resulting decision is smaller and more useful than either a master lifecycle or an unbounded redesign of the whole engagement.
+The practitioner can say not only what the engagement does, but why its contributions can coexist without falsifying the return. A necessary sequence remains; a harmful coupling is changed; the unclosed part stays visible.
 
 ### PSDA.17:5 - Archetypal Grounding
 
@@ -173,7 +173,7 @@ A short resulting decision is:
 
 The moved burden is explicit: the facilitator and analyst must reconcile the corrected meaning with the consequence account, and the board may receive a narrower answer. A test follows one corrected statement into the draft comparison and checks whether its dependent claim is revised or left explicitly open. That test does not establish road access, district-wide agreement or a superior pump.
 
-If separate analytical support becomes unavailable, the lead must reconsider the arrangement—for example by pausing calculation during the material discussion. The staffing premise cannot be replaced by a role label.
+If separate analytical support becomes unavailable, the lead must reconsider the arrangement—for example by pausing calculation during the material discussion.
 
 #### PSDA.17:5.2 - A non-contested advice question with a moving evidence basis
 
@@ -191,7 +191,7 @@ This is reconciliation without a disagreement workshop. The decision changes how
 
 #### PSDA.17:5.3 - Overlap without an architecture problem
 
-Two analysts examine independent uncertainties for an unchanged question using adequate sources. Neither consumes the other's result, blocks participation or changes a shared condition. Their calendars overlap, but no material interference has been identified. Continue the work; there is no reason to manufacture a common Method, hierarchy or facilitation redesign.
+Two analysts examine independent uncertainties for an unchanged question using adequate sources. Neither consumes the other's result, blocks participation or changes a shared condition. Their calendars overlap, but no material interference has been identified. Continue the work.
 
 ### PSDA.17:6 - Bias-Annotation
 
@@ -211,7 +211,7 @@ Architectural tidiness can hide moved burden. Inspect the participant, specialis
 | Real alternatives | The incumbent and a materially different arrangement are compared for the same receiving use, including support, effort and moved burden. |
 | Bounded decision | The chosen change or retained arrangement follows the actual remit; missing authority or specialist evidence remains a conditional return or blocker. |
 | Intact Method and source use | Changes outside a Method's permitted variation return to Method selection; a new configuration does not inherit an old premise without qualification. |
-| Interaction judgement | Available observations support the claimed change in the join, participation condition or attention arrangement; unresolved limits remain explicit, and further observation is selected by its possible effect and burden. Document completion does not establish success. |
+| Interaction judgement | Available observations support the claimed change in the join, participation condition or attention arrangement; unresolved limits remain explicit, and further observation is selected by its possible effect and burden. |
 | Usable continuation | The next recipient can recover what changed, what remains open, the consequential follow-up constraint and the smallest reopen condition. |
 
 ### PSDA.17:8 - Common Anti-Patterns and How to Avoid Them
@@ -241,7 +241,7 @@ The choice is proportionate. A single sufficient sequence is retained when it wo
 
 ### PSDA.17:11 - SoTA-Echoing
 
-**Practice question:** how should a practitioner alter a decision-support engagement when modelling, participation and result closure constrain one another? The selected line is a situation-qualified arrangement with explicit interactions and local tests. It is compared with a sufficient ordered Method, expert-only analysis and more intensive participatory arrangements; none is universally preferred.
+**Practice question:** how should a practitioner alter a decision-support engagement when modelling, participation and result closure constrain one another? The selected line is a situation-qualified arrangement with explicit interactions and local tests. It is compared with a sufficient ordered Method, expert-only analysis and more intensive participatory arrangements.
 
 | Question and selected answer | Serious alternative, defect and decision | Source role, limits and changed locus | Reopen condition |
 | --- | --- | --- | --- |
@@ -262,6 +262,6 @@ These comparisons support bounded moves, not a universal workshop design or evid
 - **`PSDA.13` → `PSDA.17`:** shared and contested claims preserve material agreement and disagreement in this decision; the account does not make the decision.
 - **`PSDA.17` → `PSDA.15`:** the bounded arrangement decision supplies a follow-up design constraint only when it changes that design choice. The receiver still generates and compares its own alternatives.
 - **`PSDA.17` → `PSDA.18`:** the local decision may supply evidence or a variant for a named cultural-continuation question. Visibility proves no generation, transmission, enactment, recognition, selection, retention or effectiveness; absent evidence leaves the corresponding link unproved.
-- **Direct FPF and specialist returns:** `B.1.5.EW` recovers how an action performs encompassing work and which constituents make it possible; `C.32.MWA` supplies the several-structure synthesis. `C.11.DUA` selects worthwhile further investigation, and `A.15.9` supports reuse or worthwhile acquisition of an outside-practice result. Applicable Method, Work, authority and evidence patterns govern their own claims. If a required input is absent, stale, out of scope or incompatible, use a qualified direct result or retain the exact gap. Pattern adjacency and a MethodDescription supply no performed result.
+- **Direct FPF and specialist returns:** `B.1.5.EW` recovers how an action performs encompassing work and which constituents make it possible; `C.32.MWA` supplies the several-structure synthesis. `C.11.DUA` selects worthwhile further investigation, and `A.15.9` supports reuse or worthwhile acquisition of an outside-practice result. Applicable Method, Work, authority and evidence patterns govern their own claims. If a required input is absent, stale, out of scope or incompatible, use a qualified direct result or retain the exact gap.
 
 ### PSDA.17:End

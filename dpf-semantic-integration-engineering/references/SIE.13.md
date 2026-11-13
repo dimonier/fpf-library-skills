@@ -146,11 +146,11 @@ When one changes, use [SIE.11:4](#sie114---solution) to determine the affected u
 
 Bring each affected result back into the combination and repeat only the comparisons and use checks whose premises changed. Check the new whole's joint conditions; a local repair can move demand to a shared limit. Where the set of consumers is unknown, keep that reach unresolved instead of treating the known consumers as exhaustive. Use SIE.12 only when actual shared-module users need common maintenance and decision arrangements.
 
-#### SIE.13:4.8 - Keep the result inspectable without imposing another form
+#### SIE.13:4.8 - Keep the result inspectable
 
 The result must let the receiver recover the answer and its allowed use, the relied-on semantic contributions, their operative connections, the realization and interface actually supplied, and the evidence for the returned disposition. Keep material missing contributions and change conditions visible. The [package anatomy](#siereference13---package-anatomy-and-direct-result-relations) locates the supplying results; it need not be duplicated in a new record.
 
-For a small use, links from the returned query rows to a contract, mapping and qualified source material can carry this account. For a larger use, maintained specifications and implementation evidence may be necessary. Producing more documents does not strengthen a missing premise.
+For a small use, links from the returned query rows to a contract, mapping and qualified source material can carry this account. For a larger use, maintained specifications and implementation evidence may be necessary.
 
 ### SIE.13:5 - Archetypal Grounding
 
@@ -198,7 +198,7 @@ A common schema, a merged key, a populated store or a completed query can look l
 
 The requested integration can reflect one consumer's needs while other affected consumers have different conditions. Recover the actual source and receiving authorities, and keep other consumers' conditions separate. A contract change can justify a narrower answer only through the applicable agreement; the integrator's preference for an easier result does not change that agreement.
 
-This Method can itself invite excess bookkeeping. Retain a dependency or distinction because it changes construction, interpretation, reliance or return after change. Reuse adequate explanations and evidence rather than generating twelve new deliverables for one integration.
+Retain a dependency or distinction because it changes construction, interpretation, reliance or return after change. Reuse adequate explanations and evidence.
 
 ### SIE.13:7 - Conformance Checklist
 

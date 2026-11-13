@@ -35,7 +35,7 @@ dependencies:
 
 **Use this when** a decision-support practice needs to decide whether to retain or change how its ways of working are passed on, recognized, chosen or kept alive across practitioners and engagements. A new team copies a recommendation format but loses its uncertainty and dissent. A capable facilitator leaves, and the remaining library does not preserve how to handle a contested contribution. A service rewards decisive-looking recommendations so consistently that honest blockers stop appearing in its examples.
 
-The wider activity is problem structuring and decision support. This pattern governs **deliberate continuation or change of its enacted professional culture**: the relations through which particular Methods, practical judgement, descriptions and norms are generated, transmitted, recognized, selected, remembered, retained or lost. It does not treat a school name, profession, publication or software platform as one thing that acts.
+The wider activity is problem structuring and decision support. This pattern governs **deliberate continuation or change of its enacted professional culture**: the relations through which particular Methods, practical judgement, descriptions and norms are generated, transmitted, recognized, selected, remembered, retained or lost.
 
 Start with an ordinary sentence: “In our flood-advice service, new facilitators learn from case examples and observation; the examples retain the models but omit why an unresolved service concern limited the recommendation; we are deciding whether to change the receiving practice exercise.”
 
@@ -70,13 +70,13 @@ Begin with the enacted practice and the relation that needs attention. Compare a
 
 #### PSDA.18:4.1 - Name the current practice, population and intended consequence
 
-Name the current decision-support Discipline as practiced here, not as a universal school label. Recover the particular Method or variant, the practitioner population, the engagement or community, the place and period, the relevant carriers, and the recurring result at risk.
+Name the current decision-support Discipline as practiced here. Recover the particular Method or variant, the practitioner population, the engagement or community, the place and period, the relevant carriers, and the recurring result at risk.
 
 For example, the relevant practice may be a municipal team's attributed inquiry and conditional comparison, carried through observed facilitation, concern maps, model explanations and bounded recommendation accounts. The question is whether another facilitation team can preserve those contributions in its receiving engagements. “The spread of PSMs” is too broad for that decision.
 
 State the intended professional consequence. It might be that material dissent remains attributable; a missing premise stays visible; a receiving team can distinguish a conditional comparison from a full recommendation; or an unavailable participant contribution is not replaced by an invented consensus. Preserve any cost in time, access, capability or useful analytical independence.
 
-Recover the deciding person or System and the intervention boundary. When a precise Agent claim is needed, `A.13` requires the actual System, a local agential kind and its criterion, evidence of classification, an obtaining assignment, and the relevant scope, situation and window. A team name or collection of practitioners supplies none of these by itself. Authority to change facilitation, training, commissioning or publication is a separate fact; it is not authority to choose the client's investment or to direct another community.
+Recover the deciding person or System and the intervention boundary. When a precise Agent claim is needed, `A.13` requires the actual System, a local agential kind and its criterion, evidence of classification, an obtaining assignment, and the relevant scope, situation and window. Authority to change facilitation, training, commissioning or publication is a separate fact; it is not authority to choose the client's investment or to direct another community.
 
 A short recognition account need not become a complete culture inventory. If the target is one receiving exercise, keep unrelated traditions, networks and institutional changes outside. If authority is missing, return the exact decision or permission question. If the cultural relation is not the problem, take the cheaper direct return.
 
@@ -102,13 +102,13 @@ State observations for the population and period actually covered. A wider trans
 
 The `PSDA.16` repertoire supplies a variant, lineage or bounded evidence only when it changes this cultural decision. Its offering status is not evidence of transmission. The `PSDA.17` arrangement result can similarly supply a local change or observation; resolution of one interference is not evidence that another team learned it. If either input is absent, stale, out of scope or incompatible, obtain a compatible result that supports the particular cultural link being claimed, or leave that link unproved.
 
-For a claimed performed occurrence, first recover each actual performer's `A.13` basis and independently admit the occurrence through `A.15.1`: performance history, enacted Method, extent and the obtaining containing-System relation. Add `F.6` only when precise assignment-bound attribution is consumed. Missing attribution does not erase independently established Work. A case packet remains evidence or description, not the occurrence.
+A supported observation of interaction or receiving use can serve the cultural question directly. If the receiving claim requires recognizing an occurrence as `U.Work`, recover each actual performer's `A.13` basis and the full `A.15.1` admission: the common constructive components of that occurrence under `A.1:4.2`, together with its performance history, enacted Method, extent and obtaining containing-System relation. Add `F.6` only when precise assignment-bound attribution is consumed. Missing attribution does not erase independently established Work.
 
 Do not demand a complete causal history before a small permitted intervention. Use the available basis to decide the present continuation. Leave explanations unresolved where their distinction cannot change that supported decision; select further inquiry through `C.11.DUA` only for an obtainable contribution worth its whole burden. If a new facilitator drops a concern, the cause might be an incomplete example, a changed participation condition, lack of skill, time pressure or the reward for a quick positive answer. Each can require a different change.
 
 #### PSDA.18:4.3 - Compare continuation options at the affected relation
 
-Compare retaining the present arrangement, changing one material relation, maintaining a separate branch, and stopping or reverting the proposed intervention. Treat these as options when they are genuinely live, not as four mandatory forms to complete.
+Compare retaining the present arrangement, changing one material relation, maintaining a separate branch, and stopping or reverting the proposed intervention. Treat these as options when they are genuinely live.
 
 | Option | Useful question | Typical decision-support consequence |
 | --- | --- | --- |
@@ -139,9 +139,9 @@ Retain any serious alternative and expected loss that matter to the choice. The 
 
 Translate the decision into the actual teaching, facilitation, community, recognition or publication work needed. Keep proposed action and work planning separate from performance. A planned tutorial, a posted file and an actual guided exercise are different facts.
 
-When performance is claimed, use the recovered `A.13` and `A.15.1` basis. An investigation of a proposed decision-support variant may enact an independently identified trial or teaching Method without pretending that the unadmitted candidate whole was already enacted as a `U.Method`.
+For a formal `U.Work` claim, use the complete basis in `:4.2`. An investigation of a proposed decision-support variant may enact an independently identified trial or teaching Method without pretending that the unadmitted candidate whole was already enacted as a `U.Method`.
 
-Observe the receiving use that matters. Ask a receiving practitioner to reconstruct why a concern was retained, which premise limited a comparison, what remained outside the compared set, or why a blocker was the appropriate return. This is a possible intervention design, not a universal teaching recipe. Check whether it is suitable for the population and the professional situation.
+Observe the receiving use that matters. Ask a receiving practitioner to reconstruct why a concern was retained, which premise limited a comparison, what remained outside the compared set, or why a blocker was the appropriate return. Check whether it is suitable for the population and the professional situation.
 
 Do not make participation in a real consequential decision an uncontrolled training experiment. Preserve the actual access, competence, confidentiality, challenge, source-use and fallback conditions. If sharing the original case would break them, use a qualified redacted or constructed case, or choose another route; acknowledge what that substitute cannot test.
 
@@ -191,7 +191,7 @@ Reopen when a consequential carrier, Method, practitioner population, receiving 
 
 A departure may remove mentoring capacity without proving that the Method was forgotten. A software update may alter which examples are visible without changing the decision-support Method. A source correction may invalidate one taught inference while leaving the rest usable. State the actual consequence and retain independent claims.
 
-Use `A.10` for the bounded source reliance, `A.10.1` when several actual receiving uses of a changed source must be found and requalified, and `G.11` when its currentness or refresh-planning conditions obtain. Publication and access remain with their direct patterns. Neither source freshness nor carrier availability proves cultural continuation.
+Use `A.10` when the bounded reliance has an implicit source-to-use account or lacks a reproducible account needed for that use, `A.10.1` when several actual receiving uses of a changed source must be found and requalified, and `G.11` when its currentness or refresh-planning conditions obtain. Publication and access remain with their direct patterns. Neither source freshness nor carrier availability proves cultural continuation.
 
 Close when the present answer and its material limits are clear; any selected later observation retains its own conditions. Stop or revert the intervention when its protected condition fails, its cost defeats the intended use, or no warranted next action remains. Do not keep generating variants or collecting cultural metrics merely because the entire culture cannot be proved.
 
@@ -220,9 +220,9 @@ East and West consider the following alternatives.
 
 Within their stated remits, they choose the guided exercise for this receiving group and retain the compact route for experienced staff. The exercise and its packet are tested as one arrangement. No claim is made that the packet alone causes the improvement.
 
-The hypothetical performer and occurrence basis is explicit. Both teams are independently recognized coordinated service Systems with defined boundaries and coordination Methods. The service's local inquiry-steward kind requires goal-directed, condition-sensitive regulation of inquiry and practitioner preparation, including correcting or stopping an unsupported return. Prior evidence establishes that each team meets that criterion. Its directly declared steward-appointment relation has distinct obtaining East and West assignments for the stated service scope and March–May window. These `A.13` facts do not grant investment authority or assert an Agency Grade.
+Both teams operate within service remits covering facilitation and practitioner preparation during March–May. The inquiry and exercise use the identified Methods below; the teams' remit does not authorize a client's investment decision.
 
-The case separately supplies the performance histories: East's 12 March, 09:00–11:00 inquiry followed the attributed-inquiry and conditional-analysis Method; the two teams' 20 March, 09:00–10:30 exercise followed an independently identified guided-qualification teaching Method; and West's 10 April, 09:00–11:00 receiving inquiry followed the attributed-inquiry and conditional-analysis Method. A locally declared work-within-service relation applies only when the entire occurrence lies inside the service's defined facilitation or practitioner-preparation operations; the supplied boundaries and histories establish it for these three occurrences. They therefore have an `A.15.1` basis independent of the packet or timetable. This case does not need an additional assignment-bound `F.6` attribution claim.
+The case supplies the performance histories: East's 12 March, 09:00–11:00 inquiry followed the attributed-inquiry and conditional-analysis Method; the two teams' 20 March, 09:00–10:30 exercise followed an independently identified guided-qualification teaching Method; and West's 10 April, 09:00–11:00 receiving inquiry followed the attributed-inquiry and conditional-analysis Method. These observed actions took place within the service's defined facilitation or practitioner-preparation operations and support the inquiry, teaching and receiving-use observations below. They leave the common construction of each occurrence as a `U.Work` unestablished; a use that needs that classification returns to `A.1:4.2` and `A.15.1`.
 
 During the exercise, West identifies the exact limit: “The fixed/mobile calculation is usable for its stated assumptions. It does not close the staged alternative or establish reachable assistance. Return those gaps with the qualified calculation; do not name an overall investment choice.” The facilitator challenges a substituted unqualified access premise. West keeps it outside the supported comparison.
 
@@ -233,7 +233,7 @@ The cultural return is deliberately narrower than “the service adopted the Met
 | Claim | Supported result or gap in this case |
 | --- | --- |
 | Generation and memory | A new receiving-exercise arrangement and explanatory packet are recoverable; their source and intended use are explicit. This is not admission of a new decision-support Method. |
-| Transmission and receiving enactment | The teaching interaction conveyed the qualified-return distinction, and one later West inquiry enacted the identified Method under stated conditions. File delivery alone did not establish either. |
+| Transmission and receiving use | The teaching interaction conveyed the qualified-return distinction, and West's later observed inquiry followed the attributed-inquiry and conditional-analysis Method under the stated conditions. |
 | Recognition and selection | The exercise feedback recognized preservation of the conditional comparison and honest gaps. West selected that way for the named April engagement; this is not selection by the whole service or profession. |
 | Retention and loss | One later receiving use is observed. Continuation beyond that interval, use by other teams and loss elsewhere remain unproved. |
 | Intervention consequence | The intended distinction appeared in the receiving return. The evidence does not isolate the contribution of the exercise from prior skill, added attention or other conditions, and supplies no investment-effect claim. |
@@ -298,7 +298,7 @@ Automation and observer bias can make access counts or watched performances look
 | Evidence limits | Source coverage, estimates, observed occurrences and unproved population or retention claims remain distinct. |
 | Continuation or return | The result names what is retained, changed, narrowed, unproved or stopped and which direct question should reopen. |
 
-A missing link can block a stronger claim while leaving a useful bounded decision intact. The checklist is not a requirement to prove every cultural relation before any professional improvement.
+A missing link can block a stronger claim while leaving a useful bounded decision intact.
 
 ### PSDA.18:8 - Common Anti-Patterns and How to Avoid Them
 
@@ -346,7 +346,7 @@ The working question is **how to continue useful decision-support judgement acro
 - `PSDA.4` retains engagement-level Method selection; `PSDA.13`, `PSDA.5`, `PSDA.6`, `PSDA.7`, `PSDA.8`, `PSDA.9`, `PSDA.14`, `PSDA.15` retain participation, comparison, recommendation and follow-up results. Cultural work returns only a changed question to its direct owner.
 - `A.13` and `A.15.1` qualify actual performers and dated Work; `F.6` applies only to a separately needed assignment-bound attribution. `A.3.1` and `A.3.2` distinguish the Method from its description or a candidate.
 - `C.11` supplies a formed bounded choice; `B.5`, `B.5.2`, `A.3.3` and `C.28` govern the actual hypothesis, dynamics or causal question when needed. `A.3.4` and the direct Work-to-change or effect relation govern their own claims.
-- `A.15.9` obtains an exact missing practice result; `A.10`, `A.10.1` and `G.11` apply to the bounded reliance, affected uses and currentness questions. Missing evidence does not create a whole-language prerequisite.
+- `A.15.9` obtains an exact missing practice result; `A.10`, `A.10.1` and `G.11` apply to the bounded reliance, affected uses and currentness questions.
 - Publication, access, archive or selected-set treatment, capability development and holder-specific truth remain with their direct patterns and qualified sources. Neither a cultural account nor a shared carrier supplies those results.
 
 ### PSDA.18:End

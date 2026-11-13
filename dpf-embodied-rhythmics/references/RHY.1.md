@@ -138,11 +138,11 @@ Localization connects a whole performance intention to a correctable rhythmic co
 
 ### RHY.1:11 - SoTA-Echoing
 
-Gordon Dang's [Balboa roadmap](https://gordondang.com/dance/roadmap/) uses practice contrasts among pulse, foot pickup and posture. Adopt the bounded contrast as a useful practitioner move; adapt it here to whichever rhythmic contribution the activity needs. The roadmap supplies teaching proposals, not evidence that one diagnostic sequence works for every performer.
+Gordon Dang's [Balboa roadmap](https://gordondang.com/dance/roadmap/) uses practice contrasts among pulse, foot pickup and posture. Adopt the bounded contrast as a useful practitioner move; adapt it here to whichever rhythmic contribution the activity needs. The roadmap supplies teaching proposals.
 
 MDPE.8 supplies a broader choice of music-or-dance subject and development question. Reuse that result when available. This method adds the rhythm-specific comparisons that choose between timing, grouping, articulation, receiving cues and their joint performance.
 
-London and colleagues' [comparison of P-center procedures](https://doi.org/10.3758/s13414-019-01747-y) warrants retaining the observing task when interpreting timing. A quick rehearsal contrast is cheaper than a controlled study and can select a trial; it supports a correspondingly narrower conclusion. The diagnostic combination above is a methodological synthesis, not a validated universal screening test.
+London and colleagues' [comparison of P-center procedures](https://doi.org/10.3758/s13414-019-01747-y) warrants retaining the observing task when interpreting timing. A quick rehearsal contrast is cheaper than a controlled study and can select a trial; it supports a correspondingly narrower conclusion. The diagnostic combination above is a methodological synthesis.
 
 ### RHY.1:12 - Relations
 

@@ -59,7 +59,7 @@ To obtain evidence for this decision:
 
 1. name the decision, subject, population, place, period, and intended use;
 2. identify the world-side Work, Methods, people, artifacts, and events at issue before interpreting their records;
-3. build one source-to-claim table with limits;
+3. connect each relied-on claim to its source and limits;
 4. compare lineage alternatives only where evidence leaves more than one live;
 5. identify embodied, performative, technical, and present-use gaps; and
 6. return the evidence that the decision may use and the limits of that use.
@@ -83,7 +83,7 @@ Do not use this pattern merely to manage an archive (`C.18`), test receiving ena
 
 Identify the subject of the memory or lineage claim: for example, a person or organization, material, Method, MethodDescription, Work, capability, performance, event, artifact, population or cultural relation.
 
-A score, onset list, geometric rhythm representation, video, or motion trace is an episteme or artifact about a world-side musical or movement subject. It does not replace the rhythm, movement, performance Work, or performer–environment relations it represents.
+A score, onset list, geometric rhythm representation, video, or motion trace is an episteme or artifact about a world-side musical or movement subject.
 
 ### MDPE.18:1 - Problem
 
@@ -135,11 +135,11 @@ For every relied-on source, ask:
 - Which part of the source is used?
 - What access, consent, attribution, editing, preservation, or future-use conditions apply?
 
-Do not infer a Method from one work record. When several grounded Work occurrences or heterogeneous sources may support a reusable Method, use `A.3.1.MR`; use `RMP.10` only when a larger specialist reconstruction programme is needed. Process mining can help when an event log has defensible event, case, activity, object, and correlation choices. A frequent path is neither a norm nor a Method by itself, and logs usually omit embodied and tacit Work.
+When an already recoverable way of doing supplies the needed result, use it with `A.3.1`'s Method identity and applicability conditions. Use `A.3.1.DR` when documentary meaning or Method status remains unresolved. Use `A.3.1.MR` to recover a provisional candidate account from observations or other direct evidence, including evidence not yet admitted as Work. One occurrence can open a hypothesis; Method admission still requires `A.3.1`'s identity and reusable applicability grounds. Use `RMP.10` only when a larger specialist reconstruction programme is needed. Process mining can help when an event log has defensible event, case, activity, object and correlation choices. A frequent path is neither a norm nor a Method by itself, and logs usually omit embodied and tacit Work.
 
-#### MDPE.18:3.3 - Build the source-to-claim table
+#### MDPE.18:3.3 - Connect the relied-on claims to their sources
 
-Use a compact table:
+Make the source-to-claim relation recoverable in the form the receiving use needs. This compact table is optional:
 
 | Source and retained part | Supported claim | Limit | Decision use |
 | --- | --- | --- | --- |
@@ -164,7 +164,7 @@ Do not force one genealogy over every subject. Ask which **lineage dimension** c
 
 Keep two or more alternatives only when sources support them and the difference matters. Useful alternatives include derivation from one line, mixture of several lines, independent convergence, deliberate branching, revival from records, or ecological evocation under similar constraints. A neat tree is a representation choice; test whether the relations are actually tree-like before using it.
 
-If sources support only one bounded attribution and no serious rival, do not invent a second history to look balanced. State the supported claim and the unresolved gaps.
+State the supported claim and the unresolved gaps.
 
 #### MDPE.18:3.5 - Expose what records cannot carry
 
@@ -186,7 +186,7 @@ Return only the information needed by the receiving decision. The following prom
 
 ```text
 decision, user, subject, population, place, period, receiving use:
-source-to-claim rows:
+source-to-claim links:
 supported lineage relations by dimension:
 live alternatives and why they matter:
 embodied, performative, technical, and present-use gaps:
@@ -206,9 +206,9 @@ A festival workshop team must choose an attribution note and a small set of move
 
 | Source and retained part | Supported claim | Limit | Decision use |
 | --- | --- | --- | --- |
-| Tarraxo Agency home page, checked 2026-08-25 | The organization describes development and promotion of Tarraxo projects, artists, festivals, workshops, and performances. | Self-description; no independent origin, prevalence, effectiveness, or continuation result. | Describe the organization and event line as its own claim. |
-| Gwany and Liliana practitioner profile, checked 2026-08-25 | The profile attributes creation to Gwany, dates the partnership, and reports teacher-training Work. | Source-attributed creator and training claims, not adjudicated sole origin. | Credit the claim to the profile rather than state it as complete history. |
-| TOCA Method page, checked 2026-08-25 | One teaching MethodDescription emphasizes touch, observation, control, awareness, connection, musicality, drills, isolation, and placement. | Commercial practitioner source; no proof of effectiveness, receiving capability, or universal Tarraxo essence. | Select these distinctions for a bounded teaching trial. |
+| Tarraxo Agency home page | The organization describes development and promotion of Tarraxo projects, artists, festivals, workshops, and performances. | Self-description; no independent origin, prevalence, effectiveness, or continuation result. | Describe the organization and event line as its own claim. |
+| Gwany and Liliana practitioner profile | The profile attributes creation to Gwany, dates the partnership, and reports teacher-training Work. | Source-attributed creator and training claims, not adjudicated sole origin. | Credit the claim to the profile rather than state it as complete history. |
+| TOCA Method page | One teaching MethodDescription emphasizes touch, observation, control, awareness, connection, musicality, drills, isolation, and placement. | Commercial practitioner source; no proof of effectiveness, receiving capability, or universal Tarraxo essence. | Select these distinctions for a bounded teaching trial. |
 
 Angolan antecedents, predecessor relations, independent corroboration, and current receiving capability remain open. The workshop can publish the qualified note and test the selected Method. `MDPE.17` becomes current only when receiving enactment or source contribution is the next question.
 
@@ -293,7 +293,7 @@ FPF supplies evidence discipline, cultural-evolution distinctions, archive and c
 | Hyafil and Baumard, [evoked and transmitted culture models](https://doi.org/10.1371/journal.pone.0264509) | Offers vertical transmission, horizontal diffusion, and ecological or evoked alternatives when quantitative data and assumptions fit. | The model does not turn artifacts into cultural traits or establish one local lineage. |
 | [Process Mining Manifesto](https://www.tf-pm.org/resources/manifesto) and [*Process Mining Handbook*](https://doi.org/10.1007/978-3-031-08848-3) | Supplies conditional event-log discovery, conformance, enhancement, monitoring, and prediction Methods. | Event and object identities are modelling choices; logs omit tacit Work, and frequent paths are not Methods. |
 
-Case sources: [Tarraxo Agency](https://www.tarraxo-agency.com/), [Gwany and Liliana](https://www.tarraxo-agency.com/team/gwany-liliana/), [TOCA Method](https://tocamethod.com/?lang=en), Blackwell et al. [*Live Coding: A User's Manual*](https://livecodingbook.toplap.org/book/), Algorave [guidelines](https://github.com/Algorave/guidelines/blob/24b2ad588f7f0110e8b7d5e3c57736e6056c4270/README_en.md), Serpentine [*The Call*](https://www.serpentinegalleries.org/whats-on/holly-herndon-mat-dryhurst-the-call/), and [Street Tango Concept](https://tangonuevo.ru/stc7eng). Mutable pages were checked 2026-08-25; their use remains limited to the claims stated above.
+Case sources: [Tarraxo Agency](https://www.tarraxo-agency.com/), [Gwany and Liliana](https://www.tarraxo-agency.com/team/gwany-liliana/), [TOCA Method](https://tocamethod.com/?lang=en), Blackwell et al. [*Live Coding: A User's Manual*](https://livecodingbook.toplap.org/book/), Algorave [guidelines](https://github.com/Algorave/guidelines/blob/24b2ad588f7f0110e8b7d5e3c57736e6056c4270/README_en.md), Serpentine [*The Call*](https://www.serpentinegalleries.org/whats-on/holly-herndon-mat-dryhurst-the-call/), and [Street Tango Concept](https://tangonuevo.ru/stc7eng).
 
 ### MDPE.18:9 - Relations
 

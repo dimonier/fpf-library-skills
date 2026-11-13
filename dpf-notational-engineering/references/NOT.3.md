@@ -105,7 +105,7 @@ For a formal family, a general argument can establish that the reading operation
 
 #### NOT.3:4.6 - Keep the operative reading available to its users
 
-Provide the interpretation, the indispensable reading operations and their prerequisites where the intended user can find them. A legend, one worked reading and a reference to a known method may be enough. A new operator needs enough explanation to use it, rather than only a new name.
+Provide the interpretation, the indispensable reading operations and their prerequisites where the intended user can find them. A legend, one worked reading and a reference to a known method may be enough.
 
 Stop when the required consequence can be obtained at the declared scope, or when the missing contribution and the next way to obtain it are clear. Retain a slower explanatory route alongside a fluent route when users need to learn, justify or change the operation. A further notation redesign belongs to NOT.7 if the reading works but imposes avoidable difficulty.
 
@@ -181,9 +181,9 @@ Providing an operative interpretation can require more work than defining symbol
 
 ### NOT.3:10 - Architectural Rationale
 
-The interpretation connects representation with work. It identifies the meaning relevant to a question and the operations through which a reader can obtain a consequence. Neither a symbol inventory nor a description of intended meaning alone guarantees that those operations are available.
+The interpretation connects representation with work. It identifies the meaning relevant to a question and the operations through which a reader can obtain a consequence.
 
-The separation between interpretation and obtaining preserves generality. MATH.18 can establish a mathematical interpretation. CMP.12 can construct an effective evaluator under its algorithmic conditions. NOT.3 asks what reading the notation is to support and supplies the missing connection for its intended user. It can therefore include a manual or embodied route without assuming that every semantic assignment is computable.
+The separation between interpretation and obtaining preserves generality. MATH.18 can establish a mathematical interpretation. CMP.12 can construct an effective evaluator under its algorithmic conditions. NOT.3 asks what reading the notation is to support and supplies the missing connection for its intended user. It can therefore include a manual or embodied route.
 
 Several useful readings may expose the same structure differently. Choosing among them can change the work needed to recover an answer or the intermediate structure made available. This is one reason to design notations around operations, rather than treating them only as shorter ways to write conclusions.
 

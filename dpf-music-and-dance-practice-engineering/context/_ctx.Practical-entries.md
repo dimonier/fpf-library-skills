@@ -39,7 +39,7 @@ Its [complete Mara case](#mdpe2551---a-complete-constructed-case-the-evening-tha
 
 - **Situation:** An attractive arrangement or movement candidate works in a rendering or isolated demonstration, but its live performer and coordination demands remain unsettled.
 - **Question:** Which candidate can serve the intended performance, and which relation must be repaired before relying on it?
-- **First useful result or blocker:** Candidate dispositions tied to a performer-involving comparison, or the unavailable performer or condition that prevents that comparison.
+- **First useful result or blocker:** Candidate dispositions grounded in a comparison adequate for the receiving use, or the missing performer, condition or observation that prevents the required conclusion.
 - **Start with:** [MDPE.9](#mdpe9---generate-and-compare-music-or-dance-performance-candidates) with the intended use from [MDPE.1](#mdpe1---frame-a-music-or-dance-work-practice-style-or-medium-project). If the candidate is already selected, enter at the limiting capability in [MDPE.10](#mdpe10---develop-and-test-music-or-dance-performing-capability) or the uncertain interaction in [MDPE.3](#mdpe3---configure-and-coordinate-a-music-or-dance-performing-whole).
 - **Stop or return:** Stop when the present creation or performance decision has the result it needs. A changed venue, instrument, performer, or receiving use reopens the contribution that depends on that condition.
 

@@ -99,8 +99,7 @@ using the result, the first configuration assumption, and the consequence if tha
 
 Identify the concrete use, such as a social-dance phrase, concert set, improvisation constraint, installation interaction, recording occurrence or rehearsal family.
 
-`MDPE.9` can supply a candidate. `MDPE.10` can supply current capability evidence. Neither selects or realizes the
-performing whole.
+`MDPE.9` can supply a candidate. `MDPE.10` can supply current capability evidence.
 
 #### MDPE.3:2.2 - Choose the performing boundary
 
@@ -119,7 +118,7 @@ A pair can be the whole when the current claim concerns pair-level coordination.
 instrument or prosthesis can be the whole for a named Work family. An ensemble can be the whole when joint timing
 and result production matter. An AI model is not automatically the performer because it generated input material.
 
-Apply the general holon and Systems Engineering criteria rather than assuming systemhood from a group label.
+Apply the general holon and Systems Engineering criteria.
 
 #### MDPE.3:2.3 - Select architectural views by the failure they expose
 
@@ -135,7 +134,7 @@ Use only views that can change the current decision:
 | Participation and decision rights | Who performs, leads, follows, conducts, controls, authorizes, refuses, interrupts, or changes the Method. |
 | Material and description use | How scores, choreography, recordings, prompts, generated material, rule cards, and cue sheets enter Work without becoming performers. |
 
-Relate these views consistently to the same entities and actual relations where the decision joins them. The views need not be trees or isomorphic. A configuration description does not establish that the described constituents and relations obtain.
+Relate these views consistently to the same entities and actual relations where the decision joins them. The views need not be trees or isomorphic.
 
 #### MDPE.3:2.4 - Name load-bearing relations and interfaces
 
@@ -146,7 +145,7 @@ venue-to-listener audibility, or emergency-stop access.
 
 Treat *interface* as a prompt to recover the concrete object or relation. In one case it is a connector or physical
 boundary; in another a functional port; in another a protocol or API description; in another a direct interaction
-predicate. The shared word does not make them instances of one useful kind.
+predicate.
 
 Keep proposals and actual relations separate. A score can describe timing, a rule card can describe contact, and a
 protocol can describe messages. Only actual Work and observation can establish that performers used them and the
@@ -162,8 +161,7 @@ arrival articulates it. The foot-touch time, acoustic event, partner-readable ev
 p-centre can differ. In Music, a physical attack, acoustic onset, perceived beat centre, gestural cue, and software
 timestamp can likewise differ.
 
-Choose the observation that bears on the performance relation. A waveform onset can support one claim; it does not
-define rhythm, partner intelligibility, or musical timing for every use.
+Choose the observation that bears on the performance relation.
 
 #### MDPE.3:2.6 - Establish and challenge the first uncertain relation
 
@@ -177,11 +175,11 @@ probe may expose actuation noise, control delay, or emergency stop. Test the who
 repeating component qualification.
 
 Include correction and recovery. State who or what senses deviation, what action can restore the relation, and the
-condition that stops Work safely. A perfect-run description is not performance readiness.
+condition that stops Work safely.
 
 ### MDPE.3:3 - First Useful Result
 
-Record the configuration in a compact basis:
+Return the configuration and its relied-on conditions. Use this compact account when it helps the receiving work, including only applicable entries:
 
 > - **Music-or-Dance Work:** [selected material, occurrence or Work family, and receiving use].
 > - **Performing whole:** [whole selected for this Work, with its actual construction and coordination].
@@ -196,8 +194,7 @@ Record the configuration in a compact basis:
 > - **Fallback and stop:** [correction, recovery, or refusal condition].
 > - **Reopen condition:** [changed material, performer, component, relation, venue, configuration, or evidence].
 
-The basis describes the actual or proposed configuration. It is not the performing whole, does not make relations
-obtain, and does not produce a performance occurrence.
+
 
 ### MDPE.3:4 - Worked Cases
 

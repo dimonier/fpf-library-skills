@@ -54,22 +54,15 @@ The costly errors lie at both extremes:
 - generation continues without a receiving decision, so an archive of variants replaces comparison and later
   Work cannot tell what to retain, revise, branch, or reject.
 
-The first useful result is a small set of materially different candidates, each kept under its actual kind and
-tried in proportion to the decision, with observations, evidence limits, and one next treatment.
+The first useful result is a small set of materially different candidates, each kept under its actual kind, with grounds adequate for the receiving decision, evidence limits and one next treatment. A new trial is needed only for a consequential claim that the available construction and evidence do not settle.
 
-Use the applicable composition, arrangement, orchestration, choreography, improvisation, live-coding, editing,
-generative, co-creative, constraint-design, or other domain Method to make candidates. `MDPE.9` adds the shared engineering move of challenging the incumbent answer, involving the intended
-performer, and returning bounded dispositions.
+Use the applicable composition, arrangement, orchestration, choreography, improvisation, live-coding, editing, generative, co-creative, constraint-design, or other domain Method to make candidates. `MDPE.9` adds the shared engineering move of challenging the incumbent answer, examining consequences for the intended performer and use, and returning bounded dispositions.
 
-Do not use this pattern when a direct domain Method already returns the same candidates, trials, comparison and
-next decisions; when only one settled work is needed; or when the gap is performing capability (`MDPE.10`) or
-configuration (`MDPE.3`).
+Do not use this pattern when a direct domain Method already returns adequate candidates, comparison and next decisions; when only one settled work is needed; or when the gap is performing capability (`MDPE.10`) or configuration (`MDPE.3`).
 
 When the question is a broader branching development, use `C.40` to connect usable material, an actual professional
-changing operation, examination and worthwhile continuation. It does not supply an unknown specialist operation
-merely by naming generation. Use `C.18` for the retained exploration, archive or front account; `C.19` for deciding
-which lines in a live pool warrant further work or retention; and `C.11` for accountable local choice. A pool
-policy or archive account does not produce the next musical or movement variant.
+changing operation, examination and worthwhile continuation. Use `C.18` for the retained exploration, archive or front account; `C.19` for deciding
+which lines in a live pool warrant further work or retention; and `C.11` for accountable local choice.
 
 ### MDPE.9:1 - The Recurring Difficulty
 
@@ -83,8 +76,7 @@ cost and performer agency remain hidden. A teacher can vary visible figures whil
 relation—or preserve the figure while losing the weight change that made it work. A camera can make a phrase look
 clear while contact, effort, timing, or navigation fails for the dancers.
 
-Ask which materially different candidates expose the current assumption and which observation involving a
-performer will change the next creation decision.
+Ask which materially different candidates expose the current assumption and which available grounds settle the next creation decision. If a consequential uncertainty remains, identify an obtainable observation that could change that decision.
 
 Each candidate keeps its domain kind. Depending on the case, a candidate may be musical or movement
 material; a score, choreography, prompt, or another description used in performance Work; or a specification of
@@ -110,7 +102,7 @@ Then state the incumbent assumption in a form that another candidate can challen
 - a symmetric duet rule is easier to perform and read;
 - the most popular take is the best concert arrangement.
 
-A genre label or request to “be more creative” is not a testable incumbent assumption.
+
 
 #### MDPE.9:2.2 - Produce materially different candidates
 
@@ -119,20 +111,18 @@ configuration, or distinguishing relation needed for the current comparison.
 
 A candidate is materially different when the difference could change the receiving decision. Change rhythm,
 attack, instrumentation, form, partner relation, body organization, spatial relation, interface, generative rule,
-constraint, recovery mechanism, or another relevant feature. Renaming a copy or changing an irrelevant parameter
-does not add useful diversity.
+constraint, recovery mechanism, or another relevant feature.
 
 Prefer a few candidates that pull the decision in different directions over many near-duplicates. Preserve a
-branch when its trade-off or stepping-stone value may matter later; do not force every difference back into one
-revised identity.
+branch when its trade-off or stepping-stone value may matter later.
 
 For movement made from a physical relation or scientific image, use [MDPE.29](#mdpe29---compose-movement-from-a-physical-relation-or-scientific-image) to construct phrases, transformations and their composition. For a rhythmic part made from a seed, use [MDPE.30](#mdpe30---construct-a-rhythmic-part-from-a-seed-phase-and-action-rule) to place it against the accompaniment, construct the hand and sound allocation and adapt it when the receiving entry or phrase span changes.
 
 For performers who already know the constituent material, [Build and adapt a whole rhythmic performance from learned sections](#mdpe947---build-and-adapt-a-whole-rhythmic-performance-from-learned-sections) explains how to choose the form's sections, connect them and change the arrangement when phrase density, duration or participants change.
 
-#### MDPE.9:2.3 - Choose a proportionate performer-involving trial
+#### MDPE.9:2.3 - Use adequate grounds and select a needed trial
 
-For each serious candidate, choose the cheapest Work that can expose the relied-on consequence:
+For each serious candidate, identify the consequence on which the receiving decision relies. A construction, calculation or score comparison can settle a structural or design question; existing observations can settle a performance consequence within their actual conditions. When those grounds suffice, use them. Otherwise select the least burdensome obtainable comparison that can establish the needed consequence, or return the unsupported claim and missing input:
 
 - notation, rendering, or simulation can expose range, balance, geometry, latency, or feasibility;
 - a listening pass can expose timbre, masking, form, or perceptual distinction;
@@ -141,18 +131,14 @@ For each serious candidate, choose the cheapest Work that can expose the relied-
 - a pair, social-floor, battle, class, installation, or audience probe can expose relations that isolated studio
   Work cannot.
 
-Use the intended performer or performing Agent where practical. A justified proxy can answer a narrower question,
-but state what it cannot show.
+When a performer-dependent consequence needs testing, use the intended performer or a representative performing Agent. A justified proxy can answer a narrower question; state what it cannot show.
 
 When a candidate is a constraint specification, identify the participants, relations, and conditions it proposes.
-Observe the later Work to establish whether those relations held. Producing the rule card does not produce the duet
-relation.
+Observe the later Work to establish whether those relations held.
 
 #### MDPE.9:2.4 - Separate observation from judgement
 
-Keep the trial, observation, and decision apart. A dancer's felt control, partner report, audio recording, motion
-trace, rehearsal interruption, listener discrimination, model score, or audience response can each bear on a
-claim. None automatically supplies the whole judgement.
+Keep the construction, any trial, its observations and the decision apart. A dancer's felt control, partner report, audio recording, motion trace, rehearsal interruption, listener discrimination, model score or audience response can each bear on a claim within its conditions.
 
 Interpret the observations for the named use. A candidate can be novel but unusable, technically feasible but
 artistically wrong, effective for one body but unsafe for another, or valuable only as a branch. Avoid collapsing
@@ -173,13 +159,13 @@ practice recognized or retained the candidate.
 
 ### MDPE.9:3 - First Useful Result
 
-Use one short comparison table:
+Return the candidate comparison in the form its receiving use needs. This optional table keeps the contribution, grounds and disposition together:
 
-| Candidate | Material difference and producing Method | Performer-involving trial and observation | Disposition, limit, and next condition |
+| Candidate | Material difference and producing Method | Comparison grounds and any needed trial | Disposition, limit, and next condition |
 | --- | --- | --- | --- |
-| [identified material, description, or constraint specification] | [difference that challenges the incumbent assumption; direct Music or Dance Method] | [performer, Work, conditions, observation, and proxy limit if any] | [retain / revise / branch / reject for the named use; evidence limit; next action or stop] |
+| [identified material, description, or constraint specification] | [difference that challenges the incumbent assumption; direct Music or Dance Method] | [construction or applicable evidence; performer, Work, conditions, observation and proxy limit when used] | [retain / revise / branch / reject for the named use; evidence limit; next action or stop] |
 
-Above the table, state:
+Keep the following information with the comparison:
 
 > - **Receiving use and decision:** [what later Work or commitment will use the result].
 > - **Intended performer:** [performing Agent, ensemble, robot, hybrid, or other admitted System].
@@ -187,7 +173,7 @@ Above the table, state:
 > - **Comparison grounds:** [characteristics that can change the decision without being collapsed into one score].
 > - **Reopen condition:** [changed performer, use, configuration, evidence, or live alternative].
 
-Use the candidate dispositions within their stated trial and receiving-use limits.
+Use the candidate dispositions within their stated comparison and receiving-use limits.
 
 ### MDPE.9:4 - Worked Cases
 
@@ -253,7 +239,7 @@ musical conditions and the Agent responsible for the development decision return
 
 One duet rule says that dancer P changes travel direction only after dancer Q produces a readable pressure-change
 event. Another permits either dancer to initiate while the other preserves contact through the response. The
-cards describe candidate constraints; they do not make pressure, initiation, contact, or response occur.
+cards describe candidate constraints.
 
 During partnered-improvisation trials, the dancers use the cards and observers record whether the proposed
 relations obtained and remained readable. One rule may be revised because the pressure event is ambiguous; the
@@ -276,7 +262,7 @@ Suppose two prepared players want a compact piece using Nelson's learned materia
 | Intensify the exchange and bring the players together | Use selected koraippu patterns, shorten each player's turn through the learned stages, then perform the unison transition. | The exchange becomes a collective passage that leads to the ending's preparation. Choose actual complete patterns, not arbitrary cuts through a turn. |
 | Make the impending return recognizable | Perform the selected preparation, periya mōrā and final kōrvai. The duo can perform these together. | The final kōrvai's three statements let the other musicians synchronize their return to the song. |
 
-This outline follows Nelson's two-player example. To obtain a usable rehearsal outline, attach the chosen notation, identify each player and enter each part's start, end and repetitions against the continuing cycle. Count setups, closing figures and preparation as well as the principal compositions. Convert the resulting beat total to duration at the intended beat tempo. If the whole exceeds the available time, remove an optional section or a complete permitted group of patterns, then recompute the joins and duration. Merely adding the nominal lengths of the named compositions leaves their connecting work unaccounted for.
+This outline follows Nelson's two-player example. To obtain a usable rehearsal outline, attach the chosen notation, identify each player and enter each part's start, end and repetitions against the continuing cycle. Count setups, closing figures and preparation as well as the principal compositions. Convert the resulting beat total to duration at the intended beat tempo. If the whole exceeds the available time, remove an optional section or a complete permitted group of patterns, then recompute the joins and duration.
 
 **Choose the transition from the phrase's actual density.** Here the reference is an eight-beat cycle whose beat tempo continues through the change. A pulse is a subdivision of that beat, not another name for a syllable. Nelson's chapter 8 kōrvai occupies 96 counted pulse units in both its simpler and filled versions. Changing how many pulses fit inside a beat changes the statement's duration; filling a phrase can also change the number of syllables inside a pulse.
 
@@ -299,7 +285,7 @@ With more players of unequal preparation, allocate demanding solos to those who 
 
 **Return the arrangement to performance.** [RHY.8](https://github.com/ailev/FPF/blob/main/DPFs/EMBODIED-RHYTHMICS-PRINCIPLES-FRAMEWORK.md#rhy8---specify-and-transform-performable-rhythmic-variants) supports local transformations and their timing. [RHY.9](https://github.com/ailev/FPF/blob/main/DPFs/EMBODIED-RHYTHMICS-PRINCIPLES-FRAMEWORK.md#rhy9---arrange-rhythmic-actions-and-timing-cues) supplies allocation, usable cues and recovery while the passage continues. Use [MDPE.3](#mdpe3---configure-and-coordinate-a-music-or-dance-performing-whole) when the assembled piece needs a joint configuration and trial.
 
-In that trial, play through the selected transitions and the final return, not only the separate sections. A missed shared entry can require a better cue or allocation; an unperformable filled phrase can require the simpler material or capability development through MDPE.10. A correctly counted plan supplies neither observation. Retain, revise or branch the arrangement under MDPE.9 according to the actual trial and receiving use.
+In that trial, play through the selected transitions and the final return, not only the separate sections. A missed shared entry can require a better cue or allocation; an unperformable filled phrase can require the simpler material or capability development through MDPE.10. Retain, revise or branch the arrangement under MDPE.9 according to the actual trial and receiving use.
 
 ### MDPE.9:5 - Checks and Common Repairs
 
@@ -308,7 +294,7 @@ In that trial, play through the selected transitions and the final return, not o
 | One receiving decision is named | Generation has no stopping condition. | State what later Work or commitment will use the comparison. |
 | Candidate kinds remain visible | Material, score, rule, Work, and occurrence collapse into “version”. | Identify each candidate under its actual kind and state how performance Work uses it. |
 | Difference can change the decision | Near-duplicates inflate diversity. | Challenge the incumbent assumption through a relevant relation or characteristic. |
-| Intended performer is involved | Rendering or model score hides embodied and instrumental consequences. | Use representative Work or state the narrower proxy claim. |
+| Performer-dependent consequences have adequate grounds | A rendering or model score may leave bodily and instrumental consequences unresolved. | Use applicable representative observations; obtain a new trial when the receiving claim needs it, or return the narrower result and missing grounds. |
 | Observation and judgement stay separate | One response silently becomes the whole evaluation. | State the observation, interpretation, use, uncertainty, and limit. |
 | Every candidate has a scoped disposition | An archive substitutes for a decision. | Retain, revise, branch, or reject for the named performer, conditions, and use. |
 | Local disposition stays local | A trial is reported as cultural recognition or selection. | Use `C.36` and later population evidence for those claims. |

@@ -223,7 +223,7 @@ The corporation can decide which exposure needs protection, funding or acceptanc
 
 ### FIN.13:10 - Architectural Rationale
 
-Exposure begins with what changes for the corporation. Separating sensitivity, collection and settlement makes measures useful for action without demanding a universal risk model.
+Exposure begins with what changes for the corporation. Separating sensitivity, collection and settlement makes measures useful for action.
 
 ### FIN.13:11 - SoTA-Echoing
 

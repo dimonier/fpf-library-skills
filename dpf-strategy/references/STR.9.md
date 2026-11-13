@@ -113,7 +113,7 @@ Financial option valuation belongs to its qualified method and inputs. This patt
 
 #### STR.9:4.6 - Return the comparison at its supported scope
 
-State the preferred option or retained set under the chosen basis, the reason it beats the serious rival, the reversal conditions and the unresolved limits. A qualified recommendation, an infeasibility result or a worthwhile next inquiry can be complete.
+State the supported comparison under the chosen basis, any justified preference over a serious rival, the reversal conditions and the unresolved limits. A retained set, qualified recommendation, infeasibility result or worthwhile next inquiry can be complete.
 
 Use STR.7 only when an attainable experiment could improve the choice enough to warrant its burden. STR.10 examines commitment consequences that remain unresolved, and STR.11 supports the separately authorized choice. Keep comparison, selection and actual resource commitments distinct.
 
@@ -209,7 +209,7 @@ Flexibility can be overvalued by people who enjoy exploration and undervalued by
 - The comparison identifies holding regions, reversals and material common failures.
 - Future exercise has a responsible chooser, attainable timing and a carrying or switching cost.
 - A dominance claim is supported under its stated rule and is not treated as selection.
-- The return states why an option beats a serious rival and what could change that conclusion.
+- The return states the supported comparison, any justified preference over a serious rival, and what could change that conclusion.
 
 ### STR.9:8 - Common Anti-Patterns and How to Avoid Them
 

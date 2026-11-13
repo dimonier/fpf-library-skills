@@ -35,7 +35,7 @@ Use this pattern when a cost report cannot explain what a proposed order, change
 
 The pattern governs a model relating work outputs to resource consumption and monetary amounts for a stated use. Its useful result is enough of that model to explain the relevant quantities, capacity conditions and money. The operating decision can then use [OPS.14][OPS] to compare options.
 
-If an existing model already supplies adequate quantities and conditions, use it. Rebuilding the whole cost system adds no value to a question that an adequate account can already answer.
+If an existing model already supplies adequate quantities and conditions, use it.
 
 ### MA.1:1 - Problem frame
 
@@ -161,7 +161,7 @@ Return to the test order with a nine-hour setup. Suppose obtaining 100 accepted 
 
 While doing that multiplication, the accountant is deriving rig demand and constructing the order's resource account. The accepted-output requirement governs which attempts must enter the calculation. A colleague may supply the process relationship when the accountant cannot establish it; the accountant still needs to understand how that contribution affects the model. Repeating multiplication exercises would not supply the missing relationship.
 
-The observed production attempts belong to the work being modeled. They are not constituent acts of the accountant's model construction. Likewise, using one calculation to construct an account does not create additional rig occupation or additional hours of accounting work for each description of it.
+The observed production attempts belong to the work being modeled. They are not constituent acts of the accountant's model construction.
 
 Return the changed demand to the operating comparison. [OPS.11.1][OPS] can recover the routing, shared-resource and completion conditions when a different operating arrangement is needed. Recalculating existing assignments or changing an authorized allocation is an operating question. [OCE][OCE] becomes relevant if the proposed repair changes who may commit resources or other organizational arrangements.
 
@@ -216,7 +216,7 @@ At the effort of recovering a few consequential relationships, this line can dis
 
 Bragg's *Throughput Accounting* (2007), printed pp.44–47 and 84–86, supplies historical examples and assumptions behind short-run comparisons. The pattern retains their attention to changed payments and capacity, while including supplier charges, setup supply and other changed flows when actual terms require them. Caspari and Caspari's *Management Dynamics* (2004), printed pp.1–11, supplies the counterexample in which local time reduction need not improve the constrained system or reduce wages. These sources inform the returned quantities and the faster-method case.
 
-Reconsider the model when observed work, relevant terms or the receiving use defeats its dependency, capacity or detail assumptions. A newer cost-model label alone is not evidence that a more elaborate account would answer the question better.
+Reconsider the model when observed work, relevant terms or the receiving use defeats its dependency, capacity or detail assumptions.
 
 ### MA.1:12 - Relations
 

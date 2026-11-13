@@ -95,7 +95,7 @@ Make dependencies explicit: a contribution may require a toolchain, resource, pe
 
 Choose a maintained extension point only where independently changing use justifies it. A small parameter or documented composition may be enough; an open-ended plugin system can cost more to secure, qualify and support than the variants it enables.
 
-Give contributors the decision basis, not only submission mechanics. Explain which user result the boundary protects, why the fixed conditions matter and which alternatives remain acceptable. Provide a small example they can adapt and a way to see whether their proposed result can be consumed. When a proposal fails, return the failed condition and the observed case so that the contributor can revise the technical idea. This is technical mentoring; it does not turn the reviewer into the contributor's manager.
+Give contributors the decision basis, not only submission mechanics. Explain which user result the boundary protects, why the fixed conditions matter and which alternatives remain acceptable. Provide a small example they can adapt and a way to see whether their proposed result can be consumed. When a proposal fails, return the failed condition and the observed case so that the contributor can revise the technical idea.
 
 Agree the continuing work before offering a new supported extension. The contributor may supply domain implementation and examples while the platform provider supplies integration, distribution and first-line diagnosis. Establish who handles an incompatible update, an absent maintainer or an urgent failure. An experimental contribution can remain available under an explicit experimental scope until those conditions are supplied. Acceptance into a repository and a promise of continued support are different decisions.
 
@@ -103,7 +103,7 @@ For copied templates, explain how future change reaches existing instances: a ma
 
 #### SYSE.27:4.4 - Exercise effects on consumers
 
-Run or construct the selected compatibility cases against the old and proposed behavior. Include a representative normal request, defaults or omitted input, a supported limit, a failure and a legitimate unsupported need. Add cases only where their result can change acceptance.
+Run or construct the selected compatibility cases against the old and proposed behavior. Include normal use and the defaults, limits, failures or unsupported requests that can change acceptance under the actual contract.
 
 Use the intended result consumer to interpret the outputs. A request that is syntactically accepted but receives a different unit, deadline or configuration is not compatible merely because the interface returns success.
 

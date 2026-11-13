@@ -88,7 +88,7 @@ Determine whether the apparent surplus is temporary, recurring or a liquidation 
 
 Give retained money a proposed use and timing. Compare worthwhile investment, repair of an exposed financing position, protection against a relevant cash shock and return to owners. FIN.9 compares capital uses; FIN.11 evaluates financing changes; FIN.8 can value a specific contingent opportunity or access when its grounds are established. An unspecified possibility of future growth is not itself a measured gain from holding every available unit of cash.
 
-Retention has value when it enables an otherwise unavailable worthwhile action or avoids a supported financing or distress cost. It also has cost if money earns less than its opportunity cost, permits poor investments or is held where the intended owners cannot use it. These reasons call for an explanation of the amount retained. Neither “cash is safe” nor “shareholders want cash” determines the choice.
+Retention has value when it enables an otherwise unavailable worthwhile action or avoids a supported financing or distress cost. It also has cost if money earns less than its opportunity cost, permits poor investments or is held where the intended owners cannot use it. These reasons call for an explanation of the amount retained.
 
 Assess the prospective opportunities rather than mechanically extrapolate a historical accounting return. A company that invested well in the past can now face weak opportunities, while a new project can differ from the existing business. Use qualified prospective comparisons on consistent grounds. If the amount worth retaining is uncertain, state a conditional range and the evidence or action that would release the remainder.
 

@@ -111,7 +111,7 @@ Prepare a view that includes the original expression, the labeled columns and th
 | Carry from the units operation | — | — | 4 | — |
 | Partial result | — | — | — | 2 |
 
-Keep “multiply by 6” visible and provide readable scale, a pencil or usable digital entry, and room for the next carry and result. The person now performs 4 × 6 + 4 = 28, writes 8 under tens and carries 2 to hundreds; then 3 × 6 + 2 = 20 completes 2082. A calculator can be supplied when the chosen way calls for it, but simply placing one nearby does not execute or bind this multiplication. SYSE.42 governs its actual entered expression and returned result.
+Keep “multiply by 6” visible and provide readable scale, a pencil or usable digital entry, and room for the next carry and result. The person now performs 4 × 6 + 4 = 28, writes 8 under tens and carries 2 to hundreds; then 3 × 6 + 2 = 20 completes 2082. A calculator can be supplied when the chosen way calls for it. SYSE.42 governs its actual entered expression and returned result.
 
 Compare the cropped and restored views on a fresh equivalent interruption. The decisive repair is the digit-to-column relation, not a longer explanation. If the stored original itself contains only “2, 4” without positions, SYSE.43 must restore the record from a source or bounded recomputation. If the correct visible carry is still skipped, inspect the performed arithmetic or procedure instead. These are different repair locations.
 
@@ -129,7 +129,7 @@ Now filter tools to the apparent task “update service.” A similarity-based f
 
 Compare this with an exact small state record: target, desired version, attempt, acceptance, effect status and source. When that record and the short applicable procedure suffice, a recursive narrative summary adds no necessary value. If a later task needs the earlier diagnosis, its pointer can be followed or the input rebuilt for that new use.
 
-A second challenge changes the procedure edition to require a capacity observation before a fresh update. An old summary must not hide the new precondition. Rebuild from the applicable edition and obtain that observation. These constructed cases show what the comparison must distinguish; they do not report an executed trial or a general superiority of one compression strategy.
+A second challenge changes the procedure edition to require a capacity observation before a fresh update. An old summary must not hide the new precondition. Rebuild from the applicable edition and obtain that observation. These constructed cases show what the comparison must distinguish.
 
 ### SYSE.52:6 - Bias-Annotation
 

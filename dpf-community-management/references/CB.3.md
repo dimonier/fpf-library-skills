@@ -164,8 +164,6 @@ A workable entry or change of participation makes it possible to answer:
 - What responsibility, permission or support changes when participation changes?
 - What did the attempted use establish, and what remains unavailable?
 
-Use the answers to improve the action. A completed orientation checklist alone does not establish access, belonging or capability.
-
 ### CB.3:8 - Common Anti-Patterns and How to Avoid Them
 
 | Wrong turn | Practical repair |

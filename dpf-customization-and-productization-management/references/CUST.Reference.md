@@ -65,8 +65,6 @@ Three relations help the reader use this arrangement accurately.
 
 **A repertoire** makes methods available for different situations. It does not require all of them on every occasion. CUST.7 can justify continued bespoke work with no common development. CUST.8 can manage retirement without a new field probe. A supported configuration can finish the customer case without a new family.
 
-The large Method remains useful even when its operations are familiar. It provides the joins, simultaneous conditions, branch choices and returns that would otherwise have to be invented for each case. A list of supplying patterns does not supply those joins.
-
 ## CUST.Reference:4 - Make the Whole Arrangement Work
 
 Customer usefulness, common reuse, current service, resources and permission constrain one arrangement. Individually plausible contributions can be impossible together. A customer may accept an outcome target, engineering may produce a working component and accounting may show an attractive unit cost, while the only qualified specialist is already committed elsewhere. The joined promise remains unavailable until that conflict is resolved.
@@ -158,8 +156,6 @@ The additional work should be proportional to the live decision. A sufficient ex
 One framework serves the connected field because the local/shared decisions repeatedly constrain one another. Splitting customization from productization would put their joins back into each practitioner's private work. Placing all of the account inside Marketing, Systems Engineering or Operations would obscure the other receiving decisions; those frameworks supply Methods at their own scopes.
 
 CUST.1 constructs a compatible continuation through decisions, intermediate results, joint conditions and returns. CUST.2 through CUST.8 retain independent working problems and reusable results. This allows convenient large use and flexible smaller use at the same time.
-
-Known operations can form a useful new composite Method when their connection changes the first useful action or removes substantial private reconstruction. The supplying frameworks contribute results to this field; their disciplines are not all constituents of CUST.
 
 A direct supplier is the better entry when its complete result answers the current question. Use SYSE.8 for an integrated offering/provider concept, IS.3 for constructing implementation support, or MA.8 for customer and product economics when no additional CUST join is missing. CUST explains when those results must be connected to local variation, a common family and continuing obligations.
 

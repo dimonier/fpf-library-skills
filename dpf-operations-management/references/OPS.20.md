@@ -31,7 +31,7 @@ dependencies:
 
 Use this Method when an operation must continue or change enacted practice across a bounded population of Operations practitioners. Typical signs are that a method's author or coach will leave, two shifts use the same carrier differently, an operating rule is visible but not followed independently, or a local improvement must survive handover without becoming a compulsory rollout.
 
-The first useful result is a bounded cultural account and a supported `continue`, `revise`, `branch`, `replace`, `stop`, or `unknown` decision. Name the Operations Management Discipline or smaller practice, practitioner population, operating setting, period and qualification window, and the exact admitted Method or status-preserved candidate/observed-practice input. State one testable cultural claim with its value, participants, applicability, positive and failed cases, current evidence and limits. Sufficient available grounds can finish the account; credible action-changing explanations remain visible, and a new intervention or observation is selected only for a useful attainable contribution.
+The first useful result is a bounded cultural account and a supported `continue`, `revise`, `branch`, `replace`, `stop` or `unknown` decision. Name the Operations Management Discipline or smaller practice, practitioner population, operating setting, period and qualification window, and the exact admitted Method or status-preserved candidate/observed-practice input. State the cultural claim with its participants, applicability, test and available evidence. Use an existing predicate when it answers the question; develop a new one only when the needed relation is missing. Sufficient grounds can finish the account. Retain credible action-changing explanations, and select a new intervention or observation only for a useful attainable contribution.
 
 Use `OPS.16` for one operating Method trial and local Method-change decision. Use `OPS.17` to compare or refresh a repertoire of operating Methods. Use `OPS.19` when simultaneous Work across cases or scales must first be reconciled. A publication, training event, tool rollout, local project decision, or one successful service episode stays with its direct owner unless a bounded population relation is also current.
 
@@ -43,15 +43,15 @@ Recognition concerns continuation across practitioners. Assurance supports the s
 
 Operations depend on practices that cross shifts, sites, providers, and generations of practitioners. Readiness checks, incident stops, acceptance rules, recovery routines, and case-specific judgment can disappear when one experienced person leaves, or persist only as a card that no longer guides actual Work.
 
-Visible activity can overstate continuity. Handover attendance establishes participation in that event; receiving enactment requires evidence of the receiver's independent operating Work. Retention after support ends and a causal service effect need their own observations. A carrier or usage count may help find those observations, but cannot replace them.
+Visible activity can overstate continuity. Handover attendance establishes participation in that event; receiving enactment requires evidence of the receiver’s operating Work under the conditions intended for that use. Keep support that belongs to the practice. Independence from a coach, retention after a specified interval or support change, and a causal service effect are stronger claims with their own evidence needs. A carrier or usage count may help locate those observations.
 
 The Operations question is practical and bounded: which relation concerning one practice is supported in this practitioner population, what may explain its positive and failed cases, and what continuation or change is justified now? A further intervention or observation earns its place from what it can change in that decision or warranted claim.
 
 ### OPS.20:2 - Problem
 
-A team wants useful operating practice to continue and harmful or stale practice to change. It often responds with training, publication, a required field, or a tool rollout because those actions are visible and easy to count. If the team cannot state the value, participants, applicability, positive case, and failed case for one cultural predicate, those activities cannot show what changed.
+A team wants useful operating practice to continue and harmful or stale practice to change. It often responds with training, publication, a required field or a tool rollout because those actions are visible and easy to count. To determine what changed, identify the relation actually claimed, its participants and applicability, and apply its test to the available evidence.
 
-Collapsing the practice, its description and the population claim also hides what remains unknown. A local successful use may be established while selection by another shift or retention after support ends is unresolved. The next observation must answer that remaining question.
+Collapsing the practice, its description and the population claim also hides what remains unknown. A local successful use may be established while selection by another shift or retention after support ends is unresolved. Obtain a further observation only when that remaining question matters to the receiving use.
 
 Intervention adds a further boundary. An Operations lead may be permitted to change one handover or local carrier without authority over another shift, professional practice, employment condition, safety decision, or wider field. The proposed intervention, performed Work, changed subject, later cultural observation, and later operating consequence must therefore remain separately inspectable.
 
@@ -60,7 +60,7 @@ Intervention adds a further boundary. An Operations lead may be permitted to cha
 | Force | Practical tension |
 | --- | --- |
 | continuity and change | Stable practice supports reliable handover, while stale practice can preserve yesterday's assumptions. |
-| carrier and enactment | Cards, descriptions, repositories, rules, and training make practice recoverable, while none proves independent enactment. |
+| carrier and enactment | Cards, descriptions, repositories, rules and training make practice recoverable, while enactment under the intended conditions still needs evidence of use. |
 | local use and population claim | One practitioner can use a Method correctly, while the relation claimed for a population needs its own participants and evidence. |
 | speed and retention | Receiving enactment can be observed soon, while retention and loss need later intervals. |
 | explanation and action | A visible failure invites immediate retraining, while access, recognition, authority, applicability, or Method fit may explain it better. |
@@ -87,21 +87,21 @@ An `OPS.16` return may supply either row exactly. An `OPS.17` repertoire may sup
 
 #### OPS.20:4.2 - Select one value and one testable cultural predicate
 
-Choose the relation that can change the current decision. State the value, participant meanings, participants, applicability condition, positive test, and discriminating negative or failed case before naming the relation as obtaining.
+Choose the relation that can change the current decision. Recover its value, participants and applicability, then apply the existing predicate’s test. If no suitable predicate expresses the needed relation, develop its meaning and a discriminating positive and failed case before relying on it. The examples below illustrate these distinctions.
 
 | Predicate family | Operations question | Example positive and discriminating negative |
 | --- | --- | --- |
 | generation | Did the named practitioners originate a distinguishable operating variation during the stated interval? | A source-traceable variation and its generating Work are recoverable; the negative is a relabelled carrier with no changed practice claim. |
-| receiving enactment or another transmission relation | After the source practitioner or coach is absent, does the receiver independently perform eligible Work using the admitted Method or honestly bounded observed practice? | An eligible case is handled under the exact rule and stop; the negative is a completed handover followed by an unsupported start. |
+| receiving enactment or another transmission relation | Does the receiver perform eligible Work using the admitted Method or honestly bounded observed practice under the intended conditions of support? | An eligible case is handled under the rule and stop with the permitted help; the negative is a completed handover followed by an unsupported start. Test without the source practitioner or coach only when the later use requires that independence. |
 | recognition | Does the named population identify the practice or result as the one meant by the local term in applicable cases? | Practitioners distinguish the practice from its serious rival; the negative is agreement on the label with incompatible case judgments. |
 | selection | Does a named selecting participant or population choose the value under an explicit applicability rule? | Actual eligible decisions designate and use the selected value; the negative is a mandatory field with no corresponding Work. |
 | memory | Can the population or its identified memory arrangement recover the value and its applicability at the named interval? | Practitioners recover the current rule and stop from identified carriers; the negative is an archive entry that directs a stale or unsupported action. |
-| retention | Does the same predicate remain supported after the qualification interval and relevant support change? | Independent positive cases recur after the stated interval; the negative is use only while the author or coach is present. |
+| retention | Does the same predicate remain supported after the stated interval under the conditions being claimed? | Positive cases recur under those conditions; a failed case no longer meets the predicate. A claim of retention after support ends specifically needs observations after that change. |
 | loss | Has a previously supported relation ceased for the named participants and interval? | Eligible cases now fail the earlier predicate under otherwise applicable conditions; the negative is only a missing carrier record with no observation of practice. |
 
-Begin with the receiving practice's existing adoption or incident account. If it already identifies the eligible cases, actual independent use, failure and observation interval needed for this decision, reuse it. Add a cultural predicate only to distinguish a claim that could otherwise alter continuation, extension or withdrawal. The added observation and maintenance burden belongs in that choice.
+Begin with the receiving practice’s existing adoption or incident account. If it already identifies the eligible cases, actual use and help, failure and observation interval needed for this decision, reuse it. Add a distinction only when it could change continuation, extension or withdrawal. Include its observation and maintenance burden in the choice.
 
-Use the lightest truthful claim. Apply `A.6.RCD` only when a reusable or local compound predicate is needed; open `A.6.REL` occurrence identity only when a later use must distinguish relation occurrences. Other cultural claims remain explicit gaps unless independently tested.
+Use the lightest truthful claim. Apply `A.6.RCD` only when a reusable or local compound predicate is needed; open `A.6.REL` occurrence identity only when a later use must distinguish relation occurrences. State a missing cultural result when it limits the receiving decision.
 
 #### OPS.20:4.3 - Separate the practice, carriers, Work, claims, and consequences
 
@@ -131,7 +131,7 @@ Use `A.22` only when one selected organization of identified constituents and ob
 
 Retain credible non-equivalent explanations whose different consequences could change the continuation or warranted claim. Do not invent another explanation to fill a fixed count. Common rivals include:
 
-- the carrier and visible rule are sufficient for independent use;
+- the carrier and visible rule are sufficient under the intended support conditions;
 - case replay, coaching, local authority, or a forum is needed for unfamiliar cases;
 - practitioners cannot recognize applicability even though they can recover the content;
 - required support or permission is absent;
@@ -142,6 +142,10 @@ For a needed comparison, state the consequences that differ and what an attainab
 If the observations cannot distinguish the explanations, retain `unknown` for that explanatory question. An independently supported current continuation or local response can finish while the explanation remains unresolved. An unavailable contrast withholds only its dependent claim; it creates no study commitment or omission record.
 
 #### OPS.20:4.6 - Compare alternatives and bound the intended action
+
+When the current arrangement leaves a receiving operation unavailable, use `C.36.MC:4.5–4.6` to obtain the missing contribution. Start with the recipient’s actual decision, inputs and intended support. Follow the available explanation through its operations and conditions to the needed result; ask its source or a competent practitioner for a missing reason or operation. Compare the receiving condition with the demonstrated one, preserve the dependencies that still apply and change the affected operation, allocation or support. Follow that alternative back to its required inputs, participants and resources and forward to the receiving result.
+
+If the recipient needs a capability change, use the development or technical method appropriate to that holder. A person may need explanation, practice, feedback and variation; an agent may need an obtainable source, procedure, retrieval, retained state or tool. Establish the time and support needed for the selected change. A familiar operation may need only a reminder. Keep a precise gap or restrict the offered use when the needed provider is unavailable.
 
 Compare the alternatives that remain serious for the named population:
 
@@ -186,7 +190,7 @@ Return a contradicted admitted-Method or lineage claim to its specific maintaine
 
 #### OPS.20:4.9 - Keep the first account small
 
-A compact account states the bounded practice and population, honest subject status, one cultural claim with its evidence, positive and failed cases, and the continuation the current basis supports. Keep the relevant uncertainty, limits, operating consequences and grounds a later recipient needs in that same result. Add credible action-changing explanations, intervention details or later observations only when the actual claim or selected work needs them. An unselected experiment creates no empty field or separate no-experiment explanation.
+A compact account states the bounded practice and population, subject status, selected cultural claim, applicable test, evidence and supported continuation. Keep the uncertainty, limits, operating consequences and grounds needed by its recipient. Develop new predicate cases, explanations, intervention details or later observations only when the current claim or selected work needs them.
 
 What changes in practice: an Operations lead can retain a supported bounded practice, repair a particular gap, or stop an unsupported branch without counting publication, attendance, fields or tool use as adoption. A selected worthwhile test still distinguishes its actual Work and results from unknown transmission, selection, retention or causality.
 
@@ -215,17 +219,17 @@ Return `revise` for the unsupported provider-unavailability branch and retain th
 
 Now suppose the next receiving use requires the provider-unavailability decision to be made independently. The current evidence does not support that extension. Select a provider-unavailability decision replay only if a qualified facilitator, participants, protected interval, and current permission for that additional replay are available and its result can change whether the extension is allowed. No unsupported operational start is part of that probe. The proposal completes the decision to test; a claimed tested extension still needs its actual result and independent later use. If the trial is unavailable or not worthwhile, withhold that extension while preserving the supported familiar branch. Reopen the affected result when the Method, description, population, authority, protection or receiving condition changes.
 
-A capable adaptive SRE approach would also investigate the unsupported provider start, listen to the receiving coordinators and retain the useful familiar branch rather than mandate wider rollout. Compare the decisions, not the labels. OPS adds the explicit receiving-enactment predicate only if the existing adoption account cannot distinguish the two supported familiar decisions from the failed unfamiliar decision, the unobserved Late shift and unobserved retention. If it already can, it suffices. Maintaining that distinction costs eligible-case observation, follow-up and communication; a further provider replay adds design, facilitation and displaced-service cost. None of those costs is justified merely by wanting a more complete culture account.
+A capable adaptive SRE approach would also investigate the unsupported provider start, listen to the receiving coordinators and retain the useful familiar branch rather than mandate wider rollout. OPS adds the explicit receiving-enactment predicate only if the existing adoption account cannot distinguish the two supported familiar decisions from the failed unfamiliar decision, the unobserved Late shift and unobserved retention. If it already can, it suffices. Maintaining that distinction costs eligible-case observation, follow-up and communication; a further provider replay adds design, facilitation and displaced-service cost.
 
 #### OPS.20:5.2 - A hospital keeps the cultural claim on the candidate branch
 
-A public-hospital emergency-flow team carries proposed handover way `ED-Handover-Readiness-CA1` only through its `A.3.1.MR` candidate account. A checklist, training event, mandated field, and observed clinical handovers establish neither a Method edition nor Method enactment. The bounded population is the licensed transfer coordinators for one named emergency unit and shift over four weeks; clinical practitioners, patients, and other units are not silently joined to it.
+A public-hospital emergency-flow team carries proposed information-checking way `ED-Handover-Readiness-CA1` from OPS.16:5.2 through its `A.3.1.MR` candidate account. Its operations compare available information with qualified handover requirements and return missing information or changed clinical conditions to their responsible owners. Method admission remains unestablished. The bounded population is the licensed transfer coordinators for one named emergency unit and shift over four weeks; clinical practitioners, patients and other units are not silently joined to it.
 
-The testable value is the status-preserved readiness practice described by the candidate account, and the primary predicate is receiving use of that observed practice without a Method-culture claim. A positive case is an eligible transfer in which a coordinator independently performs the described information check and records a truthful stop when qualified clinical or support information is absent. The negative is a completed mandatory field followed by transfer Work with no recoverable check. The candidate account, checklist, field, training Work, actual clinical Work, patient case, and population claim remain separate.
+The value being examined is the practice described by the candidate account, and the primary predicate is its receiving use under the stated support conditions, without a Method-culture claim. A positive case is an eligible transfer in which a coordinator performs the described information comparison and preserves the required return when information is missing or a clinical condition has changed. A negative case is a completed mandatory field followed by transfer Work with no recoverable check. The candidate account, checklist, field, training Work, actual clinical Work, patient case and population claim remain separate.
 
-Credible explanations are that the checklist and field make the practice recoverable, or that qualified case discussion and local permission are needed because changing clinical priority defeats a fixed check. Retain a current bounded receiving-use account when existing eligible-case evidence supports it, without asserting Method admission or wider culture. A new comparison of ordinary handover and qualified case replay is selected only if it can change the receiving decision and warrants feasible licensed participation, support, time and burden. Any intervention stops until current clinical and administrative authority permits it and preserves consent, privacy, safety, staffing, worker health and medical priority.
+The support question is whether the checklist and field make those operations recoverable under the intended receiving conditions, or whether the coordinators also need qualified case discussion to recognize when the information check must return to clinical judgement. Retain a bounded receiving-use account when existing eligible-case evidence supports it. Select a comparison of ordinary handover and qualified case replay only if it can change that decision and warrants feasible licensed participation, support, time and burden. Any intervention stops until current clinical and administrative authority permits it and preserves consent, privacy, safety, staffing, worker health and medical priority.
 
-The return can be a qualified current continuation, `revise` for the candidate account, or `unknown` for the unsupported population relation. It cannot become Method adoption, Method retention, or clinical effectiveness. Return observations to the candidate account and its later `A.3.1` identity question when that question is current; clinical decisions and protections remain with their qualified owners. Missing evidence for a wider claim creates no new clinical experiment merely to finish the account.
+The return can be a qualified continuation, a revision of the candidate account, or `unknown` for the unsupported population relation. It establishes neither Method admission nor clinical effectiveness. Return observations to the account and to a separate `A.3.1` identity question only when that question is needed; clinical decisions and protections remain with their qualified owners.
 
 #### OPS.20:5.3 - An AI-assisted software operation separates tool use from selection
 
@@ -241,7 +245,7 @@ If the provider or model changes to an unqualified edition, the current branch s
 
 | Recurring bias | Likely drift | Working repair |
 | --- | --- | --- |
-| rollout bias | Publication, training completion, access, or a configured tool becomes population adoption. | Derive one predicate with named participants, positive and failed cases, and later evidence. |
+| rollout bias | Publication, training completion, access or a configured tool becomes population adoption. | Apply the needed population predicate to actual receiving use; develop a new predicate only when the existing one cannot express the claim. |
 | label and school bias | A familiar community name, such as SRE or Kanban, substitutes for the practice being continued. | Recover the actual Method or candidate and the population claim needed here. |
 | carrier bias | A maintained carrier is taken as evidence that the practice continues. | Recover receiving Work and the population predicate separately from access. |
 | mandate bias | A required field or policy is read as selection and enactment by every practitioner. | Test actual eligible decisions and retain unsupported, copied, or bypassed cases. |
@@ -255,8 +259,8 @@ If the provider or model changes to an unqualified edition, the current branch s
 - [ ] The Operations Management Discipline result or smaller practice boundary, operating System or service, setting, place, period, and qualification window are explicit.
 - [ ] The practitioner population identifies the participants meant by transmitting, receiving, recognizing, selecting, remembering, retaining, generating, or losing.
 - [ ] The input is either an exact admitted Method plus relied-on description and bounded evidence, or an exact status-preserved candidate or observed-practice account with no Method, MethodDescription, or enactment inflation.
-- [ ] One value and cultural predicate have participant meanings, applicability, a positive test, and a discriminating negative or failed case.
-- [ ] Other cultural predicates remain explicit gaps unless independently tested.
+- [ ] The selected value and cultural predicate have recoverable participants, applicability and a test. A new predicate has the positive and failed cases needed to distinguish its meaning.
+- [ ] A missing cultural result is explicit when it limits the receiving decision. Support and independence conditions match the claim actually made.
 - [ ] The world-side claim, claim episteme, evidence and reliance, and observations at named intervals remain separate.
 - [ ] Each observation is used for the subject and claim it supports in section 4.3.
 - [ ] A selected structure or architecture is opened only when its organization changes the decision.
@@ -270,9 +274,9 @@ If the provider or model changes to an unqualified edition, the current branch s
 
 | Misuse | Working repair |
 | --- | --- |
-| “Everyone attended, so the Method was transmitted.” | Observe independent eligible Work after the author or coach is absent. |
+| “Everyone attended, so the Method was transmitted.” | Observe eligible receiving Work under its intended support conditions; require independence only for a use that needs it. |
 | “The field is mandatory, so the population selected the practice.” | Test whether actual eligible decisions designate and use the value rather than merely complete the field. |
-| “The repository has stable editions, so the culture retained the Method.” | State the retained value, participants, interval, applicability, positive case, and failed case; test practitioner retention separately. |
+| “The repository has stable editions, so the culture retained the Method.” | Apply the retention predicate to the named practitioners, interval and support conditions; repository persistence and retained practice have different evidence. |
 | “The service improved, so the intervention changed culture.” | Keep service evidence, cultural observation, and any causal claim separate. |
 | “The school is popular, so its Method fits this operation.” | Use the school as a dated source or alternative and compare the exact operating move and conditions. |
 | “The operations lead owns the process and may change every shift.” | Recover the actual assignment, permission, or authority predicate and its scope. |
@@ -289,7 +293,7 @@ The cost is narrower language and the evidence required by the actual claims. Re
 
 ### OPS.20:10 - Rationale
 
-Cultural continuation is a relation question about identified values and participants, not a property inferred from a framework name or artifact count. By making the positive and failed cases explicit, practitioners can see whether the next action should change access, recognition, support, authority, applicability, or the Method itself.
+Cultural continuation concerns identified values and participants. Relating the claim to its applicable test and actual cases helps determine whether the next action should change access, recognition, support, authority, applicability or the Method itself.
 
 Credible action-changing explanations help prevent a ritual intervention. Carrier sufficiency and replay-plus-authority dependence can call for different observations, but distinguishing them is not required for every bounded continuation. A small reversible probe is selected when its attainable contribution warrants its burden, without claiming control of the whole practice or unsupported causality.
 
@@ -297,7 +301,7 @@ Keeping the Method, description, carrier, Work, claim, evidence, and consequence
 
 ### OPS.20:11 - SoTA-Echoing
 
-The question is how to continue a useful operating practice among its receiving practitioners, and when to change its support or scope. A strong comparator is adaptive SRE practice, not compulsory rollout. Google's [organizational-change account, especially “Common Tooling Adoption in SRE”](https://sre.google/workbook/organizational-change/) describes attention to differing receiving needs, changes in staffing and support when an arrangement failed, migration cost and voluntary uptake. It also permits specialized solutions where a common one does not fit. These are practitioner case observations, not universal causal estimates.
+The question is how to continue a useful operating practice among its receiving practitioners, and when to change its support or scope. A strong comparator is adaptive SRE practice. Google's [organizational-change account, especially “Common Tooling Adoption in SRE”](https://sre.google/workbook/organizational-change/) describes attention to differing receiving needs, changes in staffing and support when an arrangement failed, migration cost and voluntary uptake. It also permits specialized solutions where a common one does not fit. These are practitioner case observations, not universal causal estimates.
 
 Apply that capable approach to PumpWorks. It can keep the familiar practice, investigate the unsupported provider start, improve receiving support and avoid extending an arrangement whose local value does not justify migration. OPS adopts those moves. Its residual contribution is a more exact decision claim when “adoption” leaves the matter ambiguous: which practitioners independently enact which admitted practice in which eligible cases and interval, and which failed observation defeats the proposed extension? Sections 4.2–4.3 and 5.1 distinguish receiving enactment from participation, institutional selection, carrier availability and longer retention. Two correct familiar decisions and one failed unfamiliar decision support the bounded familiar branch, not both shifts or six-week retention.
 
@@ -309,7 +313,7 @@ Reopen when a new eligible failure, changed support, authority, population or in
 
 ### OPS.20:12 - Relations
 
-`C.20` supplies the current Discipline result when one is needed. `C.36` governs the general cultural-evolution case, including generation, transmission, recognition, selection, memory, retention, loss, and intervention distinctions. `C.36.MC` supplies the general admitted-Method and candidate branches, testable-predicate intervention route, rival hypotheses, authorization boundary, interval observations, and bounded return. OPS.20 adds the Operations practitioner population, exact operating input, operating authority, service and reliability conditions, consequences, and repertoire return.
+`C.20` supplies a Discipline result when one is needed. `C.36` governs generation, transmission, recognition, selection, memory, retention, loss and intervention distinctions. `C.36.MC` supplies the admitted-Method and candidate branches, predicate use, receiving explanation and adaptation, human and technical support, authorization and bounded return. Its :4.5–4.6 develops the missing receiving contribution when recognition of a gap is not yet enough. OPS.20 retains the Operations practitioner population, operating input, authority, service and reliability conditions, consequences and repertoire return.
 
 `OPS.16` can supply the admitted-Method or candidate/observed-practice input with its existing status and evidence. `OPS.17` can supply repertoire alternatives and lineage claims; `OPS.19` can supply a practice variation or operating consequence. OPS.20 establishes the receiving population claim and decision; intervention authority and later observations are obtained for the work or claim that needs them.
 

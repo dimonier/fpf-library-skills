@@ -106,7 +106,7 @@ Preserve an independently qualified domain result within its established scope w
 
 #### PSDA.19:4.5 - Distinguish AI assistance from an AI development subject
 
-If AI assists the adviser, establish the permitted use of client information and the responsible professional's review of the resulting content. Within the [ICMCI AI Code v1.0, May 2026](https://www.cmc-global.org/sites/default/files/public/code_of_responsible_use_of_artificial_intelligence.pdf), sections 1.2, 2.2, 3.1–3.4, 5, and 7, professional responsibility remains with the consultant; material AI use and its limits require appropriate client communication. An unverified generated answer supplies no specialist warrant.
+If AI assists the adviser, establish the permitted use of client information and the responsible professional's review of the resulting content. Within the [ICMCI AI Code v1.0, May 2026](https://www.cmc-global.org/sites/default/files/public/code_of_responsible_use_of_artificial_intelligence.pdf), sections 1.2, 2.2, 3.1–3.4, 5, and 7, professional responsibility remains with the consultant; material AI use and its limits require appropriate client communication.
 
 If AI is instead the developing subject, identify the model, scaffold, tools, allocation, or composite arrangement being changed and its receiving environment. The recipient and choice owner are separate questions. A human learning result does not qualify a model change; use the relevant AI, engineering, operating, and governance results through A.15.9.
 
@@ -116,7 +116,7 @@ Both situations can occur in one engagement. Keep the adviser's use of AI, the p
 
 Once the service boundary is adequate, identify what answer is still needed. Reuse current opportunity, characterization, reachability, and comparison results that cover this subject, configuration, use, and horizon.
 
-If the receiving contribution or direction is unsettled, use the relevant construction pattern. If adequate directions exist, enter the actual PSDA alternatives, comparison, or recommendation question directly. PSDA.12, PSDA.1, PSDA.2, PSDA.3, PSDA.4, PSDA.13 become relevant only when participants, formulations, scope, models, Method choice, or facilitation can change the return; a formed question needs no workshop as an entry fee.
+If the receiving contribution or direction is unsettled, use the relevant construction pattern. If adequate directions exist, enter the actual PSDA alternatives, comparison, or recommendation question directly. PSDA.12, PSDA.1, PSDA.2, PSDA.3, PSDA.4, PSDA.13 become relevant only when participants, formulations, scope, models, Method choice, or facilitation can change the return.
 
 Use C.40.JF for a missing joint-reachability result and A.15.9 for an exact external premise. A service may be admissible while the evidence supports only a conditional set, request, or blocker. Keep the scope local: a missing provider comparison can block ranking all directions while an independent human-development result remains usable.
 
@@ -132,7 +132,7 @@ If the relationship cannot responsibly supply the requested service, return the 
 
 Fit the eventual explanation to the recipient's use. PSDA.14 and the applicable receiving-use guidance govern making the recommendation intelligible; persuasion to accept it is a different purpose. Delivery alone establishes neither understanding nor consent, choice, implementation, or effectiveness.
 
-A completed recommendation application does not cancel duties arising from an actual professional relationship. Contact, referral, confidentiality, protection, and service closure continue only as their governing basis requires. If follow-up is needed, use PSDA.15 for a feasible observation and return arrangement; a date in the report creates no staffed service. Reopen the affected engagement condition when the recipient, purpose, competence, conflict, information use, or professional basis changes.
+A completed recommendation application does not cancel duties arising from an actual professional relationship. Contact, referral, confidentiality, protection, and service closure continue only as their governing basis requires. If follow-up is needed, use PSDA.15 for a feasible observation and return arrangement. Reopen the affected engagement condition when the recipient, purpose, competence, conflict, information use, or professional basis changes.
 
 **Recognition and assurance.** The reader can recognize a bounded engagement from the recipient, developing subject, adviser, use, horizon, service limits, and retained choice. Assurance requires the actual competence, participation, protection, reliance, and authority basis relevant to that use. A clear account is not evidence that those conditions obtain.
 

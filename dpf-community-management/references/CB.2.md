@@ -67,13 +67,13 @@ Bound the work so that the recipient can supply relevant material and a contribu
 
 State what would count as a usable result and what must remain outside the exchange. Use the target practice's criteria for a technical answer. A community organiser can arrange access to a qualified judgement without being qualified to make it. For a social activity, a wanted opportunity to speak and be heard may be the result; do not impose a technical deliverable on that purpose.
 
-If the original request needs a missing domain method, unavailable data or a decision that the participants cannot make, obtain that contribution or revise the activity. A well-run meeting cannot supply it by itself.
+If the original request needs a missing domain method, unavailable data or a decision that the participants cannot make, obtain that contribution or revise the activity.
 
 #### CB.2:4.2 - Find the contributions needed on each side
 
 Start from the result and work backward to the people, material and conditions that could produce it. For a help request, this normally means a person with a real question and someone with relevant competence, experience or access. For a joint activity, identify the different contributions that make it worthwhile.
 
-Approach potential participants with a specific reason their contribution could matter. Explain the purpose, requested preparation, likely effort, available support and limits. Ask whether they want to participate under those conditions. Being well known, holding a title or appearing on a member list does not establish willingness or suitability for this exchange.
+Approach potential participants with a specific reason their contribution could matter. Explain the purpose, requested preparation, likely effort, available support and limits. Ask whether they want to participate under those conditions.
 
 Obtain enough information to make a defensible match. The contributor may need to know the kind of case, the question, the material available and the recipient's starting knowledge. The recipient may need to know the contributor's experience and the limits of the proposed help. Use only information relevant to the match and permissible to share.
 
@@ -177,7 +177,7 @@ The owner returns a concise account of the chosen next step. If the decision can
 
 #### CB.2:5.3 - Willingness does not supply missing competence
 
-Several people volunteer to help with a case, but none can explain how the proposed diagnostic method is justified. The organiser closes the request with that limitation and seeks a qualified source or method-development contribution. Participants can still help formulate the question and identify missing observations. Their enthusiasm does not make the technical answer reliable.
+Several people volunteer to help with a case, but none can explain how the proposed diagnostic method is justified. The organiser closes the request with that limitation and seeks a qualified source or method-development contribution. Participants can still help formulate the question and identify missing observations.
 
 #### CB.2:5.4 - A first social connection can be enough
 

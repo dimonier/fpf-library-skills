@@ -30,7 +30,7 @@ dependencies:
 
 Use this pattern when people want to improve a process, clear a backlog, raise utilization, accelerate flow, or redesign a board but cannot yet name the operation whose result must continue. Typical warning signs are an organization name used as the operating boundary, one ticket called the customer need, a queue column treated as the Work, or a service promise discussed without its parties, conditions, or horizon.
 
-The first useful move is to write one bounded operating-focus statement:
+The first useful result is one bounded operating focus. An existing account or a short statement can carry it:
 
 > For this decision and horizon, `OperatingSystem-X` must continue supplying `Result-or-Service-Y`; current demand and commitments are `...`; the decision-bearing subjects and counted units are `...` under these identity rules; the unresolved boundary, authority, evidence, or control question is `...`.
 
@@ -51,8 +51,8 @@ Do not use OPS.1 merely to rename an already bounded operation, classify every o
 | operating subject | The exact System, item, case subject, material, service relation, account, or other entity whose state or relation can change the operating decision. |
 | flow or case unit | A decision-specific counted or tracked unit with an identity rule and receiving use. Treat Work items, cases, physical items, batches, transactions, commitments, and results as different units unless their identity rules and evidence establish that the labels denote the same counted or tracked unit for this use. |
 | operating boundary | The included subjects, Work, resources, relations, environments, and time horizon needed for this decision, plus explicit exclusions and specialist returns. |
-| control-relevant operating concern | A question in which observation, decision, actuation, supervision, feedback, or unlike rates can change current coordination. It is an entry cue for an FPF control view, not a kind of operation. |
-| operating-focus result | The bounded result returned by OPS.1: operating System, continuing result, demand, commitments, subjects and units, boundary, evidence or authority gaps, next pattern, and reopen condition. |
+| control-relevant operating concern | A question in which observation, decision, actuation, supervision, feedback or unlike rates can change coordination. It calls for the relevant control account, with a formal structure or view only when that claim is needed. |
+| operating-focus result | The bounded operating System, continuing result, demand, commitments, subjects and units, with the boundary and grounds needed for the current decision. Include a missing condition or further use when one remains. |
 
 ### OPS.1:1 - Problem Frame
 
@@ -84,7 +84,7 @@ Limit the operating focus to what the current decision needs; identify the actua
 #### OPS.1:4.1 - Pattern-Use Unfolding
 
 1. **Name the first user and decision.** State who needs the focus, what decision it enables, the relevant horizon, and the first useful result or honest blocker.
-2. **List materially different operating-System candidates.** Consider the whole organization, a service operation, production cell, development operation, hospital function, supply relation, personal operation, product or asset, and coordination software when each is plausible. Use `A.1.SCR` only when System identity changes the decision; otherwise name the actual subject and leave through its pattern.
+2. **Resolve the operating-System boundary.** Use the already supported referent when it fits the decision. Where the boundary is unsettled, compare materially different plausible candidates: for example, the whole organization, a service operation, production cell, development operation, hospital function, supply relation, personal operation, product or asset, or coordination software. Use `A.1.SCR` only when System identity changes the decision; otherwise name the actual subject and leave through its pattern.
 3. **State the continuing result or service.** Name its receiver, conditions, horizon, and the observation that would show interruption or degradation. Keep value, quality, acceptance, fulfilment, safety, and causal effect as separate claims.
 4. **Recover demand and commitments.** Distinguish requests and candidate Work from admitted Work. For each decision-bearing commitment, name parties, promised result or service, conditions, horizon, authority, current status, and evidence gap.
 5. **Name operating subjects.** Identify the customers, cases, physical items, release candidates, incidents, transactions, materials, services, accounts, or other subjects whose state or relation changes action.
@@ -92,23 +92,25 @@ Limit the operating focus to what the current decision needs; identify the actua
 7. **Draw the operating boundary.** Include only the Work, resources, relations, environments, and time horizon needed by the decision. Name excluded product, organization, asset, finance, legal, safety, capability, and other specialist questions with their return conditions.
 8. **Check the control branch.** If observation, decision, actuation, supervision, feedback, or rate separation can change coordination, record the control-relevant operating concern for `OPS.2`. Do not construct a control view or infer a feedback relation here.
 9. **Recover authority and evidence limits.** Name who may use the focus for which decision, what evidence supports it, what remains uncertain, and which missing fact blocks reliance.
-10. **Return, dispose, and reopen.** State the selected operating focus, rejected candidates, next pattern, truthful stop, and one observable change that reopens the boundary, commitment, subject, or unit. When a change reopens any focus field, list the known downstream views, accounts, policies, and later decisions that consumed that field; mark each `recheck`, `still usable`, or `return`, and give the decision-local reason. Leave an unrelated consumer intact.
+10. **Return the focus and any needed continuation.** State the supported operating focus or exact unresolved condition. Explain rejected candidates when a boundary comparison was needed. A sufficient answer can finish here; name a next contribution only when the receiving decision still needs it. For a focus maintained across uses, identify changes that would require revision. When a field changes, check the known views, accounts, policies and decisions that relied on it; explain which need rechecking or a return and which remain usable. Communicate that disposition in the account used by the affected participants.
 
 Use an existing workflow or service account when it already identifies the needed result, receiver, promise and return. Add only a missing distinction that can alter the current decision; selecting an operating focus need not create a new document.
 
-#### OPS.1:4.2 - Record the Result
+#### OPS.1:4.2 - Carry the Result
 
-| Result position | Required content |
+Use the current account when it preserves the needed content below. Maintain a record when later reliance, coordination or a governing requirement needs it; a one-time answer can be stated directly.
+
+| Result position | Content for the receiving use |
 | --- | --- |
 | use boundary | First user, decision, horizon, first useful result, and truthful stop. |
-| operating-System candidates | Candidate referents, decisive identity and boundary facts, selected System or subject-pattern return, and rejected alternatives. |
+| operating-System boundary | Supported System or subject-pattern return; decisive identity and boundary facts, with alternatives and their disposition when comparison was needed. |
 | continuing result or service | Receiver, result or preserved condition, operating conditions, interruption observation, and unresolved value, quality, safety, or acceptance claims. |
 | demand and commitments | Demand classes; commitment parties, contents, conditions, horizons, authority, status, and evidence gaps. |
 | subjects and units | Exact subjects, unit identity rules, Work-item start/finish where relevant, subject/result relations, and receiving uses. |
 | boundary and returns | Included Work, resources, relations, environments, horizon, exclusions, and specialist results needed. |
 | control concern | The relevant observation, actuation, supervision, feedback, or rate question, when it changes coordination. |
-| continuation | Next useful pattern and an observable reopen condition. |
-| downstream disposition | Every known view, account, policy, or later decision that consumed a changed focus field, marked `recheck`, `still usable`, or `return` with its reason; unrelated consumers remain intact. |
+| continuation | Missing contribution and next useful method, if any; revision conditions for a focus that will be maintained or reused. |
+| downstream effect | When a focus field changes, which known consumers need rechecking or a return and which remain usable, with the reason needed by their users. |
 
 #### OPS.1:4.3 - What Changes in Practice
 
@@ -152,15 +154,15 @@ Suppose `ProviderChange-P8` becomes a separately authorized provider-transition 
 ### OPS.1:7 - Conformance Checklist
 
 - [ ] The opening names a first user, operating decision, horizon, and useful stop.
-- [ ] The operating System is selected from materially different candidates or the result truthfully returns to another subject pattern.
+- [ ] The operating System has a supported boundary; materially different plausible candidates are resolved when they affect the choice, or the result returns to the appropriate subject pattern.
 - [ ] The continuing result or service names its receiver and conditions without declaring value, quality, safety, acceptance, or fulfilment by wording.
 - [ ] Demand, commitments, admitted Work, subjects, records, and units remain distinct.
 - [ ] Every decision-bearing commitment names parties, content, conditions, horizon, authority, status, and evidence limits.
 - [ ] Every counted or tracked unit has an identity rule and receiving use.
 - [ ] The boundary names included Work and relations, exclusions, specialist returns, and evidence or authority gaps.
 - [ ] A control concern is recorded only when it can change the decision; no diagram or controller label establishes it.
-- [ ] The next pattern and one observable reopen condition are explicit.
-- [ ] A reopened focus gives every known consumer of the changed field a `recheck`, `still usable`, or `return` disposition and leaves unrelated consumers intact.
+- [ ] Any still-needed contribution is explicit; a maintained or reused focus states the changes that would require revision.
+- [ ] A changed focus is checked against known uses of the changed field, and affected participants can recover the needed revision or continued use.
 
 ### OPS.1:8 - Common Anti-Patterns and How to Avoid Them
 
@@ -193,7 +195,7 @@ For another use, consider a competent travel-office workflow whose finished item
 
 The additional burden is interviewing or consulting the affected receiver, establishing one missing subject/commitment correspondence, and maintaining it when conditions change. It is justified only if that distinction can change admission, continuation, a promise or an intervention. Duplicating the workflow's complete item history, drawing the whole enterprise or maintaining a second status account adds no such gain. This is why section 4.1 starts with a decision and section 4.2 permits a bounded return.
 
-FPF's `A.1.SCR`, `A.6.REL`, `C.2.1` and `A.10` govern System recognition, relations, accounts and evidence. The historical DEMO production/coordination distinction helps inspect commitments and participants; neither source selects the operating boundary or assigns local authority. The selected OPS synthesis is conditional, not evidence of comparative effectiveness. Reopen it when an omitted receiving relation changes a decision, or when the incumbent already preserves the same result and return at lower total maintenance cost.
+FPF's `A.1.SCR`, `A.6.REL`, `C.2.1` and `A.10` govern System recognition, relations, accounts and evidence. The historical DEMO production/coordination distinction helps inspect commitments and participants; neither source selects the operating boundary or assigns local authority. Reopen it when an omitted receiving relation changes a decision, or when the incumbent already preserves the same result and return at lower total maintenance cost.
 
 ### OPS.1:12 - Relations
 

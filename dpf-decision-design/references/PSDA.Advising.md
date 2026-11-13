@@ -6,7 +6,7 @@ title: "PSDA.Advising:1 - Use this when"
 # PSDA.Advising: PSDA.Advising:1 - Use this when
 
 > **Problem frame:** Use this profile when a person, organization or AI arrangement is considering what to develop next, a distinct recommending performer must help a named recipient, and the answer depends on several qualified practices.
-> **First move:** Ask which fact, if different, would change a direction, protected condition, comparison or return. Recover that fact for the holder and configuration named in the advice question; do not build an exhaustive diagnosis as an entry fee.
+> **First move:** Ask which fact, if different, would change a direction, protected condition, comparison or return. Recover that fact for the holder and configuration named in the advice question.
 
 ---
 
@@ -16,7 +16,7 @@ Use this profile when a person, organization or AI arrangement is considering wh
 
 Development-direction work also has an earlier, independently useful branch: constructing an opportunity when the worthwhile problem or possible contribution is not yet settled. Enter [Construct a Bounded Development Opportunity (FPF C.40.OCN:1)](https://github.com/ailev/FPF/blob/main/FPF-Spec.md#c40ocn1---problem-frame) directly for that question. A person can use it to explore future engineering Work without appointing an adviser or asking for a final recommendation. Its result is an opportunity with dependencies and a next question, not advice by another name.
 
-This profile connects opportunity construction, the relevant PSDA contributions and direct supplier results. It is not one compulsory Method with eight stages. The developing holder, opportunity, recommendation and later choice remain different objects. Human development, organization change, strategy, operations, AI engineering, safety and other practices keep their substantive Methods and conclusion authority.
+This profile connects opportunity construction, the relevant PSDA contributions and direct supplier results. The developing holder, opportunity, recommendation and later choice remain different objects. Human development, organization change, strategy, operations, AI engineering, safety and other practices keep their substantive Methods and conclusion authority.
 
 The smallest useful result may be two sentences: “The available comparison covers internal development and configuration A, not the external-provider direction. Obtain the provider comparison for the same result, security boundary and horizon before ranking all three.” That is a complete bounded return.
 
@@ -41,7 +41,7 @@ The entries below are alternatives, not a work order. An adequate result can be 
 | What can the recipient responsibly consider now? | [Compose the bounded recommendation](#psdaadvising8---compose-the-bounded-recommendation) and [Return it for the agreed use](#psdaadvising9---return-it-for-the-agreed-use) | One or more explicitly scoped recommendation dispositions with basis and limits. |
 | Has something changed that affects earlier advice? | [Reconsider only affected advice](#psdaadvising10---reconsider-only-affected-advice) | Retained, narrowed or blocked claims; a request to the practice responsible for an affected result; or a later recommendation. |
 
-A qualified opportunity supplies a candidate basis to PSDA.5; PSDA.6, PSDA.7, PSDA.8, PSDA.9 supply comparison premises to PSDA.14; PSDA.15 handles an actual follow-up question. Each dependency applies only to the same relevant holder, configuration, use and horizon. Neither these links nor their order establishes performed Work, a composite Method, dispatch or authority.
+A qualified opportunity supplies a candidate basis to PSDA.5; PSDA.6, PSDA.7, PSDA.8, PSDA.9 supply comparison premises to PSDA.14; PSDA.15 handles an actual follow-up question. Each dependency applies only to the same relevant holder, configuration, use and horizon.
 
 
 
@@ -56,18 +56,18 @@ Before positive advice, establish the applicable service scope, competence, conf
 
 For human career services, apply the actual professional conditions for informed participation, assessment competence, intelligible interpretation and appropriate referral. [NCDA's 2024 Code of Ethics, A.2, A.10 and E.2](https://www.ncda.org/aws/NCDA/asset_manager/get_file/3395) is a bounded professional source, not a universal rule for organizations or AI holders. Determine its applicability and any additional local requirements; do not infer consent or a client's capacity from a signed form alone.
 
-AI assisting an adviser and AI being the developing holder are different cases. Where the [ICMCI AI Code v1.0, §§1.2, 2.2, 3.1–3.4, 5.1–5.4 and 7](https://www.cmc-global.org/sites/default/files/public/code_of_responsible_use_of_artificial_intelligence.pdf) applies, the consultant retains responsibility, checks material AI-assisted content, respects client-data restrictions and explains material AI use and its limits. An unverified generated memo cannot acquire professional warrant from the tool's availability. The actual client relationship governs these duties even when the holder is an organization or a person.
+AI assisting an adviser and AI being the developing holder are different cases. Where the [ICMCI AI Code v1.0, §§1.2, 2.2, 3.1–3.4, 5.1–5.4 and 7](https://www.cmc-global.org/sites/default/files/public/code_of_responsible_use_of_artificial_intelligence.pdf) applies, the consultant retains responsibility, checks material AI-assisted content, respects client-data restrictions and explains material AI use and its limits. The actual client relationship governs these duties even when the holder is an organization or a person.
 
 Return the missing mandate, competence, conflict treatment, consent or admissibility condition when it prevents the requested service. A blocker can complete this recommendation application while obtaining professional duties remain in force. Existing safety, legal or emergency duties keep their own direct authority.
 
-Do not require participant mapping, facilitation or a contested-situation workshop merely to admit a formed question. Open PSDA.12, PSDA.1, PSDA.2, PSDA.3, PSDA.4, PSDA.13 only when a participant, boundary, formulation, model, Method choice or disagreement can change this result.
+Open PSDA.12, PSDA.1, PSDA.2, PSDA.3, PSDA.4, PSDA.13 only when a participant, boundary, formulation, model, Method choice or disagreement can change this result.
 
 
 
 
 ## PSDA.Advising:4 - Recover only the relevant holder premises
 
-Ask which fact, if different, would change a direction, protected condition, comparison or return. Recover that fact for the holder and configuration named in the advice question; do not build an exhaustive diagnosis as an entry fee.
+Ask which fact, if different, would change a direction, protected condition, comparison or return. Recover that fact for the holder and configuration named in the advice question.
 
 | Developing holder | Premises that can matter | What cannot substitute |
 | --- | --- | --- |
@@ -84,7 +84,7 @@ For every material premise, retain the claim and identify its subject and config
 
 ## PSDA.Advising:5 - Use the direct result-acquisition Method
 
-Use [FPF A.15.9 - Use or Request a Bounded Result from Another Practice](https://github.com/ailev/FPF/blob/main/FPF-Spec.md#a159---use-or-request-a-bounded-result-from-another-practice) for qualified use and selection of worthwhile acquisition, with [FPF A.10](https://github.com/ailev/FPF/blob/main/FPF-Spec.md#a10---evidence-graph-referring-claim-bound-evidence-and-provenance-graph) for the actual reliance claim. State the question that the result must answer and identify the conclusion that remains unsupported without that answer. In advising, derive this question from the recipient's need for advice; in independent opportunity construction, derive it from the next unresolved dependency. Keep the useful present answer and its limit. Before formulating a further request, use A.15.9 and C.11.DUA to compare its obtainable contribution with the complete acquisition burden and available continuation; naming the dependency does not select that work.
+Use [FPF A.15.9 - Use or Request a Bounded Result from Another Practice](https://github.com/ailev/FPF/blob/main/FPF-Spec.md#a159---use-or-request-a-bounded-result-from-another-practice) for qualified use and selection of worthwhile acquisition. Use [FPF A.10](https://github.com/ailev/FPF/blob/main/FPF-Spec.md#a10---evidence-graph-referring-claim-bound-evidence-and-provenance-graph) when the source-to-use account remains implicit or a needed reproducible account is missing. State the question that the result must answer and identify the conclusion that remains unsupported without that answer. In advising, derive this question from the recipient's need for advice; in independent opportunity construction, derive it from the next unresolved dependency. Keep the useful present answer and its limit. Before formulating a further request, use A.15.9 and C.11.DUA to compare its obtainable contribution with the complete acquisition burden and available continuation.
 
 An available result closes the need only when it covers the same material subject, configuration, use and window. An available MethodDescription says how a result might be obtained; it is not that result. The supplying practice chooses its Method and retains authority for its conclusion.
 
@@ -97,11 +97,11 @@ Use an adequate independent result while another branch is unresolved. State whe
 
 ## PSDA.Advising:6 - Keep a qualified live candidate set
 
-If the useful future contribution itself is unsettled, use the full [opportunity-construction Method (FPF C.40.OCN)](https://github.com/ailev/FPF/blob/main/FPF-Spec.md#c40ocn---construct-a-bounded-opportunity). It searches neighboring uses, distinguishes a niche, a proposed provision promise and a worthwhile problem, constructs directions and supports, and exposes dependencies and reachability. A technology label or archive entry cannot fill that result.
+If the useful future contribution itself is unsettled, use the full [opportunity-construction Method (FPF C.40.OCN)](https://github.com/ailev/FPF/blob/main/FPF-Spec.md#c40ocn---construct-a-bounded-opportunity). It searches neighboring uses, distinguishes a niche, a proposed provision promise and a worthwhile problem, constructs directions and supports, and exposes dependencies and reachability.
 
 Once candidate opportunities or an adequate formed question exist, use [PSDA.5](#psda5---generate-decision-alternatives) to make the advice-relevant alternatives explicit. Keep each direction's status explicit: a feasible direction under stated conditions, a conditional opportunity, a candidate probe or a fragment retained for combination. Keep ruled-out configurations and named gaps visible as such, not as eligible alternatives. Do not let an attractive but conditional opportunity enter a decision-ready set as if its dependencies had obtained.
 
-Keep materially different development, access/support, provider, Method/platform, allocation, staged and no-change directions when they matter. These are generation possibilities, not compulsory options. Several labels for the same intervention provide no real breadth. A different way of supplying the same result is not automatically a different worthwhile problem.
+Keep materially different development, access/support, provider, Method/platform, allocation, staged and no-change directions when they matter. These are generation possibilities, not compulsory options. A different way of supplying the same result is not automatically a different worthwhile problem.
 
 [OCE.8](Management%20DPF%20Suite/ORGANIZATION-CHANGE-ENGINEERING-PRINCIPLES-FRAMEWORK.md#oce8---compare-human-ai-robotic-and-provider-arrangements-for-the-same-organizational-work-result) can supply the organizational same-result arrangement comparison after the required result, receiving use, horizon and acceptance premise are stable enough. It returns a changed or unjustified result premise to its owner; it does not supply this profile's whole opportunity search.
 
@@ -114,7 +114,7 @@ Use C.18 only for an actual generation/archive/front question, with its declared
 
 Use PSDA.6, PSDA.7, PSDA.8, PSDA.9 for values, uncertainty, consequences and robustness. State the candidate domain and the subset being compared, the receiving question, characteristics and scales, protected conditions, evidence and uncertainty, and the comparison rule that the result actually uses. Adequate current comparison results can be reused without running all four patterns.
 
-C.16 supplies characterization; C.11.CRC preserves configuration-relative contribution; A.19.CPM supplies a comparison mechanism when its conditions hold. Consume a G.5 selector result only when its candidate domain, eligibility, Method, evidence, result kind and closure are actually established. A ranked list is not proof of that application.
+C.16 supplies characterization; C.11.CRC preserves configuration-relative contribution; A.19.CPM supplies a comparison mechanism when its conditions hold. Consume a G.5 selector result only when its candidate domain, eligibility, Method, evidence, result kind and closure are actually established.
 
 Explain what the comparison can and cannot conclude. Preserve a partial order or non-dominated directions when the basis does not warrant a total ranking. If one direction is supported, explain its advantage over the strongest remaining rival and the conditions that could reverse it. Keep important value disagreement visible instead of manufacturing a shared weight.
 
@@ -150,9 +150,9 @@ For this profile, the recommendation account makes seven things recoverable:
 - the supported disposition and the next consideration, request, reroute or separately governed choice;
 - the observation or change in a source, configuration, authority, horizon or policy that would reopen a named claim.
 
-This is content, not a mandatory form. A small blocker needs only the positions that explain its missing premise and receiving use. A consequential positive recommendation may need a protected annex and a fuller claim-to-premise account.
+A small blocker needs only the positions that explain its missing premise and receiving use. A consequential positive recommendation may need a protected annex and a fuller claim-to-premise account.
 
-Keep each claim inside the narrowest material limit of the premises on which that claim depends. If evaluation covers configuration A, advice about B remains unsupported. If the internal-development comparison does not depend on that evaluation, it can remain usable. A shared bibliography is neither a dependence relation nor a reason to invalidate everything together.
+Keep each claim inside the narrowest material limit of the premises on which that claim depends. If evaluation covers configuration A, advice about B remains unsupported. If the internal-development comparison does not depend on that evaluation, it can remain usable.
 
 
 
@@ -174,7 +174,7 @@ The actual professional relationship may require further contact, disclosure, re
 
 Use [PSDA.15](#psda15---arrange-decision-follow-up-or-reassess-advice-after-a-change) when a changed premise can alter advice. Locate the premise and the claims that actually used it; preserve the earlier recommendation as an account of what was returned under its earlier basis.
 
-Choose further guidance by the question it answers. For one already-known bounded source-reliance question, use A.10. When a materially changed source claim requires discovering and revalidating several receiving uses, use A.10.1. When actual conditions change while the source is unchanged, use the direct subject guidance. Use G.11 when the needed result concerns currentness, decay or scoped refresh planning or reporting.
+Choose further guidance by the question it answers. For one already-known bounded source-reliance question, use A.10 when the source-to-use account remains implicit or a needed reproducible account is missing. When a materially changed source claim requires discovering and revalidating several receiving uses, use A.10.1. When actual conditions change while the source is unchanged, use the direct subject guidance. Use G.11 when the needed result concerns currentness, decay or scoped refresh planning or reporting.
 
 | Changed premise | Bounded response |
 | --- | --- |
@@ -185,7 +185,7 @@ Choose further guidance by the question it answers. For one already-known bounde
 | An opportunity's useful problem or support dependency changes | Return to the corresponding opportunity claim; reassess any retained stepping stone and dependent advice. |
 | A changed observation crosses the advice's stated threshold | Use the qualified observation and interpretation to retain, narrow, block or reopen the affected contribution; compose another recommendation only when needed. |
 
-Observation, interpretation, professional contact and renewed recommendation are distinct Work. If positive advice depends on future observations, establish who can obtain and qualify them, with what access, timing, burden and response opportunity. An infeasible observation obligation is a present limit on advice. “Review in three months” does not by itself make an effective follow-up arrangement.
+Follow-up may require observation, interpretation, professional contact and a renewed recommendation. If positive advice depends on future observations, establish who can obtain and qualify them, with what access, timing, burden and response opportunity. An infeasible observation obligation is a present limit on advice.
 
 The source-currentness responsibilities for this profile and its opportunity Method are specified in the [source-responsibility account](#psdareference13---keep-source-changes-and-case-changes-distinct). A change to the generation Method can require revising that Method; a changed fact about one holder normally requires only requalifying the affected application.
 
@@ -261,11 +261,11 @@ Likewise, a sponsor's instruction to conceal a material conflict or to rank a ha
 
 Recognition is inexpensive: another performer must help a named recipient make sense of qualified but incomplete development premises. A formed question can enter directly; a not-yet-formed opportunity can enter the independent Method. No institutional dispute, complete diagnosis or global candidate archive is required.
 
-Assurance is use-specific. Check whether the material premises actually cover the holder, configuration and horizon, whether the comparison and recommendation follow from them, and whether service, protection and authority conditions permit the proposed reliance. High-consequence uses require their direct domain validation and independent assurance. A coherent profile, fluent explanation or available source does not establish those results.
+Assurance is use-specific. Check whether the material premises actually cover the holder, configuration and horizon, whether the comparison and recommendation follow from them, and whether service, protection and authority conditions permit the proposed reliance. Apply the domain validation and independent assurance required by the claim, its consequences and the applicable scientific, professional or service conditions.
 
 In practice, a development request no longer silently becomes a course, staffing choice, organization-change programme or AI deployment. The recipient can see what is supported now, which alternatives remain, which result is missing for the stated question, and what would change the advice. The developer of an opportunity can stop even earlier, with a useful possibility and a discriminating question.
 
-The [source-responsibility account](#psdasources3---source-responsibility-and-references) separates contemporary decision-support and professional sources, historical generation anchors, guidance from the practices supplying a needed premise, and application-specific results. It also states the bounded update responsibility. This profile claims neither universal cross-holder effectiveness nor that publication of a supplying framework has already produced any particular client's evidence.
+The [source-responsibility account](#psdasources3---source-responsibility-and-references) separates contemporary decision-support and professional sources, historical generation anchors, guidance from the practices supplying a needed premise, and application-specific results. It also states the bounded update responsibility.
 
 
 ## PSDA.Advising:End

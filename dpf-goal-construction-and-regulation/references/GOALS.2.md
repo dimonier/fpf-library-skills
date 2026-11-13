@@ -67,7 +67,7 @@ For an OKR, test two questions separately: is the objective worth pursuing, and 
 
 Explain how the KRs combine. Some are jointly necessary conditions; some express independent contributions; others are alternatives or diagnostic signals. A mandatory privacy, safety or contractual condition retains its force even when other scores are high. Average scores can summarize a defined compensable set, but an average must not decide a claim whose logic is conjunctive. Keep this decision visible when a tool offers averaging by default.
 
-Then test an unfavorable case. Could the objective be achieved by another sound means while a proposed KR fails? If so, decide whether that KR expresses a necessary outcome, an independently wanted result or a chosen means that should remain revisable. The result is a defensible construction under its conditions, not a universal causal guarantee that meeting any selected numbers produces the benefit.
+Then test an unfavorable case. Could the objective be achieved by another sound means while a proposed KR fails? If so, decide whether that KR expresses a necessary outcome, an independently wanted result or a chosen means that should remain revisable.
 
 #### GOALS.2:4.4 - Preserve exceptions, learning and uncertainty
 

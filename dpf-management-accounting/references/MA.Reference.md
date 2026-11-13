@@ -54,7 +54,7 @@ This framework covers economic explanation and construction for managing organiz
 
 Investment valuation, financing and financial-risk treatment have their own financial methods. Tax, external reporting and legal duties require their applicable rules and competent practice. Engineering establishes technical and service realizations; marketing investigates the offer and its use; operating management establishes executable work and makes operating choices. Management Accounting participates in these constructions by developing the economic relationships and consequences they need. Referring to a collaborator does not discharge that contribution: obtain a usable result, connect its conditions, and return a changed premise to its owner.
 
-This boundary permits both a small warranted calculation and a substantial joint redesign. It supplies no universal profit objective, optimal costing system or compulsory sequence through all the patterns. The receiving work determines which construction must be made and when it is sufficient.
+This boundary permits both a small warranted calculation and a substantial joint redesign. The receiving work determines which construction must be made and when it is sufficient.
 
 ## MA.Reference:2 - How the methods connect
 
@@ -88,7 +88,7 @@ In MA.1's constructed test-order case, 100 accepted units require 26–29 rig-ho
 
 OPS.14 uses those quantities and the stated absence of displacement to compare the 1,200 receipt with 540, giving 660. Its funding question uses the whole timed cash position. Under the example's explicit baseline-cash premise, 440 is paid now, 100 is due on day 7 and the receipt arrives on day 28; a 40 day-7 funding gap remains. The favorable comparison and the unresolved funding are both useful results.
 
-Other entries change different actions. MA.4 explains how inventory and receivables connect profit to cash. MA.6 preserves an expectation of 100, ambition of 120, request for provision covering 130 and authorization covering 110. MA.8 distinguishes the recovery of past acquisition or development payments from a new continuation choice. MA-E4 joins two cohorts before testing the common capacity and payment dates. A reader does not have to reconstruct the order model to use these methods.
+Other entries change different actions. MA.4 explains how inventory and receivables connect profit to cash. MA.6 preserves an expectation of 100, ambition of 120, request for provision covering 130 and authorization covering 110. MA.8 distinguishes the recovery of past acquisition or development payments from a new continuation choice. MA-E4 joins two cohorts before testing the common capacity and payment dates.
 
 ## MA.Reference:4 - Correct use, evidence and effort
 

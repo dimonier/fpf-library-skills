@@ -128,7 +128,7 @@ Project-system choice account:
   cooperation and current decision:
   product SoI or intended referent, and intended use:
   immediate engineering subject and bounded result, when different:
-  current grounds and main unresolved assumption:
+  current grounds and any main unresolved assumption:
   local acceptance and receiving obligations that matter now:
   reopen condition:
 ```
@@ -145,11 +145,11 @@ Ask each contributor to identify the product or products the joint work serves a
 
 For example, “install the planning software” and “produce a feasible production plan” can share a project name. Follow one order moved to an earlier date. Determine whether installation, current stock information, capacity decisions and the planner's use connect to feasible commitments for the manufacturer's products. A missing contribution can leave the planning capability unavailable even when installation is complete.
 
-Resolve a material mismatch through the actual decision authority and available contributions. Explain the selected product grounds and local engineering subject, then ask the affected contributors to use them on the same case. Enough common focus exists for this decision when those relying on it can identify these subjects, connect the contributions needed by their next action and state the unresolved condition that limits it. They may retain different interests and preferred alternatives. Obtain permission and commitments separately where the next action needs them.
+Resolve a material mismatch through the actual decision authority and available contributions. Explain the selected product grounds and local engineering subject, then ask the affected contributors to use them on the same case. Enough common focus exists for this decision when those relying on it can identify these subjects, connect the contributions needed by their next action and identify any unresolved condition that limits it. They may retain different interests and preferred alternatives. Obtain permission and commitments separately where the next action needs them.
 
 If participants still mean different subjects or cannot connect a needed contribution, retain the individual account as provisional and hold only the joint claim that relies on the unresolved connection. Name the missing answer; independently supported work can continue. Separate projects retain their own boundaries and acceptance. They can share a product SoI. When an independently supplied product has its own SoI, coordinate the receiving contribution between them; use `SYSE.8` for provision or `SYSE.9` for a specialist return where needed.
 
-Keep the account aligned with the result: a provisional individual choice, sufficient common focus for a named decision, an unresolved mismatch or coordination between distinct product undertakings. Writing the account does not establish agreement or bring an intended System into existence.
+Keep the account aligned with the result: a provisional individual choice, sufficient common focus for a named decision, an unresolved mismatch or coordination between distinct product undertakings.
 
 #### SYSE.1:4.5 - Reopen the choice from the answer that failed
 
@@ -236,7 +236,7 @@ plausible referent into permanent project scope; retain material alternatives an
 | `CC-SYSE1-1` | A conforming use SHALL name the current project and the decision that needs a project-system choice. |
 | `CC-SYSE1-2` | It SHALL retain a direct non-System subject when System designation is not needed, and SHALL use `A.1.SCR` when actual System recognition remains load-bearing. |
 | `CC-SYSE1-3` | It SHALL distinguish an actual System from an intended referent in plan, decision, or description content. |
-| `CC-SYSE1-4` | The first useful account SHALL name the product SoI or intended referent, intended use, main unresolved assumption and reopen condition; when the local engineering subject differs, it SHALL preserve that subject and the bounded result needed from it. |
+| `CC-SYSE1-4` | The first useful account SHALL name the product SoI or intended referent, intended use, any main unresolved assumption and reopen condition; when the local engineering subject differs, it SHALL preserve that subject and the bounded result needed from it. |
 | `CC-SYSE1-5` | When materially different actual Systems or intended System referents remain plausible, the account SHALL compare their decision-relevant claims and SHALL keep every non-System subject under its direct pattern rather than admit it as a candidate referent for the project system-of-interest. |
 | `CC-SYSE1-6` | Additional account content SHALL be added only when it changes the current choice or a downstream use. |
 | `CC-SYSE1-7` | A stop SHALL make the next use-and-system concept question askable; a reopen SHALL name evidence or a changed project condition that can alter the choice. |

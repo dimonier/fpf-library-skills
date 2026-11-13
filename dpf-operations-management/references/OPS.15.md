@@ -64,7 +64,7 @@ Name who needs to decide, what choice is open and when the answer can still chan
 
 Identify the operating subject and the result of concern. For each needed claim, recover its population: requests, test attempts, accepted packages, shifts, incidents or another explicitly defined set. Preserve the service boundary relevant to the recipient, including work that waits before entering the visible internal workflow.
 
-Inspect existing accounts and observations before adding collection. Reuse one whose subject, conditions, time and definition fit. If a current qualified result already determines the next action, return it with its limit. Building a new dashboard is unnecessary for that choice.
+Inspect existing accounts and observations before adding collection. Reuse one whose subject, conditions, time and definition fit. If a current qualified result already determines the next action, return it with its limit.
 
 #### OPS.15:4.2 - Define the claims and measures
 
@@ -102,7 +102,7 @@ Lead with the claim supported for the decision, then show the observations and q
 
 Several views can be useful. A coordinator needs current readiness and service risk; a finance practitioner needs accepted service, payable amounts and receipts; a release practitioner needs evidence applicable to a particular configuration. Keep the correspondence between their subjects explicit where the decision crosses views.
 
-A shared table is appropriate when it preserves these meanings. Separate views are appropriate when they answer different questions. The account's form follows its use; an attractive common display cannot make unlike quantities interchangeable.
+A shared table is appropriate when it preserves these meanings. Separate views are appropriate when they answer different questions. The account's form follows its use.
 
 #### OPS.15:4.5 - Stop collection at the decision-relevant boundary and refresh on change
 
@@ -112,7 +112,7 @@ Choose refresh timing from the decision window, rate of relevant change, observa
 
 Remove recurring collection that has no current decision, assurance or recovery use, applying A.11.OP. Before stopping it, identify any real consumer that would lose a necessary result. Reuse a current observation only for the conditions and claims it still supports.
 
-Return the account with the supported claim, remaining action-changing uncertainty and next useful observation. Use the appropriate operating method to decide admission, commitment, financial choice or control action from it.
+Return the account with the supported claim and remaining action-changing uncertainty. Obtain another observation only when a receiving use still needs it. Use the appropriate operating method to decide admission, commitment, financial choice or control action from the account.
 
 ### OPS.15:5 - Archetypal Grounding
 
@@ -208,7 +208,7 @@ Separate views preserve the different consequences of one piece of work. Bounds 
 
 ### OPS.15:11 - SoTA-Echoing
 
-The practice question is how to obtain a trustworthy operating account without measuring everything. The selected strongest line starts from the receiving decision, qualifies the observation's population and implementation, and preserves event relationships across views. Compared with one universal dashboard, it explains both the forty-request discrepancy and PumpWorks' different service, resource and cash events.
+The practice question is how to obtain a trustworthy operating account without measuring everything. The selected strongest line starts from the receiving decision, qualifies the observation's population and implementation, and preserves event relationships across views. It explains both the forty-request discrepancy and PumpWorks' different service, resource and cash events.
 
 The [SRE Workbook's guidance on service indicators](https://sre.google/workbook/implementing-slos/) distinguishes what service behavior an indicator should represent from how the measurement is implemented. Sections 4.2–4.3 adopt that distinction: a server log or completed-item table can omit events belonging to the service question. The source is a 2018 software-service treatment; the method here applies its observation-boundary reasoning to the constructed operating cases without deriving clinical or financial conclusions from it.
 

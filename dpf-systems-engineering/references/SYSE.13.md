@@ -192,7 +192,7 @@ rely only on claims whose bearer and effectivity are known for that use.
 | maintenance and return | Agents and authority for revision, receiving Work, reliance limits, blockers, and conditions for reconsidering the affected claims. |
 
 The basis may be published in a form such as text, a table, a product-data query, a model view, or a generated
-report. Publication form and repository location determine neither its identity nor its truth.
+report.
 
 #### SYSE.13:4.3 - What Changes in Practice
 

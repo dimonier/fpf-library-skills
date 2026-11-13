@@ -44,7 +44,7 @@ Use this pattern when Music-or-Dance observations have accumulated but the next 
 
 `Reject current set`, `probe again`, and `another question is current` are possible `ChoiceResult` forms. The last form says that the present issue is not resolved by choosing among this `OptionSet`; it names the question that now needs an answer. Refusal of the present set and waiting for a stated revisit condition are not additional development-Work options merely because they can be written in the same list.
 
-Start with one current `DecisionSubject` and only the live options that answer the same development question. Bring in results from other MDPE patterns or direct Methods only when they can change this choice. The pattern is not a final checklist over the whole DPF.
+Start with one current `DecisionSubject` and only the live options that answer the same development question. Bring in results from other MDPE patterns or direct Methods only when they can change this choice.
 
 State the current choice:
 
@@ -142,7 +142,7 @@ Possible inputs include:
 | `MDPE.12` observations | which technical, bodily, partner, audience, recognition, or cultural claims change the comparison |
 | `MDPE.13` arrangement result | whether recognition-and-selection design or local implementation is current |
 | `MDPE.6` changed-condition choice | whether one result can be used, revised, branched, stopped, probed, or whether another question is current |
-| `MDPE.14` practice-conflict decision | which selected change, preserved tension, split use, next observation, moved burdens, and residuals remain |
+| `MDPE.14` practice-conflict decision | which selected change, preserved tension, split use, next observation or rejection of the current set follows, with moved burdens and residuals |
 | `MDPE.15` local-change result | what actually changed or failed, the observations that support that result, and which later question remains |
 | `MDPE.16` use-bounded alternative-availability result | which branches, stepping stones, repair needs, or tests remain live for the named later use |
 | `MDPE.17`–`MDPE.20` cultural results | whether receiving enactment, lineage, continuation, loss, or trajectory evidence changes the present project choice |
@@ -228,7 +228,7 @@ State rollback or safe-stop treatment when the selected Work can damage a bearer
 
 #### MDPE.7:4.8 - Return the next-development decision account
 
-Return a readable account containing:
+Return the choice and the grounds and conditions needed to use it. This optional form collects applicable entries; intended-Work fields apply when Work is selected:
 
 ```text
 Next Music-or-Dance development decision account:
@@ -247,7 +247,7 @@ Next Music-or-Dance development decision account:
   revisit, stop, rollback, or retry condition:
 ```
 
-If `ChoiceResult = probe again`, the next bounded development Work can be the named probe when authority and capability obtain. If `ChoiceResult = another question is current`, name that question and its applicable pattern or direct Method; do not wrap the question change in an invented Work decision.
+If `ChoiceResult = probe again`, the next bounded development Work can be the named probe when authority and capability obtain. If `ChoiceResult = another question is current`, name that question and its applicable pattern or direct Method.
 
 #### MDPE.7:4.9 - What Changes in Practice
 
@@ -280,7 +280,7 @@ not supply a multi-dancer fidelity ranking or the new project's dispositions. Us
 `MDPE.9:4.1` when a new performer comparison is needed. A maintained alternative account can then record the
 locally selected branches, their proposed uses and the evidence about availability.
 
-Before choosing another dancer-involving comparison, a model or interface repair, or maintenance Work for the low-fidelity stimulus branch, establish that the relevant branch is available for the named practitioner use: its output or bearer can be obtained; a capable and permitted Agent can use it; and the required model, interface, configuration, access, and upkeep relations obtain. If only the account survives, choose reconstruction or upkeep Work, or let `C.11` return `reject current set`; stopping is not disguised as another development-Work option.
+Before choosing another dancer-involving comparison, a model or interface repair, or maintenance Work for the low-fidelity stimulus branch, establish that the relevant branch is available for the named practitioner use: its output or bearer can be obtained; a capable and permitted Agent can use it; and the required model, interface, configuration, access, and upkeep relations obtain. If only the account survives, choose reconstruction or upkeep Work, or let `C.11` return `reject current set`.
 
 The project team or other named `DecisionSubject` makes the next decision only under an independently supported authority relation. Release, cultural recognition, and transmission need separate results. A new model score that cannot change the performer-facing decision is not a reason to postpone the choice.
 
@@ -302,11 +302,11 @@ An eight-player ensemble must choose a five-minute item for one concert. Its fam
 
 The director nevertheless chooses A. Testing B would use twelve player-hours plus ninety minutes of directing and replace the full-programme run. The intended gain concerns one optional five-minute item, while the complete programme still benefits from coordinated transitions. On the director's stated musical and preparation judgement, the possible improvement does not warrant that lost rehearsal. This does not show that B is inferior or that its test would be uninformative. It supports the present choice under one-concert conditions, retaining B's description as a candidate rather than claiming it as a live performed branch.
 
-If the ensemble later books a twenty-concert tour, the repeated use can change the comparison: the same learning and trial cost may become worthwhile. Reopen that decision with the actual bookings, available performers and preparation window. A longer horizon does not itself demonstrate B's quality or authorize spending. The first decision remains complete without an extra experiment to establish that no conceivable inquiry would help.
+If the ensemble later books a twenty-concert tour, the repeated use can change the comparison: the same learning and trial cost may become worthwhile. Reopen that decision with the actual bookings, available performers and preparation window. A longer horizon does not itself demonstrate B's quality or authorize spending.
 
 #### MDPE.7:5.7 - Direct-decision and live-branch stops
 
-Use a direct artistic, rehearsal, teaching, event, curation, operations, strategy, or engineering decision Method when it already supplies the bounded options, comparison, chooser, authority, intended Work, and revisit condition. Use `A.15.7` when a current fact changes only the next action inside ongoing Work under an admitted Method. `MDPE.7` adds no value by renaming either result as practice development.
+Use a direct artistic, rehearsal, teaching, event, curation, operations, strategy, or engineering decision Method when it already supplies the bounded options, comparison, chooser, authority, intended Work, and revisit condition. Use `A.15.7` when a current fact changes only the next action inside ongoing Work under an admitted Method.
 
 ### MDPE.7:6 - Bias Annotation
 
@@ -372,7 +372,7 @@ Music and Dance choices must preserve body, instrument, partner, ensemble, rhyth
 | Timing examples in the [Dance profile](#mdpereference72---dance-making-movement-usable-for-its-participants) and the local Balboa cases | Partner-readable timing, continuous carrier, articulation, p-centers, bodily criteria, and concrete next-trial questions. | It is Method-design input, not a demonstrated capability result, authority source, or universal teaching sequence. |
 | Shimon project sources maintained by `MDPE.14` | Configured robotic Music performance, distinct human practice-development roles, and unlike technical, gesture, attention, noise, and musical criteria. | The sources do not establish one general robot-development choice Method, Dance transfer, robot-held authority, or cultural continuation. |
 
-Mutable web-source claims are dated to 2026-08-26. Recheck the affected choice only when a source, configuration, direct result, option, authority relation, or intended use on which it relies changes.
+Recheck the affected choice only when a source, configuration, direct result, option, authority relation, or intended use on which it relies changes.
 
 ### MDPE.7:12 - Relations
 

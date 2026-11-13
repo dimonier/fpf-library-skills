@@ -54,7 +54,7 @@ Typical situations include:
 - a festival, competition, platform, or school keeps a style name visible while the Work that once reproduced it has changed or disappeared; and
 - a robotic or AI Music project retains code and recordings while the hardware, runtime, calibration, operator capability, or performance Method can no longer be assembled.
 
-The gain is not a label such as *alive*, *viable*, or *lost*. The gain is a usable account of what sustains reproduction, what dependence matters to the intended horizon, and whether continuation, a targeted change, inquiry or local retirement warrants its burden.
+The gain is a usable account of what sustains reproduction, what dependence matters to the intended horizon, and whether continuation, a targeted change, inquiry or local retirement warrants its burden.
 
 Use direct repertoire, teaching, rehearsal, preservation, reconstruction, instrument-maintenance, software-maintenance, event-production, community-stewardship, deprecation, or retirement Methods without this pattern when they already return the needed continuation decision. Use `MDPE.19` when the project still confuses a record, one occurrence, one bearer, or one provider decision with continuation of a practice.
 
@@ -121,7 +121,7 @@ State what must still be possible, for whom, where, and over what horizon. Inclu
 
 Prefer a claim that can fail. “Keep Tarraxo alive” is too broad. A testable promise is: “during the next season, at least two teacher-organizer pairs can run a social Tarraxo practice in which dancers use the admitted timing, partner-response, and improvisation Method with varied partners and music, even when the present lead teacher is absent.”
 
-If the project cannot name representative Work or continuity discriminators, return that gap to `MDPE.1`, `MDPE.18`, or the direct Music or Dance Method. Do not manufacture a reproduction test from a genre label.
+If the project cannot name representative Work or continuity discriminators, return that gap to `MDPE.1`, `MDPE.18`, or the direct Music or Dance Method.
 
 #### MDPE.19:3.2 - Describe the current continuation arrangement
 
@@ -137,7 +137,7 @@ Recover only the contributors and relations that could change the promise. Usefu
 | Recognition and selection | Which audience, teacher, curator, competition, platform, or practitioner population can recognize the relevant differences, and which choices affect later opportunities? |
 | Authority | Who may change the class, repertoire, event, support service, publication, or technical configuration? |
 
-Do not call every item a carrier. State the relation: a teacher develops capability; a score describes material; a venue enables an event; a maintainer keeps an instrument usable; an organizer schedules Work; an audience or jury recognizes a difference; a performing Agent performs Work, and that Work enacts a Method.
+State the relation: a teacher develops capability; a score describes material; a venue enables an event; a maintainer keeps an instrument usable; an organizer schedules Work; an audience or jury recognizes a difference; a performing Agent performs Work, and that Work enacts a Method.
 
 Mark a **continuation-critical relation** when losing or changing it could defeat the stated promise. The first useful result can be as small as “the practice currently depends on one Agent who both teaches the Method and organizes the only recurring event; neither contribution has a tested replacement.”
 
@@ -171,7 +171,7 @@ Varying context is especially important when literal repetition can conceal cue 
 
 #### MDPE.19:3.5 - Change the selected relation and test the claimed reproduction
 
-When a change is warranted, target the continuation-critical relation supported by the current account or a completed test. A supported fragile continuation or authorized local retirement need not first manufacture a failure experiment. Examples of targeted changes include:
+When a change is warranted, target the continuation-critical relation supported by the current account or a completed test. Examples of targeted changes include:
 
 | Observed weakness | Relation-specific intervention |
 | --- | --- |
@@ -206,7 +206,7 @@ A useful return fits in one paragraph:
 
 > The class-and-social practice currently depends on the lead teacher-organizer. In the absence trial one assistant supplied the needed correction, but neither assistant completed the event provision. The school will retain that corrector, prepare the other assistant for organizing Work over the next six sessions, and then try the combined arrangement with varied partners and music. The gap concerns provision in this arrangement; it does not require both assistants to become complete replacement teachers. Until representative reproduction succeeds, the school retains the qualified dependence claim.
 
-Include the evidence limits, deciding Agent, authority, affected Agents, cost, and recheck condition when they change the decision. The decision is not the practice, the intervention Work, or the later cultural result.
+Include the evidence limits, deciding Agent, authority, affected Agents, cost, and recheck condition when they change the decision.
 
 ### MDPE.19:4 - Worked Cases
 

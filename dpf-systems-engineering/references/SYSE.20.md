@@ -158,8 +158,7 @@ the project's engineering Work occurs as eight consecutive stages.
   consequence. Every claimed local gain names any material burden moved to another Agent, System, decision, or
   time interval.
 6. **Alternatives.** The Agent develops a finite current option set whose members change at least one named
-  relation. Renaming a diagram or citing an ungrounded Method creates no new option. The incumbent remains when
-  it is feasible.
+  relation. Keep the feasible incumbent.
 7. **Choice.** The authorized Agent uses `C.11` or a domain decision Method to compare the fixed option set on one
   stated basis and choice rule. Record the actual outcome: a selected alternative or retained tie-set with its
   grounds; rejection of the current set with its reason; a chosen next probe and the comparison defect it would
@@ -263,7 +262,7 @@ the word “local”. Use SYSE.12 when that support arrangement itself requires 
 
 Keep the feasible incumbent in the comparison. Do not generate many variants that differ only in names or
 diagram layout. C.18 helps when a genuinely different alternative is still missing; C.11 compares the
-resulting option set. Neither citation fills an unconstructed engineering arrangement.
+resulting option set.
 
 ##### SYSE.20:4.1.4 - Follow every option through the whole resource and evidence arrangement
 
@@ -301,8 +300,7 @@ options remain tied or none is feasible, return that outcome and its reason rath
 The decision states the selected change, any required permission and its conditions, the responsible performers
 and what would reopen the choice. Implementation makes the necessary resources and instructions available: reserve the
 windows, establish the service configuration, communicate the agreed inputs and change returns, and revise
-the applicable WorkPlan or MethodDescription. Editing the description alone does not supply a rig, qualified
-specialist or provider response.
+the applicable WorkPlan or MethodDescription.
 
 Observe a representative performance far enough to see the result used. Did the intended inputs arrive
 under their stated configurations? Could the operations share their resources as planned? What preparation
@@ -424,6 +422,9 @@ for the model or simulation, and the first 15 minutes of review need not wait fo
 only that independent work earlier constructs B. Finally replace the unavailable shared-service interval
 with the qualified local alternative to construct C, including the laboratory engineer's competing setup.
 
+The schedules use the shared provider's latest qualified ready time. They show completion bounds under the
+stated durations and availability; earlier actual recovery may allow an earlier start.
+
 | Operation or result | A — serialized | B — independent preparation overlaps | C — qualified local solver |
 | --- | --- | --- | --- |
 | Model correction | 0–25 | 0–25 | 0–25 |
@@ -437,8 +438,8 @@ with the qualified local alternative to construct C, including the laboratory en
 | First usable recommendation | minute 135 | minute 100 | minute 82 |
 | Additional continuing service maintenance | none | none | two laboratory hours per week |
 
-A is eligible as an evidence arrangement but fails the deadline. In B, the test starts at
-max(20, 68+2) = 70. Review preparation finishes with the test, so the recommendation is ready at 95+5 = 100.
+A is eligible as an evidence arrangement but its schedule does not meet the deadline. In B, the test starts
+by max(20, 68+2) = 70. Review preparation finishes with the test, so the recommendation is ready by 95+5 = 100.
 Every required result is joined; early review is preparation, not early release.
 
 For C, placing local setup at 0–15 and rig setup at 15–35 avoids simultaneous demands on the laboratory
@@ -455,15 +456,16 @@ there is no supported “ten-minute delay”: its minute-90 output never met the
 
 The lead authorizes implementation of B. The project makes the resource reservations and input/update
 arrangements real, updates the plan and review instructions, and follows the next representative run to its
-usable recommendation. A description alone cannot establish that performance. The provider availability and
+usable recommendation. The provider availability and
 compatibility requirement can constrain SYSE.12; the resulting project observation can enter SYSE.21.
 
 #### SYSE.20:5.4 - Change one provider condition and retain the valid work
 
 Before execution, the provider revises its latest ready time from 43 to 60. All other stipulated conditions
-remain available. B now gives simulation 60–85, interpretation 85–87, test 87–112, preparation 97–112 and
-final review 112–117. Its individual operations remain technically usable, but the whole misses minute 105.
-Do not retain B merely because each operation still has a valid Method.
+remain available. At that latest time, B gives simulation 60–85, interpretation 85–87, test 87–112,
+preparation 97–112 and final review 112–117. Its operations remain technically usable, but this bound no
+longer guarantees the minute-105 deadline. Earlier observed availability or a tighter qualified bound can
+change that conclusion; otherwise choose an arrangement that supplies the required guarantee.
 
 C still finishes at 82 under its unchanged availability and qualification premises. The lead can choose it
 within the stated authority and accept its maintenance burden. The model, rig Method and review split do
@@ -486,8 +488,7 @@ qualification come from the assembly specialists.
 A successful joint fit permits the specified final-design step; an interference returns to the affected
 geometry. If the needed movement exceeds the fixture's permitted range, its qualification no longer
 supports that trial: obtain another means or revise the proposal. The fixture work may be reversible while
-drilling final holes is not. Keep drilling behind the required fit and authorization condition. Repeating
-“work concurrently” supplies neither the provisional interface nor this return.
+drilling final holes is not. Keep drilling behind the required fit and authorization condition.
 
 ### SYSE.20:6 - Bias Annotation
 

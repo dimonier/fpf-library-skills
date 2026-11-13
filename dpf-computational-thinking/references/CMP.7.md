@@ -37,7 +37,7 @@ dependencies:
 
 The situation occurs when learning a classifier, estimating a response, constructing a surrogate, discovering a program or updating a policy. The output may be a symbolic rule, a function represented by weights, a distribution or a retained set of candidate rules. Its required form follows from the intended use.
 
-The gain is a learning procedure with explicit inputs, selection or update operations and a learned result that can be applied at its warranted scope. The reader needs functions, finite examples and a loss or another stated comparison. Probabilistic guarantees require the corresponding additional probability model; no one statistical sampling model is imposed on every learning problem.
+The gain is a learning procedure with explicit inputs, selection or update operations and a learned result that can be applied at its warranted scope. The reader needs functions, finite examples and a loss or another stated comparison. Probabilistic guarantees require the corresponding additional probability model.
 
 Use an existing rule directly when it already serves the purpose. Use an established learner when its inputs, target, restrictions and costs fit. This pattern is needed when those choices or their connection to further use must be constructed or revised. Explaining a learned rule and teaching a person to apply it are distinct tasks, supplied by the explanation and development methods when required.
 
@@ -148,7 +148,7 @@ For a concrete instance, let inputs be integers 0 through 4 and let H contain si
 
 Training loss and benchmark performance are visible and easy to optimize. The recipient may instead need a response in a different region or after an intervention. Keep that target explicit so that improving the visible criterion does not silently replace it.
 
-A broad function class or large pretrained model can hide a strong inductive restriction in its representation, training history and obtaining procedure. The relevant question is which continuations it favors and how that choice fits the receiving use. Human-like explanations of a model's behavior do not by themselves supply its learning guarantee.
+A broad function class or large pretrained model can hide a strong inductive restriction in its representation, training history and obtaining procedure. The relevant question is which continuations it favors and how that choice fits the receiving use.
 
 ### CMP.7:7 - Conformance Checklist
 

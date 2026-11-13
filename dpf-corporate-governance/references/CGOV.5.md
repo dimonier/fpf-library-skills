@@ -55,7 +55,7 @@ State the matter or recurring class of matters, the expected oversight result an
 
 Where alternatives are permitted, compare the existing board arrangement, a repaired committee, focused specialist support and a new standing or temporary committee. For a single acquisition, a temporary arrangement may be sufficient. A recurring audit responsibility may require a standing body under the applicable rules.
 
-Return early if the current arrangement can supply the result under adequate conditions. A committee's fashionable name is not a reason to create one.
+Return early if the current arrangement can supply the result under adequate conditions.
 
 #### CGOV.5:4.2 - Define remit and relation to the responsible organ
 

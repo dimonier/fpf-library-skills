@@ -68,7 +68,7 @@ The repair also has to separate expression from assistance. An author can explai
 
 Select a concrete question and the expression on which the reader must work. Ask for the answer or modification, not only an opinion of the notation. Recover the route taken: where the reader searches, which reference is followed, what has to be held in memory and where the result goes wrong or the work becomes costly.
 
-Use an available response or observed difficulty when one exists. Otherwise, walk through the operation and treat the diagnosis as a design estimate. An actual trial is useful when plausible reader responses would change the repair decision; it is not a prerequisite for every obvious correction.
+Use an available response or observed difficulty when one exists. Otherwise, walk through the operation and treat the diagnosis as a design estimate. An actual trial is useful when plausible reader responses would change the repair decision.
 
 State the relevant preparation, permitted help, display or access conditions and effort limit. A reader who knows the local grouping convention faces a different question from one learning it. A page that hides half a diagram can create a different difficulty from the diagram's structure.
 
@@ -80,7 +80,7 @@ Describe the burden through operations: repeated searching, uncertain grouping, 
 
 Locate the source of the burden. The expression, the construction rule, the editing environment and the reader's preparation can make different contributions. An editor that cannot show two needed passages together may be changed without introducing a new notation. A missing dependency needs expression even when the display is large enough.
 
-Use Cognitive Dimensions as a vocabulary for such trade-offs when it helps the design conversation. Its activity-relative descriptions suggest where to look; a list of dimension names does not establish that a reader can perform the operation.
+Use Cognitive Dimensions as a vocabulary for such trade-offs when it helps the design conversation. Its activity-relative descriptions suggest where to look.
 
 Retain successful uses of the current form. They identify what the repair must preserve and may reveal why an apparently awkward convention exists.
 
@@ -120,9 +120,9 @@ A family of alternatives can justify matched examples and computed measures. Use
 
 #### NOT.7:4.6 - Choose the repair at the needed scale
 
-Retain the change when its demonstrated or reasonably expected contribution is worth the new burden for the actual work. Keep the incumbent when it remains sufficient. If different forms serve different important operations, preserve the useful alternatives and their correspondence rather than force one universal winner.
+Retain the change when its demonstrated or reasonably expected contribution is worth the new burden for the actual work. Keep the incumbent when it remains sufficient. If different forms serve different important operations, preserve the useful alternatives and their correspondence.
 
-Use the existing contribution and choice methods in C.11.CRC/C.11 when cost or competing improvements affect the decision. When the work needs maintained comparison and selection rules, use A.19.CPM for comparison and A.19.SelectorMechanism for selection. This method supplies notation changes and their use differences, not a separate scoring system.
+Use the existing contribution and choice methods in C.11.CRC/C.11 when cost or competing improvements affect the decision. When the work needs maintained comparison and selection rules, use A.19.CPM for comparison and A.19.SelectorMechanism for selection. This method supplies notation changes and their use differences.
 
 Leave the needed convention, reference or operation available with the retained expression. A repair that works only while its author explains it has not supplied a self-sufficient notation for that reading condition.
 
@@ -200,11 +200,11 @@ New conventions require learning and migration. Complementary views add maintena
 
 ### NOT.7:10 - Architectural Rationale
 
-The unit of redesign is the reader's operation on meaningful content. Appearance matters through what it makes available, distinguishable or changeable in that operation. This lets the method apply to formulae, diagrams, programs and other notations without prescribing one visual style.
+The unit of redesign is the reader's operation on meaningful content. Appearance matters through what it makes available, distinguishable or changeable in that operation. This lets the method apply to formulae, diagrams, programs and other notations.
 
 Meaning preservation and ease of use answer different questions. A transformation can preserve the result while making its construction harder to inspect. Conversely, a helpful explanation may add missing content. Keeping those contributions separate permits a fair comparison without forbidding useful combined repairs.
 
-An activity-relative choice also avoids inventing a universal quality scale. The existing characterization and contribution methods compare the relevant gains and burdens. Notational engineering supplies the constructions and the operation-level differences those methods need.
+The existing characterization and contribution methods compare the relevant gains and burdens. Notational engineering supplies the constructions and the operation-level differences those methods need.
 
 ### NOT.7:11 - SoTA-Echoing
 

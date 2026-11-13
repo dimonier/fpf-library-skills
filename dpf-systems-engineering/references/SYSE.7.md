@@ -67,7 +67,7 @@ objects and relations that matter to the decision.
 | model | A description episteme used under a stated modeling purpose, assumptions, omissions, interpretation, and validity boundary. Record these conditions independently of its executable, mathematical, visual, or tool form. |
 | view | The same episteme individual qualifies as `U.View` only when a `U.Viewpoint` episteme and obtaining `EpistemeViewpointConformanceRelation` are present under `E.17.0`. Establish that membership through the conformance relation; presentation labels—for example, a page title, diagram type, dashboard face, or `viewpointRef`—remain publication cues. |
 | viewpoint | A claim-bearing episteme specifying concerns and conformance rules for a view. A cue such as a stakeholder name, discipline label, screen layout, or familiar view list qualifies only when it supplies that content. |
-| representation | A visible or formal expression and, when current, its correspondence to an independently recovered object, relation, claim, or mathematical structure. Treat expressions—for example, diagrams, tables, queries, graphs, or executable files—as representations. Ground performed Work through Agent–Work attribution, authority through its own relation, and depicted claims through evidence. Use `C.29` for a declared mathematical-lens use and its preserved and lost structure. |
+| representation | A visible or formal expression used under an interpreted correspondence to an object, relation, claim, or mathematical structure. Diagrams, tables, queries, graphs, or executable files can serve this use when the correspondence is established. Ground performed Work through Agent–Work attribution, authority through its own relation, and depicted claims through evidence. Use `C.29` for a declared mathematical-lens use and its preserved and lost structure. |
 | publication | An `E.24.PUB` publication occurrence with its form, carrier, audience, bounded use, and selected source edition when those identities matter. Ground the described world-side relation independently and use `E.17.0` when `U.View` membership matters. |
 | engineering data | Claim-bearing epistemes and values used in engineering Work, together with the identities, editions, reference schemes, provenance, applicability, and relations needed by that use. Ground their world-side subjects separately. |
 | trace or link | A recoverable direct relation: for example, a claim depends on a source claim; a test result assesses a named claim; an interface description concerns a selected configuration; or a change affects a configuration item. A hyperlink or same-name token is only an index until the intended relation and participants are stated. |
@@ -139,7 +139,7 @@ would change if the linked claim failed.
 | Executable model and physical result | Simulation and generated code can shorten feedback; they can also reproduce shared assumptions and omit physical effects. |
 | Shared model and federated descriptions | One common model can reduce translation for a bounded use; independently maintained descriptions can preserve needed expertise and authority. Choose from the receiving decision and the losses of each arrangement. |
 | Current decision and future reuse | General data structures can enable later use; speculative completeness can delay the present decision and preserve obsolete distinctions. |
-| Publication convenience and epistemic identity | One publication occurrence can make several epistemes available, and one episteme can appear through several publication forms. Carrier consolidation leaves claim content and editions distinct. |
+| Publication convenience and epistemic identity | Several epistemes can share a carrier, with their publication relations identified separately; one episteme can appear through several publication forms. Carrier consolidation leaves claim content and editions distinct. |
 | AI-assisted production and warranted reliance | AI Systems can produce candidate descriptions quickly. The outputs still need recoverable sources, subjects, error checks, and decision-specific acceptance. |
 | Standards compatibility and present practice | Standards supply useful distinctions and exchange constraints. Treat conformance, official publication, and academic visibility as evidence of declared content; assess practical adoption, effectiveness, and current engineering Methods separately. |
 
@@ -192,10 +192,10 @@ unaffected claims. This work can remain within the existing data-management arra
 9. **Choose publication forms for actual users.** Publish only the forms needed by the receiving Work and its
   users. Reuse or author a viewpoint only when `U.View` membership and conformance matter. Keep the source
   episteme, view, publication occurrence, form, carrier, and audience use separate.
-10. **Assign maintenance Work.** For each material entry, identify the Agent assigned to change its description,
-  decide a contested interpretation, accept a cross-description relation, or stop reliance, together with the
-  needed capability and authority. Specify the observations that call for refresh and the Work that will update
-  the affected account.
+10. **Arrange maintenance when continued reliance needs it.** For the affected entries, identify the Agent
+  assigned to change a description, decide a contested interpretation, accept a cross-description relation,
+  or stop reliance, together with the needed capability and authority. Specify the observations that call for
+  refresh and the Work that will update the affected account.
 11. **Return the bounded result.** Make the usable claims, contradictions, unsupported correspondences, gaps,
   reliance limits, and refresh conditions available to the named engineering decisions and dependent Work.
 
@@ -218,7 +218,7 @@ the FPF kinds of its participants remain unchanged.
 | relations | Direct same-subject, part, interface, configuration, source, transformation, evidence, or other governed relations; unsupported correspondence hypotheses are marked as such. |
 | collision results | Claim-level agreements, explainable differences, unresolved contradictions, missing interpretations, and missing world-side checks. |
 | realization correspondence | Actual configuration or occurrence, observation/evidence basis, and the decision claim it can confirm, weaken, or reopen. |
-| maintenance assignments | Assigned Agents, their system-role assignments, authority, capability, Work, and acceptance conditions for producing, checking, changing, or retiring description uses. |
+| maintenance assignments, when needed | For continued uses needing maintenance, the assigned Agents, their system-role assignments, authority, capability, Work, and acceptance conditions for producing, checking, changing, or retiring description uses. |
 | return and refresh | Receiving Work and the Agents assigned to it, accepted reliance limits, current gaps, triggering observations, and the affected accounts or decisions to reconsider. |
 
 The account can use existing publication forms. Its identity and sufficiency do not depend on one storage
@@ -327,8 +327,8 @@ This pattern resists four recurrent source and practice biases.
   description consistency supplies only its stated comparison result.
 - [ ] AI-generated, transformed, or summarized descriptions retain source provenance, subjects, check
   results, and reliance limits.
-- [ ] The maintenance Agent, assignment, capability, authority, triggering observations, and refresh Work are
-  stated for material entries.
+- [ ] For continued uses needing maintenance, the Agent, assignment, capability, authority, triggering
+  observations, and refresh Work are stated for the affected entries.
 
 - [ ] The returned account names contradictions, gaps, unsupported relations, accepted reliance limits, and the
   affected decisions or accounts to reconsider.

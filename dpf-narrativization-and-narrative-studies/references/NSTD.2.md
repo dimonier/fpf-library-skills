@@ -179,7 +179,7 @@ What changed: the observed sequence remains distinct from the provisional explan
 | The reader recovers the relations needed for this use. | Keep the sequence unless a worthwhile improvement is available. |
 | The route will be reused with different material or readers. | Compare relevant changed cases; retain the conditions under which the order works. |
 
-Use `NSTD.6` when a qualified quality result is needed. The number of worked examples alone does not determine an ordering-quality value.
+Use `NSTD.6` when a qualified quality result is needed.
 
 
 

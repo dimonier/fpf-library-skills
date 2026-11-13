@@ -60,7 +60,7 @@ Define the bounded permission for the actual intervention: permitted scope, conf
 
 If a requirement's merits are disputed, use a separate appraisal. Identify the protected bearer, relevant harm and causal basis, baseline and incremental protection, whole burden and displaced harms. Compare harmful relaxation with harmful retention or tightening, and name who may amend the requirement. Until an authorized change applies, preserve current force. This separation permits substantive criticism without turning a framework discussion into permission to bypass a control.
 
-Return permission only for the supported work and conditions, or state the missing protection, applicability or authority. Keep evidence proportionate to the actual reliance and applicable requirements. A universal extra certification bundle is not created by this Method.
+Return permission only for the supported work and conditions, or state the missing protection, applicability or authority. Keep evidence proportionate to the actual reliance and applicable requirements.
 
 ### MNT.8:5 - Archetypal Grounding
 

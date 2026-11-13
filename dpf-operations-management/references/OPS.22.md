@@ -86,7 +86,7 @@ Use the following questions to explain the consequential difference, following t
 4. **What did the participants do with the information and means available then?** Examine promised and necessary actions, requests for support, timely warning, available alternatives and actual follow-through. Use what was reasonably available at the time; knowledge obtained later does not prove that an earlier choice was unreasonable.
 5. **What did the result require from other work, and can it continue?** Include shared assistance, displacement, quality losses, deferred obligations and consumed protection. Helpful cooperation can reduce one team's local count while improving the joint result; taking another team's resource does not create additional capacity.
 
-For a consequential explanation, compare a plausible rival. More completions could follow from a simpler work mix, overtime, transferred work or a better method. Use available evidence to distinguish them far enough for the decision. A modeled counterfactual remains conditional; a plausible story is not a measured contribution. Preserve unresolved attribution instead of assigning every residual to effort or competence.
+For a consequential explanation, compare plausible alternatives that remain live under the available grounds and could change the decision. More completions might follow from a simpler work mix, overtime, transferred work or a better method. Use evidence to distinguish them far enough for the required conclusion; an established condition or sufficient bound can settle a narrower response. A modeled counterfactual remains conditional. Preserve unresolved attribution instead of assigning every residual to effort or competence.
 
 #### OPS.22:4.4 - Form a judgement that the affected participants can examine
 
@@ -98,7 +98,7 @@ Give affected participants a real opportunity to correct consequential facts and
 
 A single score may be required by an existing system. Explain the translation and preserve the separate findings that the score cannot carry. Do not let the score silently determine every later development, recognition and reward decision.
 
-#### OPS.22:4.5 - Choose and enact the response under the actual authority
+#### OPS.22:4.5 - Select the needed response and identify who can act
 
 Use the findings to choose the smallest adequate response. Examples include correcting a report, completing deferred service, retaining a useful action, changing an assignment or provision, revising an irrelevant aim, improving a method, or obtaining a needed capability-development result. Select the method for that change rather than asking people to try harder regardless of the cause.
 
@@ -110,7 +110,7 @@ For an unwelcome forecast, obtain the authorized operating response while preser
 
 #### OPS.22:4.6 - Observe the response and reopen the affected judgement
 
-Name the action, responsible participant and next useful observation. Establish whether the promised assignment, protection or consequence change occurred and whether the receiving work improved. A revised form or policy statement does not establish changed practice.
+When this work includes carrying out a response, identify its action, responsible participant and the observation needed to judge it. Establish whether the promised assignment, protection or consequence change occurred; a claim that the receiving work improved needs its corresponding evidence. An assessment or proposal for another decision maker can finish with the supported findings, proposed response and any missing authority or provision. It does not claim that the response has occurred.
 
 Keep sound earlier findings when new evidence changes only one part. Later returns can invalidate a quality conclusion; a recovered resource decision can alter attribution; a changed recipient need can reopen the next aim. Use the retained original basis to explain the change. End this assessment when it supports its receiving decision at warranted confidence, leaving any specific dependent question explicit. Continue normal operating attention without requiring an indefinite inquiry into every cause.
 
@@ -147,7 +147,7 @@ Participants with less authority may bear burdens absent from the official accou
 - Shared contributions and displaced work affect the judgement where they change the whole result.
 - Affected participants can correct consequential facts; unsupported attribution and rankings remain qualified.
 - The assessment, reward decision and capability inference retain their distinct grounds.
-- The response is actually performed and its useful consequence is checked at an appropriate occasion.
+- The assessment or proposal supplies its receiving decision; when the work includes an actual response or claims its useful effect, the corresponding performance and consequence are established.
 
 ### OPS.22:8 - Common Anti-Patterns and How to Avoid Them
 

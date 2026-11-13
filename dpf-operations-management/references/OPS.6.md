@@ -195,7 +195,7 @@ The two-result form is deliberate. An exact unmet condition with owner, safe fal
 
 ### OPS.6:11 - SoTA-Echoing
 
-The decision is how to continue a case after new facts while reporting a defensible result. A strong incumbent combines authorized case planning with outcome-aware execution. [CMMN 1.1, §4.1 and §5.4.9](https://www.omg.org/spec/CMMN/1.1/PDF) supplies runtime discretion, procedural subwork and planning authorization. Current [DCR robot documentation](https://documentation.dcr.design/documentation/dcr-robots/) distinguishes effect success, failure and timeout and the associated continuation. OPS adopts these useful mechanisms; competent executable case management is not just a ticket transition.
+The decision is how to continue a case after new facts while reporting a defensible result. A strong incumbent combines authorized case planning with outcome-aware execution. [CMMN 1.1, §4.1 and §5.4.9](https://www.omg.org/spec/CMMN/1.1/PDF) supplies runtime discretion, procedural subwork and planning authorization. Current [DCR robot documentation](https://documentation.dcr.design/documentation/dcr-robots/) distinguishes effect success, failure and timeout and the associated continuation. OPS adopts these mechanisms.
 
 In I73, such an arrangement can authorize log inspection, execute a diagnostic activity and route a failed or unavailable live verification. If its case contract already states the capture identity, evidence interval, external subject claim and receiving authority, it produces the same adequate continuation as OPS.6. A second contract would only add synchronization work. The residual arises when an engine's successful diagnostic activity is used as evidence that the physical installation is now restored. Sections 4.5–4.7 bind the operation's observation to its warranted subject-state claim: the capture shows a discrepancy; present field condition remains unresolved. Loss of contact stops the dependent action without invalidating independent laboratory work.
 
@@ -211,6 +211,6 @@ FPF `A.15.7` supplies situation-responsive steering and `C.11` the conditional c
 - `OPS.7` may consume an evidenced progressed state or unmet condition only as evidence where it changes priority or an existing commitment. It does not inherit revision authority.
 - `OPS.8`–`OPS.13` retain wider queue, capacity, interacting-structure, and commitment-account questions.
 - Clinical, medical-safety, consent, privacy, legal, software assurance, security, release, provider, capability, and other specialist practices retain their decisions and evidence.
-- Pattern order is not a case lifecycle. Practitioners may enter OPS.6 directly with matching valid permission for an admitted case, repeat it as facts change, stop at a blocker, or return to another current pattern.
+- Practitioners may enter OPS.6 directly with matching valid permission for an admitted case, repeat it as facts change, stop at a blocker, or return to another current pattern.
 
 ### OPS.6:End

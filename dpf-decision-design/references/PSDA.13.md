@@ -63,7 +63,7 @@ Create conditions for participants to express, understand, challenge, and revise
 
 #### PSDA.13:4.1 - Recover the inquiry, participation, and Method conditions
 
-Use the current `PSDA.12` participation and concern account only for participants, affected Systems, concerns, representation limits, and missing voices material to this inquiry. Use the `PSDA.4` engagement Method and limits only for the same situation and qualification window. These inputs help establish what to facilitate; their availability does not show that participation is complete or the Method is being enacted.
+Use the current `PSDA.12` participation and concern account only for participants, affected Systems, concerns, representation limits, and missing voices material to this inquiry. Use the `PSDA.4` engagement Method and limits only for the same situation and qualification window. These inputs help establish what to facilitate.
 
 Recover the receiving question, intended result, and later choice boundary from the current engagement terms or another qualified direct source. Make clear what this interaction can establish and what remains with the decision owner or a direct specialist.
 
@@ -71,7 +71,7 @@ If an input needed for the result is missing, stale, or incompatible, obtain its
 
 #### PSDA.13:4.2 - Establish workable participation and challenge conditions
 
-Tell participants what is being asked, how their contribution will be used, how attribution and correction will work, and who will receive the return. Choose channels that permit meaningful contribution and challenge: a joint session, separate conversation, written response, accessible format, or a combination suited to the actual conditions. A workshop is not mandatory.
+Tell participants what is being asked, how their contribution will be used, how attribution and correction will work, and who will receive the return. Choose channels that permit meaningful contribution and challenge: a joint session, separate conversation, written response, accessible format, or a combination suited to the actual conditions.
 
 Make the facilitator's remit and material interests visible. If the facilitator also owns a preferred intervention or controls participants' opportunities, choose safeguards appropriate to that conflict, such as independent handling of a contested claim or a different facilitator. Do not describe the arrangement as neutral merely because the facilitation script is neutral.
 
@@ -123,7 +123,7 @@ The recipient should be able to distinguish:
 
 Use `A.2.9` when the live question is whether the communication enabled a named recipient to understand or do something and what smallest repair is needed. An acknowledgement or later action is not sufficient proof of understanding, consent, or causal effect. Add exact communicative-Work detail only when that stronger reliance is actually needed.
 
-Return the common claims, material disagreements, evidence gaps, their consequences for the receiving question, and the next discriminating question or reopen condition. The account may inform alternative generation, a recommendation, or reconciliation between simultaneous inquiries. It neither chooses the matter nor requires all participants to become one collective viewpoint.
+Return the common claims, material disagreements, evidence gaps, their consequences for the receiving question, and the next discriminating question or reopen condition. The account may inform alternative generation, a recommendation, or reconciliation between simultaneous inquiries. It does not choose the matter.
 
 #### PSDA.13:4.7 - What changes in practice
 

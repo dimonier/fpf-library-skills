@@ -79,7 +79,7 @@ Use FIN.4's operating and financial accounts to project revenue, resource costs,
 
 Capacity to distribute cash is different from a dividend already declared. A company can retain available cash, raise financing or face restrictions on transfer. Identify the ownership and access assumptions when valuing the interest, then keep the actual acquisition funding question in FIN.2 and FIN.9. Do not treat an FCFE estimate as a promise that a particular shareholder receives every modeled amount at that date.
 
-Choose the explicit horizon from the transition that must be explained. A temporary peak margin, startup loss, construction period or unusual working-capital release cannot be extended mechanically into perpetuity. Project how utilization, margins, tax use and investment requirements reach the continuing condition. The length of a standard spreadsheet is no reason to declare that transition complete.
+Choose the explicit horizon from the transition that must be explained. A temporary peak margin, startup loss, construction period or unusual working-capital release cannot be extended mechanically into perpetuity. Project how utilization, margins, tax use and investment requirements reach the continuing condition.
 
 At the transition, recover the first continuing year's cash from its operating assumptions. The final forecast year's cash may include one-time disposals, deferred maintenance or a release of working capital. Remove those effects only by supplying the continuing operation and investment that replace them. The new-capital construction below links growth to the resources required to sustain it. A zero-growth activity may still need maintenance and replacement; zero net investment is not a claim that no gross capital spending occurs.
 

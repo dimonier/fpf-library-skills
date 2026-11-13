@@ -282,7 +282,7 @@ Enterprise examples can also make formal reorganization seem inevitable. Compare
 
 The strategic comparison receives a supported feasibility claim, a narrower option or a specific missing contribution. Realization work can target the limiting condition, and already adequate means remain usable.
 
-The account does not eliminate uncertainty. Some dependencies will need qualified external answers or observation of representative work. Keep the strategic return bounded so that it neither promises unrealized capability nor expands into every supporting profession's full task.
+Some dependencies will need qualified external answers or observation of representative work. Keep the strategic return bounded so that it neither promises unrealized capability nor expands into every supporting profession's full task.
 
 ### STR.8:10 - Rationale
 

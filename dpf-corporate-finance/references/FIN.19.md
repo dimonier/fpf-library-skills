@@ -110,7 +110,7 @@ If no participant can settle the cross-unit choice in time, identify the missing
 
 Compare arrangements that change those relations in different ways. One may centralize the exceptional allocation while retaining local forecasts and routine payments. Another may grant bounded envelopes whose combined limits fit the common constraint. A third may centralize execution to obtain service efficiency while leaving the underlying commercial decision local. Additional committed finance can change the constraint without changing decision rights, but it also creates cost, service and permission requirements. These alternatives are meaningful only with actual obtainable conditions.
 
-For each arrangement, explain who obtains the necessary information, who can commit which funds, when another participant must be involved and what happens when the condition fails. Include the result expected from an external provider. A title such as “cash owner” or “business partner” does not answer all those questions. Use OCE for a needed change to positions, assignments or enabling authority; FIN.19 supplies the financial problem and the arrangement comparison that the organizational work must address.
+For each arrangement, explain who obtains the necessary information, who can commit which funds, when another participant must be involved and what happens when the condition fails. Include the result expected from an external provider. Use OCE for a needed change to positions, assignments or enabling authority; FIN.19 supplies the financial problem and the arrangement comparison that the organizational work must address.
 
 A common system can support an arrangement without determining it. Installing a treasury platform does not decide which subsidiary must release a balance or who may change an investment commitment. Conversely, a supported arrangement can sometimes work with the existing tools. Compare the information and action the system would make possible, the necessary operating work and the fallback if the provider or connection fails.
 
@@ -123,7 +123,7 @@ Distinguish this work arrangement from the financial relations it administers. I
 #### FIN.19:4.6 - Compare the burden that each remedy moves
 
 
-Trace a local gain to its other consequences. Centralization may reduce duplicated bank negotiations while increasing waiting time for local exceptions. Decentralization may preserve customer knowledge while requiring a dependable way to enforce a group funding limit. Faster execution can increase the burden on reconciliation or create concentrated dependence on one provider. The relevant comparison follows those effects rather than the visual simplicity of an organization chart.
+Trace a local gain to its other consequences. Centralization may reduce duplicated bank negotiations while increasing waiting time for local exceptions. Decentralization may preserve customer knowledge while requiring a dependable way to enforce a group funding limit. Faster execution can increase the burden on reconciliation or create concentrated dependence on one provider.
 
 Count recurring work as well as initial transition. Who prepares the additional forecast, resolves discrepancies and responds when a report is late? Which operating decisions wait while that happens? Is local detail lost, or can the central receiver request it when it changes the choice? A proposal that saves central effort by requiring every small unit to submit an elaborate daily model may be disproportionate to the financial use.
 

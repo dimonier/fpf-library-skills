@@ -101,7 +101,7 @@ A reserve should answer a concrete exposure: uncertain collections, urgent repai
 
 Avoid treating all uncertainties as independent when they arise from the same cause. A customer's failure can remove a receipt, reduce collateral eligibility and make a financier less willing to extend credit. Equally, adding every imaginable worst outcome can immobilize money without improving the present decision. Select material states from the operating and financing exposures, explain the protection sought, and show the remaining exposure when a full guarantee is unattainable. A sufficiently supported probability model can estimate shortfall likelihood and magnitude; an average balance still does not prove payment capacity.
 
-Compare the cost of holding or arranging protection with the consequences it prevents. Cash holdings may earn a return but have opportunity cost; committed facilities can charge for unused capacity and still contain conditions. Selling assets quickly may realize less than their ordinary value. These costs belong to the choice of protection, while the dated account establishes whether it works. FIN.5–FIN.6 supply the value comparison when material; no general rule makes maximum cash retention desirable.
+Compare the cost of holding or arranging protection with the consequences it prevents. Cash holdings may earn a return but have opportunity cost; committed facilities can charge for unused capacity and still contain conditions. Selling assets quickly may realize less than their ordinary value. These costs belong to the choice of protection, while the dated account establishes whether it works. FIN.5–FIN.6 supply the value comparison when material.
 
 
 
@@ -135,7 +135,7 @@ While preparing this case's payment plan, an analyst solves d − 3 = 40, where 
 
 Raise the required reserve from zero to 10: the same funding operation now requires d − 3 = 50, giving 53. Correctly repeating the old equation would no longer perform the needed sizing. Conversely, someone who can subtract amounts but cannot translate a withheld fee into net proceeds lacks a constituent operation needed for this plan. They can obtain an explanation and practise that operation, or obtain a qualified calculation whose conditions they can use. More repetitions of an unexplained spreadsheet formula do not supply the missing connection.
 
-These are connected descriptions of the analyst's work; charge its time once. The lender's transfer is a different occurrence whose availability the plan relies on. Sending the completed account to a decision maker is a subsequent use. Each relation matters, but none substitutes for explaining what the analyst is doing through the calculation now.
+These are connected descriptions of the analyst's work. The lender's transfer is a different occurrence whose availability the plan relies on. Sending the completed account to a decision maker is a subsequent use.
 
 
 

@@ -101,7 +101,7 @@ If repeated events suggest that the participation arrangement itself excludes pe
 
 Use consensual role-play when the learner wants to practise the invitation, answer and subsequent choice. Both participants know the purpose and can stop. Do not recruit unsuspecting people to create refusals for an exercise. Begin with the whole interaction so that a polite sentence does not hide continued bargaining, blocked departure or an unavailable next action.
 
-Compare a successful attempt with the specific failed connection. Demonstrate or discuss the missing operation, let the learner retry it, and restore the whole encounter. Change an answer, timing, partner or available support that affects the decision. The learner chooses the continuation; the teacher does not supply an unnoticed cue or require an immediate second invitation. MDPE.10 and HCD.6/HCD.9 provide the general construction of a representative task, help, attempt, feedback and return. The participation conditions and distinctions in this application supply the domain criteria.
+Compare a successful attempt with the specific failed connection. Demonstrate or discuss the missing operation, let the learner retry it, and restore the whole encounter. Vary an answer, timing, partner or available support when that receiving condition needs to be established and existing observations do not settle it. The learner chooses the continuation; the teacher does not supply an unnoticed cue or require an immediate second invitation. MDPE.10 and HCD.6/HCD.9 provide the general construction of a representative task, help, attempt, feedback and return. The participation conditions and distinctions in this application supply the domain criteria.
 
 Keep three kinds of evidence separate. An observer can describe the answer, continued pressure, available space and action actually taken. The learner can report their interpretation, wanted activity and experienced disappointment. Later experience can show whether the action remains available at a real event, with its different uncertainty and emotional significance. A role-play that evokes no disappointment can still teach the outward interaction; it leaves emotional use untested.
 
@@ -129,7 +129,7 @@ Expectations about sociability, visible disappointment or repeated invitations v
 
 For assurance of this use, establish separately that the invitation ended without continued pressure and that the inviter obtained a wanted action, or identify the contribution still missing. Name the support actually used. A clear sentence without disengagement establishes too little; a supported action need not establish independent capability.
 
-For a learning claim, inspect the complete agreed attempt and the changed condition that matters. For an emotional claim, use suitable evidence about that experience; neither a smile nor compliant action supplies it. The method's limit remains explicit if the wanted continuation is unavailable.
+For a learning claim, inspect adequate evidence from the complete agreed attempt and any changed condition included in the claim. For an emotional claim, use suitable evidence about that experience; neither a smile nor compliant action supplies it. The method's limit remains explicit if the wanted continuation is unavailable.
 
 ### MDPE.28:8 - Common Anti-Patterns and How to Avoid Them
 

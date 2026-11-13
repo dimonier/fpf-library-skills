@@ -73,7 +73,9 @@ Publish a changed connection only after the relevant source and current case bas
 
 Take actual misses and false matches whose remedy can change use. Compare them with matched cases and nearby non-fits. Ask what observable question would have distinguished them before the result was known. “Does success require repeated manual compensation?” may expose a broader family than “Did the export fail?” The wording and its observable inputs matter more than a new tag name.
 
-Derive candidate questions from the episodes and subject knowledge, then test them on withheld or independently constructed cases, including negatives and unknowns. A generated question tested only on the examples that generated it supplies no independent recognition evidence. Reject a question that cannot be answered from the authorized event projection, or obtain the needed observation through an approved route.
+Derive candidate questions from the episodes and subject knowledge. Reject a question that cannot be answered from the authorized event projection, or obtain the needed observation through an approved route.
+
+Match qualification to the intended reliance and reuse current results whose cases, inputs and conditions still apply. A proposed recognition aid can be returned with its untested reach. If reliance on recognition in further cases needs evidence not supplied by those grounds, test on withheld or independently constructed cases, including negatives and unknowns. Performance only on the derivation examples does not supply that evidence.
 
 Keep the question as a useful aid, not an exclusive admission gate for every future concern. Provide an open route for an unrecognized cue. If features become a learned classifier, preserve the training basis, model version, evaluation population and refresh conditions. KCAE.EVAL compares its gain with direct source-based inquiry and the prior recognition aid.
 
@@ -95,11 +97,11 @@ Stored conclusions encourage confirmation and make past success look universal. 
 
 ### KCAE.MEMORY:7 - Conformance Checklist
 
-Is the future use and retention authorized? Can the original unresolved distinction be recovered? Are observations, interpretations and proposed actions separate? Does reuse check the premises that made the connection valid? Can a new contribution reach old questions outside the initial category? Were improved recognition questions tested away from their derivation examples? Are expiry and deletion applied to derived copies?
+Is the future use and retention authorized? Can the original unresolved distinction be recovered? Are observations, interpretations and proposed actions separate? Does reuse check the premises that made the connection valid? Can a new contribution reach old questions outside the initial category? Does the qualification of an improved recognition question match the intended reliance, with cases outside its derivation basis where needed? Are expiry and deletion applied to derived copies?
 
 ### KCAE.MEMORY:8 - Common Anti-Patterns and How to Avoid Them
 
-A saved label is not a preserved episode. A cached judgement is not an enduring permission or truth. A useful new method is not permission to rescan every private conversation. A feature set that only recognizes known failures needs an open cue route and independent tests.
+A saved label is not a preserved episode. A cached judgement is not an enduring permission or truth. A useful new method is not permission to rescan every private conversation. Keep an open cue route when a feature set only recognizes known failures; qualify claims of recognition in further cases under :4.4.
 
 ### KCAE.MEMORY:9 - Consequences
 
@@ -111,7 +113,7 @@ The episode is retained because the next useful question may differ from today's
 
 ### KCAE.MEMORY:11 - SoTA-Echoing
 
-Bates's evolving inquiry and B.5.PI's retained early cue motivate preserving unfinished distinctions. Retrieval and typed feature discovery can help index episodes or pose recognition questions, but neither establishes the adequacy of the resulting categories. This method develops the episode-to-question-to-source loop, selective revalidation and held-out recognition test. Compare an ordinary source-linked notebook as a smaller alternative; reopen the design when query diversity, retention terms or maintenance cost changes.
+Bates's evolving inquiry and B.5.PI's retained early cue motivate preserving unfinished distinctions. Retrieval and typed feature discovery can help index episodes or pose recognition questions, but neither establishes the adequacy of the resulting categories. This method develops the episode-to-question-to-source loop, selective revalidation and claim-matched recognition testing. Compare an ordinary source-linked notebook as a smaller alternative; reopen the design when query diversity, retention terms or maintenance cost changes.
 
 ### KCAE.MEMORY:12 - Relations
 

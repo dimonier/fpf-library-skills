@@ -84,7 +84,7 @@ Do not close the gap by editing the expectation to equal the authorized number. 
 
 Show the expectation, ambition, request and authorization at enough detail to locate the next decision. Preserve the forecast's original assumptions when a later choice changes them.
 
-Observe whether people can now report an unwelcome expectation and whether decisions about resources take that expectation into account. MA.9 constructs a missing information-use arrangement and examines persistent behavioral effects; the responsible organizational practice supplies a wider change in management arrangements.
+When the use of these accounts remains in question, observe whether people can report an unwelcome expectation and whether decisions about resources take that expectation into account. MA.9 constructs a missing information-use arrangement and examines persistent behavioral effects; the responsible organizational practice supplies a wider change in management arrangements.
 
 ### MA.6:5 - Archetypal Grounding
 

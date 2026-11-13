@@ -213,7 +213,7 @@ For the conjecture being developed:
 - The starting construction, established result and receiving use are recoverable.
 - A mathematical change explains why the new question arises.
 - Objects, domains, hypotheses, quantifiers and answer form distinguish the proposed claim.
-- A proof attempt exposes its needed intermediate relation, and the chosen case tests a consequential condition.
+- If a proof is attempted, its needed intermediate relations are exposed; any case used to investigate the claim tests a consequential condition.
 - A counterexample is classified at the claim, lemma or implementation it actually defeats.
 - A repaired hypothesis, construction or conclusion preserves the distinction between the new question and any earlier unsatisfied need.
 - Generality follows from an argument over the stated class; tested cases retain their actual scope.

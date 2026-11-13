@@ -232,9 +232,8 @@ require decomposing every function to a uniform depth.
 the identity and relevant properties of what passes between them. Distinguish an exchange from a condition
 for starting, continuing, or stopping an operation. State where contributions must coexist, synchronize, wait,
 or feed back, and what changes with the operating mode. If two inputs must meet, explain the operation that
-combines them and how candidate bearers could perform it. A junction on a drawing supplies neither that
-operation nor its means. If production and use occur at different times, identify what preserves the needed
-material, energy, information, or state between them.
+combines them and how candidate bearers could perform it. If production and use occur at different times,
+identify what preserves the needed material, energy, information, or state between them.
 
 **Reason forward through one complete use.** Starting from the available inputs and states, explain what
 each cooperating contribution changes, what becomes available next, and why the receiving System would obtain
@@ -255,7 +254,7 @@ transformation, retain a resource for later use, distribute a decision, or chang
 during failure. Follow the changed relation forward to the outside effect and back to its required inputs.
 Revise the affected bearer and interface proposals, state what still works unchanged, and expose new
 dependencies. If no credible means of producing a required intermediate result is known, keep that gap
-open and use specialist development or the local return in step 11. Renaming a box does not fill it.
+open and use specialist development or the local return in step 11.
 
 Choose a representation that exposes the difficult relation:
 
@@ -350,7 +349,7 @@ The scheduler consequently needs an estimate of usable stored energy and the per
 conditions, as well as demand and external signals. Local protection and the heat-delivery path remain
 necessary. What changes is the timing dependency: current delivery can depend on an earlier charge rather
 than simultaneous compressor operation. Storage, sensors, valves, and circulation must realize that changed
-relation; adding a box named *buffer* is insufficient.
+relation.
 
 For this candidate the team assumes a storage capacity and discharge rate adequate for a stated flexibility
 interval. It still needs a thermal/hydraulic account that covers losses, usable temperature range and room

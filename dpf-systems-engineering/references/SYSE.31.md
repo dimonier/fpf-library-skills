@@ -101,7 +101,7 @@ First choose the integration boundary that matters to the application. Name the 
 
 Break a large change into increments that leave the mainline usable under its existing supported behavior. A preparatory increment may add an unused adapter; a later increment may switch one caller to it; removal waits until no supported caller needs the old route. Each increment should preserve the agreed behavior or openly change it under its acceptance conditions. A feature flag can separate installation from activation only if the disabled state really preserves the required behavior and the enabled path can be qualified. A dormant flag does not make an incompatible schema change harmless.
 
-For one increment, take a current mainline base, construct the intended combined change, and run the relevant fast feedback against that combination. Resolve its actual incompatibilities before integration. When another change advances the mainline, update the candidate combination and re-establish the affected feedback. A merge queue is one possible implementation: it serializes or rebuilds candidate combinations against the base that will actually be used. Its name does not guarantee that the tested combination equals the integrated one.
+For one increment, take a current mainline base, construct the intended combined change, and run the relevant fast feedback against that combination. Resolve its actual incompatibilities before integration. When another change advances the mainline, update the candidate combination and re-establish the affected feedback. A merge queue is one possible implementation: it serializes or rebuilds candidate combinations against the base that will actually be used.
 
 After integration, build and exercise the resulting shared revision through the authoritative path. Associate its produced artifact with that combined revision and its own results. An earlier artifact from the branch can be reused only when it is actually the same qualified subject under the needed conditions. The team must be able to find the current mainline result and its unresolved checks without reconstructing several private branch histories.
 
@@ -186,7 +186,7 @@ For prompt feedback and a usable combined mainline, **adopt and adapt** [DORA Te
 
 Sections 4.5–4.7 construct those joins for the actual shared base, artifact and environment. Compatible preparatory increments compete with a longer branch; fast scoped tests compete with broader slower checks. Select from interaction risk, feedback delay and recoverability, retaining a pending release question where necessary. A faster early stage that delays the whole useful result is not the intended gain.
 
-Reopen test selection or integration structure when architecture, generated dependencies or supported behavior changes, regressions escape, or restoration no longer fits the working cadence. These sources do not supply application acceptance meaning or release authority.
+Reopen test selection or integration structure when architecture, generated dependencies or supported behavior changes, regressions escape, or restoration no longer fits the working cadence.
 
 ### SYSE.31:12 - Relations
 

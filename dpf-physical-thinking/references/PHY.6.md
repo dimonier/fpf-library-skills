@@ -262,7 +262,7 @@ The [Modelica 3.7 equation rules](https://specification.modelica.org/maint/3.7/e
 
 The current [Dyad component-construction tutorial](https://help.juliahub.com/dyad/stable/tutorials/creating-components.html) demonstrates reusable connector and response relations with separate analyses. Adapt that distinction so a reader can reuse the component relations for several analyses.
 
-The three worked calculations are constructed examples under their stated idealizations, not reports of physical measurements.
+The three worked calculations are constructed examples under their stated idealizations.
 
 ### PHY.6:12 - Relations
 

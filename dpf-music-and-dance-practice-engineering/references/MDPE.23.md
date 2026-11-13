@@ -90,7 +90,7 @@ Useful recognition tasks include:
 
 These tasks can rely on different capabilities. A dancer can hear that two rhythms differ yet be unable to locate
 the event that changes partner timing. A teacher can name a style but fail to distinguish its enacted movement from
-a costume cue. A classifier can label audio without understanding, authority, or cultural participation.
+a costume cue.
 
 Three failures are especially costly:
 
@@ -124,7 +124,7 @@ State:
 - the cost of false positive, false negative, delay, or uncertainty; and
 - the later decision that a demonstrated capability can change.
 
-Do not begin from a style name alone. “Recognize Urban Kiz” is incomplete. A usable task might be: distinguish two
+“Recognize Urban Kiz” is incomplete. A usable task might be: distinguish two
 movement-and-partner-interaction variants while music, clothing, and teacher cues vary, because a festival teaching
 decision depends on whether learners can preserve the intended difference.
 
@@ -171,7 +171,7 @@ Choose the direct domain Method from the failure. Examples include:
 - interleaving neighbouring styles or variants when discrimination is the goal; and
 - training machine recognizers on varied carriers and performers while protecting a held-out transfer set.
 
-Variation is not valuable by sheer quantity. Vary contexts expected in later Work or needed to distinguish rival
+Vary contexts expected in later Work or needed to distinguish rival
 explanations. Preserve protected conditions such as safety, consent, fatigue bounds, accessibility, and cultural
 source integrity.
 
@@ -373,7 +373,7 @@ Compare development Methods by their expected gain, burden, protected conditions
 | --- | --- | --- |
 | [Heald, Lengyel, and Wolpert, *Contextual inference underlies the learning of sensorimotor repertoires*](https://doi.org/10.1038/s41586-021-04129-3) and [*Contextual inference in learning and memory*](https://doi.org/10.1016/j.tics.2022.10.004) | Context-sensitive creation, expression, and updating of memories; discriminating return and cue-variation probes. | The first model is sensorimotor; one identical computation for every memory and every agent remains an open hypothesis. |
 | [Makarome, *South Indian Konnakkol in Western Musicianship Teaching*](https://ir.upsi.edu.my/files/docs/2020/2114_2114.pdf), especially p. 38 | Distinguishes beat-position syllables from retained phrase groupings under displacement; supplies the distinction used in :4.3. | The timed example here is constructed. The article's teaching experience and feedback do not establish this learner's recognition or performance. |
-| Context-dependent recall and transfer (unpublished source note) | Multidance switching and blending cases, rival explanations, and human and ML probes. | The intake supplies hypotheses and source leads, not a general Method or an established cross-domain result. |
+| Context-dependent recall and transfer (unpublished source note) | Multidance switching and blending cases, rival explanations, and human and ML probes. | The note supplies hypotheses and source leads, not a general Method or an established cross-domain result. |
 | Balboa, Brushes, Pulse, and P-Center (unpublished source note) | Continuous carrier, articulation, several timing centres, partner feedback, and interleaved recognition tasks. | It does not prove one universal exercise order or transfer to all performers. |
 | [Wood et al., *The Global Jukebox*](https://doi.org/10.1371/journal.pone.0275469); comparison methods in `MDPE.12:6` | Recordings, coding guides and coder training make selected musical distinctions available for comparison; reliability differs by characteristic. | Agreement on a coded feature does not establish its recognition or meaning for a different population. |
 | [Whitehead et al., *Capturing spontaneous interactivity*](https://doi.org/10.3389/fpsyg.2024.1465595) | Compare kinematic coordination measures with the improvising dancers' reports; their disagreement can change the recognition task or observation method. | These observations do not establish audience recognition of the proposed style distinction. |

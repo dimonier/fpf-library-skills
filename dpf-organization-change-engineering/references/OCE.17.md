@@ -237,7 +237,7 @@ This makes diagnosis by case comparison practical. A preserved result under a ne
 
 ### OCE.17:11 - SoTA-Echoing
 
-The practice question is how to keep a needed OCE result obtainable when its apparent continuation changes. The serious current alternative is competent, case-sensitive implementation support that can inquire, adapt explanation and participation, obtain qualified help and reassess later use. The selected line retains that strength: use sufficient current provision directly, then compare only a missing OCE contribution under the actual case, access and timing conditions. It does not claim that adding an OCE label improves an otherwise identical operation.
+The practice question is how to keep a needed OCE result obtainable when its apparent continuation changes. The serious current alternative is competent, case-sensitive implementation support that can inquire, adapt explanation and participation, obtain qualified help and reassess later use. The selected line retains that strength: use sufficient current provision directly, then compare only a missing OCE contribution under the actual case, access and timing conditions.
 
 **Recover the practice being continued.** Identify operative Methods across descriptions, instruments and practitioners, and examine repeated Work in unlike settings. Sections 4.1–4.2 and the cases show how exposure, support, use and continuation can differ.
 

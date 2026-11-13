@@ -98,7 +98,7 @@ If an actual permitted supply change instead avoids 300 of the shared payment in
 
 A recipient can prefer a driver that lowers its charge. An analyst can prefer measurable activity even when it poorly explains the resource pool. Make the source purpose and evidence inspectable.
 
-The example uses an agreed internal convention. Its validity for that charge does not establish a universally fair or causal allocation rule.
+The example uses an agreed internal convention.
 
 ### MA.3:7 - Conformance Checklist
 

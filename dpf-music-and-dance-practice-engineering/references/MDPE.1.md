@@ -226,7 +226,7 @@ The local practice remains the primary subject, unfamiliar-partner use remains t
 conditions and the six-week resource boundary remain in force. The next commitment is to the revised learning
 task and its bounded receiving comparison, not to a wider showcase or a claim that the style has developed.
 If the required instruction or additional time cannot be supplied within that commitment, the teachers return
-the narrowed proposal for a funding or scope decision instead of extending the project implicitly. This
+the narrowed proposal for a funding or scope decision. This
 constructed return changes the brief while preserving the observations already obtained.
 
 #### MDPE.1:4.2 - *The Call*
@@ -255,7 +255,7 @@ if the project is still confusing the commissioned work with a repeatable practi
 
 | Check | Failure it prevents | Repair |
 | --- | --- | --- |
-| One primary subject is selected | A style, genre, mood, product, or event label decides nothing. | Choose artifact/occurrence, practice, style-development line, or medium/support System. |
+| One primary subject is selected | Work for one subject is funded while the needed result concerns another. | Choose artifact/occurrence, practice, style-development line, or medium/support System. |
 | Linked subjects retain their identities | One document becomes a universal brief. | State each result and the relation by which another part of the project uses it. |
 | Proposal and realization are separate | Publishing the brief is treated as creating the result. | Name realization Work and the first world-side observation. |
 | Preservation and variation are explicit | The project either freezes a practice or erases its distinction. | State what must survive and what may change for the receiving use. |

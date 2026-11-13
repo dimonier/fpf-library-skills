@@ -90,7 +90,7 @@ For a proposed reduction in stock, distinguish a one-time run-down from a lower 
 
 Recover purchase cost, expected realizable proceeds and the payments actually avoided. A fall of 20 in book inventory is not necessarily a receipt of 20: a write-down is noncash, clearance may realize less, and supplier balances may change at a different date. Compare the cash account under both policies through transition and subsequent replenishment. Preserve the continuing stock needed to support the stated sales.
 
-Include lost contribution and recovery costs when stockouts or quality failures are plausible. A service level can be an operating constraint, not a price to be guessed by finance. If operations supplies several feasible service/cost combinations, compare their incremental value and liquidity with explicit uncertainty. Keep resource usage, capacity supplied and expenditure distinct: releasing storage space saves cash only if the space or a related purchase can actually be reduced or redeployed. MA.5 and the actual operating plan supply that distinction.
+Include lost contribution and recovery costs when stockouts or quality failures are plausible. A service level can be an operating constraint, not a price to be guessed by finance. If operations supplies several feasible service/cost combinations, compare their incremental value and liquidity with explicit uncertainty. Keep resource usage, capacity supplied and expenditure distinct: releasing storage space saves cash only through a payment that is avoided or reduced. An attainable alternative use can contribute its own future cash consequences. MA.1–MA.2 and the actual operating plan supply the resource and payment conditions.
 
 
 

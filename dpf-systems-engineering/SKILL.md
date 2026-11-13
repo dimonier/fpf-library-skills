@@ -54,7 +54,7 @@ license: CC-BY-4.0
 | a software change can alter stored information, its interpretation, or which old and new consumers can use it. | `references/SYSE.34.md` |
 | a software change can reach a bounded population before wider use, and observations from that population can change the next exposure decisi … | `references/SYSE.35.md` |
 | a software service looks healthy in its infrastructure dashboard while users cannot complete their tasks, or when a reliability target exist … | `references/SYSE.36.md` |
-| a measured service objective and a usable response arrangement exist, but alerts arrive too often, too late or without an action someone can … | `references/SYSE.37.md` |
+| alerts for a software-service loss arrive too often, too late or without an action someone can take. | `references/SYSE.37.md` |
 | a practitioner cannot obtain a supported result from a software platform, or receives an uncertain result after a failed attempt. | `references/SYSE.38.md` |
 | a recurring manual or interrupt-driven platform activity grows with demand but produces little enduring improvement. | `references/SYSE.39.md` |
 | bursts, expensive work or a failing dependency prevent other users from obtaining supported platform results. | `references/SYSE.40.md` |

@@ -195,11 +195,11 @@ The receiver may prefer a simple affirmative answer, and the adviser may suppres
 
 ### FIN.16:7 - Conformance Checklist
 
-Can the receiver identify the recommended action, reason, relevant alternative and condition that changes it? Do the financial results share compatible grounds? Is any new evidence request tied to a possible changed action? Are advice, decision and execution kept distinct?
+Can the receiver identify the recommended action, reason, relevant alternative and condition that changes it? Do the financial results share compatible grounds? Is any new evidence request tied to a possible improvement in the receiving action or warranted reliance? Are advice, decision and execution kept distinct?
 
 ### FIN.16:8 - Common Anti-Patterns and How to Avoid Them
 
-Ending with “more analysis is needed” without a choice-changing question leaves no next useful move; name the required answer. Reporting only NPV hides funding conditions; state the material ones. Treating a recommendation as authorized action claims an effect it does not supply.
+Ending with “more analysis is needed” without a question that could improve the action or warranted reliance leaves no next useful move; name the required answer. Reporting only NPV hides funding conditions; state the material ones. Treating a recommendation as authorized action claims an effect it does not supply.
 
 ### FIN.16:9 - Consequences
 
@@ -207,7 +207,7 @@ The receiver can act on a supported result or pursue a bounded missing fact. The
 
 ### FIN.16:10 - Architectural Rationale
 
-Advice becomes useful through its relation to a receiving choice. Its form and length follow that use, rather than a universal reporting package.
+Advice becomes useful through its relation to a receiving choice. Its form and length follow that use.
 
 ### FIN.16:11 - SoTA-Echoing
 

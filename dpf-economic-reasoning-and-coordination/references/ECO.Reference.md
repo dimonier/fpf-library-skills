@@ -16,7 +16,7 @@ Economic reasoning asks how different plans, knowledge, purposes and rights can 
 
 This framework serves engineers, entrepreneurs, managers, institution designers and advisers confronting those difficulties. It supplies methods for calculation, exchange, commitments, adaptation, shared resources and economic rules. It also helps inspect what happens after an efficiency improvement changes the range or volume of feasible activity.
 
-A practitioner needs enough knowledge of the work to recognize the intended results and the parties and resources that matter. Financial, technical, legal and statistical expertise may be supplied by others. This framework helps identify and use those contributions under their limits; it does not make them available merely by describing them.
+A practitioner needs enough knowledge of the work to recognize the intended results and the parties and resources that matter. Financial, technical, legal and statistical expertise may be supplied by others. This framework helps identify and use those contributions under their limits.
 
 ## ECO.Reference:2 - Problem and forces - Locally sound contributions can fail together
 
@@ -26,11 +26,11 @@ These failures require connections among methods. Treating economics only as mon
 
 The language uses both formal models and qualitative reasoning where their conditions fit. A mathematical result follows from its admitted construction; using it to describe actual people, organizations or markets requires the corresponding grounds. Numerical probabilities are useful when defensible, while conditional alternatives can be sufficient for a decision.
 
-Further inquiry has its own whole cost, including delay and work displaced. C.11.DUA helps compare it with using adequate current information, changing the action, accepting a bounded uncertainty or stopping. There is no requirement to prove every source anecdote or gather every possible observation before acting.
+Further inquiry has its own whole cost, including delay and work displaced. C.11.DUA helps compare it with using adequate current information, changing the action, accepting a bounded uncertainty or stopping.
 
 ## ECO.Reference:3 - Solution - Connect calculation, exchange and economic arrangements
 
-The ten methods form four connected groups. These groups organize explanation; they do not prescribe stages or fixed levels.
+The ten methods form four connected groups for explanation. Enter the group that addresses the current question.
 
 | Group | Contribution | Connection to further work |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ The ten methods form four connected groups. These groups organize explanation; t
 | Shared and extended coordination: ECO.7–.9 | Connect use and renewal, relate direct cooperation to wider orders, and change rules through their practices. | Physical bounds, affected interests and obtainable capabilities constrain what arrangement can work. |
 | Efficiency and demand: ECO.10 | Follow a unit saving through changes in feasible use and demand. | Return conditional total effects to the purpose and existing comparison or portfolio methods. |
 
-The operation and its description remain different. Applying guidance can produce a proposal, a calculation, an agreement or a performed contribution, depending on what the practitioner actually does and what conditions hold. Describing a possible arrangement does not establish that it exists. The cases below and in the patterns are constructed demonstrations of reasoning; they do not assert observed field effectiveness.
+Applying guidance can produce a proposal, a calculation, an agreement or a performed contribution, depending on what the practitioner actually does and what conditions hold. The cases below and in the patterns are constructed demonstrations of reasoning.
 
 ### ECO.Reference:3.1 - Calculation rests on economic relationships
 
@@ -77,7 +77,7 @@ The language can improve the construction and comparison of economic arrangement
 
 Its field boundary is economic reasoning and coordination for the described families. It does not provide a full course in macroeconomic forecasting, monetary and credit theory, taxation, competition law, auction design or welfare economics. A use requiring one of those methods needs its specialist contribution; the ten patterns do not stand for complete coverage of all economics.
 
-The descriptions provide neither legal rights nor resources. They do not guarantee successful entrepreneurship, consensus, fairness or institutional improvement. A chosen arrangement can serve some purposes and burden others; retain those differences in the actual decision.
+A chosen arrangement can serve some purposes and burden others; retain those differences in the actual decision.
 
 ## ECO.Reference:6 - Common failures and useful returns
 
@@ -90,7 +90,7 @@ The descriptions provide neither legal rights nor resources. They do not guarant
 | A rule is copied while the capability that made it work is absent. | ECO.9 restores the practice and its transmission through the existing development methods. |
 | Lower unit resource use is reported as a guaranteed total saving. | ECO.10 compares the demand response against the relevant counterfactual. |
 
-Use these returns when the failure occurs. They are not a required audit before every ordinary action.
+Use these returns when the failure occurs.
 
 ## ECO.Reference:7 - Architectural Rationale
 
@@ -102,7 +102,7 @@ Transdisciplinary agency, Method composition, choice, uncertainty and cultural e
 
 ## ECO.Reference:8 - Source use and currentness
 
-The language is a conceptual synthesis. Historical sources identify mechanisms and disagreements; later research sharpens particular questions. Source prestige and school membership do not settle whether an operation fits the current situation.
+The language is a conceptual synthesis. Historical sources identify mechanisms and disagreements; later research sharpens particular questions.
 
 | Source line | Adopted contribution and limit |
 | --- | --- |

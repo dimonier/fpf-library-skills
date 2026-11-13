@@ -184,7 +184,7 @@ MATH.4 supplies witness construction by induction; MATH.12 supplies extraction f
 
 For the construction in :4.2–4.5, an available recurrence or input-structural split is the simpler alternative when it already returns enough information for the join and meets the cost requirement. Strengthening a subanswer is worth its extra work when that simpler return loses the requested result, as the four-value segment construction and coefficient-returning divisor procedure demonstrate. Reconsider this choice when a different output, representation or competing decomposition changes either sufficiency or total cost.
 
-The current [Lean reference on recursive definitions](https://lean-lang.org/doc/reference/latest/Definitions/Recursive-Definitions/) distinguishes structural recursion, well-founded measures and forms of partial or continuing behavior. Adopt the distinction between a missing syntactic decrease and an absent termination argument. Formal encoding can check a consequential or difficult construction; its additional work is unnecessary for simply exploring a decomposition. No particular proof assistant or finite-return account is imposed on every computational process.
+The current [Lean reference on recursive definitions](https://lean-lang.org/doc/reference/latest/Definitions/Recursive-Definitions/) distinguishes structural recursion, well-founded measures and forms of partial or continuing behavior. Adopt the distinction between a missing syntactic decrease and an absent termination argument. Formal encoding can check a consequential or difficult construction; its additional work is unnecessary for simply exploring a decomposition.
 
 ### CMP.2:12 - Relations
 

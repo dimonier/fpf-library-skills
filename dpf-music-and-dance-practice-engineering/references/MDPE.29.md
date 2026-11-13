@@ -80,7 +80,7 @@ The first usable result is the selected material, its transformations, the full 
 
 When reusing either case, change the seed, retained relation or receiving conditions deliberately. Recompute a physical constraint when mass, contact, height or timing changes. Reconstruct transitions when a transformation changes the state from which the next phrase begins. If the wanted artistic relation survives a different realization, compare that realization rather than treating the original body action as mandatory.
 
-The joint use of PHY, SOM, RHY and HCD is conditional on the difficulty: physical modeling, bodily regulation, rhythmic coordination and human learning supply different results. Use an adequate direct dance or teaching method when it already supplies the needed result. The examples need no new universal hierarchy of those methods, and no single success judgement can substitute for physical correctness, usable movement and the intended artistic effect.
+The joint use of PHY, SOM, RHY and HCD is conditional on the difficulty: physical modeling, bodily regulation, rhythmic coordination and human learning supply different results. Use an adequate direct dance or teaching method when it already supplies the needed result.
 
 ### MDPE.29:5 - Archetypal Grounding
 
@@ -100,7 +100,7 @@ Compare three candidates:
 | Place the familiar 0.2-second flight from 0.4 to 0.6 s | The 0.5 s apex and available flight duration | Keep as a separate branch if actual flight matters. It changes the full-second rise-and-return contour. |
 | Keep the body supported and assign the contour to a small hand path | The full-second contour, midpoint summit and following low interval | Select for this brief, which values the visible contour rather than flight itself. |
 
-The selected variant is a changed choreography, not proof that supported hand motion is physically equivalent to an airborne body. If the brief requires actual flight, this selection is unavailable; return to timing, means or the brief.
+If the brief requires actual flight, this selection is unavailable; return to timing, means or the brief.
 
 **Selected phrase.** Use a comfortable supported position with no partner contact and no required weight transfer. For the score, let H be an individually chosen familiar hand-height change and W a familiar sideways reach. Coordinates are relative to the hand's low home position, not prescribed anatomical dimensions. The other hand remains at home.
 
@@ -122,7 +122,7 @@ Now make phrase B by changing the vertical path into a diagonal: during each ris
 
 #### MDPE.29:5.2 - Case B — Use relativity to generate a spatial duet, not to explain the dancers' bodies
 
-**Situation and source choice.** A maker wants a duet whose spatial organization becomes unfamiliar while its phrasing remains recognizable. The source is the distinction between proper length and a moving frame's simultaneous length measurement. In the ideal relativistic calculation L = L_0 sqrt(1 − v²/c²); a half-length corresponds to v/c = sqrt(3)/2, approximately 0.866. This is a mathematical source relation. No dancer approaches that speed, and a viewer walking to another seat does not perform that Lorentz measurement.
+**Situation and source choice.** A maker wants a duet whose spatial organization becomes unfamiliar while its phrasing remains recognizable. The source is the distinction between proper length and a moving frame's simultaneous length measurement. In the ideal relativistic calculation L = L_0 sqrt(1 − v²/c²); a half-length corresponds to v/c = sqrt(3)/2, approximately 0.866. This is a mathematical source relation.
 
 Take only an artistic operation from it: halve one chosen spatial dimension while preserving the other dimension and the times of arrival. The choice is explicit, so the scientific source can be explained accurately even if the finished dance no longer resembles a textbook diagram.
 
@@ -136,7 +136,7 @@ Take only an artistic operation from it: halve one chosen spatial dimension whil
 | 6 s | (−W,H), left-high |
 | 8 s | (−W,0), left-low |
 
-Use the same smooth interpolation q(u) = 3u² − 2u³ on each two-second segment. The selected phrase therefore draws a rectangle with brief zero-speed arrivals, then is ready to repeat. This is one deliberately chosen organization, not a claim that all phrases consist of poses.
+Use the same smooth interpolation q(u) = 3u² − 2u³ on each two-second segment. The selected phrase therefore draws a rectangle with brief zero-speed arrivals, then is ready to repeat.
 
 Produce C by replacing every x coordinate with x/2. Keep the y coordinates and all five arrival times. Its width becomes W instead of 2W; horizontal path speed and acceleration scale by one half for the same interpolation, while the vertical segments remain unchanged. This construction retains ordering, closure and the two-second arrivals. It is not uniform shrinking.
 
@@ -161,7 +161,7 @@ A front-view trace can confirm the designed geometry; a performer report can inf
 
 ### MDPE.29:6 - Bias-Annotation
 
-The source tradition emphasizes deliberate phrase generation and manipulation. That is a useful method for this problem, not a description of every dance's origin or value. The hand-trace cases make geometry and joins inspectable with little bodily demand. They do not make small supported hand movement the preferred form of dance, nor do they establish how a performer or audience will experience the result.
+The source tradition emphasizes deliberate phrase generation and manipulation. The hand-trace cases make geometry and joins inspectable with little bodily demand.
 
 ### MDPE.29:7 - Conformance Checklist
 
@@ -186,7 +186,7 @@ A useful score can finish the composing question. Claims about performance capab
 
 ### MDPE.29:9 - Consequences
 
-The maker obtains material that can be varied and connected, together with reasons for the chosen composition. This makes revisions more selective: a changed physical premise can return the realization for repair while leaving an artistic relation available through another means. Composing still requires artistic judgement and investigation; the method supplies neither a unique best piece nor audience agreement.
+The maker obtains material that can be varied and connected, together with reasons for the chosen composition. This makes revisions more selective: a changed physical premise can return the realization for repair while leaving an artistic relation available through another means. Composing still requires artistic judgement and investigation.
 
 ### MDPE.29:10 - Architectural Rationale
 
@@ -198,9 +198,9 @@ MDPE.9 compares creative alternatives, and MDPE.11 governs the relation between 
 
 | Source and use | Adopted or adapted contribution | Boundary and alternative |
 | --- | --- | --- |
-| Coates and Demers, *Physics and Dance*, Yale University Press, 2019, ISBN 9780300195835, “Choreographic Studies”, pp. 177–180 | Adapt the developed construction: generate phrases from sources, investigate changes in energy, time and space, compose through sequence, transition, overall rhythm and viewer placement. Retain the freedom to pursue compelling movement beyond literal illustration. | This is a source-backed choreographic technique, not a demonstrated universal optimum or an account of all dance traditions. Direct use of an adequate existing phrase or another appropriate compositional technique can be sufficient. |
+| Coates and Demers, *Physics and Dance*, Yale University Press, 2019, ISBN 9780300195835, “Choreographic Studies”, pp. 177–180 | Adapt the developed construction: generate phrases from sources, investigate changes in energy, time and space, compose through sequence, transition, overall rhythm and viewer placement. Retain the freedom to pursue compelling movement beyond literal illustration. | This is a source-backed choreographic technique. Direct use of an adequate existing phrase or another appropriate compositional technique can be sufficient. |
 | MDPE.9 and MDPE.11 | Use the former to compare alternatives for the intended work, and the latter to distinguish fixed material from interpretation during performance. | Their contributions remain independently usable; a successful comparison still needs actual generated material. |
-| PHY, SOM, RHY and HCD, selected by the difficulty | Use physical modeling, bodily investigation, temporal coordination or human learning where the composition needs the result. | A correct model, ease report, timing result and learned capability answer different questions. No compulsory sequence of all four frameworks is implied. |
+| PHY, SOM, RHY and HCD, selected by the difficulty | Use physical modeling, bodily investigation, temporal coordination or human learning where the composition needs the result. | A correct model, ease report, timing result and learned capability answer different questions. |
 
 The worked scores and quantitative comparisons here are constructions of this framework. The cited book supplies their methodological basis, not observations of their effectiveness. Reconsider the selected technique when another source or practical result changes the available way to obtain the intended composition.
 

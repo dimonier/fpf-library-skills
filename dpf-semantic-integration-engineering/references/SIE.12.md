@@ -119,7 +119,7 @@ SIE.11 follows the changed classification need to the actual queries. Two consum
 - Manufacturer A retains its spare-drive query against `equip:DriveReplaceable`. Its required meaning and the qualified X/Y results remain unchanged, so it retains matching evidence for that use. Adopting the new class is not a prerequisite for continuing this query.
 
 The participant authorized to release the module publishes the identified edition with those definitions, dependency conditions, and migration information. Contact supplies the notice; the content decision, product-source claims, and receiving decisions keep the separate remits shown above. The two completed consumer results do not establish migration by every other user.
-If the two manufacturers require incompatible local criteria, the commons can retain scoped local modules and their qualified correspondences. No broader equivalence is asserted merely to make the shared diagram simpler.
+If the two manufacturers require incompatible local criteria, the commons can retain scoped local modules and their qualified correspondences.
 
 #### SIE.12:5.2 - A Sufficient Interface Agreement
 

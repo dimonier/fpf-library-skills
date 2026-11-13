@@ -109,7 +109,7 @@ Choose the change justified by that comparison. A correct policy with a defectiv
 
 #### ADM.14:4.6 - Exercise the changed control in its receiving use
 
-For a selected change, exercise a supported case, a known violating case and the relevant uncertainty or unavailable-check branch. Include a changed subject or post-check change when it can defeat reliance. Use the qualified domain procedure for the actual assurance claim.
+Reuse adequate results where the control claim, relevant conditions and receiving use still match. For the claims affected by a selected change, exercise the supported, violating, uncertain or unavailable-check cases needed to settle the remaining questions. Include a changed subject or post-check change when it can defeat reliance. Use the qualified domain procedure for the actual assurance claim.
 
 Confirm that the intended decision receives the correct result and that the failure response reaches someone able to act. A desk comparison supports the design account; a trial of the real implementation supports only the behavior actually observed.
 
@@ -145,7 +145,7 @@ Digital implementations favor conditions that are easy to count. Inspect whether
 
 **Recognition.** The control account identifies its purpose and governing source, the competent rule owner, needed claim, qualified checking contribution, consuming decision and failure response.
 
-**Assurance for reliance.** Use the qualified procedure to examine a valid, violating and relevant unavailable or changed-subject case at the point of use. Establish that the proposed repair changes the intended contribution under actual authority, preserves protected conditions and gives the participant an actionable return. A policy signature and a technical test remain evidence for different claims.
+**Assurance for reliance.** Reuse adequate matching results and use the qualified procedure to examine the affected valid, violating and relevant unavailable or changed-subject cases at the point of use. Establish that the proposed repair changes the intended contribution under actual authority, preserves protected conditions and gives the participant an actionable return. A policy signature and a technical test remain evidence for different claims.
 
 ### ADM.14:8 - Common Anti-Patterns and How to Avoid Them
 

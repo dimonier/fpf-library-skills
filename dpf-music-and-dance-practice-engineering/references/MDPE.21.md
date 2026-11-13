@@ -85,13 +85,12 @@ conditions.
 
 For engineering purposes, use *style* as an ordinary name for a reproducible cultural distinction or family of
 distinctions. Recover the world-side Methods, Work, capabilities, Systems, memories, and relations that matter in
-the current project. Do not turn the word *style* into one entity that creates, decides, remembers, or acts.
+the current project.
 
 ### MDPE.21:2 - Solution
 
 Design the local architecture that makes the intended distinctions producible, performable, recognizable,
-selectable, transmissible, and recoverable. These are concurrent concerns in a living practice, not stages that
-every project performs in one order.
+selectable, transmissible, and recoverable. These are concurrent concerns in a living practice.
 
 #### MDPE.21:2.1 - Begin with a representative recurrence
 
@@ -147,12 +146,11 @@ new distinction. Typical examples are:
 - an archive retains records while embodied capability, instruments, venues, or teaching Methods disappear;
 - one school stabilizes a useful practice but its authority, access, or incentives suppress valuable variants.
 
-Name the observed relation and the consequence it has for Work. Do not call a whole population, market,
-platform, or culture “the bottleneck” when the project has not identified a changeable relation.
+Name the observed relation and the consequence it has for Work.
 
-#### MDPE.21:2.4 - Develop several architecture candidates
+#### MDPE.21:2.4 - Compare consequential architecture candidates
 
-Develop materially different candidates before selecting an intervention. For example:
+Compare credible materially different arrangements, including retaining the current one when feasible. Develop another candidate when its possible contribution can change the supported choice. Useful directions include:
 
 | Candidate emphasis | Change considered | What it may reveal |
 | --- | --- | --- |
@@ -167,21 +165,15 @@ A useful candidate states the Systems and Methods it changes,
 the Agents whose Work or capability is involved, the direct signal, contact, access, teaching-use, observation-use, selection, or other relations changed, the authority and
 consent needed, the expected effect, and the earliest observation that could defeat it.
 
-#### MDPE.21:2.5 - Select a bounded change and specify its first test
+#### MDPE.21:2.5 - Select a bounded change and any needed test
 
 Choose an architecture change by its expected contribution to the intended recurrence, feasibility and full burden, including the linked relations that must change together. A project can change a class, tool, event, repertoire, recording practice, platform
 feature, recognition task, or relation among them. It cannot decide by itself that a wider population has
 recognized, selected, transmitted, or retained the result.
 
-Specify the representative Music or Dance Work that would test the candidate. The test must vary at least one
-condition that the style-development claim must survive: performer, partner, ensemble, teacher, venue,
-instrument, repertoire item, audience, medium, or time. Name the observations of the intended difference and
-unwanted side effects, and the next decision they can change.
+Use the available grounds for the proposed recurrence. If a material condition remains unestablished, specify an obtainable representative Music or Dance test whose contribution warrants its burden. Vary a condition that the claim must survive but existing evidence does not cover: performer, partner, ensemble, teacher, venue, instrument, repertoire item, audience, medium or time. Name the observations of the intended difference and unwanted side effects, and the next decision they can change.
 
-The architecture decision can close with the chosen arrangement and this specified test. Carrying out the
-selected change and test is further Work, using `MDPE.15` or the applicable direct Method. A claim about tested
-recurrence requires observations of the relevant later Work. Keep project choice, performed intervention,
-observed change, and later distributed uptake as separate claims.
+The architecture decision can close with a justified arrangement, its limits and a selected test when needed. Carrying out a change or test is further Work, using `MDPE.15` or the applicable direct Method. A claim about tested recurrence requires observations of the relevant later Work. Keep project choice, performed intervention, observed change and later distributed uptake as separate claims.
 
 ### MDPE.21:3 - First Useful Result
 
@@ -191,10 +183,10 @@ A style-production and reproduction decision can be recorded compactly:
 > - **Continuity and variation:** [what must remain recognizable; what may or should vary].
 > - **Current reproduction:** [the Methods, Agents, Systems, and relations that now reproduce the practice].
 > - **Defeating relation:** [the observed relation that pulls later Work toward another result].
-> - **Architecture candidates:** [at least two materially different changes considered].
+> - **Architecture candidates:** [the consequential alternatives considered, including the current arrangement where applicable].
 > - **Selected local change:** [the Methods, Systems, and direct signal, contact, access, teaching-use, observation-use, selection, or other relation to change; the Agent authorized to decide].
 > - **Expected Work effect:** [what should become possible or more reliable in representative Work].
-> - **First test:** [representative Work, varied condition, observation, and decision it can change].
+> - **Grounds and any selected test:** [available evidence; missing consequential condition; representative Work, observation and decision when a new test is needed].
 > - **Outside the claim:** [population-wide recognition, selection, spread, retention, or causal effect not yet observed].
 > - **Stop or reopen:** [missing authority, capability, support, evidence, or adverse effect that defeats the choice].
 
@@ -299,7 +291,7 @@ variants, performers, conditions, or generations is part of the intended result.
 | Source or practice line | Contribution used here | Boundary |
 | --- | --- | --- |
 | [FPF `C.36 — Cultural Evolution and Cultural-Evolution Engineering`](https://github.com/ailev/FPF/blob/main/FPF-Spec.md#c36---cultural-evolution-and-cultural-evolution-engineering) | General separation of local intervention from distributed generation, transmission, recognition, selection, retention, and loss. | It does not supply the Music-and-Dance architecture, direct domain Methods, cases, or representative tests. |
-| Music-and-Dance eco-evo-devo synthesis (unpublished source note) | Music-and-Dance eco-evo-devo synthesis; developmental machinery, ecology, recognition, selection, memory, conflicts, and candidate new-whole tests. | The intake provides hypotheses and cases, not a universal ontology, measured prevalence, or proof that one architecture works. |
+| Music-and-Dance eco-evo-devo synthesis (unpublished source note) | Music-and-Dance eco-evo-devo synthesis; developmental machinery, ecology, recognition, selection, memory, conflicts, and candidate new-whole tests. | The note provides hypotheses and cases, not a universal ontology, measured prevalence, or proof that one architecture works. |
 | [Vanchurin et al., *Toward a theory of evolution as multilevel learning*](https://doi.org/10.1073/pnas.2120037119) | A model source for learning-like dynamics across scales and downward effects. | The cultural and engineering transfer remains a working hypothesis; it does not prescribe a project Method. |
 | [Mauch et al., *The evolution of popular music: USA 1960–2010*](https://doi.org/10.1098/rsos.150081) | An empirical example of feature change and large-scale musical-style analysis. | Recorded-pop measurements do not establish the production, teaching, performance, recognition, or retention architecture of every music practice. |
 | [Urban Dance Showcase information](https://www.urbandance.eu/show/infos/) | A provider-described connection between camp participation and a showcase event. | The undated description is not a current price or schedule. It establishes neither a travelling workshop network, video-mediated reproduction effects, nor provider effectiveness; :4.2 is a separate constructed architecture case. |

@@ -187,7 +187,7 @@ At q\*a=0.2 these ratios are about 0.99833 and 0.99500. A half-percent allowance
 
 **Changed work.** A disturbance containing wavelengths near the shortest traveling waves of the chain probes q\*a near pi. The chain's group speed tends to zero, while the continuum account keeps c. A question about that disturbance's propagation requires retaining the discrete dispersion or an adequate extension. Making the computation of the uncorrected continuum equation more accurate cannot recover the omitted physical dependence.
 
-This case concerns an ideal linear chain. It demonstrates choosing spatial resolution from the wave that matters. It supplies no claim that every material, boundary or large deformation obeys the same chain law.
+This case concerns an ideal linear chain. It demonstrates choosing spatial resolution from the wave that matters.
 
 #### PHY.5:5.3 - Retain fluctuations after fast velocity has relaxed
 

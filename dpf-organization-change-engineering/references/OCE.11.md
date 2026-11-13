@@ -128,7 +128,7 @@ Return the actual overlap and service consequences, not merely the plan. An hone
 
 #### OCE.11:4.7 - Stronger assurance follows the receiving claim
 
-Use the direct operating and professional governors for service capability, safety, fatigue, security, legal authority or reliability. A.10 governs the evidence used; C.11 governs a precise choice claim. If the account asserts dated Work, performer or transformation claims, qualify them through A.13, A.15.1 and the relevant change governor rather than inferring them from an allocation table.
+Use the direct operating and professional governors for service capability, safety, fatigue, security, legal authority or reliability. Use A.10 when the source-to-use account remains implicit or must remain replayable; C.11 governs a precise choice claim. If the account asserts dated Work, performer or transformation claims, qualify them through A.13, A.15.1 and the relevant change governor rather than inferring them from an allocation table.
 
 For an ordinary bounded coordination decision, retain only the facts that change the allowed overlap, stop, recovery or hand-back. The Method does not require a portfolio office, a universal capacity model or a new record for every observation.
 

@@ -147,7 +147,7 @@ If a third slot 2 becomes available, the earlier impossibility no longer applies
 
 An early good answer can make unvisited alternatives seem irrelevant. That is a valid stopping choice when the recipient needs only a satisfactory candidate; it does not itself justify an optimum claim. Conversely, insisting on exhaustion can waste resources after further improvement no longer matters.
 
-Bounds deserve attention to their direction and scope rather than confidence-producing names. The relevant distinction is what the bound establishes about possible completions, including the arithmetic and assumptions used to obtain it.
+Examine a bound’s direction and scope. The relevant distinction is what the bound establishes about possible completions, including the arithmetic and assumptions used to obtain it.
 
 ### CMP.4:7 - Conformance Checklist
 
@@ -157,7 +157,7 @@ Bounds deserve attention to their direction and scope rather than confidence-pro
 - The incumbent is admissible; each bound has the correct direction and computational support for its use.
 - Learned consequences retain assumptions that limit their reuse.
 - Interrupted work remains represented in the pending possibility, and the returned conclusion matches what was completed.
-- Additional pruning or assurance work is chosen for its useful effect rather than required for its own sake.
+- Additional pruning or assurance work is chosen for its useful effect.
 
 ### CMP.4:8 - Common Anti-Patterns and How to Avoid Them
 

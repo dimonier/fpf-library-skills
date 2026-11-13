@@ -78,7 +78,7 @@ Examine responsibility and joint consequences. Participants should be able to di
 
 Before making a new arrangement routine, work through materially different plausible actions with its participants. Does the information distinguish those actions? Can a locally attractive action impair the intended joint result? Can an unfavorable expectation be reported and used? Revise the account, its timing or interpretation where this comparison reveals a failure. A contemplated change to rights, rewards or authority remains a proposal for the responsible organizational decision.
 
-Use the arrangement and examine what actually happens. Whether information arrived, was understood, changed the choice and improved the intended result are different questions. Observations can justify retaining a simple arrangement, revising its model or timing, or investigating a behavioral explanation through the operations below. The constructed comparison provides an initial basis; it does not establish a later causal effect.
+When the arrangement is put into use, examine what actually happens. Whether information arrived, was understood, changed the choice and improved the intended result are different questions. Observations can justify retaining a simple arrangement, revising its model or timing, or investigating a behavioral explanation through the operations below. The constructed comparison provides an initial basis; it does not establish a later causal effect.
 
 #### MA.9:4.1 - Recover the account and how people use it
 

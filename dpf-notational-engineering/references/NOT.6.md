@@ -76,13 +76,13 @@ The representations can overlap partially. They need not carry every fact or sup
 
 #### NOT.6:4.2 - Recover what each sign refers to
 
-For the joined operation, follow the relevant labels, positions and references to their referents. Establish whether two occurrences concern the same thing, different parts or versions of it, or things connected by a model or measurement relation. The same spelling does not decide this.
+For the joined operation, follow the relevant labels, positions and references to their referents. Establish whether two occurrences concern the same thing, different parts or versions of it, or things connected by a model or measurement relation.
 
 Give the correspondence a form the reader can follow: shared labels with a declared meaning, a small pairing table, a drawn connection or an explicit mapping rule. Use stable identifiers when names or positions can change independently. For a temporary two-item comparison, a direct explanation may be enough.
 
 Include the context that makes the reference determinate. A column named time needs its unit and origin when compared with an axis; a position in a repeated score needs its cycle when several cycles are shown. Distinguish actual, planned and modeled values where they are different claims.
 
-One source item can correspond to several target items, or several items to a summary. Show that multiplicity where it affects the operation. NOT.5 identifies what such a projection loses; a repeated label alone does not recover the missing distinctions.
+One source item can correspond to several target items, or several items to a summary. Show that multiplicity where it affects the operation. NOT.5 identifies what such a projection loses.
 
 #### NOT.6:4.3 - Construct the relations that let results be combined
 
@@ -98,7 +98,7 @@ For a chain of correspondences, follow the connection through the intermediate r
 
 Take one input or object and follow it across the representations. Obtain each contribution, combine them using the stated relation and return the answer to the working question. Show where a reader switches representations and what is carried across that switch.
 
-If the connection exists only in the author's memory, add the missing reference or operation. If the correspondence is clear but the subject inference is missing, obtain that contribution from the subject method or a collaborator. Merely adding another display will not perform the inference.
+If the connection exists only in the author's memory, add the missing reference or operation. If the correspondence is clear but the subject inference is missing, obtain that contribution from the subject method or a collaborator.
 
 Use one consequential contrast to challenge the connection. A row with the same label but a different unit, a node in another version or a modeled value beside an observation may require different treatment.
 
@@ -142,7 +142,7 @@ Finally, the three samples alone do not establish the formula for other inputs. 
 
 A drawing identifies a beam as B9. A dimension note gives its adopted modeling length as 2.00 m. A one-dimensional model uses the variable L for that length, and a computational representation divides it into twenty equal segments. A correspondence states that B9's adopted length supplies L and that segment length is `L/20`.
 
-The reader can now identify which beam a segment calculation concerns and obtain 0.10 m per segment. B9, the variable L and a segment-array entry are different things connected by the stated construction. Replacing their names by one common name would not express that relation.
+The reader can now identify which beam a segment calculation concerns and obtain 0.10 m per segment. B9, the variable L and a segment-array entry are different things connected by the stated construction.
 
 An accepted model revision changes B9's adopted length to 2.02 m while keeping twenty equal segments. Update L to 2.02 and recompute the segment length as 0.101 m. The component reference remains B9. A copied old segment length of 0.10 would contradict the new construction because twenty such segments total only 2.00 m.
 

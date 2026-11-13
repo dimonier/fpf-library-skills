@@ -124,7 +124,7 @@ For example, in a constructed case, an engineer has a manageable 50-minute windo
 
 Test protected conditions before weighing optional gains. Reject an alternative that violates an applicable condition. The decision maker can then compare the remaining service, burden, resource and financial consequences with an explicit preference.
 
-For each material affected group, ask what work increases or decreases, when it occurs, what recovery or support remains, and what consequence would change the decision. This need not become a universal personnel score. A short comparison of two rosters can reveal the decisive conflict.
+For each material affected group, ask what work increases or decreases, when it occurs, what recovery or support remains, and what consequence would change the decision. A short comparison of two rosters can reveal the decisive conflict.
 
 Consider adverse conditions that bear on the choice: an incident during the extension, a missing relief worker, additional rework or a failure in automated support. Keep the scenario's assumptions visible. An arrangement that works only if no exception occurs can be selected only for a use whose required protection allows that condition.
 

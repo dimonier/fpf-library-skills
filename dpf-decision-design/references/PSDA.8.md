@@ -64,7 +64,7 @@ Name the recipient question, subject or holder, current configuration, horizon, 
 
 Use `PSDA.6`'s value account only for this comparison. Keep its attributed values, protected conditions, scales, and unagreed trade-offs. Use `PSDA.7`'s bounded claims and discriminating questions only where their evidence concerns the same configuration and horizon.
 
-These inputs can come from current qualified direct sources. If one is absent, stale, or incompatible, return the exact missing premise or narrow the comparison. Do not infer a usable value account from a workshop or a qualified forecast from a diagram.
+These inputs can come from current qualified direct sources. If one is absent, stale, or incompatible, return the exact missing premise or narrow the comparison.
 
 #### PSDA.8:4.2 - Establish consequence paths at the needed grain
 
@@ -117,7 +117,7 @@ State what “better”, “equivalent”, “dominated”, or “incomparable�
 
 Use the current value account for any compensatory score, priority rule, threshold, or outranking Method. Do not convert ordinal judgements to arithmetic, add a hidden tie-breaker, or adopt a group average to force closure. If several value models remain admissible, show which relations hold throughout them and which depend on the model.
 
-Use `A.19.CPM` when its profile, comparator, admissibility, and evidence conditions obtain. Its set-valued comparison outcome remains distinct from the application and evidence account, a result episteme, selection, or permission. Use the appropriate direct comparison Method otherwise; a table alone does not assert a CPM application.
+Use `A.19.CPM` when its profile, comparator, admissibility, and evidence conditions obtain. Its set-valued comparison outcome remains distinct from the application and evidence account, a result episteme, selection, or permission. Use the appropriate direct comparison Method otherwise.
 
 Distinguish three important outcomes. Two alternatives can be tied under a rule, incomparable because of supported conflicting consequences, or not yet comparable because a necessary input is missing. Preserve the difference. If no candidate meets a protected condition, return that failure rather than ranking the least nonconforming candidate as acceptable.
 
@@ -127,7 +127,7 @@ For finite probabilistic consequences, PSDA.6:4.5.6 constructs the missing utili
 
 State the exact alternatives and question; common basis; consequence profiles and source limits; applied rule; supported relations; material value disagreement; excluded or unresolved comparisons; and the smallest change that could invalidate the result.
 
-`PSDA.9` may use this comparison and its evidence for the same configuration and horizon to test robustness. It does not inherit a robustness claim merely from a clean table. An authorized chooser or recommendation practitioner may use the comparison to inform their own judgement. Establish the basis for a resulting programme or WorkPlan separately, and use evidence of actual performance to support any claim about subsequent Work or its effects.
+`PSDA.9` may use this comparison and its evidence for the same configuration and horizon to test robustness. An authorized chooser or recommendation practitioner may use the comparison to inform their own judgement. Establish the basis for a resulting programme or WorkPlan separately, and use evidence of actual performance to support any claim about subsequent Work or its effects.
 
 Recognition begins when a rank lacks a recoverable consequence path. Assurance requires qualified direct models, evidence, source reliance, calculation or implementation checks, and the relevant domain protections. A replayable comparison can still be empirically wrong; independent support of its premises remains necessary.
 
@@ -256,6 +256,6 @@ A consequence comparison connects proposed actions to values through qualified c
 - `PSDA.9` may consume the comparison's evidence to test robustness for that same use. The comparison does not entail the robustness result.
 - `C.11.CRC` supplies a missing finite configuration-relative contribution claim. `A.19.CPM` supplies an admitted profile comparison only when its own conditions obtain. `C.18` retains its different archive/front and generation function.
 - Direct engineering, operations, human-development, AI/model, financial, scientific, and other practices govern their own consequence and evidence results. `A.10` qualifies reliance; `A.15.9` supports a needed bounded outside contribution.
-- `C.11` or the direct decision owner supplies the later choice. An unavailable, stale, or incompatible premise is replaced by a qualified direct result or remains a named gap, never filled by neighboring-pattern presence.
+- `C.11` or the direct decision owner supplies the later choice. An unavailable, stale, or incompatible premise is replaced by a qualified direct result or remains a named gap.
 
 ### PSDA.8:End

@@ -64,7 +64,7 @@ A short mantra can help retain a chosen path: identify the relation, preserve wh
 
 ## RHY.Reference:5 - Archetypal Grounding - Connected uses and consequential returns
 
-These cases stipulate their observations to demonstrate decisions. They are not reports of measured training effectiveness.
+These cases stipulate their observations to demonstrate decisions.
 
 ### RHY.Reference:5.1 - An ornament interrupts a partnered figure
 

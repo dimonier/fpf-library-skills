@@ -64,7 +64,7 @@ Name the subject, question, horizon and current arrangement. Recover the protect
 
 Use a `PSDA.1` formulation set only where its differences suggest different interventions. A formulation is not itself an action. Use the `PSDA.3` model account only where a model discriminates candidate mechanisms or exposes an omitted consequence. Use `PSDA.13` inquiry results where a shared or contested claim changes the alternatives; agreement is not required.
 
-These are conditional contributions. Use a qualified direct result when it supplies the same needed premise. If the needed input is absent, stale, or incompatible with this subject and horizon, retain the precise gap. Neither adjacent PatternIDs nor a completed workshop supplies an alternative by itself.
+These are conditional contributions. Use a qualified direct result when it supplies the same needed premise. If the needed input is absent, stale, or incompatible with this subject and horizon, retain the precise gap.
 
 #### PSDA.5:4.2 - Vary the decision-changing contents
 
@@ -88,7 +88,7 @@ A combination is another candidate when its interactions can change consequences
 
 #### PSDA.5:4.4 - Distinguish exploration from a live commitment option
 
-Keep a promising but unresolved proposal available for inquiry without presenting it as an admissible commitment. A short annotation is enough: “comparison-ready within these conditions”, “requires this qualification”, or “excluded for this stated reason”. These phrases describe the present use; they create no new universal status system.
+Keep a promising but unresolved proposal available for inquiry without presenting it as an admissible commitment. A short annotation is enough: “comparison-ready within these conditions”, “requires this qualification”, or “excluded for this stated reason”. These phrases describe the present use.
 
 Inspect an adequate existing specialist result before requesting more. Preserve useful directions and the exact limit on a stronger claim. A decision-changing cross-practice gap becomes a feasibility, allocation, transfer, security, or other request only when `A.15.9` selects its obtainable contribution against the whole acquisition burden through `C.11.DUA`. A missing result may block one branch while others remain useful.
 
@@ -100,7 +100,7 @@ Ask whether the set still reflects only one favored formulation, one available t
 
 Stop when the set is sufficient for the present comparison: material formulation differences have an addressed candidate or an explicit gap, each retained row is intelligible, protected-condition exclusions are visible, and additional search has no identified benefit worth the remaining effort. This is bounded sufficiency, not proof that all possible alternatives have been found.
 
-If only one lawful direction survives, report that fact and its basis without manufacturing a rival. If none survives, return the missing qualification, infeasible requirement, or need to reopen the problem. A gap is a useful result; a decorative list is not.
+If only one lawful direction survives, report that fact and its basis without manufacturing a rival. If none survives, return the missing qualification, infeasible requirement, or need to reopen the problem.
 
 #### PSDA.5:4.6 - Return the set without making the choice
 
@@ -194,6 +194,6 @@ Structured inquiry becomes useful to choice when its differences change what can
 - `PSDA.6:4.2` distinguishes desired ends from proposed means. When a missing alternative requires a new means combination, `PSDA.8:4.2.1` supplies backward construction and its forward test; return the candidate and its conditions to :4.3. `PSDA.8` may then consume the set for the named consequence comparison. Generation does not select.
 - `C.17`, `C.18`, `C.19`, and `C.38` supply characterization, generation stewardship, live-pool policy, and same-result construction only under their own use conditions.
 - `A.15.9` supplies bounded use of an outside-practice result and selection of a worthwhile further request. Direct holder and domain practices supply feasibility, mechanisms, protected conditions, and evidence.
-- `C.11` governs the later local choice over an adequate option set. A missing or incompatible input returns to its qualified direct source or remains an exact gap; no neighboring body is a compulsory prerequisite.
+- `C.11` governs the later local choice over an adequate option set. A missing or incompatible input returns to its qualified direct source or remains an exact gap.
 
 ### PSDA.5:End

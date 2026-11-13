@@ -54,7 +54,7 @@ Stable knowledge may be cheaper to use through a trained policy, but changing in
 
 Name the behavior to change and its receiving result: for example, forming valid arguments, selecting a useful observation or applying stable procedural guidance. Name the base model and parameter or adapter set to update. Separate that change from context, memory, tool, controller and environment changes. When the target is assistance selection, consume SYSE.50's decision unit, available signals, qualified need evidence and fallback; selecting training does not itself establish which help is needed. For learned effort control, consume SYSE.51's feasible moves, intermediate decision basis, cost accounting and completion obligations; retain externally enforced hard limits.
 
-Specify the external contributions that remain: execution, current observations, access permissions, retrieval when facts change and independent checking where the claim needs it. Compare complete later configurations through C.38/C.11.CRC and C.11. Include stability of the proposed mapping, expected recurrence, target preparation, training, independent qualification, maintenance and the fallback after a failed trial. A cheaper response that loses a necessary contribution is a different result. The [Reference comparison (Engineering.Reference:19.7)](ENGINEERING-DPF-SUITE-REFERENCE.md#engineeringreference197---develop-the-arrangement-across-attempts) selects an explicit rule for its supplied 100-update conditions and manual work for five; recurrence alone selects no learner.
+Specify the external contributions that remain: execution, current observations, access permissions, retrieval when facts change and independent checking where the claim needs it. Compare complete later configurations through C.38/C.11.CRC and C.11. Include stability of the proposed mapping, expected recurrence, target preparation, training, independent qualification, maintenance and the fallback after a failed trial. A cheaper response that loses a necessary contribution is a different result. The [Reference comparison (Engineering.Reference:19.7)](ENGINEERING-DPF-SUITE-REFERENCE.md#engineeringreference197---develop-the-arrangement-across-attempts) selects an explicit rule for its supplied 100-update conditions and manual work for five.
 
 Keep an unchanged baseline and the means to restore it. Establish the task-family boundary and what finding would make training no longer worthwhile.
 
@@ -68,7 +68,7 @@ Partition construction, adaptive validation and final evaluation by the dependen
 
 #### SYSE.45:4.3 - Select and execute the learning mechanism
 
-First choose the experience transformation that can supply the intended policy target. The learning algorithm then consumes that target; the names supervised learning, reinforcement learning and distillation do not construct it.
+First choose the experience transformation that can supply the intended policy target. The learning algorithm then consumes that target.
 
 | Available experience and intended change | Construct the signal | Further-use question and return |
 | --- | --- | --- |

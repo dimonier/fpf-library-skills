@@ -136,6 +136,6 @@ AgentRetrievalBench contributes a concrete warning about natural no-gold retriev
 
 ### KCAE.EVAL:12 - Relations
 
-KCAE.USE supplies the decision and workload. Every other KCAE method supplies an operation that can be examined without making its local success the whole result. C.11.DUA supplies advice and evidence burden; A.3.1.FT supplies qualified method-transfer questions when transfer is claimed. A publication's own quality and admission remain governed by its authoring and evaluation methods, separate from an installation's runtime comparison.
+KCAE.USE supplies the decision and workload. Every other KCAE method supplies an operation that can be examined without making its local success the whole result. C.11.DUA supplies advice and evidence burden; A.3.1.FT supplies qualified method-transfer questions when transfer is claimed.
 
 ### KCAE.EVAL:End

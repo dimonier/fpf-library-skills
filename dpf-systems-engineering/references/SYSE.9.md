@@ -342,7 +342,7 @@ Check the conditions needed by the claimed result. A reuse-only answer asserts n
 | Treat assignment as capability or performed Work | Check current capability, then identify the dated Work and result separately. |
 | Put authority into *architect*, *owner*, or *safety* | Name the authority relation, bearer, scope, basis, applicability, and interval, or return the missing governor. |
 | Ask for broad approval | Bound the claim, subject, configuration, Method, evidence, authority, and intended use; accept a bounded objection or blocker. |
-| Treat an AI output or tool status as a specialist result | Recover the performing Agent, provider and tool boundaries, assignment, Work, provenance, checks, and decision use. |
+| Rely on an AI output or tool status without the required specialist grounds | Recover the performing Agent, provider and tool boundaries, assignment, Work, provenance, checks, and decision use. |
 | Hide a blocker to preserve the schedule | Name the missing condition or unsupported relation, the evidence needed to resolve it, and the decision it blocks. |
 | Redesign the organization for one small missing result | Use the supported result first; select a further contribution by its obtainable value and full burden. Organization or capability change needs its own receiving question. |
 

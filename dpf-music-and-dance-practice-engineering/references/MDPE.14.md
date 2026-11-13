@@ -38,11 +38,11 @@ dependencies:
 >
 > **Primary working result:** a **bounded practice-conflict decision**. It names two or more Music-or-Dance
 > results that cannot all be improved by the same local change, states the relation that makes the conflict
-> relevant, compares materially different responses, and returns one of four outcomes: a supported selected
-> change, a deliberately preserved tension, different variants for different uses, or a worthwhile observation
-> needed before choosing. New inquiry is selected when its attainable contribution warrants its full burden
-> or when an applicable obligation requires it. The result is a decision, not performed reconfiguration Work or proof of
-> improvement.
+> relevant, compares materially different responses, and returns a supported selected change, a deliberately
+> preserved tension, different variants for different uses, a worthwhile observation needed before choosing,
+> or rejection of the current set for the proposed use. New inquiry is selected when its attainable contribution
+> warrants its full burden or an applicable obligation requires it. The result is a decision; performed
+> reconfiguration and observed improvement require their own grounds.
 
 ### MDPE.14:0 - Use This When
 
@@ -258,13 +258,11 @@ burden. Keep any applicable safety, permission or evidence obligation even when 
 optional value.
 
 For every alternative, state the changed subject and relation, expected gain, protected result, new burden,
-realization conditions, and observation that could defeat it. A new drawing or name is not a new alternative
-unless it changes Work or a decision.
+realization conditions, and observation that could defeat it.
 
 #### MDPE.14:3.5 - Compare with domain criteria and vetoes
 
-Use `A.19.CPM` for explicit comparison and `C.11` for local choice. Keep the Music-and-Dance criteria visible,
-for example:
+Compare the responses using their Music-and-Dance criteria; use `A.19.CPM` when the receiving use needs an admitted-profile comparison under a declared comparator, and `C.11` for local choice. Relevant domain criteria include:
 
 - performer effort, attention, injury risk, expressive control, and sustainable capability;
 - partner or ensemble information, consent, coordination, and room for variation;
@@ -281,7 +279,7 @@ organizer, maintainer, partner, or source community must show that burden.
 
 #### MDPE.14:3.6 - Return one bounded response
 
-The deciding Agent returns one of four useful results:
+The deciding Agent returns one of five useful results:
 
 | Result | Meaning |
 | --- | --- |
@@ -289,6 +287,9 @@ The deciding Agent returns one of four useful results:
 | **deliberately preserved tension** | Keep the current arrangement because the tension is productive or every feasible change is worse; state operating limits and a recheck condition. |
 | **split use** | Maintain different variants or arrangements for different receiving conditions rather than forcing one compromise. |
 | **next discriminating observation** | Select a worthwhile obtainable observation that can change the choice or satisfy an applicable obligation, naming its subject, conditions, expected differences, full burden and stop. |
+| **reject current set** | Stop the proposed use when no current response, including retaining the arrangement or splitting uses, meets its required conditions and no obtainable worthwhile observation could rescue one. Name the failed condition and preserve independently supported uses. |
+
+For example, every current floor arrangement may fail a required consent, permission or equipment condition, with no available separate setting and no unknown fact whose resolution could change that result. Reject this proposed use. If further work is selected, name the missing arrangement or provision to construct. An unresolved comparison or an unknown condition alone does not establish that all responses fail.
 
 The result is not permission, performed Work, or an observed improvement. Establish authority and permission
 separately. A capable Agent performs the selected change through Work that enacts the applicable direct Music,
@@ -305,7 +306,7 @@ evidence status — observed difference | hypothesis | association | causal cont
 cross-scope residual and candidate-frame references, when that branch applies:
 Music-or-Dance relations, criteria, vetoes, and candidate families added:
 comparison result and local-choice result:
-decision — selected change | preserved tension | split use | next observation:
+decision — selected change | preserved tension | split use | next observation | reject current set:
 direct Method for selected change, when applicable:
 protected results, moved burdens, and rollback:
 decision-changing reopen condition:
@@ -317,7 +318,7 @@ if further inquiry is selected: its decision use or obligation, attainable obser
 When compatible later observations become available, use `MDPE.12` or the applicable observation Method to
 compare the local and protected results under representative Work. Obtain new observations only for a selected
 worthwhile inquiry or applicable obligation. Keep moved burden and changed selection conditions visible.
-A completed conflict decision need not invent a later trial or an empty observation-plan field.
+
 
 A later observation revises this decision only when it changes the same conflict, candidate, comparison,
 residual, moved burden, or test. Use `C.28` only when the decision depends on claiming that the change caused the
@@ -363,7 +364,7 @@ configuration. These contributions remain different.
 
 Visible head gesture can improve communicative legibility while timing, mechanical noise, or musical
 plausibility crosses an accepted limit near tempo transitions. Robot–instrument configuration, gesture-control
-relations, musical Work, and observer Work matter together; no universal scale stack follows.
+relations, musical Work, and observer Work matter together.
 
 Candidate trials include reducing gesture amplitude near difficult transitions, separating communicative motion
 from actuation timing, or accepting bounded timing deviation under a musical criterion that values legibility.
@@ -455,7 +456,7 @@ Recognize a complete first result when the practitioner can answer:
 2. Which conflict branch applies, and what relation supports it?
 3. If the conflict crosses declared scopes, which residual and candidate-frame work is reused from `C.30.ILC` and `C.32.MLAO`? Otherwise, which named participants, structures and local conflict guide the response?
 4. Which Music-or-Dance relations, candidate families, criteria, vetoes, and trials change the decision?
-5. What comparison and choice were made, or which observation is still needed?
+5. What comparison and choice were made, which current set was rejected and why, or which worthwhile observation is still needed?
 6. When change Work is selected, which capable Agent will perform it and which direct Method will it enact? For every result, what would reopen the decision?
 
 Assure the result by checking that:
@@ -483,7 +484,7 @@ Assure the result by checking that:
 | “The camera shows the whole conflict.” | State the represented subject, preserved and hidden distinctions, and receiving use. |
 | “The judging categories are explicit, so agreement and cultural fit will improve.” | Test reliability by criterion and keep practitioner, format, improvisation, and cultural-continuity relations visible. |
 | “The platform spread the clip, so it transmitted the Dance.” | Separate discovery, attribution, lesson structure, receiving enactment, transfer, and later continuation. |
-| “We generated options, so the problem is solved.” | Use the applicable comparison and choice Methods or return one discriminating observation. |
+| “We generated options, so the problem is solved.” | Compare the actual responses and return the supported choice, warranted rejection of the current set, or a worthwhile obtainable discriminating observation. |
 | “The best weighted score wins.” | Preserve vetoes, incomparability, uncertainty, and non-compensable harms. |
 | “The trial worked, so the culture improved.” | Keep local observation separate from later recognition, selection, transmission, and retention. |
 

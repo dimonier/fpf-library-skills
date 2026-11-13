@@ -11,7 +11,7 @@ title: Practical entries
 
 Use this language when a technically possible plan still lacks an economic way of being realized: its comparison uses questionable prices, its parties cannot form workable commitments, its rules fail to coordinate different uses, or an efficiency gain changes what people do next.
 
-The three connected uses below show how several methods contribute to a larger result. They are examples of the language, not alternative names for its ten patterns. For a direct question, use the Table of Contents.
+The three connected uses below show how several methods contribute to a larger result. For a direct question, use the Table of Contents.
 
 You may ask an assisting agent: “Explain this in the language of my work, without framework jargon. Show what I can do next, what result it should supply and what would change the recommendation.” Provide what is already known about the relevant plans and resources. Unknown conditions can remain conditional.
 

@@ -81,7 +81,7 @@ Use `MDPE.6` to decide whether to reuse a result before receiving Work. When sou
 | **source contribution** | A causal claim that named source content, provider Work, or a provider arrangement contributed to the receiving result. Source use and later resemblance are not enough by themselves. |
 | **received Method variant** | The Method identified through receiving Work, including the preserved, changed, added, or absent relations that matter to the receiving use. It may be useful without being identical to the source Method. |
 
-A performing whole can include Agents and technical Systems without making every constituent an Agent.
+
 
 ### MDPE.17:1 - Problem
 
@@ -89,7 +89,7 @@ Methods do not travel as files. Descriptions, demonstrations, scores, recordings
 
 The receiving Method can also change productively. A dancer with another physicality may preserve effort, timing, focus, or partner dialogue through a different visible form. A musician can preserve rhythmic or ensemble relations through another instrument, notation, control interface, or improvisational vocabulary. A robot or AI Agent may use different sensing and control while meeting the same bounded performance demand. Treating literal imitation as the only success criterion can destroy the first useful receiving variant.
 
-At the same time, one successful performance is weak evidence. It may depend on continuous teacher cues, one memorized example, one partner, one tool version, one room, or one context that triggers recall. The performer may already have had the capability; the named source may have contributed little; delayed retention may fail; another context may elicit an old conflicting pattern.
+A successful performance supports what was observed under its conditions. Broader transfer or retention claims may remain weak: the occurrence may depend on continuous teacher cues, one memorized example, one partner, one tool version, one room or one context that triggers recall. The performer may already have had the capability; the named source may have contributed little; delayed retention may fail; another context may elicit an old conflicting pattern.
 
 Useful transmission therefore requires more than delivery. Provider and receiving Agents perform the required Work; the receiving Work enacts the received Method, and observation Work obtains evidence proportionate to the intended claim.
 
@@ -135,7 +135,7 @@ Describe the arrangement in ordinary actor-and-action language:
 
 The same Agent can occupy several positions. Keep the source, receiving performance and obtained observations distinct where their claims differ, but determine Work identity from the actual occurrence: one Work may enact several Methods. Separate occurrences or constituent Work need their own grounds; position labels do not supply them. A performer can teach themself from a recording. A founder can also teach. An organizing team can receive an event-programming Method while musicians receive performance Methods. A model-development team can configure a robot while the robot later performs Music Work.
 
-Do not draw a source-to-receiver arrow and treat it as causal transmission. A graph can display supported relations, but each relation still needs its own evidence.
+
 
 #### MDPE.17:3.3 - Choose what should persist and what may change
 
@@ -146,11 +146,11 @@ Name the **transmission-relevant relations** for this receiving use. Examples in
 - human–technical performance: sensing, control, actuation, model use, correction, stop authority, or division of initiative; and
 - teaching or event practice: exercise, correction, turn-taking, participation, conduct, access, programme, or feedback relations.
 
-Do not preserve a style label instead of these relations. State which differences are acceptable, which are desired innovations, and which would make the receiving Method unsuitable for the stated use.
+State which differences are acceptable, which are desired innovations, and which would make the receiving Method unsuitable for the stated use.
 
 #### MDPE.17:3.4 - Design support and context variation for the claim
 
-Choose direct teaching, rehearsal, reconstruction, learning, evaluation, or control Methods. Then design a probe proportionate to the claim.
+Choose direct teaching, rehearsal, reconstruction, learning, evaluation or control Methods. Reuse available receiving observations when they meet the claim's conditions and evidence requirements. Design a proportionate probe only for a material unanswered part; return its precise limit when the required observation is unavailable.
 
 | Claim | Useful probe family |
 | --- | --- |
@@ -161,7 +161,7 @@ Choose direct teaching, rehearsal, reconstruction, learning, evaluation, or cont
 | **source contribution** | use a source-specific contrast, withdrawal, alternative source, incorrect demonstration, or other causal comparison suited to the case and qualify it through `C.28`; |
 | **correction and adaptation** | introduce or observe a relevant error signal and inspect how the next action or receiving variant changes. |
 
-Variation is not automatically better. Use it when it can reveal cue dependence, transfer, or generalization for the current decision. A constant-practice condition can be adequate for another claim. Preserve task, exposure, fatigue, order, and support differences that could explain the result.
+Use variation when it can reveal cue dependence, transfer, or generalization for the current decision. A constant-practice condition can be adequate for another claim. Preserve task, exposure, fatigue, order, and support differences that could explain the result.
 
 For human motor learning, context-sensitive expression is one possible explanation when a previously demonstrated performance becomes unavailable. Compare it with lost support, a changed demand, fatigue and intervening learning. Return to the reference condition only when a safe, commensurable comparison can distinguish live explanations and change the next teaching or receiving-use action at worthwhile cost. A performance that was never demonstrated, or a known configuration failure, calls for its own learning or repair work rather than an automatic return test.
 
@@ -181,7 +181,7 @@ Observe what the receiving Agent does, not merely what was delivered. Keep these
 
 Do not discard a positive receiving-enactment result merely because source contribution remains undecided. Report: “The receiving Agent performed representative Work that enacted variant V under conditions K; source S was used; S's causal contribution was not tested.” That is more useful than either claiming transmission or calling the whole attempt a failure.
 
-If the observed Work does not enact an admitted Method and only a candidate explanation is available, return the observations to Method recovery rather than inventing a Method from one occurrence.
+If the observed Work does not enact an admitted Method and only a candidate explanation is available, return the observations to Method recovery.
 
 #### MDPE.17:3.6 - Preserve the received variant and decide how to continue
 
@@ -189,7 +189,7 @@ Name what the receiving Method variant preserves, changes, adds, omits, or leave
 
 When the received variant and its supported limits suffice for the intended use, retain the arrangement. If a remaining limitation or worthwhile improvement calls for change, select a repair by its expected contribution to the receiving use and its full burden. Examples include another carrier, clearer demonstration, different exercise, reduced cueing, more representative partner or material variation, a corrected MethodDescription, changed tool or instrument configuration, added feedback, or a source-specific comparison. Select further work only when its attainable contribution warrants its cost and delay. Stop or narrow the proposed receiving use when the required conditions cannot be met.
 
-Return:
+Return the supported receiving-use result and its limits. The following optional form collects the claims used; include only applicable entries:
 
 ```text
 receiving Agent, use, and representative Work:
@@ -262,7 +262,7 @@ At one event, two receiving claims are possible:
 - the performer changes code or an algorithmic process during a bounded Music performance under the selected live-coding Method; and
 - the organizing team programs and runs the event under the selected event-programming Method.
 
-One successful set does not establish that the organizing team can perform event-programming Work under the Method in changed conditions, and a well-run event does not establish performer capability. Test each through representative Work. For performer transfer, change a relevant musical material, tool, or venue condition. For organizer transfer, change a programme or access condition while preserving the community requirements. Record source use separately; the causal contribution of the manual and guidelines still needs its own evidence.
+One successful set does not establish that the organizing team can perform event-programming Work under the Method in changed conditions, and a well-run event does not establish performer capability. Ground each claimed capability in adequate representative Work. Where transfer is claimed and existing evidence does not suffice, vary a relevant musical material, tool or venue condition for performers, or a programme or access condition for organizers while preserving the community requirements. Record source use separately; the causal contribution of the manual and guidelines still needs its own evidence.
 
 #### MDPE.17:4.3 - Robot or AI Agent: copied values are inputs, not transmission results
 

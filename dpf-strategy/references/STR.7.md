@@ -149,7 +149,7 @@ Before starting, state the bounded claim: each participating client will choose 
 
 If both deliveries meet these conditions, the result supports considering the same limited offer next month. If delivery exceeds the allowance, revise the format or decline continuation; willingness to pay does not fix capacity. If inputs prevent delivery, return that limitation rather than reporting a successful test. Two sessions support only these bounded claims, not a population conversion rate.
 
-The rival is using those four hours to improve diagnostic guidance for existing clients. This test is sensible only if the bounded answer can improve the coming offer enough to justify that sacrifice. It is not a universal recommendation to every professional.
+The rival is using those four hours to improve diagnostic guidance for existing clients. This test is sensible only if the bounded answer can improve the coming offer enough to justify that sacrifice.
 
 #### STR.7:5.3 - A demonstration, a manual service or a working mechanism?
 

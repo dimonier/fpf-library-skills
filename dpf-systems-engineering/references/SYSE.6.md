@@ -320,8 +320,8 @@ no shared serialization point. If every item
 must update the same locked state, or a later stage waits for a complete batch, this calculation does not
 apply. Queueing, retries and networking add elapsed time. At a sustained arrival rate above the slowest
 stage's capacity, backlog grows unless work is rejected, reduced or capacity changes. Below that bound,
-variability can still make a tail-latency target fail. Calculate the dependency path and capacity constraints,
-then obtain representative measurements for the commitment being made.
+variability can still make a tail-latency target fail. Calculate the dependency path and capacity constraints.
+Use qualified evidence for the performance commitment being made; obtain representative measurements when its required basis is missing.
 
 The same reasoning applies to services. Five dependent remote calls add waiting and partial-failure cases;
 five independent computations may run concurrently, but the result still waits for whichever contributions

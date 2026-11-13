@@ -117,7 +117,7 @@ A variable delay or missed update needs an explicit admissible timing set and an
 
 #### CAD.2:4.4 - Return an interface that can be tested and changed
 
-Give CAD.3 the combined evolution, initial-error condition, admissible command class, mismatch class and exact moments at which each required constraint must hold. Retain the meaning and time convention of every exchanged quantity. These are engineering design values; no special record format is required.
+Give CAD.3 the combined evolution, initial-error condition, admissible command class, mismatch class and exact moments at which each required constraint must hold. Retain the meaning and time convention of every exchanged quantity.
 
 A failed error bound has several possible repairs: change the reconstruction, retain an omitted mode, alter feedforward, reduce command jumps, supply an interpolated segment, shorten latency or choose another split. The error equation identifies which change addresses the failure. Do not reflexively raise every update rate.
 

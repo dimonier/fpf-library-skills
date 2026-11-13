@@ -1,6 +1,6 @@
 ---
 id: B.5.FM
-title: Construct a First Model for the Working Question
+title: Construct a Model for the Question
 status: Stable
 keywords: []
 dependencies:
@@ -15,16 +15,16 @@ dependencies:
     - B.5.MPC.R
 ---
 
-# B.5.FM: Construct a First Model for the Working Question
+# B.5.FM: Construct a Model for the Question
 
-> **Problem frame:** Use this pattern when you need to reason about a situation or formal problem but do not yet have an account on which to perform the needed inference.
+> **Problem frame:** Use this pattern when you need to reason about a situation or formal problem but do not have an account on which to perform the needed inference.
 > **First move:** Construct a model by selecting distinctions, proposing their relations and making those relations usable in an inference. Work can move back and forth between these contributions.
 >
 > **Governing patterns:** `references/B.5.md` `references/B.5.4.md` `references/C.29.md` `references/A.3.3.md` `references/C.16.md` `references/A.6.3.RT.md` `references/B.5.RR.md` `references/B.5.MPC.R.md`
 
 ---
 
-## B.5.FM - Construct a First Model for the Working Question
+## B.5.FM - Construct a Model for the Question
 
 > **Type:** Method pattern
 > **Status:** Stable
@@ -32,11 +32,11 @@ dependencies:
 
 ### B.5.FM:1 - Problem frame
 
-Use this pattern when you need to reason about a situation or formal problem but do not yet have an account on which to perform the needed inference. You may know relevant laws, facts or techniques while still being unable to choose the participants, distinctions and relations that make them useful here.
+Use this pattern when you need to reason about a situation or formal problem but do not have an account on which to perform the needed inference. You may know relevant laws, facts or techniques while being unable to choose the participants, distinctions and relations that make them useful here.
 
-Begin with what the answer should help you understand or do, the observations or formal rules already available, and enough subject knowledge to propose a relation. Construct a provisional model, obtain a consequence and use it to answer the question or locate the next missing contribution. A sketch and a limiting argument may provide that first result.
+Begin with what the answer should help you understand or do, the observations or formal rules available, and enough subject knowledge to propose a relation. Construct a provisional model, obtain a consequence and use it to answer the question or locate the next missing contribution. A sketch and a limiting argument may provide that first result.
 
-“First” means the first usable model for this question. An earlier model, an analogy or a specialist's explanation can supply its starting material. Use an adequate existing model directly when construction is unnecessary. If an available concept is understood but its correspondence to the situation is missing, B.5.4 supplies that interpretation work. If the required inference needs subject knowledge you cannot recover, obtain that contribution.
+“First” means the first usable model for this question. An earlier model, an analogy or a specialist's explanation can supply its starting material. Use an adequate existing model when construction is unnecessary. If an available concept is understood but its correspondence to the situation is missing, B.5.4 supplies that interpretation work. If the required inference needs subject knowledge you cannot recover, obtain that contribution.
 
 ### B.5.FM:2 - Problem
 
@@ -44,7 +44,7 @@ A request to “model the system” leaves important work unstated. Which things
 
 An early description can hide the decisive relation. A device described by one temperature conceals a heat-transfer restriction inside it. A draining vessel described only by liquid height conceals the effect of trapped air. Counting all possible binary strings ignores a rule that forbids some continuations.
 
-A model becomes useful when its selected distinctions and relations permit an inference whose meaning can be returned to the working question. Constructing that possibility is part of the reasoning.
+A model becomes useful when its selected distinctions and relations permit an inference whose meaning can be returned to the question. Constructing that possibility is part of the reasoning.
 
 ### B.5.FM:3 - Forces
 
@@ -66,11 +66,11 @@ State what alternatives the answer should distinguish: whether an intervention c
 
 Inspect a small instance or the available arrangement. Describe the supplied facts separately from the account you propose. Ask what changes between the cases that matter. The first question can be provisional; preserve a new question when the attempted construction reveals a more useful distinction.
 
-If the participant cannot yet express what differs or matters, B.5.EA helps articulate that contribution before model construction. Return here when the resulting distinction permits a question or contrast; do not require this preliminary work when the contrast is already usable.
+If the participant cannot express what differs or matters, B.5.EA helps articulate that contribution before model construction. Return here when the resulting distinction permits a question or contrast; do not require this preliminary work when the contrast is usable.
 
-When the current account is clear but leaves you unsure which question matters, the scheme comparison in :4.2.1 can expose a useful distinction. A discovered question may already have an adequate answer; use it without requiring a larger model.
+When the account is clear but leaves you unsure which question matters, the scheme comparison in :4.2.1 can expose a useful distinction. A discovered question may have an adequate answer; use it without requiring a larger model.
 
-An existing answer may already resolve the contrast. Use it under its conditions. C.11.DUA helps when obtaining more information or refining a model competes with acting on a sufficient answer.
+An existing answer may resolve the contrast. Use it under its conditions. C.11.DUA helps when obtaining more information or refining a model competes with acting on a sufficient answer.
 
 #### B.5.FM:4.2 - Choose the participants and distinctions
 
@@ -82,7 +82,7 @@ For a question about permitted continuations, A.3.3 helps construct a sufficient
 
 ##### B.5.FM:4.2.1 - Let a conceptual scheme expose a useful question
 
-Start from what the current account is meant to enable, even when the question is provisional: prepare a workshop, interpret an effect or improve a construction. Choose a small, understood conceptual scheme whose relations could reveal a consequential distinction. Here a scheme means related concepts and the inferences their relations permit. For example, connecting a learner's attempt, what an instructor can observe and the feedback required can expose a question that a seating plan leaves unanswered.
+Start from what the account is meant to enable, even when the question is provisional: prepare a workshop, interpret an effect or improve a construction. Choose a small, understood conceptual scheme whose relations could reveal a consequential distinction. Here a scheme means related concepts and the inferences their relations permit. For example, connecting a learner's attempt, what an instructor can observe and the feedback required can expose a question that a seating plan leaves unanswered.
 
 State the possible contribution before expanding the account. Recover the selected relation's participants, conditions and a consequence; B.5.TU helps if that theoretical contribution is unfamiliar. Use B.5.4 to construct its tentative correspondence to the case. Keep what the source account says distinguishable from what the scheme suggests adding. A sketch or ordinary question can carry the correspondence.
 
@@ -90,9 +90,9 @@ When a relation appears absent, distinguish the following outcomes:
 
 | What is available | Useful continuation |
 | --- | --- |
-| The account already supplies the relation and answer. | Use them. |
+| The account supplies the relation and answer. | Use them. |
 | The relation applies, but a participant or condition is unknown. | Ask whether resolving it could change the work. |
-| The relation does not apply under the scheme's own conditions. | Drop that question or try an applicable scheme. |
+| The relation does not apply under the scheme's conditions. | Drop that question or try an applicable scheme. |
 | The expression cannot represent the needed distinction. | Change the expression or scheme; A.6.3.RT helps when that change needs work. |
 | The scheme conflicts with a consequential part of the case. | Reconsider the correspondence or assumption before using its consequence. |
 
@@ -100,27 +100,29 @@ An empty position in a diagram establishes none of these outcomes by itself. If 
 
 Try two plausible answers when that cheaply reveals what is at stake. If both permit the same sufficient continuation, stop the additional inquiry. Otherwise formulate the question in the participant's working language and say what answer would help: a condition, construction, distinction or bound. The benefit can concern a later inquiry or a new method. C.11.DUA governs whether obtaining the answer is worth its burden.
 
-Use the resulting answer directly or continue constructing the model it needs. A subject specialist or AI can supply a relation, correspondence or calculation; the required knowledge and access depend on that contribution. Selecting a scheme creates no requirement to traverse a whole ontology or to learn every relation before making the useful move.
+Use the resulting answer or continue constructing the model it needs. A subject specialist or AI can supply a relation, correspondence or calculation; the required knowledge and access depend on that contribution.
 
 #### B.5.FM:4.3 - Build relations that can produce a consequence
 
 Use subject knowledge to propose how the selected participants interact or which operations are permitted. Explain how each proposed relation answers part of the question. A physical interaction law, a mathematical formation rule and an execution rule supply different kinds of premise.
 
-When the working question is causal and the proposed mechanisms still need to be expressed as comparable models, use C.28.CM to construct and challenge those models. Keep the outcome and time horizon comparable across the accounts, together with any intervention being considered. Make the variables, mechanisms, assumptions and material alternative influences explicit. Return each model with its useful consequence or the premise still needed to derive one; continue with inference and criticism in :4.4–4.5. An annotated sketch or ordinary explanation may suffice. Use a supplied or readily constructed model directly when it already supports the needed inference.
+When the question is causal and the proposed mechanisms need to be expressed as comparable models, use C.28.CM to construct and challenge those models. Keep the outcome and time horizon comparable across the accounts, together with any intervention being considered. Make the variables, mechanisms, assumptions and material alternative influences explicit. Return each model with its useful consequence or the premise needed to derive one; continue with inference and criticism in :4.4–4.5.
 
-Starting material can come from more than one source. A known model may need to be altered before it becomes a useful analogy. Recover the corresponding participants and relations, then examine the changes needed in the present situation. The construction can improve both the proposed model and the understanding of what it represents.
+An annotated sketch or ordinary explanation may suffice. Use a supplied or readily constructed model when it supports the needed inference.
+
+Starting material can come from more than one source. A known model may need to be altered before it becomes a useful analogy. Recover the corresponding participants and relations, then examine the changes needed in the situation. The construction can improve both the proposed model and the understanding of what it represents.
 
 Keep coupled choices compatible. If liquid leaving a closed vessel increases the space occupied by trapped gas, a pressure calculation must use that changed space. If two classes of formal objects permit different extensions, their counts must remain distinguishable until the extension is performed.
 
-Use an expression that lets you carry out the next inference: an annotated sketch, a table of permitted operations, equations, a physical surrogate or a computational construction. A physical surrogate has its own material behavior; establish which of its results can inform the original situation. C.29 helps construct and use a mathematical representation, including when no mathematical object has yet been selected. A.6.3.RT helps when the expression itself prevents the operation.
+Use an expression that lets you carry out the next inference: an annotated sketch, a table of permitted operations, equations, a physical surrogate or a computational construction. A physical surrogate has its material behavior; establish which of its results can inform the original situation. C.29 helps construct and use a mathematical representation, including when no mathematical object has been selected. A.6.3.RT helps when the expression prevents the operation.
 
 #### B.5.FM:4.4 - Obtain the smallest useful consequence
 
-Work one case through the proposed relations. A direction of change, a limiting value, an obstruction or a small construction may answer the current question before a detailed numerical model is needed.
+Work one case through the proposed relations. A direction of change, a limiting value, an obstruction or a small construction may answer the question before a detailed numerical model is needed.
 
 Show which premise makes the consequence follow. If calculation or simulation is needed, C.29.2 supplies computational formulation and C.29.3 supplies realization. If the reasoning is available but difficult to follow, B.5.RA helps recover the decisive inference.
 
-Return the consequence to the question. A limiting value can rule out an intervention under the model's assumptions. A constructed recurrence can supply a count. An unresolved interaction can turn “calculate the system” into a specific request for another contribution.
+Return the consequence to the question. A limiting value can rule out an intervention under the model's assumptions. A constructed recurrence can supply a count. An unresolved interaction can turn “calculate the system” into a request for another contribution.
 
 #### B.5.FM:4.5 - Examine a choice that can change the answer
 
@@ -132,7 +134,9 @@ When a discrepancy has several possible explanations, retain those possibilities
 
 #### B.5.FM:4.6 - Apply the result and choose the continuation
 
-Use what the model now supports: make a design choice, reject an option, construct an object, specify a calculation, select an observation or revise the question. Try the proposed use of that consequence. For example, sufficient average delivery can settle a capacity question; continuous supply also depends on delivery times, consumption and available stock. If the intended action needs such a further relation or condition, keep the supported answer and identify the missing contribution. Supply the assumptions another contributor needs to use the result.
+Use what the model supports: make a design choice, reject an option, construct an object, specify a calculation, select an observation or revise the question.
+
+Try the proposed use of that consequence. For example, sufficient average delivery can settle a capacity question; continuous supply also depends on delivery times, consumption and available stock. If the intended action needs such a further relation or condition, keep the supported answer and identify the missing contribution. Supply the assumptions another contributor needs to use the result.
 
 Name a missing contribution by the result it must provide. For example, ask which heat-transfer path a proposed change affects, which state distinguishes two continuations, or which operation produces the needed formal object. A.15.9 helps obtain that contribution from another practice.
 
@@ -152,7 +156,7 @@ Try a steady account with constant component heating, all generated heat passing
 
 Use supplied steady readings of 80 °C at the component, 25 °C at the case attachment and 20 °C in the air. The component-to-case difference is 55 °C. Even ideal external cooling of the case to the air temperature leaves the component at 75 °C under these assumptions. The fan-only proposal cannot reach 65 °C in this model.
 
-The result directs work toward the component-to-case contact, another heat path or reduced heating. Direct airflow onto the component would change the assumed path; temperature-dependent heating or conductance would change the fixed-difference argument. Measurement uncertainty matters to the real-device conclusion.
+The result directs work toward the component-to-case contact, another heat path or reduced heating. Airflow onto the component would change the assumed path; temperature-dependent heating or conductance would change the fixed-difference argument. Measurement uncertainty matters to the real-device conclusion.
 
 A useful next request is: “Can this component stay below 65 °C after changing its contact to the case, and which observations distinguish the relevant heat paths?” The model supplies that request before a detailed equation set is commissioned.
 
@@ -170,9 +174,9 @@ Let q be the discharged volume in cm³. The gas occupies 100+q cm³; liquid heig
 10000/(100+q) + 0.1*(20−q/100) = 100  [kPa]
 ```
 
-The positive solution is about 2.039 cm³, with gas pressure about 98.002 kPa and liquid height about 19.980 cm. In this slow-flow account, the discharge approaches a stop after a very small volume. Changing outlet size changes resistance and the approach to equilibrium; this same equilibrium balance applies while air entry and inertial effects remain negligible.
+The positive solution is about 2.039 cm³, with gas pressure about 98.002 kPa and liquid height about 19.980 cm. In this slow-flow account, the discharge approaches a stop after a small volume. Changing outlet size changes resistance and the approach to equilibrium; this equilibrium balance applies while air entry and inertial effects remain negligible.
 
-Allowing ambient air to reach the gas space changes the model: gas pressure can remain near outside pressure as liquid leaves. Air entering through the outlet, gas-temperature change, vessel deformation or appreciable capillary pressure requires another account. The immediate useful result is the distinction between an outlet-flow restriction and a gas-replacement restriction. Investigate the air path before treating outlet enlargement as the answer.
+Allowing ambient air to reach the gas space changes the model: gas pressure can remain near outside pressure as liquid leaves. Air entering through the outlet, gas-temperature change, vessel deformation or appreciable capillary pressure requires another account. The result is the distinction between an outlet-flow restriction and a gas-replacement restriction. Investigate the air path before treating outlet enlargement as the answer.
 
 #### B.5.FM:5.3 - Construct classes that permit a counting inference
 
@@ -200,19 +204,19 @@ Twelve people have accepted a 60-minute workshop. There are twelve seats and one
 
 Use the relation between attempted action, observation and feedback to ask whether the intended practice can occur in the session. The sequential arrangement requires `12 * (4 + 2) = 72` minutes before any introduction. The next question is which arrangement can supply the intended practice and feedback within the available time. Reducing attendance, increasing duration or changing the learning arrangement have different consequences. Merely pairing learners supplies the required feedback only if they can provide that contribution.
 
-Now suppose twelve independent stations already provide the required task-specific feedback and can be used concurrently. The serial calculation no longer describes the work. Use the concurrent duration and the remaining session activities to decide whether the arrangement fits; this reasoning does not require another instructor. If the intended event is instead a demonstration with no individual practice, the individual-feedback relation does not impose that practice on it. Clarify the event's purpose before treating this scheme as applicable.
+Now suppose twelve independent stations provide the required task-specific feedback and can be used concurrently. The serial calculation no longer describes the work. Use the concurrent duration and the remaining session activities to decide whether the arrangement fits; this reasoning does not require another instructor. If the intended event is instead a demonstration with no individual practice, the individual-feedback relation does not impose that practice on it. Clarify the event's purpose before treating this scheme as applicable.
 
-The same question-forming move can use a measurement scheme: a shared column label, such as temperature, leaves the relevant quantity, observing conditions and aggregation to be recovered before combining records. If the existing documentation already establishes their suitability, use that answer. The scheme supplies a question, not a compulsory new measurement.
+The same question-forming move can use a measurement scheme: a shared column label, such as temperature, leaves the relevant quantity, observing conditions and aggregation to be recovered before combining records. If the existing documentation establishes their suitability, use that answer. The scheme supplies a question, not a compulsory new measurement.
 
 ### B.5.FM:6 - Bias-Annotation
 
-The examples use small explicit accounts so that the reader can inspect the construction. Complex systems can require learned representations, instruments and multiple specialist contributions. Their suitability depends on the inference and available means.
+The examples use small accounts so that the reader can inspect the construction. Complex systems can require learned representations, instruments and multiple specialist contributions. Their suitability depends on the inference and available means.
 
 Source studies of human scientific work motivate some construction moves. Their transfer to AI agents concerns the work to perform and the result to supply; it does not assert identical cognitive mechanisms or learning requirements.
 
 ### B.5.FM:7 - Conformance Checklist
 
-- The working question identifies a consequence that would help a receiving use.
+- The question identifies a consequence that would help a receiving use.
 - Selected participants and distinctions support that inference.
 - Proposed relations have interpretable participants, conditions and appropriate subject grounds.
 - Coupled quantities and operation rules are used consistently.
@@ -225,7 +229,7 @@ Source studies of human scientific work motivate some construction moves. Their 
 | Recognizable failure | Repair |
 | --- | --- |
 | Fit a model whose variables cannot express the proposed intervention. | Recover the participants and relations through which the intervention could change the result. |
-| Copy a familiar analogy while its operation has a different meaning in the present case. | Construct the needed correspondence and test the transferred consequence. |
+| Copy a familiar analogy while its operation has a different meaning in the case. | Construct the needed correspondence and test the transferred consequence. |
 | Aggregate cases before performing an operation whose permissions differ between them. | Keep the permission-changing distinction until that operation is complete. |
 | Increase simulation detail while an omitted interaction determines the answer. | Obtain a limiting or contrasting case that exposes that interaction. |
 | Give a specialist a broad modeling request that leaves the needed result unclear. | Supply the provisional account and ask for the contribution that would change the next decision. |
@@ -246,17 +250,23 @@ B.5 coordinates the overall inquiry. This method develops its model-building con
 
 ### B.5.FM:11 - SoTA-Echoing
 
-**Construction as a reasoning contribution.** Adapt Nersessian's [2025 account, §3](https://onlinelibrary.wiley.com/doi/10.1111/tops.12777): a useful analogy may have to be built, with its correspondence revised during use. The present method applies that contribution in :4.2–:4.4: select distinctions through a needed consequence, build compatible relations and use a small case to revise the correspondence. Reusing a calibrated domain model is cheaper when it already expresses the proposed change. Constructing another account becomes worthwhile when the available model cannot express a consequential interaction or operation; the vessel and prefix cases show those failures.
+**Construction as a reasoning contribution.** Adapt Nersessian's [2025 account, §3](https://onlinelibrary.wiley.com/doi/10.1111/tops.12777): a useful analogy may have to be built, with its correspondence revised during use. The present method applies that contribution in :4.2–:4.4: select distinctions through a needed consequence, build compatible relations and use a small case to revise the correspondence.
+
+Reusing a calibrated domain model is cheaper when it expresses the proposed change. Constructing another account becomes worthwhile when the available model cannot express a consequential interaction or operation; the vessel and prefix cases show those failures.
 
 **Qualitative consequences and application.** The [ISLE explanation by Etkina and Brookes](https://www.islephysics.net/why-isle.html) connects observation, proposed explanation, predicted consequence, testing and application, first qualitatively and then quantitatively. Use that progression in :4.4–:4.6 when a physical prediction needs examination and application. A formal construction can instead proceed from its formation rules and a derivation, as in :5.3.
 
 **Finding a question through a scheme.** Compare two practical starting points: follow a provisional question into a small model (:4.1–:4.5), or use an understood scheme to expose a question (:4.2.1). Give both routes the same workshop facts, knowledge of the attempt/feedback relation and a hand calculation. The first can begin with “Can this plan provide the intended practice?”, select the instructor's time, derive 72 minutes and revise the arrangement. With independent stations it changes the model and withdraws the serial restriction. Both routes can obtain these results.
 
-Use the scheme-based entry when an apparently adequate account, such as a seating plan, leaves the relevant question unclear. Its applicability table distinguishes an unknown relation from one that is inapplicable, inexpressible or in conflict with the case. In :5.4 the demonstration-only variant drops the individual-practice question instead of treating it as a missing provision. Recovering and trying a scheme has a cost: use the direct construction when the distinction and question are already clear. This comparison supports a choice between instructions under the stated conditions; it establishes neither faster learning nor better field performance.
+Use the scheme-based entry when an apparently adequate account, such as a seating plan, leaves the relevant question unclear. Its applicability table distinguishes an unknown relation from one that is inapplicable, inexpressible or in conflict with the case. In :5.4 the demonstration-only variant drops the individual-practice question instead of treating it as a missing provision. Recovering and trying a scheme has a cost: use the direct construction when the distinction and question are clear.
 
-Gentner and Hoyos, [Analogy and Abstraction](https://doi.org/10.1111/tops.12278), 2017, §§1.2–2, provide a historical structural-alignment account. Adapt relational rather than name matching in :4.2.1; the reviewed transfer effects depend on their task and comparison conditions. Keet and Khan, [Discerning and Characterising Types of Competency Questions for Ontologies](https://arxiv.org/html/2412.13688v1), 2024, §§3–4, contribute purpose-sensitive questions and limits of a scheme's expressiveness. Adapt those distinctions in the applicability table without imposing their ontology-specific taxonomy. Vagnino and Walker, [Schema drift](https://doi.org/10.1016/j.cognition.2025.106418), 2026, supplies a limitation: repeated comparison can change relational judgments, with rival explanations unresolved. This motivates the explicit return to a changed relation; it does not establish this repair's efficacy.
+Gentner and Hoyos, [Analogy and Abstraction](https://doi.org/10.1111/tops.12278), 2017, §§1.2–2, provide a historical structural-alignment account. Adapt relational rather than name matching in :4.2.1; the reviewed transfer effects depend on their task and comparison conditions.
 
-Reconsider the scheme-based entry when it repeatedly produces irrelevant questions or when the direct construction already supplies the needed distinction. Repair the correspondence or continue from the adequate question before broadening the inquiry.
+Keet and Khan, [Discerning and Characterising Types of Competency Questions for Ontologies](https://arxiv.org/html/2412.13688v1), 2024, §§3–4, contribute purpose-sensitive questions and limits of a scheme's expressiveness. Adapt those distinctions in the applicability table without imposing their ontology-specific taxonomy.
+
+Vagnino and Walker, [Schema drift](https://doi.org/10.1016/j.cognition.2025.106418), 2026, supplies a limitation: repeated comparison can change relational judgments, with rival explanations unresolved. This motivates the return to a changed relation.
+
+Reconsider the scheme-based entry when it repeatedly produces irrelevant questions or when the direct construction supplies the needed distinction. Repair the correspondence or continue from the adequate question before broadening the inquiry.
 
 **Subject premises of the physical cases.** [OpenStax, University Physics 2, §1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer) supplies the conducting-layer and convection relations. [Volume 2, §2.1](https://openstax.org/books/university-physics-volume-2/pages/2-1-molecular-model-of-an-ideal-gas) supplies the isothermal fixed-amount gas relation; [Volume 1, §14.1](https://openstax.org/books/university-physics-volume-1/pages/14-1-fluids-density-and-pressure) supplies the hydrostatic pressure relation. The chosen arrangements, simplifications and receiving questions are the present constructions.
 

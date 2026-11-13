@@ -110,7 +110,7 @@ Keep the unornamented transition as a reference. The dancer already knows a smal
 
 Retain the smaller articulation for this passage at this pace with this partner. It supplies the accent, preserves the continuing contribution and leaves the next transition possible. The original added articulation is rejected for this use even though its timing alone was correct. The unornamented transition remains an available return if a later tempo or direction defeats the combination.
 
-These are stipulated case results, not reported observations or evidence that a named dance technique generally succeeds. In practice, obtain the corresponding joint-performance result. If no available technique preserves both contributions and continuation, keep the simpler version or obtain the missing technique.
+These are stipulated case results. In practice, obtain the corresponding joint-performance result. If no available technique preserves both contributions and continuation, keep the simpler version or obtain the missing technique.
 
 #### RHY.3:5.3 - Motion continues while a robot signals an accent
 
@@ -152,7 +152,7 @@ Enacting a phrase may require a coordinated articulation, which itself relies on
 
 ### RHY.3:11 - SoTA-Echoing
 
-Ed Soph's [“Foundational Brush Technique”](https://www.moderndrummer.com/article/foundational-brush-technique/) (2021) supplies concrete alternatives for combining sustained brush motion and accents. Adopt those alternatives within brush practice; adapt the contribution distinction across other embodied activities. The source is practitioner instruction, not a comparative trial of universal training effectiveness.
+Ed Soph's [“Foundational Brush Technique”](https://www.moderndrummer.com/article/foundational-brush-technique/) (2021) supplies concrete alternatives for combining sustained brush motion and accents. Adopt those alternatives within brush practice; adapt the contribution distinction across other embodied activities. The source is practitioner instruction.
 
 Gjerdingen's [smooth-rhythm study](https://doi.org/10.2307/40285585) motivates retaining continuous change in the analysis. It does not supply a dance or instrumental motor technique. The transfer from a representational distinction to this practical design method is an explicit synthesis.
 

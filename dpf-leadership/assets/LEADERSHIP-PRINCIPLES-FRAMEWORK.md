@@ -74,7 +74,7 @@ People agree that something matters, but interpret the situation differently or 
 - **Situation:** Participants have shared views and evidence, but the receiver cannot use them to settle the technical or practical question.
 - **Question:** Which relation or inference is missing, and how will capable participants construct it?
 - **First useful result or blocker:** A connected explanation or proposal for the receiving use, including a justified inquiry proposal when evidence is missing, or the exact unavailable subject contribution.
-- **Start with:** [FPF B.5.SD](../../FPF-Spec.md#b5sd---construct-a-useful-answer-through-substantive-discussion).
+- **Start with:** [FPF B.5.SD](../../FPF-Spec.md#b5sd---construct-an-answer-through-substantive-discussion).
 - **Stop or return:** A competent direct answer needs no workshop. Return when a consequential premise changes or the receiver cannot use the proposed result.
 
 ### JOINT-START — Get from a promising idea to a useful contribution
@@ -85,7 +85,7 @@ Name the receiving work and keep sufficient help. Obtain trusted judgement, exam
 
 Trusted advice can improve a proposal without authorizing it. An answer can be sound without being acceptable to a contributor. Acceptance can be real while its required budget remains unavailable. A shared start can be understood while the first handover still fails.
 
-Begin where the actual gap lies. If a sound proposal is refused because it displaces another obligation, use [LDR.2](#ldr2---agree-feasible-joint-contributions); repeating the explanation adds no missing capacity. If everyone wants to proceed but the technical consequence is unknown, [FPF B.5.SD](../../FPF-Spec.md#b5sd---construct-a-useful-answer-through-substantive-discussion) obtains the missing domain reasoning. [LDR.1](#ldr1---obtain-and-continue-the-leadership-contribution-needed-for-joint-work) arranges the capable help those methods require and returns when continuation fails. Each supplying pattern provides the explanation needed to perform and adapt its Method.
+Begin where the actual gap lies. If a sound proposal is refused because it displaces another obligation, use [LDR.2](#ldr2---agree-feasible-joint-contributions); repeating the explanation adds no missing capacity. If everyone wants to proceed but the technical consequence is unknown, [FPF B.5.SD](../../FPF-Spec.md#b5sd---construct-an-answer-through-substantive-discussion) obtains the missing domain reasoning. [LDR.1](#ldr1---obtain-and-continue-the-leadership-contribution-needed-for-joint-work) arranges the capable help those methods require and returns when continuation fails. Each supplying pattern provides the explanation needed to perform and adapt its Method.
 
 A prepared, authorized routine action can start directly when capable participants understand and accept the arrangement. An unresolved condition blocks only the work that depends on it. First use does not establish independent capability, enduring culture or the next development problem.
 
@@ -221,7 +221,7 @@ The examples are constructed situations. Their stipulated capacities, rules, acc
 
 The main costs are competent preparation, participants' time and the work needed to make a proposal or agreement executable. The main risk is making a polished social process stand in for an unsupported subject claim or commitment. Retain useful working products and reasons in the ordinary place the next participant uses; create no leadership reporting system merely to prove the framework was followed.
 
-Reconsider the smallest affected part when the task, provider, support, authority, evidence or continuation demand changes. If the methods repeatedly fail to supply the promised contribution, examine whether the missing result belongs here, needs a better domain supplier, or requires a different arrangement. Neither a broad title nor an earlier successful case closes that question.
+Reconsider the smallest affected part when the task, provider, support, authority, evidence or continuation demand changes. If the methods repeatedly fail to supply the promised contribution, examine whether the missing result belongs here, needs a better domain supplier, or requires a different arrangement.
 
 ## LDR.Reference:End
 
@@ -1116,7 +1116,7 @@ Suppose three independent engineering communities want a monthly service in whic
 
 A competent domain team has already designed the proposed diagnostic method and its acceptance conditions. Each case needs two hours of substantive integration and half an hour of a separate qualified acceptance decision. The case owner also needs to supply permitted material, attend the receiving conversation and perform any corrective engineering work. Those activities are part of the service arrangement; the two-and-a-half-hour figure does not include them.
 
-Four cases are proposed for the first month. The available joint specialist capacity is eight hours, of which two must remain for previously accepted work. Six hours remain for the new service. In this case, the pool's members are qualified for both integration and acceptance, and compatible windows permit a different specialist to accept each case from the one who integrated it. The available hours can therefore be allocated between those activities without losing the required independence. Four cases would require ten hours of the constrained specialist work, so the proposal is infeasible before considering the clients' correction work. Enthusiasm does not change that result.
+Four cases are proposed for the first month. The available joint specialist capacity is eight hours, of which two must remain for previously accepted work. Six hours remain for the new service. In this case, the pool's members are qualified for both integration and acceptance, and compatible windows permit a different specialist to accept each case from the one who integrated it. The available hours can therefore be allocated between those activities without losing the required independence. Four cases would require ten hours of the constrained specialist work, so the proposal is infeasible before considering the clients' correction work.
 
 The organizer uses LDR.1 to identify the missing contributions: a domain integration provider, qualified acceptance, client preparation, participant communication and a decision about scarce time. These are functions in the work, not five new jobs. Existing community coordinators can communicate the agreed terms; no common office is needed for that contribution.
 
@@ -1201,7 +1201,7 @@ The references below return to published methods. They provide descriptions from
 | [FPF C.41.OF — Fit a Checklist to Its Occasion of Use](https://github.com/ailev/FPF/blob/main/FPF-Spec.md#c41of---fit-a-checklist-to-its-occasion-of-use) | A checklist fitted to its actual occasion and continuation. | Use when an execution aid helps; the aid does not perform the subject reasoning or repair a missing result. |
 | FPF C.36, C.36.RP and C.28 | C.36 qualifies claims about cultural relations and their continuation; C.36.RP supplies ways to keep shared methods obtainable and support their renewal; C.28 qualifies causal claims. | Use C.36.RP when later participants need a way to obtain the method. Use C.36 or C.28 when making the corresponding cultural or causal claim; a first contribution establishes neither automatically. |
 
-These are one-way content dependencies of this framework. Their availability as descriptions is distinct from the local availability of capable providers, rights, evidence or resources. If the method needed for a current result is unavailable or incompatible with the local conditions, state that missing contribution and revise the proposed use. A title-level dependency is not closure of the practical question.
+These are one-way content dependencies of this framework. Their availability as descriptions is distinct from the local availability of capable providers, rights, evidence or resources. If the method needed for a current result is unavailable or incompatible with the local conditions, state that missing contribution and revise the proposed use.
 
 ## LDR.Source:2 - Source contributions and evidence limits
 

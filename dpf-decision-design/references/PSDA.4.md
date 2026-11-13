@@ -15,7 +15,7 @@ dependencies:
 # PSDA.4: Select Problem-Structuring Methods and Combine Them When Needed
 
 > **Problem frame:** **Use this when** a favorite workshop recipe, analytical technique, or problem-structuring method is being proposed before anyone has tested whether it can produce the needed result with these participants, uncertainties, conflicts, and res …
-> **First move:** Select by needed contribution and actual applicability, not by a school name or workshop format. Recover what each candidate Method does, compare alternatives at comparable effort, and justify every combination through the meaning of its in …
+> **First move:** Select by needed contribution and actual applicability. Recover what each candidate Method does, compare alternatives at comparable effort, and justify every combination through the meaning of its inputs, outputs, and conditions.
 >
 > **Governing patterns:** `references/PSDA.12.md` `references/PSDA.13.md`
 
@@ -34,7 +34,7 @@ dependencies:
 
 Start by naming the result the inquiry is missing. Compare the simplest sufficient Method with a serious alternative, including a bounded combination when one Method cannot supply the needed contributions. The practical gain is a defensible way of proceeding, with visible limits and a cheaper exit when elaborate facilitation adds no value.
 
-A **Method** (`U.Method`) is a reusable way of doing under stated applicability, participant meanings, preconditions, intended effects, and bounds. The governed question here is which such way fits this problem-structuring or decision-analysis inquiry and whether a proposed combination is coherent. A document describes it, a plan schedules intended work, and people enact it in actual work; none of those is the Method merely by appearance.
+A **Method** (`U.Method`) is a reusable way of doing under stated applicability, participant meanings, preconditions, intended effects, and bounds. The governed question here is which such way fits this problem-structuring or decision-analysis inquiry and whether a proposed combination is coherent. A document describes it, a plan schedules intended work, and people enact it in actual work.
 
 **Do not use this pattern** to select software by feature count, establish that a named person is competent or authorized, or schedule an already-selected Method. If one direct calculation or an existing sufficient Method closes the question, use it. If the missing result is the inquiry's purpose or scope, return that question before choosing a workshop.
 
@@ -56,15 +56,15 @@ Combining methods creates further risks. A concern map becomes numerical weights
 
 ### PSDA.4:4 - Solution
 
-Select by needed contribution and actual applicability, not by a school name or workshop format. Recover what each candidate Method does, compare alternatives at comparable effort, and justify every combination through the meaning of its inputs, outputs, and conditions.
+Select by needed contribution and actual applicability. Recover what each candidate Method does, compare alternatives at comparable effort, and justify every combination through the meaning of its inputs, outputs, and conditions.
 
 #### PSDA.4:4.1 - State the required result and selection conditions
 
-Use the `PSDA.2` scope for the same subject and receiving decision when it constrains the selection. Use a `PSDA.3` model account only where its models, limits, or conflicts can discriminate candidate Methods. Neither input creates a mandatory sequence.
+Use the `PSDA.2` scope for the same subject and receiving decision when it constrains the selection. Use a `PSDA.3` model account only where its models, limits, or conflicts can discriminate candidate Methods.
 
 Recover the current facts that can change Method fit: whether the difficulty concerns interpretation, evidence, interconnected choices, values, or action; who can participate and through which channels; what disagreement must remain visible; the available expertise and data; and the time and resource boundary. Obtain consequential participation, competence, safety, and authority premises from qualified direct sources.
 
-A source is useful only for its named subject, condition, and evidence window. If a required scope, model, or participation premise is missing or incompatible, state the exact gap, select a narrower use if defensible, or stop. Do not treat availability of a MethodDescription as evidence that the Method fits.
+A source is useful only for its named subject, condition, and evidence window. If a required scope, model, or participation premise is missing or incompatible, state the exact gap, select a narrower use if defensible, or stop.
 
 #### PSDA.4:4.2 - Recover candidate Methods as ways of doing
 
@@ -76,7 +76,7 @@ If the way is known and only its wording is unclear, clarify the statement; use 
 
 For a concrete contrast, three grounded inquiry accounts may leave two explanations plausible: a fixed question sequence with local exceptions, or a reusable rule that changes questions when a concern is challenged. That is a candidate-recovery question for `A.3.1.MR`. A new proposal saying only “interview residents” leaves its intended return and conditions unstated: ask its author to make those design choices, without inventing earlier inquiries. Once the proposed way is sufficiently stated, apply `A.3.1` without requiring such a history.
 
-For example, an attributed-mapping Method elicits a participant's claims, explores their implied connections, checks the rendering with that participant, and retains unresolved differences. A conditional-analysis Method evaluates named alternatives under stated conditions with qualified models and returns consequences and limits. Their labels are insufficient; their actual contributions and applicability make comparison possible.
+For example, an attributed-mapping Method elicits a participant's claims, explores their implied connections, checks the rendering with that participant, and retains unresolved differences. A conditional-analysis Method evaluates named alternatives under stated conditions with qualified models and returns consequences and limits. Their actual contributions and applicability make comparison possible.
 
 A source description can explain a Method without demonstrating its effectiveness in this inquiry. Keep instructions, reported applications, direct comparative evidence, and practitioner competence distinct. A document about several Methods is not automatically a `U.MethodDescription` of one composite Method; `A.3.2` governs that membership.
 
@@ -91,7 +91,7 @@ Choose the comparison dimensions from the required result. The following questio
 - Can the needed expertise, time, and resources be provided?
 - What important limitation or failure would remain?
 
-Compare a single sufficient Method, the plausible incumbent, and a bounded combination only when each is a live alternative. Do not turn every inquiry into a survey of all PSM families. State the trade-off if a richer result costs more preparation or excludes a faster route. Method popularity, a successful workshop elsewhere, and participant satisfaction do not establish comparative fit here.
+Compare a single sufficient Method, the plausible incumbent, and a bounded combination only when each is a live alternative. State the trade-off if a richer result costs more preparation or excludes a faster route. Method popularity, a successful workshop elsewhere, and participant satisfaction do not establish comparative fit here.
 
 If the necessary premise cannot be tested before the receiving decision, select a qualified provisional use or return the limitation. A declared gap is not a low score to be averaged away.
 
@@ -105,7 +105,7 @@ Recover order from dependence. An analysis may need a specific formulation befor
 
 When the inquiry needs one composite `U.Method`, first identify the whole under `A.3.1`, then use `B.1.5` to qualify its independently identified part Methods and whole-forming claims. State the whole action, applicability, accepted inputs, result, required joins, allowed variations, exposed interactions, and failure or stop conditions. A different part, ordering, or interface outside the permitted variations can identify another Method.
 
-If several Methods are merely coordinated without a recoverable whole, return that bounded arrangement honestly. It may be useful interim planning content, but it is not yet the needed inquiry Method. Name the missing whole-action or join question rather than relabeling the activity list.
+If several Methods are merely coordinated without a recoverable whole, return that bounded arrangement honestly. It may be useful interim planning content, but it is not yet the needed inquiry Method. Name the missing whole-action or join question.
 
 #### PSDA.4:4.5 - Assess the fragile premise and retain a stop
 
@@ -198,11 +198,11 @@ Facilitator-familiarity bias favors the method the team can already run. Brand b
 
 ### PSDA.4:9 - Consequences
 
-Selection becomes inspectable and adaptations become easier to challenge. Methods can contribute together without forcing one universal workflow. The cost is a small comparison and join analysis; a genuinely composite Method may require more identification and assurance work. The pattern can therefore return an existing single Method, a bounded composite, or an explicit incomplete selection.
+Selection becomes inspectable and adaptations become easier to challenge. Methods can contribute together. The cost is a small comparison and join analysis; a genuinely composite Method may require more identification and assurance work. The pattern can therefore return an existing single Method, a bounded composite, or an explicit incomplete selection.
 
 ### PSDA.4:10 - Rationale
 
-Method fit is relational: it depends on what the inquiry needs and what its conditions permit. Complementary labels do not establish complementary results. Recovering reusable actions and their joins explains why the combination can work and what would defeat it, while keeping plans and enacted outcomes separate.
+Method fit is relational: it depends on what the inquiry needs and what its conditions permit. Recovering reusable actions and their joins explains why the combination can work and what would defeat it, while keeping plans and enacted outcomes separate.
 
 ### PSDA.4:11 - SoTA-Echoing
 
@@ -217,6 +217,6 @@ Method fit is relational: it depends on what the inquiry needs and what its cond
 - `PSDA.13` and `PSDA.17` may consume the selected Method and limits for the named situation and qualification window. Availability establishes neither fit nor enactment or cultural uptake.
 - `A.3.1.MR` recovers provisional candidate accounts from performance evidence; `A.3.1.DR` recovers the source meaning and status of documentary contributions when needed. `A.3.1` identifies a ready candidate way without making either recovery compulsory. `A.3.2` governs a description of one identified Method; `B.1.5` governs the composite qualification when needed.
 - `A.15.2` governs intended Work and `A.15.1` actual Work and its enactment relation. Direct competence, participation, authority, evidence, and safety practices govern their own premises.
-- This selection can request a missing domain result; it cannot manufacture that result by choosing a better workshop format.
+- This selection can request a missing domain result.
 
 ### PSDA.4:End

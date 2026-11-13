@@ -151,7 +151,7 @@ rules can both occur; a drawn rule does not supply authority to act.
 | Decision rule or policy | On this event, under these conditions, what should be done next and by whom? | “Whenever” needs its exceptions and timing. Temporal order alone establishes neither a decision rule nor a causal connection. |
 | Information used for a decision, often called a read model | What must the person or software know, where does it come from, and can it be stale? | A display of availability may differ from the state used to accept a reservation. |
 | State-bearing domain object or system | What changes, which identity continues, and what must remain true? | The event “hold expired” differs from the interval during which a hold is active. |
-| External participant or time condition | What can happen without this team's command, and how is it noticed? | A supplier refusal or elapsed deadline needs a reaction; drawing it supplies neither delivery nor a running timer. |
+| External participant or time condition | What can happen without this team's command, and how is it noticed? | A supplier refusal or elapsed deadline needs a reaction. |
 
 Connect an event to a next action only after stating the rule or physical dependency that warrants the
 connection. Ask whether it happens always, immediately, only on working days or only after additional
@@ -240,8 +240,8 @@ that requirement for software design rather than claiming the wall has implement
 
 The participants also ask what the crew sees while a replacement is unresolved. “Confirmed” would now be a
 false promise. They choose an explicit awaiting-replacement state and notice requiring the dispatcher to
-act. The model therefore changes the use concept, the information displayed and the work to be supported,
-not just event names. A policy for which replacement is acceptable remains a domain decision.
+act. The model therefore changes the use concept, the information displayed and the work to be supported.
+A policy for which replacement is acceptable remains a domain decision.
 
 The immediate result is the corrected account, these proposed acceptance conditions and two implementation
 questions: atomic handling of assignment transitions, and reliable receipt and reconciliation of maintenance
@@ -359,7 +359,7 @@ superior; both require participants who know the domain. Another smaller answer 
 
 The current official [resources](https://www.eventstorming.com/resources/) provide further facilitation and
 software-design material, including the inventor's book and workshop formats. They extend professional
-preparation; a source link does not supply absent participant knowledge or demonstrate competence. Reopen
+preparation. Reopen
 the selected route when its notation hides relevant behaviour, the participation burden exceeds its useful
 contribution, or an adequate existing account answers the question more cheaply. Changed practice and source
 conditions reopen the affected advice, not every unrelated engineering method.
@@ -367,9 +367,9 @@ conditions reopen the affected advice, not every unrelated engineering method.
 ### SYSE.54:12 - Relations
 
 - `SYSE.2` consumes a compatible domain account when it changes a use or system concept; it can also supply
-  the bounded situation being modelled. Neither result implies that the intended system already exists.
+  the bounded situation being modelled.
 - `SYSE.5` uses the explained contributions, state and coordination conditions to construct bearer alternatives.
-  `SYSE.6` chooses among sufficiently developed architectures; an event model does not select them.
+  `SYSE.6` chooses among sufficiently developed architectures.
 - `SYSE.7` keeps the resulting description compatible with other engineering accounts. `SYSE.10` assesses
   the observations or tests used to support claims about actual behaviour.
 - `B.5.SD` supplies the general construction of a joint substantive answer.

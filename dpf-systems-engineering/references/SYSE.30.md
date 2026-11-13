@@ -160,7 +160,7 @@ For constructing recoverable builds, **adopt** the specified-input and byte-comp
 
 The construction here connects the chosen build claim to an inherited dependency graph, cache reuse, diagnosis of differing intermediates and the downstream tested artifact. A hermetic execution and a byte-reproducible result answer different questions. A retained artifact is often the economical delivery input; independent reconstruction costs additional execution and input retention and is selected for the claim that needs it.
 
-Reopen the affected construction when a required input disappears, a toolchain or generator changes, an independent builder disagrees, or the receiving use needs another output/equivalence claim. Neither these sources nor a successful rebuild establishes application correctness or trustworthy provenance.
+Reopen the affected construction when a required input disappears, a toolchain or generator changes, an independent builder disagrees, or the receiving use needs another output/equivalence claim.
 
 ### SYSE.30:12 - Relations
 

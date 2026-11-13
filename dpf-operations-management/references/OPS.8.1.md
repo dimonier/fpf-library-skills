@@ -75,7 +75,7 @@ For work that may return, identify the event that reveals the need, when the res
 
 Separate work already known to remain from allowance for work that is still contingent. If a return becomes known, replace its contingent allowance with the actual remaining work; do not add both for the same visit. When acceptance or another suitable event excludes that return within the selected horizon, release the corresponding allowance. An acceptance event does not remove separately retained warranty or other later service obligations.
 
-When the possible return cannot yet be quantified, keep the supported comparison and identify which promised service remains unsupported. Further observation is useful when it can change the release choice. The responsible person can choose to release despite the unresolved possibility; distinguish that choice from a claim that the earlier service is protected.
+When the possible return cannot yet be quantified, keep the supported comparison and identify which promised service remains unsupported. Further observation is useful when it can change the release choice. Release despite that uncertainty is a separate decision for a participant with the relevant authority, under commitments and protected conditions that permit the choice. It does not establish that the earlier service is protected.
 
 #### OPS.8.1:4.3 - Test what capacity the next start leaves
 

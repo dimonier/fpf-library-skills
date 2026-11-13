@@ -82,9 +82,9 @@ Implement the selected rule through SYSE.47 as a usable instruction or runtime c
 
 #### SYSE.51:4.4 - Qualify allocation on complete attempts
 
-Compare adaptive allocation with fixed and manual alternatives under the same result requirements and resource accounting. Keep construction and tuning trajectories separate from final tasks. Measure receiving success and protected effects alongside total reasoning, evaluation, tool and integration burden in the applicable units; count failed attempts too. For people, record material differences in prior practice, assistance, fatigue and task order; repeated use of an already solved case cannot establish the same fresh-task comparison.
+Compare adaptive allocation with feasible fixed or manual alternatives under the same result requirements and resource accounting. Keep construction and tuning trajectories separate from final tasks. Measure receiving success and protected effects alongside total reasoning, evaluation, tool and integration burden in the applicable units; count failed attempts too. For people, record material differences in prior practice, assistance, fatigue and task order; repeated use of an already solved case cannot establish the same fresh-task comparison.
 
-Include an easy task where early stopping is warranted, a harder task where further work changes the choice, an unresolvable missing fact, and a reduced budget. Test whether the rule's intermediate evaluator rewards plausible but invalid progress. SYSE.49 can supply those distinctions, and SYSE.46 supplies the final configuration evidence.
+Select tasks that can change the useful allocation: an easy task where early stopping is warranted, a harder task where further work changes the choice, or an unresolvable fact or reduced budget within the supported scope. Test whether the rule's intermediate evaluator rewards plausible but invalid progress. SYSE.49 can supply those distinctions, and SYSE.46 supplies the final configuration evidence.
 
 When several components change together, qualify the whole arrangement unless the comparison isolates an attribution. Return a bad evaluator to its supplier, a lost premise to SYSE.52, a needless help choice to SYSE.50 and an ignored stopping decision to SYSE.47. Stop at the bounded allocation rule and comparison result, or the unresolved feasibility or evidence condition.
 
@@ -125,7 +125,7 @@ A rule trained only on successful trajectories can hide the expenditure and effe
 - Intermediate evidence changes an executable allocation.
 - Required completion and its uncertainty have reserved means.
 - Useful early stop and infeasible continuation return usable results or identified gaps.
-- Final whole-trajectory comparison includes fixed/manual alternatives and failed attempts.
+- Final whole-trajectory comparison includes feasible fixed or manual alternatives and failed attempts.
 - Heuristic ranking does not become unsupported exclusion.
 
 ### SYSE.51:8 - Common Anti-Patterns and How to Avoid Them

@@ -32,7 +32,7 @@ dependencies:
 
 **Use this when** a favored alternative depends on a forecast, weight, model, or threshold that might change, or when a precise ranking hides plausible reversals. Also use it when the recipient asks whether further information would improve the decision rather than merely improve the estimate.
 
-Start with one claim: what exactly should remain true, under which changes? Vary the decision-bearing conditions within a justified range and inspect where the claim survives or fails. The gain is a bounded statement of stability and a useful next question, not the adjective “robust” applied to an entire project.
+Start with one claim: what exactly should remain true, under which changes? Vary the decision-bearing conditions within a justified range and inspect where the claim survives or fails. The gain is a bounded statement of stability and a useful next question.
 
 The governed object is that robustness account. **Sensitivity** describes how a result changes with inputs, assumptions, or models. **Robustness** says whether a declared performance, admissibility, or comparison condition continues to hold across specified variation. A sensitive magnitude can leave the preferred set unchanged; an insensitive average can hide a decisive threshold crossing. Section 4.3.1 supplies a small paired-response test when the response at a central input can conceal such a difference.
 
@@ -80,7 +80,7 @@ If a needed variation cannot be bounded, retain that coverage gap. “Across all
 
 Begin with a cheap discriminating test: a boundary value, an alternative value judgement, an omitted condition, or a direct challenge to one decisive assumption. Recompute the same comparison for all affected alternatives under that changed basis.
 
-Use joint or global variation when interactions, nonlinearities, common causes, thresholds, or structural alternatives can change the result. A one-at-a-time test is insufficient for a claim about those combinations. Use the direct modeling and analysis Method to choose suitable tests, sampling, or proofs; this pattern mandates no universal algorithm or scenario count.
+Use joint or global variation when interactions, nonlinearities, common causes, thresholds, or structural alternatives can change the result. A one-at-a-time test is insufficient for a claim about those combinations. Use the direct modeling and analysis Method to choose suitable tests, sampling, or proofs.
 
 Keep empirical variability, model uncertainty, and value disagreement distinguishable. If a model change alters the meaning or comparability of an output, repair the comparison before treating the difference as another numerical sample.
 
@@ -116,7 +116,7 @@ Ask what feasible observation, experiment, calculation, or interpretation could 
 
 When the consequence probabilities and preferences support an expected-utility comparison, use MMP.16:4.2–4.5 to construct the value of the actual observation: model the records it can produce, determine the available action after each record, and average those resulting values before the record is known. Include the probe's cost, delay and changed opportunities in the consequences of the compared continuations before applying the utility account. Subtract a cost directly from expected utility only when its additive value on the same scale is justified and has not already been included in those consequences. PSDA.6:4.5.6 supplies a finite utility construction when that preference input is missing. For several compatible probability and utility accounts, carry out the information comparison within each account and retain the supported range or conditional choice; averaging those accounts requires a separate basis. Perfect-information value can be an upper bound under the same available actions and other conditions; it is not the value of an imperfect test. MMP.16 also distinguishes learning from an observation that changes the system. Information values from several sources are not automatically additive.
 
-Where probabilities are not defensible, state the discriminating conditions and what a probe could resolve without inventing expected value. Some uncertainty will remain; a broad research programme is not the default response.
+Where probabilities are not defensible, state the discriminating conditions and what a probe could resolve without inventing expected value. Some uncertainty will remain.
 
 Use `C.11` or the direct decision owner for the actual choice of a next probe over the current options, budget, value, and cost. This pattern supplies information priorities and conditions, not probe authorization or a research WorkPlan. A preference or authority dispute may require an explicit judgement rather than more empirical data.
 
@@ -250,6 +250,6 @@ A decision-support result is strengthened by exposing its reversal conditions, n
 - `C.16` governs quantities, scales and response comparability; `C.29` governs a needed mathematical representation and its correspondence limits. Neither supplies domain validation merely through the calculation.
 - `C.11.CRC` compares a proposed finite change to the arrangement, including the feasibility and burden of maintaining a protection. A sensitivity result does not itself change that arrangement.
 - `C.11` governs an actual local choice and the worth of another probe. Information priority, probe selection, WorkPlan, performed inquiry, and observed effect remain distinct results.
-- Candidate formation, value elicitation, model repair, and follow-up remain their own questions when the test exposes a gap there. Missing or incompatible inputs require a qualified direct result or an exact stop, not an invented prerequisite lifecycle.
+- Candidate formation, value elicitation, model repair, and follow-up remain their own questions when the test exposes a gap there. Missing or incompatible inputs require a qualified direct result or an exact stop.
 
 ### PSDA.9:End

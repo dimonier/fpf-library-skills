@@ -84,7 +84,7 @@ Make retry behavior explicit. Determine which transaction effects and progress o
 
 #### SYSE.34:4.4 - Validate coexistence and the actual recovery claim
 
-Exercise ordinary and boundary values, old and new writers/readers, relevant concurrent histories, partial failure and replay. Verify information correspondence as well as successful execution. A job that finishes can still populate the wrong values.
+Derive the required histories from the selected transition and its supported uses. Exercise ordinary and boundary values, the writers/readers and concurrency that occur in that strategy, and consequential partial-failure or replay cases. Verify information correspondence as well as successful execution.
 
 Do not activate a consumer that relies on a new representation before its required population and continuing-write invariant are established. If some data is intentionally outside the scope, ensure that the consumer can identify and handle that boundary.
 
@@ -110,7 +110,7 @@ Common mechanisms for a continuously updated dataset include transactional proje
 
 Do not treat coexistence completion as permission to remove old support. Find what can still return old data: a scheduled job, retained message, offline client, dormant disaster-recovery image or a restore from an earlier backup. A contraction may require keeping a conversion on the restore path even after no live client uses it. Select a compatibility horizon from those supported uses and retention commitments. This horizon can differ from the time needed to observe a canary or to finish the ordinary application rollout.
 
-Finally, test return from the state of greatest relevant exposure, not only from the moment before new writes begin. Construct a history containing an old write, a new write, a partial migration and a lost acknowledgement. Follow which representation each reader sees and which effect a repeated operation could duplicate. If return would discard legitimate later events, decide whether those events can be replayed or reconciled and who may accept the remaining loss. A backup can supply older data without supplying this reconciliation. Keep a useful forward-repair option when exact reversal is unavailable.
+For a claimed return, test the state of greatest relevant exposure. In a coexistence strategy, include old and new writes; include partial migration and lost acknowledgement where they can affect the return. Follow which representation each reader sees and which effect a repeated operation could duplicate. If return would discard legitimate later events, decide whether those events can be replayed or reconciled and who may accept the remaining loss. A backup can supply older data without supplying this reconciliation. Keep a useful forward-repair option when exact reversal is unavailable.
 
 For an unlike case, a job-message format gains a new optional field. First release workers able to read both formats while producers continue sending the old one. Then change a bounded producer population and observe completion of whole jobs. Retiring old workers is insufficient evidence to remove old-format reading: queued or archived jobs may still contain it. Conversely, rolling producers back does not remove already emitted new-format messages. If old workers cannot read those messages, recovery must retain compatible workers, translate messages with qualified meaning, or drain the queue under an agreed restriction. This is the same compatibility reasoning with a different persistence mechanism; the PostgreSQL trigger in section 5 is not its implementation.
 
@@ -187,11 +187,11 @@ Success on a static sample can hide concurrency, inherited privileges and rare r
 
 - Old/new meaning and information-loss boundaries are explicit.
 - All relevant writers/readers and engine-specific conditions are accounted for.
-- Coexistence has a concrete authority and synchronization mechanism.
+- Where old and new representations coexist, their authority and synchronization mechanism is concrete.
 - Backfill cannot overwrite a later legitimate write with a stale observation.
-- Partial failure, lost acknowledgement and replay have qualified behavior.
+- Consequential partial failure, lost acknowledgement and any allowed replay have qualified behavior.
 - A new reader starts only with the population and continuing invariant it needs.
-- Executable return, data restore and later-event reconciliation are separately qualified.
+- Each promised executable return, data restore or later-event reconciliation is qualified for its own result.
 - Contraction and permission to accept loss are not inferred from successful deployment.
 
 ### SYSE.34:8 - Common Anti-Patterns and How to Avoid Them
@@ -221,6 +221,6 @@ Reopen the transition when representation meaning, writer population, engine beh
 
 ### SYSE.34:12 - Relations
 
-SYSE.13 identifies software and data configurations. SYSE.27 and SYSE.29 address consumer compatibility and migration; SYSE.33 supplies controlled test conditions. SYSE.41 consumes the data-change result during deployment, SYSE.35 respects it during exposure recovery, and SYSE.38 uses it when an incident has partial data effects. Use SYSE.14 for the separately authorized release decision.
+SYSE.13 identifies software and data configurations. SYSE.27 and SYSE.29 address consumer compatibility and migration; SYSE.33 supplies controlled test conditions. SYSE.41 consumes the data-change result during deployment, SYSE.35 respects it during exposure recovery, and SYSE.38 uses it when an incident has partial data effects. Use SYSE.14 when a separately authorized release decision is needed.
 
 ### SYSE.34:End

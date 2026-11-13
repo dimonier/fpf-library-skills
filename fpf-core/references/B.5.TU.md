@@ -1,6 +1,6 @@
 ---
 id: B.5.TU
-title: Construct a Working Use of an Unfamiliar Theory
+title: Construct a Use of an Unfamiliar Theory
 status: Stable
 keywords: []
 dependencies:
@@ -14,16 +14,16 @@ dependencies:
     - A.15.9
 ---
 
-# B.5.TU: Construct a Working Use of an Unfamiliar Theory
+# B.5.TU: Construct a Use of an Unfamiliar Theory
 
-> **Problem frame:** Use this pattern when a theory offers a promising way to answer a question, but you cannot yet connect its objects and reasoning to an answer you can use.
-> **First move:** Connect the working question, the theory's constructive or inferential resources, and the use of the resulting answer. Enter where the unresolved connection begins; reuse contributions already available.
+> **Problem frame:** Use this pattern when a theory offers a promising way to answer a question, but you cannot connect its objects and reasoning to an answer you can use.
+> **First move:** Connect the question, the theory's constructive or inferential resources, and the use of the resulting answer. Enter where the unresolved connection begins; reuse contributions available.
 >
 > **Governing patterns:** `references/B.5.md` `references/B.5.RC.md` `references/B.5.RA.md` `references/B.5.RR.md` `references/C.29.md` `references/A.6.3.RT.md` `references/A.15.9.md`
 
 ---
 
-## B.5.TU - Construct a Working Use of an Unfamiliar Theory
+## B.5.TU - Construct a Use of an Unfamiliar Theory
 
 > **Type:** Method-description pattern
 > **Status:** Stable
@@ -31,7 +31,7 @@ dependencies:
 
 ### B.5.TU:1 - Problem frame
 
-Use this pattern when a theory offers a promising way to answer a question, but you cannot yet connect its objects and reasoning to an answer you can use. You may recognize the notation or reproduce a calculation while still being unable to say what to supply, which operation matters, or what the result would let you do.
+Use this pattern when a theory offers a promising way to answer a question, but you cannot connect its objects and reasoning to an answer you can use. You may recognize the notation or reproduce a calculation while being unable to say what to supply, which operation matters, or what the result would let you do.
 
 The work here is to construct one application of the theory. Begin with the question and the available account; obtain and interpret the contribution that question needs. The result can be a construction, prediction, explanation, bound or identified missing operation. A mathematical question about what can be constructed is a possible receiving use, as is an engineering decision.
 
@@ -39,7 +39,7 @@ The work here is to construct one application of the theory. Begin with the ques
 
 For example, a theory of composition lets you combine two operations. Does it let both consume one input, or does the combination require two separately supplied inputs? Recovering that distinction can change the proposed implementation before any code is written.
 
-Use an adequate, understood application directly. A specialist or tool may supply a result you can already interpret and use under its conditions. Reconstruct more of the theory when the needed application, criticism, adaptation or explanation remains unresolved.
+Use an adequate, understood application. A specialist or tool may supply a result you can interpret and use under its conditions. Reconstruct more of the theory when the needed application, criticism, adaptation or explanation remains unresolved.
 
 ### B.5.TU:2 - Problem
 
@@ -55,11 +55,11 @@ The difficulty has two connected parts. First, discover what the account makes p
 | A worked source case saves effort, while a new application changes some of its premises. | Reuse the case and identify the changed contribution before carrying over its answer. |
 | Operational fluency and understanding of derivations serve different work. | Recover the depth needed to apply, criticize or alter the contribution. |
 | A small case exposes connections, while a general claim reaches beyond that case. | Keep the demonstrated use and the argument for greater reach distinguishable. |
-| Available assistance can supply difficult operations, while the receiving use still needs interpretation. | Divide work at the missing contribution and retain the meaning of the returned result. |
+| Available assistance can supply difficult operations, while the receiving use needs interpretation. | Divide work at the missing contribution and retain the meaning of the returned result. |
 
 ### B.5.TU:4 - Solution
 
-Connect the working question, the theory's constructive or inferential resources, and the use of the resulting answer. Enter where the unresolved connection begins; reuse contributions already available. The following unfolding can be revisited when its own result changes an earlier choice.
+Connect the question, the theory's constructive or inferential resources, and the use of the resulting answer. Enter where the unresolved connection begins; reuse contributions available. The following unfolding can be revisited when its result changes an earlier choice.
 
 #### B.5.TU:4.1 - Choose an application worth constructing
 
@@ -75,7 +75,7 @@ For this application, identify the objects, relations, given information, permit
 
 Follow the needed result backward to its prerequisites. Keep shared prerequisites and jointly required inputs visible. When a description names a construction without showing how to perform it, B.5.RC recovers its producing operations. When an inference remains unclear, B.5.RA recovers the reason and transitions needed by the receiving use.
 
-Make an unfamiliar expression operative at the point of difficulty. Determine the arguments of a function, the objects related by a diagram, or the conditions under which a rule applies. A.6.3.RT helps construct a usable expression under the available notation. Understanding a symbol's name is useful only as far as it helps perform or interpret the operation.
+Make an unfamiliar expression operative at the point of difficulty. Determine the arguments of a function, the objects related by a diagram, or the conditions under which a rule applies. A.6.3.RT helps construct a usable expression under the available notation.
 
 #### B.5.TU:4.3 - Construct the application
 
@@ -83,9 +83,9 @@ Connect each consequential object and condition to the selected case. Some are s
 
 Choose the values, boundary conditions, allowed operations and sought output. For a theoretical question, this may be entirely a construction within the theory. For a physical use, explain which system, quantity or interaction the mathematical object represents. C.29 supplies the mathematical correspondence and the comparison of what it preserves, omits or introduces.
 
-Compose the required operations. Check the connection between successive contributions: an operation's output must supply the next operation's required input. An integration procedure, for example, needs a function of its integration variable; a formula with unfilled path or parameter arguments has yet to supply that function.
+Compose the required operations. Check the connection between successive contributions: an operation's output must supply the next operation's required input. An integration procedure, for example, needs a function of its integration variable; a formula with unfilled path or parameter arguments does not supply that function.
 
-If a source case cannot be adapted by the available rules, identify the particular missing contribution. Another formulation, a specialist result or a developed operation may supply it. A.15.9 supports obtaining and using bounded help; C.39 supports developing a way when none is known.
+If a source case cannot be adapted by the available rules, identify the missing contribution. Another formulation, a specialist result or a developed operation may supply it. A.15.9 supports obtaining and using bounded help; C.39 supports developing a way when none is known.
 
 #### B.5.TU:4.4 - Obtain and inspect a consequence
 
@@ -95,7 +95,7 @@ When computation is involved, interpret its inputs, operations and output. C.29.
 
 Compare with a simple consequence you can inspect when that comparison can reveal an error: a limiting case, a preserved quantity, an input count, a dimensional relation or a small enumeration. Select the relevant comparison; its purpose is to expose a possible failure in this application.
 
-#### B.5.TU:4.5 - Apply the answer to the working question
+#### B.5.TU:4.5 - Apply the answer to the question
 
 Read the answer back in the terms of the intended use. If it gives a construction, determine whether the required inputs and operations are available. If it gives a bound, use the exclusion or allowance that bound supports. If it gives a physical prediction, identify the model and operating conditions under which that prediction concerns the system.
 
@@ -109,7 +109,7 @@ Return the interpreted answer and the conditions its receiver needs. An ordinary
 
 Stop when the contribution suffices. Otherwise identify what remains: a source explanation, missing operation, changed model, competing theoretical account or newly worthwhile question. B.5.RR follows the effect of a changed premise; B.5 coordinates a changed inquiry.
 
-Use this result to choose the next learning or work contribution. When the work requires one participant to apply or alter the method independently, that capability needs its own performed use under the relevant conditions. A supplied answer can still serve work that does not require that independence.
+Use this result to choose the next learning or work contribution. When the work requires one participant to apply or alter the method independently, that capability needs its performed use under the relevant conditions. A supplied answer can serve work that does not require that independence.
 
 ### B.5.TU:5 - Archetypal Grounding
 
@@ -117,7 +117,7 @@ Use this result to choose the next learning or work contribution. When the work 
 
 A practitioner wants to use two available operations, `f: X -> Y` and `g: X -> Z`, on one input. The letters name distinct atomic types. The question is whether the chosen composition rules can produce both results from that input.
 
-In a cartesian account, a copying operation `Delta_X: X -> X x X` supplies the pair of inputs. First copy, then apply the two operations: `(f x g) after Delta_X` sends `x` to `(f(x), g(x))`. The input of the parallel operation is now supplied.
+In a cartesian account, a copying operation `Delta_X: X -> X x X` supplies the pair of inputs. First copy, then apply the two operations: `(f x g) after Delta_X` sends `x` to `(f(x), g(x))`. The input of the parallel operation is supplied.
 
 Compare a resource-sensitive account generated only by `f`, `g`, identities, serial composition, tensoring and exchange of factors. Tensoring `f` with `g` takes `X tensor X` to `Y tensor Z`: it requires two inputs. Each given generator preserves the number of atomic factors, and serial composition, tensoring and exchange preserve that property. These rules therefore cannot construct `X -> Y tensor Z`. Supplying another input or adding an admissible copying operation changes what can be built. This is a result about the stated generated account.
 
@@ -134,15 +134,17 @@ The mechanical rule selects paths of stationary action: for every small path var
 Let the carriage pass `q=0` at time `0` and `q=d` at positive elapsed time `T`. Recover the operations hidden by “calculate the action”: choose a position function `q(t)`, differentiate it to obtain velocity, evaluate `L` on those values, then integrate over time. This is the constructive use developed in [SICM, §§1.3–1.4](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/9579/sicm_edition_2.zip/chapter001.html). The following one-dimensional case uses it.
 
 Start with `q_0(t)=d*t/T`, and try paths
-`q_a(t)=d*t/T + a*(t/T)*(1-t/T)`, where `a` is a length. Every path has the specified endpoint positions. Its velocity is `v_a(t)=(d+a*(1-2*t/T))/T`. Substitution and integration give
+`q_a(t)=d*t/T + a*(t/T)*(1-t/T)`, where `a` is a length. Every path has the endpoint positions. Its velocity is `v_a(t)=(d+a*(1-2*t/T))/T`. Substitution and integration give
 `S_a = m*(d*d+a*a/3)/(2*T)`.
 For `m=1 kg`, `d=2 m` and `T=1 s`, the straight path has action `2 J s`; `a=1 m` gives `13/6 J s`.
 
-This comparison favors the straight path within the chosen family. The general argument is also short. For any continuously differentiable added displacement `eta(t)` that is zero at both endpoints, the cross term integrates to `(m*d/T)*(eta(T)-eta(0))=0`. Thus the change in action is `(m/2)*integral(eta'(t)^2 dt)`, which is nonnegative. The straight path minimizes this action among those paths. For a nonzero `eta`, write this positive change as `K`. Along the paths `q_0+c*eta`, the action is `S[q_0]+c*c*K`, whose derivative at `c=1` is `2*K>0`. Thus a nonzero displacement from `q_0` cannot be stationary. The selected motion has constant velocity `d/T`.
+This comparison favors the straight path within the chosen family. The general argument is also short. For any continuously differentiable added displacement `eta(t)` that is zero at both endpoints, the cross term integrates to `(m*d/T)*(eta(T)-eta(0))=0`. Thus the change in action is `(m/2)*integral(eta'(t)^2 dt)`, which is nonnegative. The straight path minimizes this action among those paths.
 
-The application now has an interpreted answer: under the adopted model, passing those endpoint positions in that time entails constant velocity. A computational implementation must evaluate the path derivative in the velocity argument before integrating. It can reproduce the numerical action comparison; the displayed argument supplies the wider conclusion.
+For a nonzero `eta`, write this positive change as `K`. Along the paths `q_0+c*eta`, the action is `S[q_0]+c*c*K`, whose derivative at `c=1` is `2*K>0`. Thus a nonzero displacement from `q_0` cannot be stationary. The selected motion has constant velocity `d/T`.
 
-Suppose the same two-metre trip must instead begin and end at rest. The constant-velocity answer fails that condition. The useful return is that the undriven free-particle account cannot supply this trip: the design needs acceleration and deceleration, and an account of the forces producing them. The next contribution is that driven-motion model. Increasing the resolution of the same free-particle calculation would retain the missing physical contribution.
+The application has an interpreted answer: under the adopted model, passing those endpoint positions in that time entails constant velocity. A computational implementation must evaluate the path derivative in the velocity argument before integrating. It can reproduce the numerical action comparison; the displayed argument supplies the wider conclusion.
+
+Suppose the two-metre trip must instead begin and end at rest. The constant-velocity answer fails that condition. The return is that the undriven free-particle account cannot supply this trip: the design needs acceleration and deceleration, and an account of the forces producing them. The next contribution is that driven-motion model. Increasing the resolution of the free-particle calculation would retain the missing physical contribution.
 
 #### B.5.TU:5.3 - Keep a useful bound when the optimizer cannot be enacted
 
@@ -150,21 +152,21 @@ A planner learning optimization must select whole jobs for four available hours.
 
 A linear relaxation permits real counts `0 <= x <= 1`, `0 <= y <= 2` with `3*x+2*y <= 4`. It returns `x=1, y=0.5`, value `6.5`. Recover the argument: the time condition gives `y <= (4-3*x)/2`, so `5*x+3*y <= 6+0.5*x <= 6.5`; the returned pair attains that limit.
 
-For the actual whole-job choice, enumerate the alternatives. With A selected, no B fits and value is 5. Without A, two B-jobs fit and value is 6. Select two B-jobs. The fractional optimizer has still supplied a useful bound: no whole-job arrangement can attain value 7 because every such arrangement is also admitted by the relaxation.
+For the whole-job choice, enumerate the alternatives. With A selected, no B fits and value is 5. Without A, two B-jobs fit and value is 6. Select two B-jobs. The fractional optimizer has supplied a bound: no whole-job arrangement can attain value 7 because every such arrangement is also admitted by the relaxation.
 
 The use of the theory changes with the question. Selecting work needs an attainable arrangement; excluding a target can use a bound. The practitioner needs to recover that relation before deciding whether a further optimization step is useful. B.5:5.4 also works the changed five-hour case.
 
 ### B.5.TU:6 - Bias-Annotation
 
-The worked cases favor explicit mathematical accounts with small, inspectable operations. Other theories can use qualitative or interpretive inferences; their warranted application conditions and criticism must come from the relevant practice. A convenient numerical example should not decide which kind of explanation the question needs.
+The worked cases favor mathematical accounts with small, inspectable operations. Other theories can use qualitative or interpretive inferences; their warranted application conditions and criticism must come from the relevant practice. A convenient numerical example should not decide which kind of explanation the question needs.
 
-Familiar terminology can make a supplied interpretation look independently recovered. Attribute the actual contribution when assessing learning or capability. In ordinary assisted work, use the supplied result at the scope its interpretation supports.
+Familiar terminology can make a supplied interpretation look independently recovered. Attribute the contribution when assessing learning or capability. In ordinary assisted work, use the supplied result at the scope its interpretation supports.
 
 ### B.5.TU:7 - Conformance Checklist
 
-- The application has a working question and a useful result to obtain or interpret.
+- The application has a question and a useful result to obtain or interpret.
 - The theory's objects, operations and premises needed for that application are recoverable.
-- The construction connects supplied inputs to required outputs; a missing operation remains a specific gap.
+- The construction connects supplied inputs to required outputs; a missing operation remains a gap.
 - A source-supported application and a newly proposed adaptation retain their respective grounds.
 - The worked consequence states what its construction, argument or computation establishes.
 - The receiving use preserves consequential conditions, including any difference between an attainable result and a bound.
@@ -189,19 +191,23 @@ The cost is recovering enough of the account to assemble and use the application
 
 ### B.5.TU:10 - Architectural Rationale
 
-The method joins two directions of reasoning. Working backward from the question reveals the needed contribution. Working forward through the theory tests whether the available objects and operations actually supply it. Returning the consequence to use exposes conditions a correct internal calculation can leave unresolved.
+The method joins two directions of reasoning. Working backward from the question reveals the needed contribution. Working forward through the theory tests whether the available objects and operations supply it. Returning the consequence to use exposes conditions a correct internal calculation can leave unresolved.
 
-B.5.RC and B.5.RA recover constructions and arguments. Here they contribute to assembling an application whose meaning and needed output may still be unsettled. C.29 constructs and tests mathematical correspondence; it can start before a mathematical object has been selected. This method adds recovery of how the unfamiliar theoretical account becomes usable at that point. A theory can also be used within its own mathematical setting, as in the composition case.
+B.5.RC and B.5.RA recover constructions and arguments. Here they contribute to assembling an application whose meaning and needed output may be unsettled. C.29 constructs and tests mathematical correspondence; it can start before a mathematical object has been selected. This method adds recovery of how the unfamiliar theoretical account becomes usable at that point. A theory can also be used within its mathematical setting, as in the composition case.
 
 A complete explanation of the theory can be the appropriate learning project. For one urgent use, however, an adequate supplied application or bounded specialist result may settle the question sooner. The choice depends on the work the receiver must perform, including any need to criticize or change the method later.
 
-A small successful application provides something to use and a basis for further inquiry. Broader generalization requires its own argument. If the application exposes a limitation in the theory, the resulting construction or counterexample can become material for developing its objects, rules or questions.
+A small successful application provides something to use and a basis for further inquiry. Broader generalization requires its argument. If the application exposes a limitation in the theory, the resulting construction or counterexample can become material for developing its objects, rules or questions.
 
 ### B.5.TU:11 - SoTA-Echoing
 
-**How much theory must be reconstructed for a first use?** Adapt [van Oostrum, Langer and Ay (2025), Introduction and §§1–2, 4](https://arxiv.org/html/2406.07726v4): connect the operational question to stated model variables and inference, work an example, and recover deeper derivations when they are needed. The alternative is to use an interpreted supplied implementation. Retain that cheaper route when it suffices; reconstruct dependencies when adaptation or explanation requires them. Sections :4.1–:4.4 make that choice explicit. The source provides a discrete active-inference account and a minimal implementation, not evidence that one learning sequence suits every practice or agent.
+**How much theory must be reconstructed for a first use?** Adapt [van Oostrum, Langer and Ay (2025), Introduction and §§1–2, 4](https://arxiv.org/html/2406.07726v4): connect the operational question to stated model variables and inference, work an example, and recover deeper derivations when they are needed.
 
-**How can notation reveal what an application still lacks?** Adapt [SICM's Preface](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/9579/sicm_edition_2.zip/preface001.html): recover function arguments, substitutions and composition where implicit conventions obscure the operation. A familiar conventional expression is cheaper when the reader can already use it reliably. Sections :4.2–:4.4 therefore call for operative reconstruction at the unresolved step; :5.2 supplies a case. The selected contribution is explicit operation recovery. Its source's strong requirement of automatic interpretability is appropriate for computational exposition; ordinary use may be settled by a clear hand-worked construction.
+The alternative is to use an interpreted supplied implementation. Retain that cheaper route when it suffices; reconstruct dependencies when adaptation or explanation requires them. Sections :4.1–:4.4 make that choice explicit. The source provides a discrete active-inference account and a minimal implementation.
+
+**How can notation reveal what an application lacks?** Adapt [SICM's Preface](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/9579/sicm_edition_2.zip/preface001.html): recover function arguments, substitutions and composition where implicit conventions obscure the operation. A familiar conventional expression is cheaper when the reader can use it reliably. Sections :4.2–:4.4 therefore call for operative reconstruction at the unresolved step; :5.2 supplies a case.
+
+The selected contribution is operation recovery. Its source's requirement of automatic interpretability is appropriate for computational exposition; ordinary use may be settled by a clear hand-worked construction.
 
 **What does a theory's formal structure contribute to an application?** Adopt [Baez and Stay, §2.3](https://arxiv.org/html/0903.0340v3)'s constructive comparison of cartesian and monoidal operations. A familiar “parallel composition” description can leave input duplication unresolved. Section :5.1 obtains the required operation or the obstruction under stated rules, then asks whether the receiving practice can supply it. This pays the cost of recovering only the consequential structure. The broader cross-disciplinary correspondences in that paper do not establish the physical copying operation in our case.
 

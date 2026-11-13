@@ -193,7 +193,7 @@ The practice question is how to distinguish an effective organizational change f
 
 One alternative is “use the latest row as the current state”. Its advantage is low handling effort. It fails when recording time is taken as effective time without the governing rule—for example, by treating a future appointment as already effective or delayed reporting as a delay in the relation itself. Under a different rule, registration can constitute the relation. Sections 4.2–4.4 and the paired registration cases retain the rule that determines which interpretation applies. The practitioner can still use an adequate latest account directly; a timeline is added only when it resolves an action-changing difference.
 
-The May laboratory's relation/record discussion and the later ADM source pack's effective-condition distinctions supply failure reasoning and synthesis inputs. A.6.REL supplies the general method for relation change and optional occurrence identity. [FPF B.1.5.EW][EW] supplies the explanation of constituent and encompassing work applied in §5.4. This is a selected practical comparison, not empirical proof that one temporal database design is best.
+The May laboratory's relation/record discussion and the later ADM source pack's effective-condition distinctions supply failure reasoning and synthesis inputs. A.6.REL supplies the general method for relation change and optional occurrence identity. [FPF B.1.5.EW][EW] supplies the explanation of constituent and encompassing work applied in §5.4.
 
 Reconsider the instruction when a governing relation uses an additional constitutive condition, when repeated episodes cannot be distinguished for the required history, or when a new record arrangement changes what evidence a handler can obtain.
 

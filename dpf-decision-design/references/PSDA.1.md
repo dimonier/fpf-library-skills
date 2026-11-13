@@ -26,7 +26,7 @@ dependencies:
 > **Type:** Method pattern body
 > **Status:** Stable
 >
-> **Primary working result:** a **plural formulation set** for one bounded receiving inquiry: materially different accounts of what warrants intervention, each with its subject, boundary, affected participants or Systems, value tension, evidence need, intervention logic, assumptions, and consequence for the receiving use.
+> **Primary working result:** a **plural formulation set** for one bounded receiving inquiry: materially different accounts of what warrants inquiry or intervention, each with its subject, boundary, affected participants or Systems, value tension, evidence need, inquiry or intervention logic, assumptions, and consequence for the receiving use.
 
 
 ### PSDA.1:1 - Problem frame
@@ -106,7 +106,7 @@ For each retained formulation, record:
 | intervention logic | Action, inquiry, adaptation, or restraint families made plausible, without claiming effectiveness. |
 | receiving-use consequence | Which model, alternative, comparison, scope, recommendation, or decision-support return would change. |
 
-Where a durable formulation is used as a claim-bearing episteme, preserve its source and identity through the direct episteme pattern. Ordinary working sentences need no new root kind.
+Where a durable formulation is used as a claim-bearing episteme, preserve its source and identity through the direct episteme pattern.
 
 #### PSDA.1:4.4 - Test material plurality without ranking
 
@@ -116,13 +116,13 @@ Do not score, rank, vote, synthesize, or select unless another pattern and autho
 
 #### PSDA.1:4.5 - Stop and return the plural formulation set
 
-Stop when every retained formulation changes at least one named downstream move and another credible formulation would not change the current receiving use enough to justify its cost. There is no universal target count. A claim of plurality requires at least two materially different formulations; a case with only one adequate formulation should not manufacture a set.
+Stop when every retained formulation changes at least one named downstream move and another credible formulation would not change the current receiving use enough to justify its cost. A claim of plurality requires at least two materially different formulations; a case with only one adequate formulation should not manufacture a set.
 
 Return the formulations, their contrasts, shared and disputed premises, evidence gaps, dependent next results, and reopen conditions. If a missing participant, concern, fact, source, or authority relation prevents a responsible formulation, return the exact gap, narrow the claim, request the bounded result, or abstain.
 
 #### PSDA.1:4.6 - Pass plurality forward without creating a workflow
 
-Pass the set to `PSDA.2` when included and excluded scope must be chosen, to `PSDA.3` when different models are needed, to `PSDA.5` when formulations imply different alternative families, and to `PSDA.17` when engagement activities obstruct a material formulation contribution. These branches may be concurrent. Pattern numbering is not a compulsory stage sequence.
+Pass the set to `PSDA.2` when included and excluded scope must be chosen, to `PSDA.3` when different models are needed, to `PSDA.5` when formulations imply different alternative families, and to `PSDA.17` when engagement activities obstruct a material formulation contribution. These branches may be concurrent.
 
 Reopen locally when a new participant, concern, affected System, evidence result, value tension, intervention family, horizon, receiving use, or authority fact creates a materially different formulation or defeats one already retained.
 
@@ -141,7 +141,7 @@ For the board's pre-season decision, the `PSDA.12` account supports four materia
 3. **Maintenance fragility:** failures arise from maintenance, spares, staffing, and coordination dependencies rather than nominal pump count; readiness, contracting, and staged maintenance alternatives become salient.
 4. **Unsafe deployment:** emergency placement and operation can create worker, resident, traffic, or downstream risks; safe operating envelopes and restraint branches become salient.
 
-These are not synonyms. They imply different scope, evidence, model, alternative, and value work. The team keeps overlaps and conflicts visible and sends the set to `PSDA.2`; it does not vote for “the real problem” or infer that any intervention is effective.
+They imply different scope, evidence, model, alternative, and value work. The team keeps overlaps and conflicts visible and sends the set to `PSDA.2`; it does not vote for “the real problem” or infer that any intervention is effective.
 
 #### PSDA.1:5.2 - Development-direction advice
 

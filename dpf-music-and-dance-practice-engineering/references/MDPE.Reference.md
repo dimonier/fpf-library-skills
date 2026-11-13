@@ -26,7 +26,7 @@ combinations as examples of those result relations.
 
 | Waiting question | Contributions used together | Useful result and next branch |
 | --- | --- | --- |
-| Can this material work in the intended performance? | `MDPE.1` supplies the brief; `MDPE.9` compares candidates through performer-involving trials. Use `MDPE.10` for a limiting capability and `MDPE.3` for coordination in the performing whole. `MDPE.11` guides interpretation or live shaping, `MDPE.5` integrates production and presentation, and `MDPE.12` obtains the comparison the choice needs. | A candidate choice needs a trial-supported disposition; a performance claim needs the relevant observed occurrence. Demonstrated capability or a configured whole can enable the next trial without establishing its result. Failure returns to the contribution that prevents the intended use; one commissioned work need not open style-development work. |
+| Can this material work in the intended performance? | `MDPE.1` supplies the brief; `MDPE.9` compares candidates using applicable grounds and performer-involving trials when needed. Use `MDPE.10` for a limiting capability and `MDPE.3` for coordination in the performing whole. `MDPE.11` guides interpretation or live shaping, `MDPE.5` integrates production and presentation, and `MDPE.12` obtains the comparison the choice needs. | A candidate choice needs grounds adequate for its receiving use; a performance claim needs the relevant observed occurrence. Reuse sufficient existing grounds. An untested construction can finish a design task while performer capability, integration or reception remains unestablished. Failure returns to the contribution that prevents the intended use; one commissioned work need not open style-development work. |
 | Will the practice remain usable with other performers or in changed conditions? | `MDPE.6` decides what the receiving use must preserve or change. `MDPE.17` tests enactment by receivers, using `MDPE.10` or `MDPE.23` when capability is limiting. `MDPE.18` supplies memory and lineage evidence; `MDPE.19` returns a qualified continuation account or decision and tests reproduction when that inquiry is selected. | A receiving-use decision can permit a bounded adaptation. A receiving trial supports transmission only at its tested scope. Current evidence may suffice for bounded continuation; a stronger delayed or replacement-performer claim needs its appropriate Work evidence. |
 | Which change can make a style-development arrangement work? | `MDPE.8` and `MDPE.1` bound the subject; `MDPE.21` compares arrangements for producing and reproducing the intended distinctions. `MDPE.22` addresses support, `MDPE.13` selection, and `MDPE.14` conflicts. `MDPE.15` tests a selected change; `MDPE.16` maintains useful alternatives. `MDPE.20` adds a forecast only if it changes a decision, and `MDPE.24` tests a proposed new whole only if the project boundary depends on that claim. | A selected architecture, observed local change, or continuation decision is useful before wider cultural uptake is known. `MDPE.7` integrates the available results when they still leave a choice of next work. |
 
@@ -44,7 +44,7 @@ During one performance a dancer may control muscular effort, execute a movement 
 coordinate with a partner, enact a dance style, contribute to a social event, and participate in reproducing a
 practice. A musician may control an effector, produce an attack or sustained tone, shape a phrase, coordinate
 with an ensemble, enact a musical style, perform for a receiving situation, and contribute to a practice at the
-same time. These are not steps in one lifecycle.
+same time.
 
 Distinguish these five views, and any others the case needs, when they change action:
 
@@ -212,7 +212,7 @@ work; `MDPE.23` asks what the named performer, partner, listener, teacher, or re
 In a constructed lesson case, a learner succeeds with the teacher's cue and fails after that cue disappears.
 Before reteaching the whole task, compare return to the familiar cue with a change in task difficulty or partner
 conditions. Cue-dependent expression, missing skill, fatigue, and a changed interaction imply different next
-moves. The first useful result is the bounded capability or recognition limit and a discriminating next trial.
+moves. The first useful result is the supported capability or recognition limit and next action; select another discriminating trial only when a material uncertainty remains and its attainable contribution warrants it.
 The contextual-inference sources below motivate this probe; they do not choose one universally superior
 schedule. A direct lesson Method such as TOCA may provide the selected exercise and feedback. Attendance, a teacher's
 approval, and delayed transfer answer different questions.
@@ -253,8 +253,7 @@ the human team's practice-development decisions. The Jason Barnes material disti
 prosthesis control, and their combined performing result. Test the musical task in the combined configuration before using a component benchmark to support a
 performance claim. `MDPE.3` integrates the participants and
 interfaces; `MDPE.10` selects human practice, control learning, calibration, or co-adaptation as appropriate;
-`MDPE.12` limits the result to the tested material and conditions. Candidate movements produced by AI similarly need
-performer interpretation and embodied trials before they support a Dance result.
+`MDPE.12` limits the result to the examined material and conditions. For AI-generated movement, establish the performer interpretation and embodied consequences needed by the receiving Dance claim. The material or score can be a useful composing result before those performance consequences are established.
 
 Choose this profile when those differences change action. A purely acoustic ensemble can use the Music profile
 without machine-specific development work. Transfer from a robotic Music case to Dance remains a separate
@@ -470,11 +469,7 @@ Neither imposes a project sequence or a Method hierarchy.
 
 ## MDPE.Reference:14 - Source reliance and conditions for reconsideration
 
-Each pattern records the sources that change its move, result, test, or return and states what those sources do
-not establish. Academic attention, institutional endorsement, press coverage, standardization, popularity of a
-label, and availability of an artifact do not by themselves show current practice, effectiveness, prevalence,
-transmission, or retention. When direct evidence is sparse, use an explicit expert estimate and its revision
-condition.
+Each pattern records the sources that change its move, result, test or return and states the limits of those contributions. Academic attention, institutional endorsement, press coverage, standardization, label popularity and artifact availability can support their own claims; current practice, effectiveness, prevalence, transmission and retention need the corresponding grounds. When direct evidence is sparse, an informed expert estimate can support a bounded decision if its basis, uncertainty and revision condition are adequate. Otherwise retain the unknown and choose a supported narrower response, attainable inquiry or stop.
 
 Refresh only the affected pattern, relation, practical entry, or source use when a direct source changes, a new
 Music-or-Dance Method alters the recommended move, an FPF result used below changes, or representative reader and
@@ -484,7 +479,7 @@ boundary.
 
 ## MDPE.Reference:15 - External result use
 
-Use the named FPF Core contribution for the result requested by a pattern. The direct returns to C.36.P, C.39 and E.23.CDI:4.2.1 use the Core contributions published with this FPF Library edition. Their applicability depends on the receiving question and available inputs; a PatternID alone does not establish the needed result. FPF remains an external supplier to this DPF, and does not depend on it.
+Use the named FPF Core contribution for the result requested by a pattern. The direct returns to C.36.P, C.39 and E.23.CDI:4.2.1 use the Core contributions published with this FPF Library edition. Their applicability depends on the receiving question and available inputs. FPF remains an external supplier to this DPF, and does not depend on it.
 
 The assurance and currentness use in MDPE.16 and MDPE.20 is qualified against `FPF@2026-09-07-EA03-ASSURANCE-CURRENTNESS`: B.3.3 supplies assurance criteria, B.3.4 evidence applicability and G.11 currentness. This qualification covers that receiving use, not every Core contribution named in this framework. When using another Core edition, reconsider a changed criterion or premise that can alter that use; preserve a sufficient result whose conditions remain applicable.
 
@@ -497,7 +492,7 @@ The assurance and currentness use in MDPE.16 and MDPE.20 is qualified against `F
 | `C.36.P`, `C.39`, `A.2.2`, and `C.2.8` | Recover the subject of a claim in Application:5.2; construct a missing way to obtain a contribution in MDPE.25; distinguish a recoverable explanation, its operations and relations, and what a learner can perform in Application:5.3. | These Core contributions supply generic claim recovery and Method development. They do not supply the Music-or-Dance technique, stylistic distinction or demonstrated capability. | Reconsider the affected recovery, construction or learning claim when its subject, receiving result or relied-on explanation changes. |
 | `E.24.PUB` | Distinguish publication of a claim-bearing episteme edition, such as an accompanying programme note, from the performance and recording in `MDPE.5`. | A master released only for listening uses its direct Music/distribution Method; release does not by itself make the audio artifact an episteme. | Recheck the relied-on episteme-publication result when its edition, audience, use or availability changes. |
 
-Systems Engineering, Human Capability Development, Organization Change Engineering, Operations Management and Embodied Rhythmics can supply domain results when a pattern names the receiving use and the result is available and current for it. Use the direct Systems Engineering, teaching, organization, operations, rhythm, Music or Dance Method when it already supplies that result. Generic Method development is supplied by FPF Core, including C.39, rather than by a separate Method Engineering DPF. A shared Suite or a sibling product name does not establish compatibility, authority or availability.
+Systems Engineering, Human Capability Development, Organization Change Engineering, Operations Management and Embodied Rhythmics can supply domain results when a pattern names the receiving use and the result is available and current for it. Use the direct Systems Engineering, teaching, organization, operations, rhythm, Music or Dance Method when it already supplies that result. Generic Method development is supplied by FPF Core, including C.39, rather than by a separate Method Engineering DPF.
 
 A working move whose usefulness survives removal of all Music-and-Dance distinctions can be a candidate Core contribution. Its origin in a Music-or-Dance case does not by itself establish that contribution. The bounded FPF amendment proposal identifies the recurring situation, changed action, first useful result, what remains after subtracting the contribution of current FPF, evidence, and reopen condition. [FPF E.4.DPF](https://github.com/ailev/FPF/blob/main/FPF-Spec.md#e4dpf---domain-and-local-principle-frameworks-whether-and-how-to-author-and-publish) explains this domain-to-Core return, and [FPF E.4.FPF](https://github.com/ailev/FPF/blob/main/FPF-Spec.md#e4fpf---fpf-edition-assembly-publication-forms-carriers-and-access-routes) governs the separate Core construction and publication decision. The domain observation does not become a Core result until that separate FPF decision accepts it, and FPF does not acquire a reverse dependency merely because the discovery began here.
 

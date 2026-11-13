@@ -122,8 +122,7 @@ If two subjects can change independently, keep two questions or state their rela
 *the dance* or *the music*.
 
 State whether the subject and relation exist now, are proposed for possible future realization, are known only
-through a qualified source, or remain unavailable. A persuasive brief, score, choreography, model, course, or
-platform page does not by itself bring the proposed practice into existence.
+through a qualified source, or remain unavailable.
 
 #### MDPE.8:2.3 - Recover the Work and Method that matter
 
@@ -151,7 +150,7 @@ A style name, press attention, official listing, course, archive, platform count
 
 #### MDPE.8:2.5 - Keep live alternatives and uncertainty visible
 
-Retain competing subjects or explanations that would change the next Work. State at least two live alternatives when more than one survives. When the project cannot yet form
+Retain competing subjects or explanations that would change the next Work. When the project cannot yet form
 alternatives, state the material uncertainty—for example, individual capability versus partnered coordination,
 a changed artifact versus a changed Method, or local recurrence versus wider recognition—and an observation that could resolve it and change the next Work. Alternatives that answer different decisions remain separate questions.
 
@@ -231,7 +230,7 @@ At one party, muscles and sensing function, a dancer executes movements, partner
 couples dance several styles, organizers run the event, and participants reproduce a social-dance culture. These
 descriptions can all be true at once. A project that wants to improve a turn therefore asks whether the changed
 subject is body capability, a figure Method, partnered timing, floor organization, teaching, or the style's wider
-recognition. The answer selects the subject to change, not a first stage in a lifecycle.
+recognition.
 
 #### MDPE.8:4.4 - *The Call*
 

@@ -138,8 +138,6 @@ If the provider instead confirms failure before any credit, treasury can use its
 
 Provider dashboards favor events inside the provider's control. Recipients may experience a failure after every internal task has succeeded. Observe the condition relevant to the recipient's use without assuming that one person's feedback represents every user or future attempt.
 
-Use evidence adequate for the actual promise, uncertainty and receiving decision.
-
 ### ADM.9:7 - Conformance Checklist
 
 **Recognition.** The result names the beneficiary's promised usable condition, actual provider action and evidence of effect. A partial or unknown result identifies what remains and who can act.

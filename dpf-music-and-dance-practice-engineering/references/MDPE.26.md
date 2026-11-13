@@ -46,7 +46,7 @@ Use an already workable passage directly when it meets the receiving use. Use MD
 
 ### MDPE.26:2 - Problem
 
-A figure can specify foot positions while leaving the support, preparation, body travel and partner information needed to perform it unresolved. Separate mastery of two passages can likewise leave their transition unavailable. Repeating their labels or adding musical complexity does not supply those missing conditions.
+A figure can specify foot positions while leaving the support, preparation, body travel and partner information needed to perform it unresolved. Separate mastery of two passages can likewise leave their transition unavailable.
 
 The practitioner needs to connect the wanted effect to means both people can use together. A repair of one contribution can impair another: a smaller step can improve support yet miss a required accent; watching the feet can stabilize movement while hiding the partner's next cue. The whole receiving passage determines which local repair is useful.
 
@@ -62,7 +62,7 @@ The practitioner needs to connect the wanted effect to means both people can use
 
 ### MDPE.26:4 - Solution
 
-Construct backward from the movement the pair needs and forward from what both can presently do. Use the failed connection to select the next inquiry or repair, then return it to the shared passage. The order below explains those dependencies; it does not require repeating an adequate construction at every performance.
+Construct backward from the movement the pair needs and forward from what both can presently do. Use the failed connection to select the next inquiry or repair, then return it to the shared passage.
 
 #### MDPE.26:4.1 - Start from the continuation the participants want
 
@@ -101,7 +101,7 @@ The floor and footwear belong to these conditions. If a previously usable step n
 
 #### MDPE.26:4.4 - Make attention available for the next consequential change
 
-Select what must be noticed during the next attempt: for example, the partner's readiness for a transfer or the entrance of a musical voice that calls for a change. Keep a viable supporting movement while foregrounding that cue. Try whether the participant detects it, chooses a usable response and continues the passage. Merely reporting that the basic movement feels automatic does not establish that this combined task works.
+Select what must be noticed during the next attempt: for example, the partner's readiness for a transfer or the entrance of a musical voice that calls for a change. Keep a viable supporting movement while foregrounding that cue. Try whether the participant detects it, chooses a usable response and continues the passage.
 
 If attention to a foot detail makes the partner's response disappear from notice, return temporarily to the simpler shared passage. Work on the foot detail in a portion where the interaction remains manageable, and then restore the partner or musical decision. If the cue is inaccessible, change its presentation or the interaction arrangement before prescribing more concentration. If it is perceived but its meaning is unfamiliar, clarify and practise the choice.
 
@@ -127,7 +127,7 @@ Start with a supported joint attempt whenever that is already feasible. Move tem
 
 Next, vary the choice within the range already made available. The partner can offer either of two familiar continuations; the performer must notice which is available and respond while the supporting passage continues. Retain feedback on the failed contribution, then try again without an extra cue if the receiving use requires that independence. MDPE.10:4.6 supplies the detailed practice for pulse–accent interference; MDPE.10:4.2 supplies A–B–A comparisons when learned movement organizations become confused across contexts.
 
-Finally, try a consequential change of musical passage or partner, and later return to the task if retained capability is the claim. Change conditions in an order that lets the participants understand the difficulty. Distinguish understanding the construction, performing with the present help and retaining its use under changed conditions. A correct explanation supplies only the first of these.
+Use a consequential change of musical passage or partner when the receiving capability claim extends to that variation, and a later return when retained capability is claimed. Existing representative observations may suffice. Change conditions in an order that lets the participants understand the difficulty. Distinguish understanding the construction, performing with the present help and retaining its use under changed conditions. A correct explanation supplies only the first of these.
 
 ### MDPE.26:5 - Archetypal Grounding
 
@@ -181,7 +181,7 @@ Recognizing a likely cause selects the next attempt; it does not establish that 
 
 ### MDPE.26:9 - Consequences
 
-The pair gains a usable movement organization or a specific missing contribution, rather than a larger collection of figure names. Learning can focus on support, signal interpretation, transition or combined responsiveness according to the observed difficulty.
+The pair gains a usable movement organization or a specific missing contribution. Learning can focus on support, signal interpretation, transition or combined responsiveness according to the observed difficulty.
 
 This can require time, a competent teacher, an accessible place and a willing partner. A smaller adequate passage can finish the current task. Changed partners, music or bodily conditions can reopen a particular relation without invalidating everything already demonstrated.
 

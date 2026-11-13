@@ -1,6 +1,6 @@
 ---
 id: E.10.ROLE
-title: Recovering What “Role” Means in the Current Claim
+title: Recover What “Role” Means in This Claim
 status: Stable
 keywords:
   - ambiguous role wording
@@ -21,9 +21,9 @@ dependencies:
     - F.19
 ---
 
-# E.10.ROLE: Recovering What “Role” Means in the Current Claim
+# E.10.ROLE: Recover What “Role” Means in This Claim
 
-> **Trigger:** Use this pattern when claim-bearing wording uses *role* and the current sentence does not yet reveal which object or relation it means.
+> **Trigger:** Use this pattern when a sentence uses *role* to make a claim but leaves the object or relation unclear.
 > **Problem frame:** Readers meet *role* in organizational, engineering, mathematical, software, documentary, and ordinary language. The same spelling may point to a local classification of systems, one assignment occurrence, participation in a relation, a decl …
 > **First move:** Use the sentence's intended claim, not the trigger word, to select the result.
 >
@@ -31,7 +31,7 @@ dependencies:
 
 ---
 
-## E.10.ROLE - Recovering What “Role” Means in the Current Claim
+## E.10.ROLE - Recover What “Role” Means in This Claim
 
 > **Type:** Lexical and ontological precision restoration (E)
 >
@@ -41,7 +41,7 @@ dependencies:
 
 ### E.10.ROLE:0 - Use This When
 
-Use this pattern when claim-bearing wording uses *role* and the current sentence does not yet reveal which object or relation it means.
+Use this pattern when a sentence uses *role* to make a claim but leaves the object or relation unclear.
 
 > A **system role** is a local kind whose candidates are independently admitted `U.System` individuals, such as a person, team, organization or non-human technical object. Its membership condition distinguishes a stable, assignable, work-facing contribution under A.2 and C.3. The name creates no admission, assignment, agency, capability, or Work.
 
@@ -56,7 +56,7 @@ For example:
 - “the report plays a role in approval” normally needs an evidence-use, source-use, reliance, or other direct relation, not a system-role assignment;
 - “the first role in this tuple” normally points to a representation position, not a system-role kind.
 
-**Not this pattern when.** Keep ordinary or quoted wording unchanged when no FPF claim relies on the word. When the object and its direct pattern are already clear, use that pattern directly. Use `A.6.RSIR` when the unresolved question is specifically about participation in a direct relation, a relation declaration, an interface, or a representation position.
+**Not this pattern when.** Keep ordinary or quoted wording unchanged when no FPF claim relies on the word. When the object and its governing pattern are clear, use that pattern. Use `A.6.RSIR` when the unresolved question is specifically about participation in a direct relation, a relation declaration, an interface, or a representation position.
 
 
 
@@ -64,7 +64,7 @@ For example:
 
 Readers meet *role* in organizational, engineering, mathematical, software, documentary, and ordinary language. The same spelling may point to a local classification of systems, one assignment occurrence, participation in a relation, a declaration slot, a position in a representation or organization, functioning, capability, Work, authority, responsibility, use of an episteme, or no technical claim at all.
 
-One remote definition cannot make the word safe in every sentence. Replacing every occurrence with `SystemRole` is also wrong: it would turn unrelated participation, slot, representation, evidence, and ordinary-language claims into a new ontology.
+A definition given elsewhere cannot determine what *role* means in every sentence. Replacing every occurrence with `SystemRole` would turn unrelated participation, slot, representation, evidence, and ordinary-language claims into a new ontology.
 
 ### E.10.ROLE:2 - Problem
 
@@ -73,7 +73,7 @@ A cold reader needs to answer two questions at the point of use:
 1. What exact object or relation does this sentence claim?
 2. What useful action or conclusion depends on making that distinction?
 
-If the text answers neither question, a fluent rewrite can preserve the word while changing the claim. A mechanical replacement can be even worse: it can assign a report, schema field, relation participant, or diagram position to a system-role kind that was never intended.
+If the text answers neither question, a fluent rewrite can preserve the word while changing the claim. A mechanical replacement can introduce a further error by assigning a report, schema field, relation participant, or diagram position to a system-role kind that was never intended.
 
 ### E.10.ROLE:3 - Forces
 
@@ -93,9 +93,11 @@ Use the sentence's intended claim, not the trigger word, to select the result.
 2. Write the ordinary sentence the reader should understand, naming the recognizable object and action or relation.
 3. Select one branch below from that recovered claim. The examples are non-exhaustive; they illustrate result families and do not define a new role taxonomy.
 4. Apply the selected pattern only as far as the receiving claim needs. Add a Tech designation, occurrence identity, predicate, assertion, reference, evidence, or assurance only when omitting it would change truth, action, reuse, or reliance.
-5. For one recovered claim, stop when one exact object or relation and its pattern are selected, or return the exact `missing-governor`, missing-information, quote-only, or ordinary-non-use result.
+5. For one recovered claim, stop when you have selected its particular object or relation and the applicable pattern. Otherwise identify the claim that lacks a governing rule (`missing-governor`), state what information is missing, or return the quote-only or ordinary-non-use result.
 
-If recovery shows that the same bounded phrase carries several distinct claims at once, rewrite them as separate ordinary sentences and apply steps 3–5 to each sentence. Ambiguity by itself is not evidence of several claims. Use A.6.C **Contract Unpacking for Boundaries** only when its contract-like boundary-language trigger holds; otherwise apply the direct rule for each recovered claim. Do not create a multi-claim record or an umbrella role object.
+If recovery shows that the same bounded phrase carries several distinct claims at once, rewrite them as separate ordinary sentences and apply steps 3–5 to each sentence. Ambiguity by itself is not evidence of several claims.
+
+Use A.6.C **Contract Unpacking for Boundaries** only when its contract-like boundary-language trigger holds; otherwise apply the direct rule for each recovered claim. Do not create a multi-claim record or an umbrella role object.
 
 | Current claim recovered from the wording | Required result and next action |
 |---|---|
@@ -115,7 +117,7 @@ If recovery shows that the same bounded phrase carries several distinct claims a
 
 If the recovered claim leaves a direct-participation, reusable-declaration, interface, operation-declaration-or-binding, or representation-position question unanswered, apply `A.6.RSIR` to that question. If it recovers a system-role kind, assignment, capability, Work, deontic relation, evidence use, another direct object, or ordinary non-use, apply that object's direct rule and do not apply RSIR. Neither pattern duplicates the other's subject rules.
 
-#### E.10.ROLE:4.2 - Lightweight Result
+#### E.10.ROLE:4.2 - The Ordinary Wording as a Result
 
 Ordinary repaired wording is enough. This example assumes that the source establishes the stated evidence use. Include `blocked overread` only when independent local evidence makes that rejected reading plausible and the boundary changes the receiving use:
 
@@ -133,7 +135,13 @@ No separate repair record is required unless another named use must inspect or r
 
 #### E.10.ROLE:5.1 - Alice Is Reviewer
 
-“Alice is reviewer” may stay as readable recognition prose when no technical classification claim is consumed. If only the local kind matters, identify `ReviewerSystemRole` through C.3 and A.2. If a technical classification judgment matters, use A.2 and C.3.2 and keep Alice, `ReviewerSystemRole`, the current `KindSignature` edition, the context slice, and the `true | false | unknown` result recoverable. If assignment identity matters, first name the declared assignment species `JournalReviewAssignmentRelation` and establish that its direct predicate obtains for the actual participants, including Alice as holder, under the stated applicability. Only then identify `ReviewAssignment-82` as the occurrence and state its extent. A roster, appointment label, description, or evidence item may support the assignment claim but does not make the assignment obtain. If performed Work matters, first recover Alice's A.13 core for this action and independently admit `ReviewWork-82` under A.15.1. Because this branch also says that Alice performed the Work under `ReviewAssignment-82`, F.6 afterward relates the already admitted Work to that same assignment. Classification, assignment, Work, and attribution remain separate. None follows merely from the ordinary sentence. A short projection may omit an assignment identifier unused by its receiving claim only when every relation the claim consumes remains recoverable.
+“Alice is reviewer” may stay as readable recognition prose when no technical classification claim is consumed. If only the local kind matters, identify `ReviewerSystemRole` through C.3 and A.2. If a technical classification judgment matters, use A.2 and C.3.2 and keep Alice, `ReviewerSystemRole`, the current `KindSignature` edition, the context slice, and the `true | false | unknown` result recoverable.
+
+If assignment identity matters, first name the declared assignment species `JournalReviewAssignmentRelation` and establish that its direct predicate obtains for the actual participants, including Alice as holder, under the stated applicability. Only then identify `ReviewAssignment-82` as the occurrence and state its extent. A roster, appointment label, description, or evidence item may support the assignment claim but does not make the assignment obtain.
+
+If performed Work matters, first recover Alice's A.13 core for this action and independently admit `ReviewWork-82` under A.15.1. Because this branch also says that Alice performed the Work under `ReviewAssignment-82`, F.6 afterward relates the already admitted Work to that same assignment.
+
+Classification, assignment, Work, and attribution remain separate. None follows merely from the ordinary sentence. A short projection may omit an assignment identifier unused by its receiving claim only when every relation the claim consumes remains recoverable.
 
 #### E.10.ROLE:5.2 - A Report Plays a Role in Approval
 
@@ -141,15 +149,23 @@ The report is an episteme. For the evidence-use reading established by the sourc
 
 #### E.10.ROLE:5.3 - API Provider Role
 
-“The API role is provider” does not yet reveal which claim is meant. It may hide several claims, but the wording alone does not establish that; recover the intended claim before selecting and applying a rule. First ask whether a provider System is current and whether its classification under a local provider system-role kind matters. If the assignment itself matters, name its declared assignment species and the obtaining occurrence separately; do not infer either from root-family typing or the word *role*. Provision, service, declaration, interface, schema position, publication, promise, and access claims each use their own pattern. Only when provider Work is current, recover every precise performer's A.13 core and independently admit the dated Work under A.15.1. Add F.6 afterward only if this provider account also needs precise assignment-bound attribution through the same obtaining assignment.
+“The API role is provider” does not yet reveal which claim is meant. It may hide several claims, but the wording alone does not establish that; recover the intended claim before selecting and applying a rule. First ask whether a provider System is current and whether its classification under a local provider system-role kind matters. If the assignment itself matters, name its declared assignment species and the obtaining occurrence separately; do not infer either from root-family typing or the word *role*. Provision, service, declaration, interface, schema position, publication, promise, and access claims each use their own pattern.
+
+Only when provider Work is current, recover every precise performer's A.13 core and independently admit the dated Work under A.15.1. Add F.6 afterward only if this provider account also needs precise assignment-bound attribution through the same obtaining assignment.
 
 #### E.10.ROLE:5.4 - Passive Test Article
 
-A passive test article may independently pass A.1 and be classified under `TestArticleSystemRole`. If an assignment claim matters, name its declared assignment species before identifying an occurrence. Neither classification nor assignment makes the article an agent or performer. The role-bearing source claim to recover is: `TestArticle-7 participates passively in TestWork-9 during TestInterval-9`; its intended participant order is article, Work, then applicability interval. No current pattern supplies a direct passive-participation predicate with those participants, applicability, and occurrence identity, so the current result is the A.6.RCD `missing-governor` for that exact attempted claim. Any tester or test-rig Work first reuses every precise performer's A.13 core and is independently admitted under A.15.1; add F.6 only when the tester account also needs precise assignment-bound attribution. A short projection may omit an unused assignment identifier, but it keeps the article, Work, interval, and missing relation recoverable.
+A passive test article may independently pass A.1 and be classified under `TestArticleSystemRole`. If an assignment claim matters, name its declared assignment species before identifying an occurrence. Neither classification nor assignment makes the article an agent or performer.
+
+The source claim is `TestArticle-7 participates passively in TestWork-9 during TestInterval-9`; its intended participant order is article, Work, then applicability interval. No current pattern supplies a direct passive-participation predicate with those participants, applicability, and occurrence identity, so the current result is the A.6.RCD `missing-governor` for that exact attempted claim.
+
+Any tester or test-rig Work first reuses every precise performer's A.13 core and is independently admitted under A.15.1; add F.6 only when the tester account also needs precise assignment-bound attribution. A short projection may omit an unused assignment identifier, but it keeps the article, Work, interval, and missing relation recoverable.
 
 ### E.10.ROLE:6 - Bias-Annotation
 
-Lenses: **Gov**, **Arch**, **Onto/Epist**, **Prag**, **Did**. Scope: **Universal** for claim-bearing uses of *role* that enter this pattern; ordinary and quoted non-uses remain outside it. The pattern deliberately favors Onto/Epist precision, which can tempt an author to expand every sentence into technical apparatus. Writing the ordinary sentence first, adding only distinctions used by the receiving claim, and stopping when the applicable direct rule is clear preserve Prag and Did usefulness, while the separate branches preserve Gov and Arch boundaries.
+Lenses: **Gov**, **Arch**, **Onto/Epist**, **Prag**, **Did**. Scope: **Universal** for claim-bearing uses of *role* that enter this pattern; ordinary and quoted non-uses remain outside it.
+
+The pattern favors Onto/Epist precision, which can tempt an author to expand every sentence into technical apparatus. Writing the ordinary sentence first, adding only distinctions used by the receiving claim, and stopping when the applicable direct rule is clear preserve Prag and Did usefulness, while the separate branches preserve Gov and Arch boundaries.
 
 ### E.10.ROLE:7 - Conformance Checklist
 
@@ -185,9 +201,9 @@ Reopen this pattern only when an actual bare-*role* use cannot reach one exact o
 
 ### E.10.ROLE:10 - Rationale
 
-The recurring problem is word-sense recovery, not a missing universal role category. FPF therefore makes an internal architectural choice: recover the claim expressed in this use, then use the direct pattern for the recovered kind, assignment, participant, declaration place, representation position, or relation. The trigger word neither supplies that ontology nor makes the recovered claim obtain.
+The recurring problem is word-sense recovery, not a missing universal role category. For each use, recover the claim being made, then use the direct pattern for the recovered kind, assignment, participant, declaration place, representation position, or relation. The trigger word neither supplies that ontology nor makes the recovered claim obtain.
 
-The pattern supplies an entry and a stop rule, while C.3, A.2, A.2.1, A.6.RSIR, A.6.5, C.29, A.10, A.15, and other direct patterns retain their own predicates and identity laws.
+The pattern supplies an entry and a stop rule, while C.3, A.2, A.2.1, A.6.RSIR, A.6.5, C.29, A.10, A.15, and other direct patterns retain their respective predicates and identity laws.
 
 ### E.10.ROLE:11 - SoTA-Echoing
 
@@ -195,7 +211,9 @@ No external source governs this design, and FPF imports neither an external uppe
 
 Other comparisons have narrower uses. FPF adapts [Toyoshima's role facets](https://doi.org/10.3233/AO-210244) as diagnostic questions about position, specification, and potential. It uses [DOLCE](https://doi.org/10.3233/AO-210259), [BFO](https://www.iso.org/standard/74572.html), and [CCO](https://arxiv.org/abs/2404.17758) as bounded comparators for dependence and the distinctions among persistent entities, processes, roles, dispositions, capabilities, and functions. It keeps [DnS](https://doi.org/10.1007/978-3-540-39964-3_44) as lineage for separating descriptions from entities participating in described settings. These comparisons supply distinctions and counterexamples, not FPF kinds or assignment identity.
 
-Within FPF, E.10 and E.10.ARCH define trigger recognition and recovery distribution. A.2, C.3, and C.3.2 define system-role kinds and classification judgments; A.2.1 defines assignment occurrences; A.6.RSIR defines direct-relation, declaration, interface, and representation recovery; and F.19 constrains the final plain wording. Together they define the ordinary-sentence-first, thin entry, but cannot supply a missing direct relation or establish that the recovered claim is true. Reopen this choice if one of those patterns changes that boundary, or if a stronger current comparison exposes a case in which the thin entry cannot preserve both plain language and whether the recovered relation obtains.
+Within FPF, E.10 and E.10.ARCH define trigger recognition and recovery distribution. A.2, C.3, and C.3.2 define system-role kinds and classification judgments; A.2.1 defines assignment occurrences; A.6.RSIR defines direct-relation, declaration, interface, and representation recovery; and F.19 constrains the final plain wording.
+
+These patterns support an entry that starts with the ordinary sentence. They cannot supply a missing direct relation or establish that the recovered claim is true. Reopen this choice if one of those patterns changes that boundary, or if a stronger current comparison exposes a case in which the thin entry cannot preserve both plain language and whether the recovered relation obtains.
 
 ### E.10.ROLE:12 - Relations
 

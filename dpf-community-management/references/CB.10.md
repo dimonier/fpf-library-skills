@@ -240,8 +240,6 @@ The practical comparison is between activity reporting, a bounded inquiry that c
 
 Guidebook source: [second-edition text](https://www.wenger-trayner.com/wp-content/uploads/2024/03/24-02-21-CoP-guidebook-second-edition-final-2.pdf), published at the 2024 URL, under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). The account here is an analytical adaptation; examples are constructed and do not imply the source authors' endorsement.
 
-The useful contemporary combination preserves the source's positive inquiry method while qualifying its claims through the actual evidence question. New collection tools can reduce effort, but their convenience does not establish what the observations mean or whose experience is missing.
-
 ### CB.10:12 - Relations
 
 - **CB.1** distinguishes the cultural, participant and supporter results whose value is in question.

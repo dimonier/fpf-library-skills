@@ -153,7 +153,7 @@ NarrativeRenderingQualityEvaluationResult@Context:
   stopOrReopenCondition:
 ```
 
-When repeated improvement is wanted, open `E.22` first if the quality question is not already framed. Then use `E.23` with `NSTD.6` as the object-under-improvement evaluation. This DPF does not mint a local loop kind.
+When repeated improvement is wanted, open `E.22` first if the quality question is not already framed. Then use `E.23` with `NSTD.6` as the object-under-improvement evaluation.
 
 ```text
 NarrativeRenderingImprovementLoopInput@Context:
@@ -176,7 +176,7 @@ NarrativeRenderingImprovementLoopInput@Context:
   stopContinueSwitchOrHoldCondition:
 ```
 
-`E.23` may claim improvement only after the changed object version is re-evaluated through `NSTD.6` or through a declared stronger evaluation. If the loop changes the source pack, source-currentness, generated-carrier admission, learning publication carrier, publication face, ethics claim, evidence claim, assurance claim, or evaluation characteristic space, the loop must name the neighboring governing pattern and either keep it as the allowed change slice or open separate work. Style edits, prompt retries, or additional drama are admissible loop operations only when their expected movement under `NSTD.6` is stated and protected trade-offs are checked. `B.4` is relevant only when the narrative episteme or learning route is claimed to evolve across use and renewed operation; `G.11` handles refresh when source currentness, reader telemetry, teaching-test evidence, generated-narrative practice, or FPF edition changes.
+`E.23` may claim improvement only after the changed object version is re-evaluated through `NSTD.6` or through a declared stronger evaluation. If the loop changes the source pack, source-currentness, generated-carrier admission, learning publication carrier, publication face, ethics claim, evidence claim, assurance claim, or evaluation characteristic space, the loop must name the neighboring governing pattern and either keep it as the allowed change slice or open separate work. Style edits, prompt retries, or additional drama are admissible loop operations only when their expected movement under `NSTD.6` is stated and protected trade-offs are checked. `B.4` is relevant only when the narrative episteme or learning route is claimed to evolve across use and renewed operation; `G.11` handles a change in source currentness, reader telemetry, teaching-test evidence, generated-narrative practice or FPF edition when it could alter support for the receiving use; retain sufficient unaffected results.
 
 Before assigning values, recover the source and use basis for the question being answered.
 
@@ -184,7 +184,7 @@ For current-product evaluation, name the selected subject structures, intended r
 
 For a promised transformation, compare the named source and result versions against the promised preservation or change. This can establish their present fidelity relation without establishing the actual sequence of manufacturing actions. For a claim about actual construction or repair, obtain records or other admissible evidence of those actions and distinguish them from a plausible reconstruction. Trace the applicable `NSTD.1` selection, `NSTD.2` ordering, `NSTD.3` mechanism, `NSTD.4` viewpoint, `NSTD.5` engagement and `NSTD.8` learning-route decisions. If their history cannot be established, leave that historical or assurance claim unsupported and return it to its owner. A good product does not supply the missing history.
 
-A candidate can be evaluated before acceptance; the result can inform acceptance, repair or rejection. Additional requirements follow from the proposed use and claims. When generated or discovered content is intended to inform architecture work, `C.35` supplies that assessment. Reuse as evidence follows `A.10`; assurance, publication authority and actual human learning-effect claims require their own grounds. None of those conclusions follows merely from a favourable narrative-quality result.
+A candidate can be evaluated before acceptance; the result can inform acceptance, repair or rejection. Additional requirements follow from the proposed use and claims. When generated or discovered content is intended to inform architecture work, `C.35` supplies that assessment. Reuse as evidence requires the relevant subject grounds; `A.10` recovers the source-to-use account when it is implicit or must remain replayable. Assurance, publication authority and actual human learning-effect claims require their own grounds. None of those conclusions follows merely from a favourable narrative-quality result.
 
 Use this evaluation sequence:
 
@@ -210,7 +210,7 @@ Missingness and lowering rules:
 | Only an intended effect or seed is available, without an identifiable narrative account | No narrative version is yet available for this evaluation. Develop the cue through `A.16.1`, `NSTD.1` or `NSTD.2`, or evaluate the cue for its own use. |
 | An intended persuasive use conceals a material uncertainty, risk or alternative needed for the reader's choice | `EngagementBoundedness` no higher than `3`; restore that condition or alternative through `NSTD.5`. If a consequential value or harm question remains, identify the affected party and question and use the applicable `D.1`–`D.5` contribution. An ordinary curiosity device alone requires no additional ethics work. |
 | Generated account has not yet been accepted for use | Evaluate the available candidate and retain the grounds and limits of each result. Use `NSTD.7` for generation repair; use `C.35` only when the result is intended to inform architecture work. |
-| Evidence or assurance claim made without owner | Qualify the unsupported claim and route it to `A.10` or `B.3`; lower a relevant quality value only under its own meaning. An unsupported structural amount is unassigned rather than numerically penalized. |
+| Unsupported evidence or assurance claim | Qualify the unsupported claim and recover its defining or testing rule. Use `A.10` for an implicit or needed replayable source-to-use account, and `B.3` for an actual named assurance claim. Lower a relevant quality value only under its own meaning. An unsupported structural amount is unassigned rather than numerically penalized. |
 | Manufacturing or repair history absent while the current-product basis is available | Do not lower a product characteristic for this absence alone. Leave any historical claim unsupported and return the evidence or assurance question to its owner; apply every relevant source, use, admission and missingness rule independently. |
 
 A defined trial that recovers none of the selected relations supports observed recovery `0` on that scale, not impossible extraction. An empty denominator supports no fraction. Wrong-kind handling precedes amount assignment. A qualified design estimate can remain available without an actual trial; obtain a trial when its possible outcomes can change the receiving decision.
@@ -310,7 +310,7 @@ The other characteristics use their own ordinal quality meanings:
 #### NSTD.6:5.5 - Evaluation-to-improvement repair input without process theatre
 
 
-`NSTD.6` does not create a big improvement program. It creates result rows. A repeated improvement loop needs only:
+`NSTD.6` returns an evaluation of the narrative. For repeated improvement, the following compact input can make the object, intended change and comparison recoverable:
 
 ```text
 NarrativeRenderingImprovementLoopInput@Context:
@@ -322,7 +322,7 @@ NarrativeRenderingImprovementLoopInput@Context:
   expectedReEvaluationForm: rerun the affected `NSTD.6` rows and any neighbor owner checks
 ```
 
-If the change is "regenerate until better", the object version and changed slice are gone. If the change is "add a source-return link and an analogy-stop task", `E.23` can operate and `NSTD.6` can re-evaluate.
+Regeneration can supply a candidate change when the compared versions, relevant changes, protected qualities and re-evaluation remain recoverable. Adding a source-return link and an analogy-stop task is another possible repair. `E.23` compares the changed result under the selected evaluation; a more engaging draft alone does not establish improvement.
 
 
 
@@ -362,7 +362,7 @@ This pattern blocks proxy-as-quality drift: readability, fluency, liking, engage
 | Fluency benchmark value as quality | Smoothness replaces structure recovery. | Inspect the selected relations and evidence. Return a missing basis or repair a demonstrated loss through `NSTD.1` through `NSTD.3`; fluency alone establishes neither a high nor a low amount. |
 | Style repair as precision repair | A nicer wording pass is treated as sufficient while relation kind, quality sense, language-state threshold, or coarsening loss remains hidden. | Lower `LanguageStatePrecisionAndCoarseningFit` for the unresolved defect. Clarify it directly when its meaning is determined, or use the relevant precision, coarsening, explanation or language-state pattern for the remaining question. Re-evaluate the repaired rendering before claiming improvement. |
 | Prompt loop as improvement | The worker keeps regenerating more engaging drafts without a named object version, allowed change slice, protected trade-offs, or re-evaluation. | Open `E.22` when needed, route the repair to `E.23`, and re-evaluate the changed version through `NSTD.6`; otherwise retain it as a candidate without claiming improvement. |
-| Evaluation theft | Quality result is used as evidence, assurance, or gate. | Keep `NSTD.6` as evaluation; route wider use to `A.10`, `B.3`, or gate owner. |
+| Overextending a quality result | A narrative-quality result is taken to establish a wider evidence, assurance or gate claim without that claim's grounds. | Keep the narrative-quality result at its supported scope and obtain the grounds required by the wider use. Use `A.10` for an implicit or needed replayable source-to-use account, `B.3` for an actual named assurance claim, and the gate's governing pattern for its decision. |
 | Evaluating a different object | A judgement about one narrative is used to rate its generator, source archive or whole course. | Select the evaluation for that object. A script or generated draft can still be assessed as a narrative when it expresses one. |
 | Reconstructed history as evidence | A plausible route inferred from a good product is reported as the author's actual construction or repair. | Retain the current-product result and mark the historical claim unestablished until its own evidence is obtained. |
 | Characteristics as eval programs | Test scripts or automated checks are treated as characteristics. | Keep characteristics in `A.19.ECS`; automated evals are measurement or eval-program carriers under direct owners. |

@@ -190,13 +190,12 @@ platform development, and Method development can overlap and recur; choose Work 
 | use boundary | Actual System or intended System referent selected for engineering, use, configuration, conditions, horizon, account users, recurring results and protected losses; product-use grounds and bounded acceptance when it is a creator. |
 | Method choices and open cues | Methods retained now, alternatives, replacements, exclusions, proposed developments, unresolved cues, and relied-on MethodDescriptions or direct sources. |
 | Method identity | For each Method: reusable action, generic participant meanings, intended result or preserved condition, applicability, and limits. |
-| Method relations | Supported classifications, whole–part participation, alternatives, refinements or replacements, result uses, and compatibility claims. Table order supplies no relation. |
+| Method relations | Supported classifications, whole–part participation, alternatives, refinements or replacements, result uses, and compatibility claims. |
 | representative Work evidence | Work situation, performing Agents, assignments, enacted Methods, relevant Systems, results, evidence limits, System consequences, integration loss, cost, time, capability, and platform observations. |
 | separate realization gaps | Missing capable Agent, assignment, provider result, platform capability, permission, evidence, or authority; receiving decision for each gap. |
 | decision and currentness | Authorized choosing Agent, retained and excluded Methods, reasons, accepted losses, source status, currentness window, and material reconsideration conditions. |
 
-Use a `G.5` shortlist or joint-use set only when a later selector needs that formal result. The ordinary repertoire
-account does not create Method membership, capability, provider availability, cultural uptake, or performed Work.
+Use a `G.5` shortlist or joint-use set only when a later selector needs that formal result.
 
 #### SYSE.15:4.3 - What Changes in Practice
 

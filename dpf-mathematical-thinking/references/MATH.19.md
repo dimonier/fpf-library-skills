@@ -247,11 +247,11 @@ The working question is how to construct a missing mathematical argument from av
 
 Avigad, Lewis and van Doorn's [Logic and Proof, §3.3](https://leanprover-community.github.io/logic_and_proof/natural_deduction_for_propositional_logic.html#forward-and-backward-reasoning) gives an explicit account of the two reasoning directions and hypothesis scope. The current [Theorem Proving in Lean 4, Tactics](https://lean-lang.org/theorem_proving_in_lean4/Tactics/) shows how applying a result creates premise goals and how local intermediate claims organize a derivation. Here those contributions inform :4.1-.3/:4.5; using Lean is optional.
 
-Tao's [mathematical research advice](https://www.math.ucla.edu/~tao/advice.html) connects progress at lemma scale with the larger problem and recommends changing the point of attack when present methods are insufficient. The pattern gives that move concrete form through a failed intermediate claim and its revised continuation. This source is methodological advice, not a completeness guarantee for proof search.
+Tao's [mathematical research advice](https://www.math.ucla.edu/~tao/advice.html) connects progress at lemma scale with the larger problem and recommends changing the point of attack when present methods are insufficient. The pattern gives that move concrete form through a failed intermediate claim and its revised continuation.
 
 A direct calculation or an already applicable theorem is preferable when it settles the claim with less effort. Unstructured forward manipulation becomes a poor alternative when it leaves the target unchanged; a single backward chain becomes a poor alternative when its generated premise cannot be obtained. The adopted combination changes :4.2-.4, as the missing commutation lemma and accumulator generalization demonstrate.
 
-The sources provide construction methods and inspectable formal mechanisms. They do not make the proposed heuristic complete for all mathematical theories. Reopen the chosen proof route when a premise changes, a lemma fails, a better theorem or representation becomes available, or the receiver needs a constructive output or execution property not yet supplied.
+The sources provide construction methods and inspectable formal mechanisms. Reopen the chosen proof route when a premise changes, a lemma fails, a better theorem or representation becomes available, or the receiver needs a constructive output or execution property not yet supplied.
 
 ### MATH.19:12 - Relations
 

@@ -104,9 +104,9 @@ Keep quantum queries or stronger observation primitives outside a classical-quer
 
 State the bound, input family, access, error and cost conditions together. Indicate whether it rules out the requested budget, establishes optimality within an order, or leaves a gap.
 
-Identify a consequential escape: restrict the input by a defensible promise, allow a weaker answer or error probability, acquire an additional observation, preprocess and retain information, use a stronger primitive, or change the representation. Determine which premise of the lower-bound argument that change removes, then construct the new procedure. Renaming the same operations does not escape the bound.
+Identify a consequential escape: restrict the input by a defensible promise, allow a weaker answer or error probability, acquire an additional observation, preprocess and retain information, use a stronger primitive, or change the representation. Determine which premise of the lower-bound argument that change removes, then construct the new procedure.
 
-Use C.11.DUA to decide whether proving a tighter bound or obtaining additional information would change the next move. A sufficient lower bound can already justify changing the task; there is no obligation to solve a harder open complexity question first.
+Use C.11.DUA to decide whether proving a tighter bound or obtaining additional information would change the next move. A sufficient lower bound can already justify changing the task.
 
 ### CMP.11:5 - Archetypal Grounding
 
@@ -181,7 +181,7 @@ How can a performance limit cover procedures not yet invented? **Adopt** the dec
 
 For randomized access, **adopt** the explicit separation of deterministic, zero-error, bounded-error and expected-cost models in [Blais's *Randomized Complexity*, query-complexity treatment](https://cs.uwaterloo.ca/~eblais/cs860/w25/queryseparations), for :4.1 and :4.4. The coupled proof in :5.1 supplies its own bound rather than transferring a deterministic adversary unchanged. A direct coupling is lighter than a general minimax argument when it settles the limit; an input-distribution or stronger information method is useful when the simple pair does not. Changed promises, error or cost quantifiers reopen that selection.
 
-The same course's [communication-complexity treatment](https://cs.uwaterloo.ca/~eblais/cs860/w25/communication), following Rao and Yehudayoff's 2020 account, supplies the transcript and public-randomness distinction adapted in :5.3. A full string is the simple zero-error choice; random parity accepts bounded error to reduce communication while retaining local computation and shared randomness. A changed requirement for zero error, private randomness or adaptive adversarial inputs changes the comparison. This bounded choice does not claim that communication, query and physical limits are interchangeable.
+The same course's [communication-complexity treatment](https://cs.uwaterloo.ca/~eblais/cs860/w25/communication), following Rao and Yehudayoff's 2020 account, supplies the transcript and public-randomness distinction adapted in :5.3. A full string is the simple zero-error choice; random parity accepts bounded error to reduce communication while retaining local computation and shared randomness. A changed requirement for zero error, private randomness or adaptive adversarial inputs changes the comparison.
 
 ### CMP.11:12 - Relations
 

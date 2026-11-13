@@ -81,7 +81,7 @@ A sufficient current Method or result can finish the use directly. Otherwise the
 
 Recognizable schools and recipes make communication cheap but hide unlike functions: diagnosis, participation, strategy, process guidance, determinant analysis, evaluation, training, reinforcement, structural change, resource provision, and cultural work. A complete sequence is often applied when one bounded repair would do.
 
-A useful OCE Method result therefore preserves what each item is for, its candidate or admitted status, situation claims, mechanism hypotheses, implementation outcomes, organization results, and adaptation triggers. The harder situation is a competent current practice that obtains today's result with help, while a changed receiving contribution exposes a missing reusable move. The practitioner must decide whether to keep that adequate supported continuation, repair its conditions, or develop a different procedure. Naming the desired fields in a procedure does not make that choice or construct its actions.
+A useful OCE Method result therefore preserves what each item is for, its candidate or admitted status, situation claims, mechanism hypotheses, implementation outcomes, organization results, and adaptation triggers. The harder situation is a competent current practice that obtains today's result with help, while a changed receiving contribution exposes a missing reusable move. The practitioner must decide whether to keep that adequate supported continuation, repair its conditions, or develop a different procedure.
 
 ### OCE.15:2 - Problem
 

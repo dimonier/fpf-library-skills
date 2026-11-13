@@ -45,7 +45,7 @@ the relevant Music or Dance results.
 A compact first move is:
 
 > For decision **D**, observe subject **S** under conditions **C** with observer or instrument **W**, compare it
-> with **K**, and do not use the result to claim **L**.
+> with **K**, and retain any material limit on the resulting claim.
 
 For example: “To decide whether to retain this Balboa exercise, ask the partner when weight transfer became
 readable, align that report with video and sound, compare three articulation variants, and do not treat partner
@@ -53,7 +53,7 @@ readability as evidence of whole-style recognition.”
 
 The first useful result names the decision, the world-side subject, the indication being used, the observer or
 instrument, the direct observation Method, the conditions and representation, the comparison basis, the resulting
-judgement, and the claim that remains unsupported.
+judgement, and any unsupported claim that matters to that decision.
 
 Use direct listening, movement-analysis, participant-observation, motion-capture, sensing, judging, ethnographic,
 corpus, historical, audience-study, or other domain Methods for their own results. Use this pattern only when
@@ -327,7 +327,7 @@ A competent manual comparison of this pair already supplies the answer; no autom
 account is needed. A larger compatible corpus may warrant the source's rhythm-aware approach, with its material
 restrictions retained. The source treatment excludes grace-note detail, polyphony and meter changes; this grid
 also does not capture expressive timing. Reopen the representation choice when one of those distinctions matters.
-Neither sequence similarity nor the corrected correspondence decides artistic value or audience recognition.
+
 
 
 ##### MDPE.12:4.3.1 - Score study and memory with timed vocal groups
@@ -338,7 +338,7 @@ In its *Marriage of Figaro* example, each underlined group occupies one minim. `
 
 The stanza makes the phrase's expansion available for study: a one-bar opening is followed by a two-bar development and a three-bar continuation, resolving at the start of bar seven. Use the recurrence and grouping to explain or recall that passage. Keep the score available for pitch, articulation and the sounding or silent parts of each group. Return to it when preparing the actual instrumental passage or comparing a changed version.
 
-If a revision changes a cell's duration or replaces part of its sound with a rest, obtain the new timing from the score and revise the timed stanza where necessary. A retained mnemonic word alone does not establish that its cell is unchanged. Then reconsider the larger grouping. For example, a longer cell can move the following entry even when all the spoken labels remain the same. Use the article directly when it already answers the score-study question; MDPE.23 applies when a learner's recognition or performance still needs a separate judgement.
+If a revision changes a cell's duration or replaces part of its sound with a rest, obtain the new timing from the score and revise the timed stanza where necessary. Then reconsider the larger grouping. For example, a longer cell can move the following entry even when all the spoken labels remain the same. Use the article directly when it already answers the score-study question; MDPE.23 applies when a learner's recognition or performance still needs a separate judgement.
 
 #### MDPE.12:4.4 - Institutional visibility versus actual practice
 
@@ -411,7 +411,7 @@ instead of inventing a source or blocking every bounded action.
 
 - `MDPE.5` supplies a performance occurrence, actual conditions, and direct artifacts.
 - `MDPE.11` supplies enacted material or material changed during Work for the observation and comparison here.
-- `MDPE.10` supplies a capability claim only after representative Work; one fluent rehearsal is insufficient.
+- `MDPE.10` supplies a capability claim from representative receiving Work evidence adequate for that claim. A fluent rehearsal supports only the conditions and capability it actually exposes.
 - `MDPE.23` develops and tests recognition capability; `MDPE.13` designs recurring recognition-and-selection
   arrangements.
 - `MDPE.19` and `MDPE.20` can use compatible observations for continuation and possible-trajectory decisions while

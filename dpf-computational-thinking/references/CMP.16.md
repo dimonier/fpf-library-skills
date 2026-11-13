@@ -36,13 +36,13 @@ dependencies:
 
 **Use this when** you can state behavior that a computation must obtain, but the available units and operations do not yet give a workable way to obtain it. The difficulty can appear before implementation or after a change: separately sensible steps do not compose, a small unit discards information the join needs, or every client must repair the same invalid intermediate arrangement.
 
-The useful move is to design the units and their permitted operations together. Try constructing the required whole, recover what a failed join needs, and change the unit, the operation or the conditions of assembly. Then connect that computational abstraction to an obtainable implementation. The result is a usable level of operations with grounds for its whole behavior, not merely names for larger objects.
+The useful move is to design the units and their permitted operations together. Try constructing the required whole, recover what a failed join needs, and change the unit, the operation or the conditions of assembly. Then connect that computational abstraction to an obtainable implementation. The result is a usable level of operations with grounds for its whole behavior.
 
 For example, deciding whether each text fragment is locally balanced loses information needed to decide whether their concatenation is balanced. A richer fragment meaning can make the join both simple and general. In a continuing service, exposing separate count reads and writes can invite invalid combinations; a state-changing operation with an explicit admission rule can make a capacity condition maintainable. Neither remedy is selected by choosing a storage format alone.
 
 The reader can follow operations on a state and an elementary invariant argument. C.29.2 supplies the computational question and the available model. MATH.17 supplies composition and its closure conditions; MATH.18 supplies interpretation between levels. CMP.2, CMP.10, CMP.12 and CMP.14 develop particular recursive, storage, interpretation and interaction contributions when the construction below needs them.
 
-Keep known adequate units and operations when they already serve the work. Use CMP.10 directly when the operations are sufficiently known and only their representation needs improvement. Use CMP.13 when the question is how to obtain a cheaper sound analysis of a computation. This method instead constructs the units and operations used to obtain the behavior itself. It does not replace the subject inquiry that determines what behavior is useful, or supply an unavailable physical primitive by naming it.
+Keep known adequate units and operations when they already serve the work. Use CMP.10 directly when the operations are sufficiently known and only their representation needs improvement. Use CMP.13 when the question is how to obtain a cheaper sound analysis of a computation. This method instead constructs the units and operations used to obtain the behavior itself. It does not replace the subject inquiry that determines what behavior is useful.
 
 ### CMP.16:2 - Problem
 
@@ -85,7 +85,7 @@ Suppose each proposed part has supplied exactly its promised result. Attempt the
 - Pass context or postpone a choice when a part cannot correctly decide without information available at the join.
 - Change the decomposition when obtaining the missing contribution would repeat the original difficulty or exceed the resource limit.
 
-Try a simple alternative alongside the favored design. Keeping the original units and checking the final result can be cheaper when invalid assemblies are rare and harmless. A stronger constructor is useful when it makes repeated use or reasoning materially easier. Neither is universally preferable.
+Try a simple alternative alongside the favored design. Keeping the original units and checking the final result can be cheaper when invalid assemblies are rare and harmless. A stronger constructor is useful when it makes repeated use or reasoning materially easier.
 
 #### CMP.16:4.3 - Give the proposed unit a meaning through its uses
 
@@ -95,7 +95,7 @@ Decide which distinctions can be hidden. If two lower-level states represent the
 
 For pure composition, state the operations and the laws the intended assembly uses. Associativity permits regrouping, not reordering. An identity supplies an empty case; an inverse is needed only if the proposed operation undoes a contribution. For stateful behavior, state admissible transitions and observations instead of forcing it into a pure algebra. For a language of descriptions, specify constructors and meanings; CMP.12 develops the corresponding interpreter or translation.
 
-This is an abstraction boundary only when clients can use the stated operations without depending on hidden detail. If a client bypasses it by editing internal state or inspecting an undocumented encoding, either include that behavior in the agreement or remove the bypass. Merely putting fields behind a class name does not establish the boundary.
+This is an abstraction boundary only when clients can use the stated operations without depending on hidden detail. If a client bypasses it by editing internal state or inspecting an undocumented encoding, either include that behavior in the agreement or remove the bypass.
 
 #### CMP.16:4.4 - Obtain the operations and establish usable composition
 
@@ -119,13 +119,13 @@ This equation explains why independently obtained summaries can replace the sour
 
 Also connect progress and resource claims. A lower-level operation can preserve every completed observation while looping forever before producing one. A correct response can miss the required deadline. A finite sequence of abstract operations can expand into unaffordable work. Do not transfer termination, responsiveness or unit cost merely because a value correspondence holds.
 
-At the physical boundary, preparation, actual evolution and readout must supply the relation assumed here. A new physical unit may require an engineering change; it is not automatically created by a new encoding. Use C.29.3 to obtain that connection and carry any unresolved condition back to the promised whole.
+At the physical boundary, preparation, actual evolution and readout must supply the relation assumed here. A new physical unit may require an engineering change. Use C.29.3 to obtain that connection and carry any unresolved condition back to the promised whole.
 
 #### CMP.16:4.6 - Compare the complete work and preserve the useful level
 
 Count constructing and converting units, performing their operations, maintaining their invariants, communicating and obtaining the final observations. Include the information retained for later operations. CMP.10 compares concrete storage and access choices; CMP.3 handles shared subcomputations. A cheap abstract join can still require large construction or output work.
 
-Choose a sufficient implementation without unnecessarily exposing it above the boundary. This permits a later replacement when it preserves the operations and observations on which clients rely. A change from a list to a tree can preserve a sequence interface while changing costs. A change from ordered delivery to unordered delivery does not preserve a client that observes order, however similar the names remain.
+Choose a sufficient implementation without unnecessarily exposing it above the boundary. This permits a later replacement when it preserves the operations and observations on which clients rely. A change from a list to a tree can preserve a sequence interface while changing costs. A change from ordered delivery to unordered delivery does not preserve a client that observes order.
 
 When no arrangement satisfies all demands, return the precise conflict: a missing observation, an unsupported operation, an unaffordable construction or an unavailable realization. CMP.1 and CMP.11 can establish relevant impossibility or lower-bound claims; a failed design alone does not establish them. A qualified weaker result is useful only when its receiver accepts the difference.
 
@@ -135,7 +135,7 @@ Vary an input family, required observation, operation, interaction or resource l
 
 Preserve unaffected constructions. A new query can require another summary while leaving the source composition intact. A concurrency requirement can preserve abstract operations while invalidating a sequential implementation. A changed subject interpretation can leave an algorithm correct for its earlier mathematical question but unsuitable for the receiving work. These are different returns.
 
-Finish with the usable units and operations, their construction, the reason their permitted assembly obtains the required behavior, and the implementation and resource conditions on which that use depends. The result need not be a new framework or a universal interface. It must let the recipient perform the intended whole without privately inventing its missing join.
+Finish with the usable units and operations, their construction, the reason their permitted assembly obtains the required behavior, and the implementation and resource conditions on which that use depends. It must let the recipient perform the intended whole without privately inventing its missing join.
 
 ### CMP.16:5 - Archetypal Grounding
 
@@ -201,13 +201,13 @@ Initialization establishes `active = {}`. An admitted acquisition changes its si
 
 This is a safety argument for the stated operations. It does not establish that a waiting caller eventually receives permission; that requires available releases and a selection policy. Nor does it settle retry after a lost acquisition reply. If the required behavior gives one grant per logical request, request identity and the retry protocol must be added through CMP.14. The old operations still explain their narrower behavior but not that stronger service.
 
-**Changed execution condition.** Two callers now execute the acquisition body concurrently. With `K = 1`, both can observe an empty set before either inserts a ticket, then insert different tickets. The abstract invariant was not wrong; the implementation no longer supplies the atomic transition it assumed. One remedy serializes the check and insertion through an available exclusive mechanism. CMP.14 develops its permitted histories and progress conditions; C.29.3 establishes whether the chosen executor supplies the required operation. Renaming the body `atomic_acquire` supplies neither.
+**Changed execution condition.** Two callers now execute the acquisition body concurrently. With `K = 1`, both can observe an empty set before either inserts a ticket, then insert different tickets. The abstract invariant was not wrong; the implementation no longer supplies the atomic transition it assumed. One remedy serializes the check and insertion through an available exclusive mechanism. CMP.14 develops its permitted histories and progress conditions; C.29.3 establishes whether the chosen executor supplies the required operation.
 
 The ticket implementation also has conditions. A bounded counter can wrap, and a restart can forget active grants. Restricting the lifetime, preserving state or changing the ticket construction needs an argument covering the actual use. Those conditions can select another representation without changing the abstract service, or reveal that its former promise cannot be maintained. This is a continuing computational abstraction, not a terminating calculation whose final count alone defines success.
 
 ### CMP.16:6 - Bias-Annotation
 
-Familiar abstractions can bias the designer toward a representation before the required observations are understood. A successful small assembly can conceal an excluded case or an expensive constructor. Conversely, fascination with general interfaces can replace a sufficient direct computation with unnecessary machinery. Use a consequential changed condition and a simple alternative to expose these biases; neither forces a universal design.
+Familiar abstractions can bias the designer toward a representation before the required observations are understood. A successful small assembly can conceal an excluded case or an expensive constructor. Conversely, fascination with general interfaces can replace a sufficient direct computation with unnecessary machinery. Use a consequential changed condition and a simple alternative to expose these biases.
 
 An implementation specialist may privately supply an atomic operation, a stable identity or an invariant repair that the description omitted. Keep that contribution explicit. A mathematically convenient model and a physical or organizational arrangement can differ at precisely the step the abstraction hides.
 
@@ -223,7 +223,7 @@ For assurance of the selected construction, establish the consequential claims:
 - progress and resource conditions distinct from value correspondence;
 - the first changed action or representation under a consequential variation.
 
-Use evidence suited to the conclusion. A trace can refute a claim; a general preservation claim needs its applicable argument; an actual realization needs its implementation basis. Neither a well-named interface nor a correct example establishes all three.
+Use evidence suited to the conclusion. A trace can refute a claim; a general preservation claim needs its applicable argument; an actual realization needs its implementation basis.
 
 ### CMP.16:8 - Common Anti-Patterns and How to Avoid Them
 
@@ -240,7 +240,7 @@ Use evidence suited to the conclusion. A trace can refute a claim; a general pre
 
 The construction can make a whole easier to obtain, explain and change by moving a repeated obligation into suitable units and operations. A client can then reason at that level while implementations vary within the established correspondence. It can also expose that a proposed abstraction loses coverage, needs unavailable support or costs more than direct work.
 
-The burden is designing and maintaining the boundary, its operations and their grounds. The method supplies no universal algorithm for inventing the best abstraction. Its useful result can be one sufficient construction or a precise unresolved join; a local failure does not prove that no computational way exists.
+The burden is designing and maintaining the boundary, its operations and their grounds. Its useful result can be one sufficient construction or a precise unresolved join; a local failure does not prove that no computational way exists.
 
 ### CMP.16:10 - Architectural Rationale
 
@@ -248,7 +248,7 @@ The intended whole constrains the units, and attempted composition tests that ch
 
 Choosing a data structure is a serious alternative when the operations are already adequate; CMP.10 supplies it. Recursive decomposition is useful when subproblems and sufficient returns yield a finite answer; CMP.2 supplies that construction. Direct validation of a complete candidate can be cheaper than restricting every intermediate state. The present method is needed when units and operations must change together to make the whole obtainable or its repeated use tractable. CMP.13's approximate analysis can help establish a property, but it has a different result from the computational interface being designed.
 
-The method permits several levels and several implementations. It does not require all of a program to use one abstraction style, all operations to be pure, or every implementation detail to be hidden. Reveal the detail that the receiving observation or resource argument needs; keep a boundary only where its promised independence is justified.
+The method permits several levels and several implementations. Reveal the detail that the receiving observation or resource argument needs; keep a boundary only where its promised independence is justified.
 
 ### CMP.16:11 - SoTA-Echoing
 
@@ -256,7 +256,7 @@ The method permits several levels and several implementations. It does not requi
 
 [SICP's abstraction barriers](https://sicp.sourceacademy.org/chapters/2.1.2.html) give a historical worked account of clients using operations independently of a selected lower representation. Here the boundary is selected from the required whole and includes consequential continuing behavior. A simpler direct representation remains preferable when the boundary adds no useful independence.
 
-The maintained [Verified Functional Algorithms chapter on abstract data types](https://softwarefoundations.cis.upenn.edu/vfa-current/ADT.html) makes interfaces, operation specifications and implementation proof obligations explicit through executable formal examples. It supplies a stronger checking option when those obligations warrant mechanization. A module signature can enforce the exposed structure; the stated behavioral laws still need their proofs. The construction here does not require that proof technology for every ordinary use and does not infer a semantic guarantee from type compatibility alone.
+The maintained [Verified Functional Algorithms chapter on abstract data types](https://softwarefoundations.cis.upenn.edu/vfa-current/ADT.html) makes interfaces, operation specifications and implementation proof obligations explicit through executable formal examples. It supplies a stronger checking option when those obligations warrant mechanization. A module signature can enforce the exposed structure; the stated behavioral laws still need their proofs.
 
 MATH.17 and MATH.18 supply the composition and interpretation grounds used here. CMP.12 and CMP.14 carry the developed alternatives needed when control, effects or interaction change those grounds. Reopen a design when a new required observation, affordable implementation, admissible operation or execution condition changes the balance among these alternatives.
 

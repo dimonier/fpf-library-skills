@@ -115,7 +115,7 @@ Stop when the receiving decision is supported or the material unknown is named. 
 
 ### RHY.14:5 - Archetypal Grounding
 
-These cases use constructed observations. They demonstrate interpretation and calculation, not field findings.
+These cases use constructed observations to demonstrate interpretation and calculation.
 
 #### RHY.14:5.1 - A smaller average hides an unmatched attack
 
@@ -193,11 +193,11 @@ RHY.4 establishes a usable timing relation and its correction; RHY.7 compares se
 | Lau et al.'s [robot ensemble integration](https://doi.org/10.7717/peerj-cs.2632), used in RHY.9 | Preserve the distinction between endpoint and within-passage coordination. | Reuse a sufficient endpoint result for an endpoint question; inspect internal relations only when the task needs them. |
 | MDPE.12, with RHY.4 and RHY.7 | Use task-specific rhythmic observations inside a broader comparison of performance and response. | A convenient timing or structural metric can be sufficient locally; it is not a substitute for a missing receiving response. |
 
-For a concrete comparison, consider choosing between two passages when the session designer needs to preserve both reported enjoyment and attraction to movement. Prefer separately named pleasure and wanting-to-move responses over one combined “groove” judgement. The body-map study's separate tasks inform this choice; the following justification is a methodological argument, not a reported test of competing questionnaires. In the constructed case in RHY.14:5.3, the responses rank the passages differently. A combined judgement cannot say which aim a choice serves. Using the same passages and respondent with one additional short question preserves that distinction at a small but real response burden; no time saving has been measured. RHY.14:4.4 makes that task choice and :4.5 keeps the results separate.
+For a concrete comparison, consider choosing between two passages when the session designer needs to preserve both reported enjoyment and attraction to movement. Prefer separately named pleasure and wanting-to-move responses over one combined “groove” judgement. The body-map study's separate tasks inform this choice; the following justification is a methodological argument, not a reported test of competing questionnaires. In the constructed case in RHY.14:5.3, the responses rank the passages differently. A combined judgement cannot say which aim a choice serves. Using the same passages and respondent with one additional short question preserves that distinction at a small but real response burden. RHY.14:4.4 makes that task choice and :4.5 keeps the results separate.
 
 A single holistic judgement remains adequate when that is the actual choice criterion; ask only the one specific question when the other response cannot change the decision. If the claim concerns coordinated movement, use an appropriate movement observation instead. This accepts its greater preparation and performance burden only for that different claim. Reconsider the chosen response task when the aim, participants or meaningful distinctions change.
 
-The event-matching and continuous-course instructions form a methodological synthesis. No universal detector, response scale or rhythm-quality measure is selected. Revisit a source or procedure when a new material, observation task, population or detector behaviour changes the relevant comparison.
+The event-matching and continuous-course instructions form a methodological synthesis. Revisit a source or procedure when a new material, observation task, population or detector behaviour changes the relevant comparison.
 
 ### RHY.14:12 - Relations
 

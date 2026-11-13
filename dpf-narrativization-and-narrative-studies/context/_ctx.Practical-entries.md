@@ -55,7 +55,7 @@ Consider a constructed case: a character uses a key on Tuesday, but the supplied
 
 If an LLM drafts scenes, **NSTD.7** connects these same decisions to generation: selected sources and constraints, content plan, ordering plan, wording, source comparison and evaluation before deciding the intended use. When fidelity remains in doubt, change the supplied access condition and inspect whether the generated scene responds, or ask a reader to reconstruct it without the prompt. A fluent scene that silently invents another key returns to planning or source qualification. The author remains responsible for accepting the scene. Publication rights require their own determination.
 
-The result can be one usable scene, a repaired sequence or an unresolved source question. There is no need to construct an entire fictional universe before obtaining that result.
+The result can be one usable scene, a repaired sequence or an unresolved source question.
 
 #### NSTD-LEARNING - Teach selection and use of methods across unfamiliar cases
 

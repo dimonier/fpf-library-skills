@@ -291,9 +291,8 @@ a complete builder hierarchy. A branch can stop at an adequate supplied result.
 
 Explain each consequential propagation. A new protocol may require an adapter because its timing differs;
 an evidence result may need renewal because its configuration basis changed; a rig may require requalification
-because its emulator now represents a different physical response. “Everything depends on everything” gives
-no place to intervene. Conversely, an unchanged interface name does not show that timing, failure behaviour
-or support demands remain unchanged.
+because its emulator now represents a different physical response. Check timing, failure behaviour and support
+demands even when the interface name is unchanged.
 
 Distinguish two mechanisms that often get mixed:
 
@@ -344,8 +343,7 @@ When architecture and team responsibilities must change together, involve the af
 the same technical reasoning. Explain the constraint that failed, the proposed boundary, what later decisions
 are fixed or still open, and the evidence that would overturn the proposal. Ask the production, test and service
 contributors to carry the scenario through their work and return an incompatibility they can substantiate.
-This is part of making the technical choice usable; a diagram or an announcement does not produce shared
-understanding. Organization redesign, assignments and authority still need their own decisions and Methods.
+Organization redesign, assignments and authority still need their own decisions and Methods.
 `SYSE.6:4.1` supplies the architecture decision's fixed/open constraints and receiving uses.
 
 ##### SYSE.23:4.1.4 - Compare the transition as well as the possible future
@@ -556,9 +554,9 @@ applicable. These are the actual proposed joins. A matching connector or schema 
 The controller engineers can retain the other components only if the boundary preserves their relied-on
 behaviour under the required load. Test engineers can reuse a result only if the supplier change leaves the
 claim and its applicable conditions supported. Release team `RT2` must obtain support or capability for
-the new evidence argument before it is relied on. The investment can include obtaining that contribution;
-the present capability gap cannot be erased by the investment decision. The coupled slice is viable for
-development when those bounded contributions can be obtained within the stated commitment and window.
+the new evidence argument before it is relied on. The investment can include obtaining that contribution.
+The coupled slice is viable for development when those bounded contributions can be obtained within the
+stated commitment and window.
 
 The team also examines transition. Existing controllers continue using the old boundary and qualified test
 configuration while the new slice is prepared. Rig time for supporting them competes with time for adapting
@@ -736,7 +734,8 @@ make a Method or mechanism preferable.
   capabilities; `SYSE.13` for configuration and effectivity; `SYSE.15` for the Method repertoire; and `SYSE.20`
   for Method-and-Work structures. Each result keeps its own subject and use boundary.
 - `SYSE.23:4.1.1–SYSE.23:4.1.6` explains how to turn a future-change scenario into a target–builder investment comparison, including propagation, transition, joint conditions and continuing burden. `SYSE.22:4.1.6` receives a changed feasibility or burden premise only at the strength established by the investment or later Work.
-- Use `C.25` only after the quality bearer and Q-Bundle have been recovered. Use `C.30` for obtaining
+- Use `C.25` when composition among quality contributors matters: recover the bearer and those contributors
+  through its construction, retaining a single Characteristic when that suffices. Use `C.30` for obtaining
   architecture relations and selected structures, `C.32.ACS` for a small project criteria set, `C.32.HCS` for
   family-specific starter material, and `C.32.MWA` for several non-isomorphic Method, Work, subject, dependency,
   and cultural structures. None supplies the engineering decision that compares changes to the project
@@ -753,8 +752,8 @@ make a Method or mechanism preferable.
 - Send a human capability demand to Human Capability Development only for a named human holder population,
   target Work, support arrangement, capability evidence, and horizon. Do not treat an AI or robot as a human
   holder, or turn a platform, Method, assignment, organization, or authority relation into a capability of that
-  human population. Use `A.15.1` and `F.6` for actual Work performance and attribution, and use the pattern that
-  defines the named assignment or authority relation.
+  human population. Use `A.13` for the actual performer and `A.15.1` for independent Work admission; use `F.6`
+  when precise assignment-bound attribution is needed. Use the pattern that defines the named assignment or authority relation.
 - For organization or assignment reconfiguration, continuing flow and capacity, Method construction, or service
   intervention and restored use, use the relevant DPF result when available. Otherwise name the specialist help
   that is missing and use a qualified source. Similar change language does not merge Organization Change

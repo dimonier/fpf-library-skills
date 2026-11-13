@@ -233,7 +233,7 @@ The authorized Agent chooses the bounded linking change because revisions recur 
 preserving correspondence at evidence creation addresses the observed failure. The Agent accepts continuing
 binding-maintenance and recovery Work. Retaining the manual arrangement could be preferable for an infrequent
 job with adequate checks and support. This choice predicts a useful repair; its total burden advantage remains
-to be assessed. The decision record does not change the platform.
+to be assessed.
 
 A platform-engineering team configures identifier bindings, repository links, and recovery hooks. This dated Work
 is distinct from the actual transformation of the continuing platform from C4 to C5 and from the evidence that

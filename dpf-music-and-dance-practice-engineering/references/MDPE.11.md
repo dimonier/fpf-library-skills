@@ -103,7 +103,7 @@ Open only positions that can change the performance or receiving decision:
 | Obtaining conditions | Which body, instrument, partner, timing, space, latency, safety, access, or participation conditions actually bear on Work now? |
 
 A candidate from `MDPE.9` remains material, a description, or a constraint specification under its actual kind.
-Its prior disposition neither makes it available nor makes a relation obtain.
+
 
 #### MDPE.11:2.3 - Distinguish preservation, variation, and generation
 
@@ -122,8 +122,7 @@ to variation in another use.
 #### MDPE.11:2.4 - Perform Work under the direct Method and steer only live branches
 
 Perform using the applicable domain Method. Several Methods may function simultaneously at different scales: a
-dancer can use balance and timing, partner interaction, and an Urban Kiz performance Method in the same Work. That
-simultaneity is not a first–then procedure and does not show that one Method contains the others.
+dancer can use balance and timing, partner interaction, and an Urban Kiz performance Method in the same Work.
 
 When current sound, movement, partner response, audience response, code behavior, equipment state, or safety can
 change the next action, use current FPF situation-responsive steering. The performer selects from
@@ -179,7 +178,7 @@ Use the stated traces to support the next decision within their limits.
 
 The documented NDT production developed choreography, costumes, props, light, sound, stage choices, touring
 constraints, and film or archive arrangements before the premiere. Those are prepared material, descriptions,
-configurations, and constraints; they are not the premiere occurrence.
+configurations, and constraints.
 
 For the performance question, identify the dancers and other performers, direct Dance Methods, prepared movement and production material, relations that obtained, and what interpretation and material the premiere Work realized. `MDPE.5` identifies the occurrence and presentation; `MDPE.12` handles later observation and judgement.
 
@@ -192,7 +191,7 @@ In a **constructed case**, live coder Ivo and vocalist Nara perform a repeating 
 percussion layer attacks at pulses 0, 2, 4 and 6; pulse 0 marks the start of each cycle. Their score permits Ivo
 to remove or restore an interior percussion attack while retaining the cycle duration, pulse spacing and first
 attack. The chosen system activates a queued code change at the next cycle boundary. That activation rule is a
-condition of this example, not a claim about every live-coding tool.
+condition of this example.
 
 Nara lengthens an answer into pulse 6, where the low attack now obscures its ending. Ivo hears that collision
 and chooses the permitted removal of attack 6, leaving attacks 0, 2 and 4. During cycle 22, at pulse 5, he edits
@@ -213,7 +212,7 @@ activation boundary, reopen the technical timing account. If it changes on time 
 fails, reopen the material or interpretation choice. An ordinary saved pattern, excerpt and performer note that
 already supports those decisions is sufficient; no second performance record is required.
 
-Field sources describe several practices, not one universal live-coding Method.
+
 
 
 #### MDPE.11:4.3 - Social dance
@@ -223,8 +222,7 @@ and balance can change the next contribution. The dancer may preserve pulse and 
 path, figure, timing nuance, or articulation.
 
 The result names what was preserved, what changed, the partner relation that informed the change, and which trace
-or report can support the next teaching or practice question. The teacher's later judgement is not the partner
-relation during Work.
+or report can support the next teaching or practice question.
 
 When familiar figures do not supply a wanted movement quality or a usable transition, [MDPE.26](#mdpe26---construct-and-change-a-partnered-movement-organization) develops the bodily means and their connection to partner response and musical material. It explains how to prepare the next organization's entry conditions, continue when the partner responds differently, and derive the missing practice from the failed relation.
 
@@ -260,7 +258,7 @@ For a **partnered Balboa fragment**, continuous support and weight organization 
 
 At the full transfer, the previously free leg becomes the support. The pulse must continue through that exchange; later free-leg articulation belongs to the newly available leg. The action therefore preserves a temporal function through changing body-part roles. It cannot be implemented by freezing one leg as permanent timekeeper. If a large tap pulls the torso into premature loading, shorten or redirect that free-foot action while preserving its required accent. If the smaller action becomes inaudible when sound is required, select another available articulation or return the technique question. The partner's response checks usable weight arrival and continuation; sound locates an audible accent, and observation of loading checks a different event.
 
-The cases share a way of coordinating: prepare and articulate a chosen event while continuing the supporting action, then assess both against the intended time. Their differences explain the required adaptations. Brushes need available contact, stroke and sound control; partnered movement needs viable support, timely role exchange and a partner-readable continuation. The common Method can guide these choices without claiming that drum practice teaches leg control or that a force peak measures the partner's experience. These are source-informed constructions, not reported outcomes of a joint training trial.
+The cases share a way of coordinating: prepare and articulate a chosen event while continuing the supporting action, then assess both against the intended time. Their differences explain the required adaptations. Brushes need available contact, stroke and sound control; partnered movement needs viable support, timely role exchange and a partner-readable continuation. The common Method can guide these choices. These are source-informed constructions, not reported outcomes of a joint training trial.
 
 ##### MDPE.11:4.5.3 - Keep freedom when the passage changes
 
@@ -279,8 +277,8 @@ material–description–constraint boundary becomes unclear.
 
 | Check | Failure it prevents | Repair |
 | --- | --- | --- |
-| Material, description, and occurrence stay distinct | “The choreography was performed, so choreography is the performance.” | Name material, bearer, performer, Work, realized result, and occurrence separately. |
-| Proposed and obtaining constraints stay distinct | A rule card creates the duet relation by wording. | Observe whether the stated relation obtained among named participants. |
+| Material, description, and occurrence stay distinct | A score revision is substituted for a needed change in its performed interpretation. | Name material, bearer, performer, Work, realized result, and occurrence separately. |
+| Proposed and obtaining constraints stay distinct | Proposed contact is treated as observed coordination. | Observe whether the stated relation obtained among named participants. |
 | Preservation and variation are explicit | “Improvised freely” hides the Method and boundary. | State preserved distinctions, allowed change, current facts, performer authority, and stop. |
 | Direct domain Method remains primary | A generic pattern replaces music, dance, live-coding, partnering, or control practice. | Use `MDPE.11` only for material–Work integration. |
 | Simultaneous Methods are not a lifecycle | Multi-scale enactment becomes a fictitious sequence. | Keep simultaneous Methods separate from any teaching or Work unfolding. |
@@ -304,8 +302,8 @@ Use a direct field Method when it supplies the same result with less burden. Kee
 ### MDPE.11:7 - Relations
 
 - `MDPE.9` can supply material, a description, or a constraint specification for the performer's Work.
-- `MDPE.10` and `MDPE.3` can supply capability and configuration. They do not produce the Work or realized result.
-- `MDPE.5` identifies and presents the performance occurrence; `MDPE.12` observes and compares it. Neither is the realized interpretation or generated material.
+- `MDPE.10` and `MDPE.3` can supply capability and configuration.
+- `MDPE.5` identifies and presents the performance occurrence; `MDPE.12` observes and compares it.
 - `MDPE.18` governs usable cultural memory and lineage when direct traces enter later continuation Work.
 - Direct Music and Dance Methods govern subject Work. Current FPF governs general steering, Work, Method,
   description, evidence, and publication distinctions.

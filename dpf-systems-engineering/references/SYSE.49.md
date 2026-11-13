@@ -125,7 +125,7 @@ To challenge shared error, deliberately make both a task generator and its gener
 
 Qualified traces return to SYSE.47 to construct the missing-effect/unknown-effect branch while the model stays fixed. A recovery wrapper under SYSE.48 or a trained policy under SYSE.45 would be a separate optional result. SYSE.46 keeps final comparison tasks outside those construction choices.
 
-If the real service lacks the fixture's attempt lookup, the useful-recovery claim remains unqualified. Retain valid normal-result exercises and return the mismatch to the interface/environment owner. This constructed example specifies the fixture and observations to obtain; it does not assert production reliability or an executed trial.
+If the real service lacks the fixture's attempt lookup, the useful-recovery claim remains unqualified. Retain valid normal-result exercises and return the mismatch to the interface/environment owner. This constructed example specifies the fixture and observations to obtain.
 
 ### SYSE.49:6 - Bias-Annotation
 

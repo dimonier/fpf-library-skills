@@ -123,7 +123,7 @@ Stop when the next practice or performance move is clear. Reopen the affected ex
 
 ### RHY.12:5 - Archetypal Grounding
 
-The following are constructed teaching cases. Their stipulated observations illustrate decisions; they are not reports of a training trial or universal learning schedules.
+The following are constructed teaching cases. Their stipulated observations illustrate decisions.
 
 #### RHY.12:5.1 - Phrase and gesture keep different groupings
 
@@ -177,7 +177,7 @@ Counting fluency can hide missing control of duration or movement. A familiar te
 
 ### RHY.12:9 - Consequences
 
-Practice addresses an observable rhythmic contribution and produces a useful next attempt or a localized prerequisite. It can reveal that the needed change belongs in the prompt, performing arrangement or bodily technique. It does not promise a fixed training dose or establish durable capability from one local improvement.
+Practice addresses an observable rhythmic contribution and produces a useful next attempt or a localized prerequisite. It can reveal that the needed change belongs in the prompt, performing arrangement or bodily technique. One local improvement does not establish durable capability.
 
 ### RHY.12:10 - Architectural Rationale
 
@@ -191,7 +191,7 @@ General development design, feedback and scheduling remain in HCD. The domain co
 
 | Source contribution | Adopted use | Limit and alternative |
 | --- | --- | --- |
-| Nelson, *Solkattu Manual* (2008), phrase against gesture and rate changes | Practise a stable reference together with a phrase whose grouping differs from it. | A specific teaching tradition supplies useful constructions, not a universal sequence for every rhythm learner. |
+| Nelson, *Solkattu Manual* (2008), phrase against gesture and rate changes | Practise a stable reference together with a phrase whose grouping differs from it. | A specific teaching tradition supplies these constructions. |
 | Cha, “The Takadimi system reconsidered” (2015), compared with Hoffman–Pelto–White and beat-gesture teaching | Recover implicit beats and duration information before interpreting a failed performance. | Explicit continuation/rest syllables and an accessible duration-bearing demonstration are alternatives; comparative teaching superiority is not established. |
 | [Chiou and Chang (2016)](https://doi.org/10.1371/journal.pone.0149221) | In a trained 90-degree bimanual task, performance after feedback withdrawal differed with the information supplied during practice. Check what a display or cue contributes before claiming later independence. | The small study excluded learners who did not reach its practice criterion. Its fixed phase task supplies neither a universal feedback regime nor evidence for free accent choice or partnered movement. |
 | [Caramiaux et al. (2018)](https://doi.org/10.1371/journal.pone.0193580) | The study measured timing and movement separately in immediate post-practice transfer tests. It did not test delayed retention. Use the demanded contribution to choose practice variation. | Different measures responded differently; greater tempo variation was not uniformly beneficial. This bounded result supplies no general schedule. |

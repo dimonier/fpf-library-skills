@@ -36,7 +36,7 @@ dependencies:
 
 > **Type:** DPF pattern body
 >
-> **Primary working result:** a **local practice-change result account** for one already-selected Music-or-Dance change. The account identifies the decision used, performed Work, changed subject or failed attempt, direct result, bounded trial observations and limits, and the later-evidence question.
+> **Primary working result:** a **local practice-change result account** for one already-selected Music-or-Dance change. The account identifies the decision used, performed Work, changed subject or failed attempt, direct result, bounded trial observations and limits, and any later-evidence question still needed by the receiving use.
 
 ### MDPE.15:0 - Use This When
 
@@ -126,7 +126,7 @@ A capable Agent performs Work that enacts the applicable direct Method to make t
 
 The load-bearing relations differ. The decision selecting the change must still apply; its authority and permission relations must obtain; and the needed capability, resources, and safety conditions must be present when change Work begins. That Work can produce a changed subject, a new variant, a partial change, or a failed attempt. Reidentification compares the starting and later subject. The same Work can enact change and observation Methods, or a separately identifiable trial can contribute to, overlap or follow another Work occurrence. An effect claim additionally needs a suitable comparison or causal Method; a result account relies only on the observations and relations actually obtained. Later cultural continuation remains a different question.
 
-When the applicable Method contains branches, joins, returns, cycles, or several live continuations, represent that unfolding with `A.22.CGUS`. A causal graph used through `C.29` represents causal claims or hypotheses; `C.28` governs the evidence needed for their intended use. The graph does not command action. An acausal constraint model can preserve relations without choosing a calculation or action direction.
+Explain the alternatives and conditions that matter to the local change. Use `A.22.CGUS` when their unfolding structure or its qualification needs to be recovered, keeping a sufficient ordinary continuation answer. A causal graph used through `C.29` represents causal claims or hypotheses; `C.28` governs the evidence needed for their intended use. An acausal constraint model can preserve relations without choosing a calculation or action direction.
 
 #### MDPE.15:4.1 - Admit one selected and still-feasible change
 
@@ -134,7 +134,7 @@ Identify:
 
 - the decision source, selected option, `DecisionSubject`, and applicable direct authority relation;
 - the practice-developing Agent that can perform the change Work, the declared `A.2.1` assignment species and
-  obtaining occurrence when assignment changes the decision, and the `F.6` Work attribution when that Work occurs;
+  obtaining occurrence when assignment changes the decision, and `F.6` when precise assignment-bound attribution of the performed Work is needed;
 - permission, consent, safety, access, and resource conditions for the Work;
 - the changed practice subject and its starting configuration;
 - the intended direct result and present use;
@@ -170,7 +170,7 @@ Use `A.15.2` when a `U.WorkPlan` is needed. Make the following clear:
 - the observations and evidence to retain; and
 - the next decision that may use the result.
 
-Use `C.24` only when tool or call planning is current. A useful plan remains an episteme and never establishes that Work occurred.
+Use `C.24` only when tool or call planning is current.
 
 #### MDPE.15:4.4 - Perform the change Work under the direct Method
 
@@ -247,7 +247,7 @@ Local Music-or-Dance practice-change result account:
   supported effect, if any:
   protected characteristics, losses, and residual conflict:
   retained alternatives and rollback or source return:
-  later-evidence question:
+  later-evidence question, when the receiving use still needs it:
   next decision and reopen condition:
 ```
 
@@ -260,19 +260,19 @@ If the change cannot lawfully proceed, return an unavailable-change statement na
 - any safe partial result already obtained; and
 - an observable retry condition.
 
-#### MDPE.15:4.9 - Keep the later cultural question open
+#### MDPE.15:4.9 - Return any needed later cultural question
 
 One local change can supply a Method or repertoire input to `MDPE.17`, an observation to `MDPE.12`, a revision to `MDPE.14`, or evidence to `MDPE.7`. It does not establish that another practitioner can perform representative Work that enacts the Method, that a population recognizes or selects the variant, or that the variant is retained. State any later question that the receiving use still needs.
 
 #### MDPE.15:4.10 - What Changes in Practice
 
-Before this pattern, a project can show a new score, phrase, class, rule, tool, or technical result and say the practice improved. After it, the project can identify the decision, actual Work, changed subject or failed attempt, direct result, bounded trial evidence, moved burden, and the cultural claim that remains open. Failed and partial changes become reusable evidence instead of disappearing from the development story.
+Before this pattern, a project can show a new score, phrase, class, rule, tool, or technical result and say the practice improved. After it, the project can identify the decision, actual Work, changed subject or failed attempt, direct result, bounded trial evidence, moved burden, and any needed cultural claim that remains open. Failed and partial changes become reusable evidence instead of disappearing from the development story.
 
 ### MDPE.15:5 - Worked Cases and Boundaries
 
 #### MDPE.15:5.1 - Music arrangement: perform the selected revision, then rehearse it
 
-Here *then* names an actual relation in this case: the revised arrangement must exist before that edition can be rehearsed. It is not a universal order for change Work and trial Work.
+The revised arrangement must exist before that edition can be rehearsed.
 
 `MDPE.6` contains a source-grounded constructed replay in which an automated monophonic arrangement preserves rhythm, durations, rests, bar lines, playable ranges, and rhythmic entries, while a rehearsal exposes a masked antiphonal relation. The lawful choice is *revise before use*: adjust dynamics and one voice allocation.
 
@@ -282,11 +282,11 @@ The result account can state that the arrangement artifact changed and that the 
 
 #### MDPE.15:5.2 - Dance translation: preserve source and receiving branches
 
-The `MDPE.6` Dance replay uses Stopgap's direct inclusive-choreography contribution to frame a selected *branch* response for a phrase under changed physicality. The change subject is not an abstract choreography. It is the identified receiving phrase or its description, related to a source phrase and intended pair.
+The `MDPE.6` Dance replay uses Stopgap's direct inclusive-choreography contribution to frame a selected *branch* response for a phrase under changed physicality. The change concerns the identified receiving phrase or its description, related to a source phrase and intended pair.
 
 Choreography or translation Work performed by a capable Agent under the stated authority, permission, consent, and source-use conditions produces a receiving branch while retaining source return. During the pair trial, the dancers perform representative Dance Work while a named observer performs observation Work and records effort, elevation, contact geometry, timing, partner-readable cueing, and intended expressive use. The result can support the changed phrase branch and its bounded use. It does not erase the source, make both phrases one identity, establish another dancer's capability, or prove scene-level recognition.
 
-If the selected branch lacks permission to alter the identified source material, create the receiving variant, or change the named source-to-receiving relation, return unavailable change even when the branch is technically performable. If the branch also calls for making a selected source or lineage-account episteme edition available, name the edition, audience, and bounded use; check separately whether the publication activity is permitted. Perform that activity under its applicable direct Method and, when it is claimed as dated Work, use `A.15.1` and `F.6` for Work and attribution. Apply `E.24.PUB` only to the distinct availability occurrence. Missing permission blocks the publication activity and the claimed availability, not an otherwise permitted alteration.
+If the selected branch lacks permission to alter the identified source material, create the receiving variant, or change the named source-to-receiving relation, return unavailable change even when the branch is technically performable. If the branch also calls for making a selected source or lineage-account episteme edition available, name the edition, audience and bounded use; check separately whether the publication activity is permitted. Perform that activity under its applicable direct Method. For a claimed dated Work occurrence, establish the performer's `A.13` core and independently admit the Work through `A.15.1`; add `F.6` when precise assignment-bound attribution is needed. Apply `E.24.PUB` only to the distinct availability occurrence. Missing permission blocks the publication activity and the claimed availability, not an otherwise permitted alteration.
 
 #### MDPE.15:5.3 - Recognition arrangement: a rule change is not recognition or selection
 
@@ -310,11 +310,11 @@ Context-inference and transfer hypotheses can justify the trial design, but they
 
 In a **constructed partial attempt**, Amal selects a twenty-minute class exercise in which Noor, Li and Teo will each use the same pause-and-response phrase with two different partners. The aim is to carry the cue relation across a partner change while keeping the same recording and floor conditions. The three participants had agreed to the exercise, and Amal prepares the rotation instructions. Teo is then unavailable. Noor and Li still agree to practise together; Amal teaches and observes rather than silently taking an additional partnering role that would remove that observation.
 
-The performed class uses the new cue explanation and produces readable responses within the Noor–Li pair, but no partner change occurs. Updating the rotation sheet did not create the missing third participant. The direct results are the revised teaching description, the performed fixed-pair practice and its bounded observations. The selected varied-partner arrangement was only partly implemented; transfer across partners remains unobserved. Amal retains the usable fixed-pair phrase and chooses to narrow the next rehearsal to that pair. If varied-partner use is still needed for the later event, the next development decision must obtain a willing, capable third participant and a suitable session, or choose another feasible arrangement. Repeating the same pair does not repair the missing receiving condition, and nobody acquires an obligation to participate from the plan.
+The performed class uses the new cue explanation and produces readable responses within the Noor–Li pair, but no partner change occurs. The direct results are the revised teaching description, the performed fixed-pair practice and its bounded observations. The selected varied-partner arrangement was only partly implemented; transfer across partners remains unobserved. Amal retains the usable fixed-pair phrase and chooses to narrow the next rehearsal to that pair. If varied-partner use is still needed for the later event, the next development decision must obtain a willing, capable third participant and a suitable session, or choose another feasible arrangement.
 
 #### MDPE.15:5.6 - Direct-Method stop
 
-If a direct composition, choreography, arrangement, translation, teaching, rehearsal, instrument, software, robot-control, event-production, curation, or recognition-arrangement Method already returns the selected change, performed Work, changed subject or failed attempt, direct result, trial observations, limits, and later-evidence question, use it and stop. This pattern adds value only when those domain results are otherwise collapsed or omitted.
+If a direct composition, choreography, arrangement, translation, teaching, rehearsal, instrument, software, robot-control, event-production, curation, or recognition-arrangement Method already returns the selected change, performed Work, changed subject or failed attempt, direct result, trial observations, limits, and any later-evidence question needed by the receiving use, use it and stop. This pattern adds value only when those domain results are otherwise collapsed or omitted.
 
 ### MDPE.15:6 - Bias Annotation
 
@@ -381,21 +381,21 @@ Both fields repeatedly change materials, embodied or instrumental Methods, perfo
 | Shimon project sources maintained by `MDPE.14` | Distinct engineering change, robotic performance, observation, and human-led practice-development roles. | They do not support an unreported local change occurrence, robot-held development authority, Dance transfer, or cultural continuation. |
 | [COIN sensorimotor study](https://doi.org/10.1038/s41586-021-04129-3) and [contextual cues and transition statistics](https://doi.org/10.1016/j.isci.2026.116281), discussed in the Architectural Reference's learning section | A reason to test retrieval and transfer under changed cues and representative contexts rather than count repetitions in one setting. | Human motor-learning evidence does not automatically transfer to every cognitive, robotic, or AI learner and does not establish transfer in the current case. |
 
-Mutable web-source claims are dated to 2026-08-26. Recheck only a claim that depends on a changed source, configuration, direct result, or current FPF relation. A new source does not reopen unrelated local-change accounts.
+Recheck only a claim that depends on a changed source, configuration, direct result, or current FPF relation.
 
 ### MDPE.15:12 - Relations
 
 - `C.11`, `MDPE.6`, `MDPE.7`, a bounded `MDPE.13` change decision, or a direct decision Method may supply the selected-change input.
-- `MDPE.14 → MDPE.15` is a conditional selected-change and constraint input. `MDPE.14` returns the practice-conflict decision and representative-trial conditions; a capable Agent performs the selected change through Work that enacts the applicable direct Method, and `MDPE.15` returns the local practice-change account.
+- `MDPE.14 → MDPE.15` is a conditional selected-change and constraint input. `MDPE.14` returns the practice-conflict decision and any selected trial conditions; a capable Agent performs the selected change through Work that enacts the applicable direct Method, and `MDPE.15` returns the local practice-change account.
 - `MDPE.16 → MDPE.15` is a conditional alternative-preservation constraint. The local trial does not silently delete branches, source return, stepping stones, or archive records.
 - `MDPE.15 → MDPE.16` is revision feedback when an actual trial changes live membership, performer feasibility, retained use, stepping-stone value, or the supported reason for suspension or removal.
 - `E.10.ROLE` only recovers ambiguous role wording. `A.2.1` governs an obtaining assignment occurrence and its declared species; `F.6` governs attribution when an Agent performs dated Work under that assignment. None supplies agency, capability, authority, permission, consent, resources, or successful Work.
 - `A.15.2` governs a WorkPlan when one is needed; `C.24` governs tool or call planning only when that question is current; `A.15.1` governs performed Work; `A.3.4` governs bounded actual change.
 - `A.15.7` governs bounded next-action steering when current facts change a live branch under an already-admitted Method. It is neither the prior choice nor a universal improvisation Method.
-- `MDPE.15 → MDPE.7` is a conditional evidence input. The local result can change the next development choice; it does not make that choice.
+- `MDPE.15 → MDPE.7` is a conditional evidence input. The local result can change the next development choice.
 - `MDPE.15 → MDPE.14` is revision feedback only when observations change the same conflict, candidate, comparison, residual, moved burden, or representative test.
 - `MDPE.15 → MDPE.17` can supply an actual changed Method or repertoire variant with its conditions for receiving enactment. It can also supply a MethodDescription as source content. The description or a failed change attempt alone does not establish an actual changed Method or receiving enactment.
 - `MDPE.12` may use later observations under its own comparison question. `MDPE.10` and Human Capability Development own capability-development and transfer results.
-- `C.36`, `MDPE.17`, `MDPE.19`, and `MDPE.20` own later transmission, cultural continuation, retention or loss, and trajectory claims. One local change establishes none of them.
+- `C.36`, `MDPE.17`, `MDPE.19`, and `MDPE.20` own later transmission, cultural continuation, retention or loss, and trajectory claims.
 
 ### MDPE.15:End

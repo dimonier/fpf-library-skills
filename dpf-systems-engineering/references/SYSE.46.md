@@ -42,7 +42,7 @@ dependencies:
 
 The subject is the configuration in its intended work, including its available support. The first result is bounded performance evidence, a supported use limit or the unresolved qualification question.
 
-Use an adequate current test result when its configuration, task and conditions still match. Do not expand a simple parser check into a system trial unless the reliance extends that far. A test supplies evidence; the authorized holder makes the release decision using SYSE.14.
+Use an adequate current test result when its configuration, task and conditions still match. Do not expand a simple parser check into a system trial unless the reliance extends that far. When release is the receiving question, the authorized holder uses SYSE.14 to decide from the evidence.
 
 ### SYSE.46:2 - Problem
 
@@ -58,7 +58,7 @@ Realistic trials expose actual dependencies but may be costly or difficult to re
 
 State the intended task family, actual result, protected effects, available supports and proposed reliance. Recover the actual performing arrangement. For a technical agent this includes model/settings, instructions, next-input assembly, memory, tools/editions, executor and environment. For a person it includes applicable prior performance, instructions, available aids, working material and conditions such as task order or fatigue. Identify what changed, what can be held fixed and what must instead be recorded.
 
-Choose a baseline that represents a real alternative, including a direct deterministic operation or human-supported arrangement when appropriate. Compare the same receiving result and consequential conditions. Separate result quality, latency, cost, necessary access, restraint and side effects; combine them only when the decision supplies a justified trade-off.
+For a comparative claim, choose a baseline representing a real alternative, including a direct deterministic operation or human-supported arrangement when appropriate. Compare the same receiving result and consequential conditions. For an absolute property claim, test that property against its applicable criterion. Separate result quality, latency, cost, necessary access, restraint and side effects; combine them only when the decision supplies a justified trade-off.
 
 Choose observations from failures that could change the reliance. A model-output test cannot establish a state-changing result. Obtain the domain's acceptance predicates and the evidence that connects the measured signal to them.
 
@@ -66,7 +66,7 @@ Choose observations from failures that could change the reliance. A model-output
 
 Select tasks that admit useful progress and cases that require a bounded stop. Vary the location or value of a needed contribution where that distinction can reveal a failure: an adequate current premise, a missing fact, stale memory, a changed interface, unavailable support or an ambiguous effect.
 
-Use SYSE.49 if the required task/feedback conditions must be built. Qualify fixture fidelity and reset through the appropriate domain and SYSE.33. Keep final cases and their expected outcomes outside adaptive construction or candidate selection. Synthetic consistency alone does not qualify a real-world consequence.
+Use SYSE.49 if the required task/feedback conditions must be built. Qualify fixture fidelity and reset through the appropriate domain and SYSE.33. For conclusions that depend on performance beyond cases used in adaptive construction or candidate selection, keep final cases and their expected outcomes outside that adaptation. A direct test of a stated property retains its independent correctness basis and that property's scope. Synthetic consistency alone does not qualify a real-world consequence.
 
 When the question is whether the agent chooses support well, construct matched cases with a sufficient supplied premise, a decisive fact available only through the selected support, and offered material that is irrelevant or misleading. Add verification-required and presently unanswerable cases where the receiving use needs them. Keep result, correctness basis, relevant limits and performing arrangement comparable.
 
@@ -92,7 +92,7 @@ Read the other failures at their actual location: missing write, retrieval miss,
 
 #### SYSE.46:4.4 - Test persistence and changed conditions when relied on
 
-When the claim includes lasting improvement or response to change, compare initial, post-change, delayed and shifted use. Select the interval and shift from that reliance: normal restart, memory expiry, source revision, tool withdrawal or altered workload. There is no universal waiting period.
+For a claim of lasting improvement, compare initial, post-change and delayed performance. For a claim about response to changed conditions, compare the relevant conditions before and after the shift. Select the interval or shift from the reliance: normal restart, memory expiry, source revision, tool withdrawal or altered workload. There is no universal waiting period.
 
 At each observation retain the task/result, configuration identity, support actually available, evaluator basis and intervening changes. Test delayed persistence under stable comparison conditions separately from changed support. An unidentifiable model-provider update may leave current system performance observable while making a component-specific persistence claim unresolved.
 
@@ -153,7 +153,7 @@ Easy generated tasks, forgiving judges and benchmark-specific instructions can f
 
 ### SYSE.46:7 - Conformance Checklist
 
-- The reliance, task family, baseline and changed configuration are explicit.
+- The reliance, task family and performing configuration are explicit; comparative claims identify their baseline and changed conditions.
 - Result predicates concern actual receiving use and protected effects.
 - Cases discriminate the dependencies that could defeat that reliance; support-choice claims separate no optional support, supplied support and agent selection with the intervention declared.
 - Repetition, unsuccessful attempts and observation gaps remain visible.
@@ -164,7 +164,7 @@ Easy generated tasks, forgiving judges and benchmark-specific instructions can f
 
 **Report one aggregate score.** Recover which tasks, effects and support conditions it combines before using it for a decision.
 
-**Tune until the final test passes.** Treat reused cases as adaptive validation and obtain a separate final comparison.
+**Use a tuned test as evidence of generalization.** Treat its cases as adaptive validation for that claim and obtain a final comparison outside the adaptation.
 
 **Treat every refusal as failure or every stop as safety.** Judge whether the particular task had a permitted useful continuation and whether its needed conditions were available.
 
@@ -174,7 +174,7 @@ The comparison can distinguish a usable configuration change from a score change
 
 ### SYSE.46:10 - Architectural Rationale
 
-The test concerns a performing arrangement because neither a capability label nor model parameters alone supplies the available aids, current facts and receiving use. Separating task outcome, dependence and effort prevents one improvement from concealing another failure. Keeping construction outside final assessment prevents the evaluator from silently defining success around the candidate.
+The test concerns a performing arrangement because neither a capability label nor model parameters alone supplies the available aids, current facts and receiving use. Separating task outcome, dependence and effort prevents one improvement from concealing another failure. For conclusions beyond tuned cases, keeping final assessment outside construction protects against defining success around the candidate.
 
 ### SYSE.46:11 - SoTA-Echoing
 

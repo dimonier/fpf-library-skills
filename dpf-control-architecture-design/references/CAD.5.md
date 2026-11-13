@@ -286,7 +286,7 @@ Return the selected and rejected complete arrangements with the controlled task,
 
 For implementation, connect sample timestamps and identities, actually executed inputs and the estimator's update to real producers and consumers. Qualify computation and transport deadlines under the proposed shared load. Select an already qualified behavior for missing data, inconsistent data and late completion; “hold the last command” is not automatically safe.
 
-What changes in practice is the choice of the information the controller obtains and retains. The engineer can explain why a channel matters to an action, what must be remembered while waiting for another channel, and which changed condition invalidates the resulting control. A diagram, estimator score or list of sensors alone cannot supply that explanation.
+What changes in practice is the choice of the information the controller obtains and retains. The engineer can explain why a channel matters to an action, what must be remembered while waiting for another channel, and which changed condition invalidates the resulting control.
 
 ### CAD.5:5 - Archetypal Grounding
 

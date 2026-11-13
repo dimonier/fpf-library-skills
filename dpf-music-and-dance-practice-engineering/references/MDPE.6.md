@@ -164,13 +164,13 @@ Use `C.17` when a characteristic claim needs support and `C.11.CRC` when the dec
 
 #### MDPE.6:3.5 - Decide whether to probe again
 
-When a feasible observation could alter this choice, name the most useful rehearsal, partner trial, instrument comparison, recognition task, safety check or other direct probe. State what result would change the choice and what the probe costs. Explain an inquiry limit when it matters to the receiver. A settled choice with no relevant inquiry alternative needs neither an invented test nor a statement waiving one.
+When a feasible observation could alter this choice, name the most useful rehearsal, partner trial, instrument comparison, recognition task, safety check or other direct probe. State what result would change the choice and what the probe costs. Explain an inquiry limit when it matters to the receiver.
 
 Probe again only when the observation can remove or create a survivor, break a tie, show that the current set should be rejected, or reveal that the question belongs elsewhere. Do not keep probing merely because uncertainty remains. If the observation would change only the implementation of an already-selected option, close this choice and plan the later Work separately.
 
 #### MDPE.6:3.6 - Return the receiving-use decision
 
-Return, in plain language:
+Return the receiving-use decision in plain language. This optional form collects the applicable grounds and limits:
 
 ```text
 chooser and receiving use:
@@ -207,11 +207,11 @@ The antiphonal response is a must-condition. Use as obtained fails it. Branching
 
 The decision is **revise before use**. It identifies the arrangement, failed relation, proposed repair, concert-use limit, and reopen condition. It neither edits the score nor authorizes rehearsal or release.
 
-Direct source: Matthew McCloskey, Gabrielle Curcio, Amulya Badineni, Kevin McGrath, and Dimitris Papamichail, [*Automated Arrangements of Multi-Part Music for Sets of Monophonic Instruments* (2023)](https://arxiv.org/abs/2301.12084), checked 2026-08-25.
+Direct source: Matthew McCloskey, Gabrielle Curcio, Amulya Badineni, Kevin McGrath, and Dimitris Papamichail, [*Automated Arrangements of Multi-Part Music for Sets of Monophonic Instruments* (2023)](https://arxiv.org/abs/2301.12084).
 
 #### MDPE.6:4.2 - Dance: keep a translated phrase as a distinct branch
 
-Stopgap's `Translation` Method begins with movement made by one dancer and a receiving dancer with different physicality. Dancers observe effort, spine, focus, direction, rhythm, and detail; they find a correlative version rather than imitate one conventional shape. The direct Work can return translated versions and a choreography decision. It does not settle every later identity, partner cue, permission, or cultural claim.
+Stopgap's `Translation` Method begins with movement made by one dancer and a receiving dancer with different physicality. Dancers observe effort, spine, focus, direction, rhythm, and detail; they find a correlative version rather than imitate one conventional shape. The direct Work can return translated versions and a choreography decision.
 
 In this constructed case, Ada, a wheelchair dancer, originates `Phrase-P3`: an eight-pulse curved travelling phrase whose change of focus invites the partner's answering turn. Bo, a standing dancer, develops `Phrase-P3-T` through translation with Ada. Direction, pulse and the exchange of focus remain usable, while Bo's weight changes, elevation and contact geometry differ. The standing version is a receiving translation, not a norm against which Ada's movement is an approximation.
 
@@ -222,13 +222,13 @@ The choreographer compares two usable treatments:
 - maintain C as the one taught and rehearsed version, retaining the earlier material as source documentation; this saves explanation and rehearsal time but removes the contrast between Ada's rolling travel and Bo's changing elevation from the block;
 - maintain P3 and P3-T as conditioned branches, with their different contact and cue instructions; this preserves that contrast but requires two descriptions, a separate partner briefing for each and fifteen additional rehearsal minutes when the cast changes.
 
-For this block the choreographer chooses the branches. Exploring how the same invitation changes through these two performers is part of the intended teaching and artistic result, and the partner and rehearsal time are available. The gain earns the stated cost; a generic appeal to diversity would not settle it. The resulting descriptions name the originating movement, the translation, their common exchange and their different execution conditions. They do not assert a historical lineage beyond this construction or make the versions interchangeable.
+For this block the choreographer chooses the branches. Exploring how the same invitation changes through these two performers is part of the intended teaching and artistic result, and the partner and rehearsal time are available. The gain earns the stated cost. The resulting descriptions name the originating movement, the translation, their common exchange and their different execution conditions. They do not assert a historical lineage beyond this construction or make the versions interchangeable.
 
-The next receiving decision would change if the programme contracted to one short demonstration in which only the common exchange mattered, or if the extra partner rehearsal displaced a required ensemble run. C would then be sufficient if its supported conditions still held. The choreographer need not preserve two active branches merely because two versions exist. In the present choice another trial of the already-supported exchange would not change that trade-off; a newly reported difficulty in one contact transition could.
+The next receiving decision would change if the programme contracted to one short demonstration in which only the common exchange mattered, or if the extra partner rehearsal displaced a required ensemble run. C would then be sufficient if its supported conditions still held. In the present choice another trial of the already-supported exchange would not change that trade-off; a newly reported difficulty in one contact transition could.
 
 The decision is **branch** for the stated block. Permission, maintenance authority and the later description and rehearsal Work remain separate from this choice. The example is an authored application of the reciprocal Translation approach, not a reported Stopgap production or a universal rule for bodies.
 
-Direct source: [Stopgap, *Inclusive Choreography — Translation*](https://www.stopgapdance.com/inclusive-choreography/), text checked 2026-10-04. The page supplies the translation approach; the dancers, phrases, alternatives and receiving decision above are constructed.
+Direct source: [Stopgap, *Inclusive Choreography — Translation*](https://www.stopgapdance.com/inclusive-choreography/). The page supplies the translation approach; the dancers, phrases, alternatives and receiving decision above are constructed.
 
 
 #### MDPE.6:4.3 - Stop when the direct Method already returns the whole answer

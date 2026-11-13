@@ -123,7 +123,7 @@ A candidate function combines verified conversion and calculation primitives. On
 
 The next agent finds the function through its applicability entry, invokes it and uses the result with units and equation edition. If it cannot find the function, repair discovery; changing arithmetic would not fix that failure. If a later equation edition changes an assumption, withdraw or repair the affected variant. Unaffected conversion primitives and direct specialist calculation can still support the task.
 
-This is a construction and qualification plan, not measured evidence that the library saves effort. If selection and maintenance cost exceed the repeated benefit, retain direct work.
+This is a construction and qualification plan. If selection and maintenance cost exceed the repeated benefit, retain direct work.
 
 
 #### SYSE.48:5.3 - Recover an outcome lookup from interruption traces

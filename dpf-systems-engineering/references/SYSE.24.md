@@ -304,7 +304,7 @@ Repair a failed join by changing something that can cause it to work: supply a d
 add a qualified transformation or preparation, move the operation to a capable performer, revise the technical
 interface, or obtain a larger qualified contribution. Re-run the affected continuation and update its time,
 evidence, support, and resource burden. A new adapter is an engineering contribution with its own realization
-and qualification needs; its name is not the repair. If no supported transformation is known, preserve that
+and qualification needs. If no supported transformation is known, preserve that
 gap and its effect on the choice.
 
 ##### SYSE.24:4.3.2 - Establish that the necessary conditions can coexist
@@ -351,8 +351,7 @@ has already ended and leaves no relevant obligation.
 
 ##### SYSE.24:4.3.4 - Keep a common account of the constructed arrangements
 
-Use the following questions to recover the arrangements for comparison. They summarize the construction;
-answering the table alone does not show that the described parts can work together.
+Use the following questions to recover the constructed arrangements for comparison.
 
 | Question | Required content |
 | --- | --- |
@@ -766,7 +765,7 @@ The following eleven requirements form this pattern's complete conformance check
 | `CC-SYSE24-6` | The forward account supports consequential interface, configuration, meaning, state, time, joint-resource, assurance, capability, support, custody, change, and exit conditions, or preserves the precise gap. A repair is compared with its whole burden. |
 | `CC-SYSE24-7` | Commercial, legal, financial, governance, organization, operations, asset, HCD, safety, security, and other specialist claims are obtained from their practices and used within those practices' conditions and authority boundaries. |
 | `CC-SYSE24-8` | The comparison ends in one lawful `C.11` result: choose now, reject the current set, probe again, or reroute to another named question. |
-| `CC-SYSE24-9` | A retained arrangement names its next realization Work and the commitment supported now. A decisive unsupported branch is resolved, probed, or used to restrict that commitment; `ChoiceResult` remains separate from authority, performed Work, and accepted result. |
+| `CC-SYSE24-9` | A retained arrangement states the commitment supported now and any next realization Work needed. A decisive unsupported branch is resolved, probed, or used to restrict that commitment; `ChoiceResult` remains separate from authority, performed Work, and accepted result. |
 | `CC-SYSE24-10` | Reopening follows changed premises through affected operations, joins, and shared conditions, reconstructs the whole alternatives on the changed basis, and preserves valid branches without automatically reopening the project focus. |
 | `CC-SYSE24-11` | The method supports separate comparisons for different result kinds, including a System configuration and an engineering episteme. |
 

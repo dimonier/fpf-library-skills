@@ -76,7 +76,7 @@ If the important semantic result is not observable, return that gap. An easier p
 
 Place observation where material entry, execution and result failures can be detected. Connect the relevant metrics, logs or traces to the right subject and configuration using sufficient correlation. The [OpenTelemetry signals model](https://opentelemetry.io/docs/concepts/signals/) supplies interoperable telemetry categories; it does not choose the user-success predicate.
 
-Exercise a known good task, a meaningful failure, a failure before the backend and a loss of observation. Check delay, duplication, sampling and aggregation effects on the definition. Sampled diagnostic traces do not by themselves establish a complete event denominator.
+Exercise a known good task, a meaningful failure and a loss of observation, including a pre-backend failure when the service path admits it. Check delay, duplication, sampling and aggregation effects on the definition. Sampled diagnostic traces do not by themselves establish a complete event denominator.
 
 Keep missing data visible. If eligible attempts are known but their results are not, retain that distinction. If the entry population itself is unobserved, even the denominator may be unknown. Apply an agreed conservative policy where needed, but distinguish that policy disposition from an observed service failure.
 
@@ -147,7 +147,7 @@ These are invented observations for explaining the Method, not measured service 
 
 For a separate arithmetic illustration, suppose the responsible users/providers agree that at least 99% of a named service's eligible tasks must satisfy its complete good-result definition over a specified 30-day window. They also agree how budget exhaustion changes the priority of reliability work. This is an illustrative agreement, not a recommended universal target.
 
-With 1,000 fully observed eligible tasks, 995 good and 5 bad, the observed ratio is 99.5%. The window's 1% allowance is 10 bad tasks, so the five consume half of that event budget. Neither the arithmetic nor five further available events permits violation of an independent data-integrity requirement.
+With 1,000 fully observed eligible tasks, 995 good and 5 bad, the observed ratio is 99.5%. For that observed population, the 1% allowance is 10 bad tasks, so the five consume half of the nominal event budget. Further arrivals change the denominator and the allowance. Unused allowance does not permit violation of an independent data-integrity requirement.
 
 Now suppose ten results are missing rather than fully observed. The same exact reliability claim is no longer established merely by keeping the old ratio on the dashboard. Recover the observations or apply the agreed missing-data policy with that limitation visible. If the service sees only ten events in an hour, high-volume alert thresholds require a separate fit decision; the number 99% does not supply it.
 
@@ -164,7 +164,7 @@ Providers may count only the work their backend accepted, and application teams 
 - Eligibility and good outcome are defined independently of the convenient telemetry.
 - The implementation is exercised against good, failed and missing-observation cases.
 - Material pre-backend failures, retries and incomplete outcomes are accounted for.
-- The objective and response policy are agreed on a consistent event/time basis.
+- When an objective and response policy are required, they are agreed on a consistent event/time basis.
 - Platform and application results remain separate even when they share infrastructure.
 - A reliability measure is not presented as complete user value or release authority.
 

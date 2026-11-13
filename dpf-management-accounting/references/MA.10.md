@@ -169,7 +169,7 @@ A forward account answers what follows from an arrangement. The inverse question
 
 ### MA.10:11 - SoTA-Echoing
 
-[ACCA's target and life-cycle costing explanation][TARGET] connects an economic allowance with design and later costs. Its teaching examples are useful grounds for the inverse question; general claims about fixed percentages of committed cost or the superiority of one costing method are not premises here. [IMA's 2014 conceptual framework][CFMC] contributes resource relationships and their application to managerial choices. [The 2023 Global Management Accounting Principles][GMAP] provides a broader professional context. These sources support distinct contributions; the method requires evidence for the actual arrangement and does not infer feasibility from professional endorsement.
+[ACCA's target and life-cycle costing explanation][TARGET] connects an economic allowance with design and later costs. Its teaching examples are useful grounds for the inverse question; general claims about fixed percentages of committed cost or the superiority of one costing method are not premises here. [IMA's 2014 conceptual framework][CFMC] contributes resource relationships and their application to managerial choices. [The 2023 Global Management Accounting Principles][GMAP] provides a broader professional context.
 
 ### MA.10:12 - Relations
 

@@ -182,7 +182,7 @@ Start at the observation that made the old pair doubtful. Recover the earlier us
 that was supposed to support it. For one consequential operating situation, follow what happens from the
 triggering event through the proposed behaviour to the effect on the user or another affected System. Use
 `SYSE.2:4.3–4.6` for that linked construction; use an adequate existing result directly. The return needed here
-is a use–concept pair with its conditions, main uncertainty and failed or supported connection, not a complete
+is a use–concept pair with its conditions, any main uncertainty and failed or supported connection, not a complete
 new concept study.
 
 Identify what the observation changes. It may contradict the predicted effect, expose an omitted condition,

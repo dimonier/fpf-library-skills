@@ -61,7 +61,7 @@ Published applications and local successes can compound the problem. A reported 
 
 ### PSDA.16:4 - Solution
 
-Develop the repertoire around recurring decision-support results and the conditions that make them possible. Recover the actual Methods, compare live alternatives, and retain or change the offering with its source and evidence return. Trial a consequential change only when further evidence can change that decision and its attainable contribution warrants the burden. These are dependencies in reasoning, not a compulsory lifecycle for every engagement.
+Develop the repertoire around recurring decision-support results and the conditions that make them possible. Recover the actual Methods, compare live alternatives, and retain or change the offering with its source and evidence return. Trial a consequential change only when further evidence can change that decision and its attainable contribution warrants the burden.
 
 #### PSDA.16:4.1 - Bound the repertoire question by the work it must serve
 
@@ -77,7 +77,7 @@ Use C.39.RP when the offered repertoire and its missing contributions need const
 
 #### PSDA.16:4.2 - Recover candidate ways of working and their contribution boundaries
 
-State each serious candidate as a way of doing: its entry conditions, participant meanings, actions, input/result commitments, required joins, allowed variation, and stop. Use `A.3.1` for Method identification. Keep an unresolved proposal as a candidate account; an attractive name, complete document or parent Method does not admit it.
+State each serious candidate as a way of doing: its entry conditions, participant meanings, actions, input/result commitments, required joins, allowed variation, and stop. Use `A.3.1` for Method identification. Keep an unresolved proposal as a candidate account.
 
 When observations or evidence about performances leave the reusable way unclear, `A.3.1.MR` can help recover candidate accounts. Use `A.3.1.DR` when a proposed way in documentary guidance needs its source meaning or status recovered. If a prospective recipe lacks a design choice, ask the designer to state the proposed action and its conditions; reconstructing past practice does not make that choice.
 
@@ -92,7 +92,7 @@ Decompose a heavyweight school or package only far enough to compare contributio
 | Analysis does not become usable advice | Ways to compose and explain a source-bounded recommendation, dissent, limits and next use. | A score or specialist answer is not the whole recommendation or recipient choice. |
 | Advice loses its basis after change | Ways to observe decision-significant conditions, interpret evidence and reopen the exact affected result. | A signpost, dashboard or missed observation is neither an authorized response nor evidence of no change. |
 
-Soft Systems Methodology, SODA/cognitive mapping, Strategic Choice, MCDA, scenario and robust-decision approaches can contribute to different rows under their actual source conditions. A software platform may support several such contributions. None supplies a universal Method merely by appearing in the repertoire.
+Soft Systems Methodology, SODA/cognitive mapping, Strategic Choice, MCDA, scenario and robust-decision approaches can contribute to different rows under their actual source conditions. A software platform may support several such contributions.
 
 `PSDA.4` supplies the engagement-level comparison and combination discipline. Preserve its joins: an attributed concern may become a candidate objective for examination, not automatically a numerical weight; a scenario may constrain a calculation without supplying a probability. If a proposed whole cannot recover its reusable action and joins, retain the bounded candidate or arrangement description rather than calling co-use a composite Method.
 
@@ -120,7 +120,7 @@ The [2019 Smith and Shaw review](https://doi.org/10.1016/j.ejor.2018.05.003) pro
 
 A recent decision-analysis synthesis such as [Borgonovo et al. (2026)](https://doi.org/10.1016/j.ejor.2025.05.023) can identify developments in value-focused thinking, graphical modelling, uncertainty, sensitivity and information acquisition. It does not substitute for the source of a particular Method or cover every adjacent decision-support family.
 
-Obtain missing source interpretation, domain evidence or representative evaluation through `A.15.9`, preserving supplier authority, and qualify actual reliance through `A.10`. If the decisive source contribution cannot be recovered, keep that offering conditional or return the source gap. Neither a famous school nor a new source date repairs the missing claim.
+Obtain missing source interpretation, domain evidence or representative evaluation through `A.15.9`, preserving supplier authority. Use `A.10` when the source-to-use account remains implicit or a needed reproducible account is missing. If the decisive source contribution cannot be recovered, keep that offering conditional or return the source gap.
 
 #### PSDA.16:4.5 - Trial the claimed improvement in representative engagements
 
@@ -156,7 +156,7 @@ For each action-changing entry, make the following recoverable in the simplest f
 
 A repertoire may retain alternatives without ranking them. When the actual question is declaring a selector-facing set result over already identified members, use `G.5` with the exact members, outcome, ordering and basis it requires. Distinguish alternatives retained for later choice from members all included in one named joint use. A Method-family registry or selector declaration supplies neither field fit nor actual enactment and need not be rebuilt for every repertoire update.
 
-Make the next use easy to find: which Method a practitioner should inspect for the named situation, which claim still needs evidence, or which use has been withdrawn. A large source map that gives none of these is not the promised repertoire.
+Make the next use easy to find: which Method a practitioner should inspect for the named situation, which claim still needs evidence, or which use has been withdrawn.
 
 #### PSDA.16:4.7 - Preserve cultural lineage without inventing cultural continuation
 
@@ -176,7 +176,7 @@ For a changed claim, identify its exact repertoire use and the consequence: pres
 
 A changed service rule might restrict the human career-advising branch without changing organization or AI-domain truth. A new AI configuration may invalidate evidence for a software-assisted offering without changing the manual Method. If the reusable decision-support action itself changes, identify and assess that semantic change rather than hiding it as maintenance.
 
-Use `A.10` for a known bounded reliance, and `A.10.1` when a changed source requires discovering and revalidating several actual receiving uses. Invoke `G.11` for an admitted currentness or refresh-planning/reporting object when its conditions obtain, such as a relied-on evidence or selected set; it does not supply the new repertoire judgement or make every local entry a refresh-orchestration problem.
+Use `A.10` when a known reliance has an implicit source-to-use account or lacks a reproducible account needed for that use, and `A.10.1` when a changed source requires discovering and revalidating several actual receiving uses. Invoke `G.11` for an admitted currentness or refresh-planning/reporting object when its conditions obtain, such as a relied-on evidence or selected set; it does not supply the new repertoire judgement or make every local entry a refresh-orchestration problem.
 
 Close this repertoire question when the relevant offerings, conditions, source/evidence gaps and next uses are clear. Withdraw only the defeated use, not recoverable history or other supported uses. A still-unqualified new proposal can remain visible without being offered as established practice.
 
@@ -256,7 +256,7 @@ Combination bias treats more techniques as richer support. Inspect the meaning a
 | Current offering | Retained, narrowed, candidate, withheld or withdrawn uses are usable by the next practitioner and do not hide different outcomes. |
 | Lineage and refresh | Derivation has a basis; unproved cultural links remain gaps; only affected offerings reopen and recoverable history remains. |
 
-A failed check may narrow one offering or retain a candidate for investigation while other entries stay usable. Do not label the whole repertoire current merely because every row has a source link.
+A failed check may narrow one offering or retain a candidate for investigation while other entries stay usable.
 
 ### PSDA.16:8 - Common Anti-Patterns and How to Avoid Them
 
@@ -275,7 +275,7 @@ A failed check may narrow one offering or retain a candidate for investigation w
 
 Future engagements gain a smaller, more discriminating starting point. Practitioners can reuse a Method for a supported situation, select an alternative, ask for a missing input or decline an unsupported extension. Changes become recoverable improvements or bounded experiments rather than accumulating workshop tricks.
 
-The cost is maintaining meaningful applicability and evidence, not just names and editions. Some promising candidates remain unoffered, some broad claims narrow, and some local successes support only the conditions observed. That restraint leaves room for development without presenting uncertainty as established practice.
+The cost is maintaining meaningful applicability and evidence. Some promising candidates remain unoffered, some broad claims narrow, and some local successes support only the conditions observed. That restraint leaves room for development without presenting uncertainty as established practice.
 
 ### PSDA.16:10 - Rationale
 
@@ -299,13 +299,13 @@ The practice question is **how to develop a usable professional repertoire under
 ### PSDA.16:12 - Relations
 
 - `PSDA.15` supplies bounded follow-up evidence only when it can change the repertoire decision under the same relevant conditions and horizon. A local observation neither entails nor authorizes the repertoire result.
-- `PSDA.4` chooses and combines Methods for an engagement; this pattern develops and maintains the reusable offerings and their limits. It does not require a new repertoire cycle before every selection.
-- `PSDA.13`, `PSDA.5`, `PSDA.6`, `PSDA.7`, `PSDA.8`, `PSDA.9`, `PSDA.14`, `PSDA.15` and `PSDA.17` expose participation, alternative, comparison, recommendation, follow-up and arrangement requirements that a Method offering may need to preserve. Their available descriptions are not evidence of this particular Method's enactment or effectiveness.
+- `PSDA.4` chooses and combines Methods for an engagement; this pattern develops and maintains the reusable offerings and their limits.
+- `PSDA.13`, `PSDA.5`, `PSDA.6`, `PSDA.7`, `PSDA.8`, `PSDA.9`, `PSDA.14`, `PSDA.15` and `PSDA.17` expose participation, alternative, comparison, recommendation, follow-up and arrangement requirements that a Method offering may need to preserve.
 - `A.3.1` governs Method identification; `A.3.1.DR` recovers documentary contributions when their source meaning or status is unclear; `A.3.1.MR` recovers candidate ways from performance evidence. `A.3.2` governs a MethodDescription rather than admitting every multi-Method package.
 - `A.3.1.MV` can supply qualified generic variant, derivation and non-variant maintenance guidance. Resemblance or shared repertoire vocabulary does not by itself establish a formal Method-specialization relation.
-- `A.10` and `A.15.9` qualify and obtain exact source or specialist results. `A.10.1` and `G.11` apply to their respective affected-use and currentness questions, not as substitutes for the field repertoire decision.
+- `A.15.9` supplies qualified use and worthwhile acquisition of source or specialist results. `A.10` supplies their source-to-use account when it remains implicit or a needed reproducible account is missing. `A.10.1` and `G.11` apply to their respective affected-use and currentness questions, not as substitutes for the field repertoire decision.
 - `G.5` declares a selector-facing result when that claim is live over identified members and grounds; it supplies neither a universal Method-family classification nor professional fit.
 - `C.36` governs the cultural relation claims. `PSDA.18` uses this repertoire as evidence or a variant for a separately bounded cultural decision; missing generation, transmission, receiving-enactment, recognition, selection, retention and loss links remain unproved.
-- An unavailable, stale, out-of-scope or incompatible input calls for a qualified direct source or the exact gap. No sibling DPF, whole-language traversal or unperformed specialist result is implied by adjacency.
+- An unavailable, stale, out-of-scope or incompatible input calls for a qualified direct source or the exact gap.
 
 ### PSDA.16:End

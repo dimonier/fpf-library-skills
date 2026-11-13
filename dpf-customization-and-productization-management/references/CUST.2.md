@@ -97,7 +97,7 @@ Then distinguish three choices:
 
 These choices can coexist. A common adapter does not remove a local operating change; a repeatable service can include specialist help; a partner can deliver either a common or bespoke contribution. They are not rungs of a maturity ladder.
 
-For a candidate common change, identify the property or operation expected to transfer and the difference that could defeat it. Send that question to CUST.3 with the recovered cases and their limits. For a known permitted variation, send the actual fit question to CUST.4. For an unresolved causal or transfer question, ask CUST.5 for a discriminating answer. Do not use a route label as that answer.
+For a candidate common change, identify the property or operation expected to transfer and the difference that could defeat it. Send that question to CUST.3 with the recovered cases and their limits. For a known permitted variation, send the actual fit question to CUST.4. For an unresolved causal or transfer question, ask CUST.5 for a discriminating answer.
 
 #### CUST.2:4.5 - Recombine the decisions around the customer result
 

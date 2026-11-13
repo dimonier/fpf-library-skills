@@ -97,7 +97,7 @@ Arrange the increment with the users and providers who must perform it. Confirm 
 
 #### SYSE.29:4.4 - Exercise the receiving use and its failure branch
 
-Perform a bounded trial or a clearly labelled rehearsal before widening reliance. Check the result through a representative consumer, not merely through a successful transfer job. Include relevant old state, permissions, a material variant and a partial-failure case.
+Establish qualified receiving use before widening reliance. Reuse a matching qualified result; perform a bounded trial or a clearly labelled rehearsal where its required basis is missing. Check the result through a representative consumer, including the old state, permissions, variants and partial-failure cases that can defeat this transition.
 
 After an interrupted step, recover what actually changed before retrying. Test the claimed return or forward repair under the applicable state conditions. Keep a successful ordinary case from qualifying an unexercised recovery or infrequent-use branch.
 
@@ -131,9 +131,9 @@ Two continuations are possible. If a bounded recovery exercise and metadata-read
 
 Choose the first continuation for a complete illustrative outcome. The provider supplies a tested metadata decoder preserving artifact, recipe, synthetic-data identity and result references; the quarterly consumer performs its representative recovery exercise on v2 with the needed access. Both daily uses and that recovery use now have qualified receiving routes under the stipulated conditions. New requests to v1 can end, while the retained decoder and protected evidence remain available for the applicable retention period. The provider closes the served endpoint only; deletion of the old records remains a separate decision. These are constructed case results, not a report of an actual migration.
 
-Change the condition: the external provider now withdraws the old endpoint before the quarterly exercise can be performed, and no qualified return remains after v2 starts writing its new-only state. Indefinite v1 support is no longer a feasible option. The holders compare a temporary outside recovery arrangement, postponing the state-changing move, or an authorized interruption of that recovery promise. If none is qualified or permitted, the affected migration remains unresolved. Ordinary v2 uses whose conditions are independent can continue. The disappearance of a provider does not make the missing recovery result true.
+Change the condition: the external provider now withdraws the old endpoint before the quarterly exercise can be performed, and no qualified return remains after v2 starts writing its new-only state. Indefinite v1 support is no longer a feasible option. The holders compare a temporary outside recovery arrangement, postponing the state-changing move, or an authorized interruption of that recovery promise. If none is qualified or permitted, the affected migration remains unresolved. Ordinary v2 uses whose conditions are independent can continue.
 
-The decision records which continuation obtains.
+
 
 For a physical inspection or machining path, exit also requires transferable tooling, programs, relevant rights and a provider capable of producing the required result. Sending a drawing does not qualify the receiving setup. Reverting the old program cannot restore material already removed from a component; recovery may require segregation, inspection, rework or replacement under the applicable engineering decision.
 

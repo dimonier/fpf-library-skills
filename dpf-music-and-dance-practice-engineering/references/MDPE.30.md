@@ -60,7 +60,7 @@ Construct the part as a relation between rhythmic material, the receiving musica
 
 #### MDPE.30:4.1 - Recover the seed and place it in the receiving music
 
-Represent the cycle with its number of unit pulses and the positions of its onsets. Include the gap from the last onset back to the next cycle's first one. Establish the seed's musical purpose: it might preserve a known figure, explore a spacing property or provide material for a changed arrangement. A geometric property by itself does not select a good part for every musical use.
+Represent the cycle with its number of unit pulses and the positions of its onsets. Include the gap from the last onset back to the next cycle's first one. Establish the seed's musical purpose: it might preserve a known figure, explore a spacing property or provide material for a changed arrangement.
 
 Fix the origin from the receiving work, such as an accompaniment entry or shared phrase boundary. State the sound or silence that matters there and at other consequential landmarks. To try a phase shift of s pulses in an n-pulse cycle, replace each onset position p with (p + s) modulo n. Compare the resulting positions with those landmarks. Moving every onset while leaving the accompaniment fixed changes the musical relation; merely renaming the coordinates does not.
 
@@ -84,11 +84,11 @@ After changing the span, return to the accompaniment, entry and performing deman
 
 #### MDPE.30:4.4 - Try the receiving part and retain the usable result
 
-Try the selected arrangement with the tempo, reference cues, instruments and partners that the next use will retain. Listen for the wanted entries and silences and observe the actions needed to sustain them. A wrong sound caused by unintended contact may call for a different realization or practice; a wrong first hand dictated by odd attack count calls for a changed rule. The diagnosis follows the relation that failed.
+Compare the selected arrangement with the tempo, reference cues, instruments and partners required by the next use. Reuse adequate observations where those conditions still apply. When an unresolved performing consequence matters, try the part under those conditions: listen for the wanted entries and silences and observe the actions needed to sustain them. A wrong sound caused by unintended contact may call for a different realization or practice; a wrong first hand dictated by odd attack count calls for a changed rule. The diagnosis follows the relation that failed.
 
-The usable result identifies the onset pattern and fixed origin, hand/action rule, instruments and audible differences, receiving accompaniment, demonstrated conditions and selected alternative. Timing geometry, a Method for generating or performing it, understanding the construction and acquiring the performance remain different results. The [style and acquisition account](#mdpeapplication53---connect-style-method-structure-and-acquisition) explains this distinction when teaching the operation.
+The useful result identifies the onset pattern and fixed origin, hand/action rule, instruments and audible differences, receiving accompaniment, selected alternative and grounds for the claimed use. A completed score can finish the construction; a demonstrated performing use additionally needs the corresponding observations and conditions. Timing geometry, a Method for generating or performing it, understanding the construction and acquiring the performance remain different results. The [style and acquisition account](#mdpeapplication53---connect-style-method-structure-and-acquisition) explains this distinction when teaching the operation.
 
-`MDPE.9` can use the generated alternatives, `MDPE.3` their performed combination and `MDPE.10` a missing capability. For broader rhythmic comparison, transformation or coordination, use Rhythmics RHY.7, RHY.8 and RHY.11 or the applicable specialist method. Stop at the playable part and bounded receiving result when no wider practice-development decision is waiting.
+`MDPE.9` can use the generated alternatives, `MDPE.3` their performed combination and `MDPE.10` a missing capability. For broader rhythmic comparison, transformation or coordination, use Rhythmics RHY.7, RHY.8 and RHY.11 or the applicable specialist method. Stop at the constructed part or supported receiving result when it answers the current question.
 
 ### MDPE.30:5 - Archetypal Grounding
 
@@ -139,7 +139,7 @@ sound:  x . x . . x . .
 
 Eight is even, so this hand allocation repeats at the next cycle. The first two audible attacks are right-hand strokes and the last is left-hand: it is the chapter-32 smooth-toggle seed. The audible spacing and silence at 6 remain; the timbral organization and movement demand change. Instead of three audible strokes with alternation between them, the performer maintains eight alternating pulse motions. That can help one performer and burden another. Silent movement is not a silent instruction to skip the movement.
 
-In the constructed return, the percussionist first sounds an unintended stroke at 4. The ensemble slows the passage, separates audible from silent motions, then returns to the same receiving tempo and accompaniment. Once the required sound pattern and entry are demonstrated under those conditions, it selects this version for that use and retains the two-cycle version for the earlier arrangement. If the performer cannot obtain the required silent motion reliably in the available preparation time, choose a playable allocation or change the instrumentation, entry demand or rehearsal commitment. A correct table supplies no missing capability.
+In the constructed return, the percussionist first sounds an unintended stroke at 4. The ensemble slows the passage, separates audible from silent motions, then returns to the same receiving tempo and accompaniment. Once the required sound pattern and entry are demonstrated under those conditions, it selects this version for that use and retains the two-cycle version for the earlier arrangement. If the performer cannot obtain the required silent motion reliably in the available preparation time, choose a playable allocation or change the instrumentation, entry demand or rehearsal commitment.
 
 #### MDPE.30:5.4 - Extend the phrase while preserving a chosen action relation
 
@@ -155,9 +155,9 @@ new positions:  0 1 2 3 4 5 6 7 8 9 10 11
 new motion:  R l R l R l r L r L r  l
 ```
 
-The result has right-hand attacks at 0, 2 and 4 and left-hand attacks at 7 and 9. Its cyclic gaps are 2, 2, 3, 2, 3. Five attacks replace three, the span becomes twelve, and the selected hand blocks and three-pulse transitions remain. Inserting an even number of pulses preserves the parity of the shifted hand motions. This is an explicit preservation claim about this construction, not proof that every stylistic or perceived quality survived.
+The result has right-hand attacks at 0, 2 and 4 and left-hand attacks at 7 and 9. Its cyclic gaps are 2, 2, 3, 2, 3. Five attacks replace three, the span becomes twelve, and the selected hand blocks and three-pulse transitions remain. Inserting an even number of pulses preserves the parity of the shifted hand motions.
 
-The new part still needs its relation to the revised accompaniment and the performer's capability. If the accompaniment actually keeps an eight-pulse landmark, the twelve-pulse construction is not an adequate replacement merely because the arithmetic works. Retain the eight-pulse part or reconsider the joint arrangement. If twelve pulses are intended, try the new part with those receiving landmarks and compare the audible transition, effort and entry rather than declaring a score of five attacks more complex or better in every sense.
+The new part still needs its relation to the revised accompaniment and the performer's capability. If the accompaniment actually keeps an eight-pulse landmark, the twelve-pulse construction is not an adequate replacement merely because the arithmetic works. Retain the eight-pulse part or reconsider the joint arrangement. If twelve pulses are intended, try the new part with those receiving landmarks and compare the audible transition, effort and entry.
 
 ### MDPE.30:6 - Bias-Annotation
 
@@ -171,7 +171,7 @@ The equal-pulse representation makes spacing and alternation calculable. It does
 - The action allocation and instruments produce the wanted sound relation over the needed repeated span.
 - A changed span preserves the selected relation by a stated construction and is compared with the receiving accompaniment.
 
-Inspecting the score can settle those structural questions. A claim that the performer can use the part requires a receiving trial with the assistance and conditions that will actually remain. A bounded successful trial supports that use; broader reliability or learning claims require their own grounds.
+Inspecting the score can settle those structural questions. A claim that the performer can use the part requires adequate receiving-performance evidence with the assistance and conditions that will actually remain. Reuse matching observations or obtain a receiving trial when needed. Broader reliability or learning claims require their own grounds.
 
 ### MDPE.30:8 - Common Anti-Patterns and How to Avoid Them
 
@@ -184,11 +184,11 @@ Inspecting the score can settle those structural questions. A claim that the per
 
 ### MDPE.30:9 - Consequences
 
-The arranger obtains a playable candidate whose geometric, timbral and action relations can be explained and changed separately where the music permits. A phase or rule change may solve the problem with the same seed. The cost is considering the combined repeated span and the actual performing demand; mathematical compactness and more attacks do not by themselves mean a better musical result.
+The arranger obtains a constructed part whose geometric, timbral and action relations can be explained and changed separately where the music permits. A phase or rule change may solve the problem with the same seed. The cost is considering the combined repeated span and the actual performing demand.
 
 ### MDPE.30:10 - Architectural Rationale
 
-Rhythmic material becomes a part through its place in the music and the actions that produce it. Keeping these relations together explains why one unchanged onset polygon can support different performances and why a changed receiving condition returns to a particular construction. The method combines specialized generation and allocation with a musical choice; its purpose is the usable part, not an exhaustive catalogue of rhythmic shapes.
+Rhythmic material becomes a part through its place in the music and the actions that produce it. Keeping these relations together explains why one unchanged onset polygon can support different performances and why a changed receiving condition returns to a particular construction. The method combines specialized generation and allocation with a musical choice.
 
 ### MDPE.30:11 - SoTA-Echoing
 

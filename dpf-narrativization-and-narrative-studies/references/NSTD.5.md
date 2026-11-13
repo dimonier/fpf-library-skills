@@ -35,7 +35,7 @@ dependencies:
 
 Use this pattern when readers lose attention before reaching a needed distinction, remember the wrong feature, or draw unwarranted confidence from an engaging account. It also applies when suspense, identification or another expressive effect is part of the intended experience.
 
-First useful move: name the reader effect that would help, try one device in a short passage and compare it with a sufficient simpler version. Keep the device if its benefit justifies its cost without distorting a relation or choice that matters.
+First useful move: name the reader effect that would help, try one device in a short passage and compare what it adds, changes or removes in the passage. Use an available simpler treatment when it offers a relevant alternative. Keep the device if its benefit justifies its cost without distorting a relation or choice that matters.
 
 What goes wrong if missed: readers may stop before the useful part, or retain a vivid image while overlooking its limiting condition.
 
@@ -80,7 +80,7 @@ Use this comparison to design engagement.
 1. Name the intended engagement effect: attention, curiosity, emotional salience, identification, suspense, memorability, motivation, or willingness to continue.
 2. Identify the relations, qualifications or choices the reader still needs to recover.
 3. Try a device suited to the difficulty: for example an analogy for an abstract relation, an unresolved question for curiosity, or repetition for an easily lost distinction.
-4. Compare what the device changes in order, salience, wording or repetition with the simpler passage.
+4. Compare what the device adds, changes or removes in order, salience, wording or repetition. Use an available simpler treatment when it offers a relevant alternative.
 5. Check the consequence for the needed relation: has an uncertainty become certainty, an analogy replaced a definition, or sympathy obscured a relevant alternative?
 6. Keep, revise or remove the device. Use `NSTD.6` for a qualified quality evaluation and `NSTD.8` when learning is the aim. If the simpler passage already works and the added benefit is negligible, keep it.
 
@@ -93,7 +93,7 @@ Select any additional question from what readers will use the account to do.
 | Continue reading | Can the reader reach the useful or expressive part? | Revise pacing, the opening or viewpoint. |
 | Remember a relation | What does the reader later reconstruct? | `NSTD.6` for the recovery question; `NSTD.8` for learning design. |
 | Care about a problem | Does the device clarify the stakes and available choices? | Examine a relevant affected-party or manipulation concern through `D.1`–`D.5`. |
-| Believe a claim | Are belief and confidence appropriate to its grounds? | Inspect the source; use `A.10` or `B.3` for an actual evidence or assurance question. |
+| Believe a claim | Are belief and confidence appropriate to its grounds? | Inspect the source; use `A.10` when the source-to-use account is implicit or must remain replayable, and `B.3` for an actual named assurance claim. |
 | Decide or act | Does the account retain the conditions and alternatives needed for that choice? | Use the method for that decision or work; select further checking according to its stakes and value. |
 Two different failures need different repairs. When readers leave before the needed distinction, try a more relevant question, example, rhythm or viewpoint. When they become overconfident, expose the omitted condition or alternative and match the claim to its grounds. Reducing vividness alone need not solve overconfidence.
 
@@ -260,13 +260,13 @@ This pattern blocks engagement-authority drift: attention, identification, suspe
 | `CC-NSTD5-3` | Persuasion, policy, work, evidence, ethics, and assurance use boundaries are explicit when live. |
 | `CC-NSTD5-4` | Affected readers, listeners, or groups are named when harm or manipulation risk is live. |
 | `CC-NSTD5-5` | Low engagement does not automatically fail declared-use rendering quality; low source recovery does fail source-recovery quality when source recovery is required. |
-| `CC-NSTD5-6` | Added engagement is compared with a sufficient simpler alternative; further language or precision work addresses an actual ambiguity. |
+| `CC-NSTD5-6` | The device's contribution and burden are compared with the passage without it or an available relevant alternative; a sufficient simpler treatment is retained when the added benefit is negligible. Further language or precision work addresses an actual ambiguity. |
 
 ### NSTD.5:8 - Common Anti-Patterns and How to Avoid Them
 
 | Anti-pattern | What fails | Repair |
 | --- | --- | --- |
-| Fluency as truth | Smooth narrative is treated as supported claim. | Route evidence to `A.10` and evaluate source recovery in `NSTD.6`. |
+| Fluency as truth | Smooth narrative is treated as supported claim. | Establish the claim through its subject grounds and evaluate source recovery in `NSTD.6`. Use `A.10` when the source-to-use account is implicit or must remain replayable. |
 | Identification replacing a condition for action | Sympathy with a protagonist is taken as sufficient grounds for a choice whose relevant condition or alternative is missing. | Restore the needed condition or alternative. Examine a further policy, work or affected-party question only when the actual proposed action raises it. |
 | Artisticness as adequacy | More literary or memorable wording is treated as a better narrative regardless of lost structure. | State the language-state or engagement choice, then evaluate source recovery and source return through `NSTD.6`; use `A.6.3.CSC` if distinctions were deliberately dropped. |
 | Engagement-only success | Readers liked it but cannot reconstruct source structure. | Add reconstruction task and repair via `NSTD.1` through `NSTD.3`. |

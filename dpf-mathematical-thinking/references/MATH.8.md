@@ -211,7 +211,7 @@ Milne's [*Group Theory*, version 4.01, November 2025](https://www.jmilne.org/mat
 
 [Bronstein, Bruna, Cohen and Veličković, *Geometric Deep Learning*, chapter 3, §3.1](https://geometricdeeplearning.com/book/algebraicpriors.html) distinguishes the structure preserved by an automorphism from a change to an isomorphic object. **Adapt** that distinction to a relation between problem data and solutions. A fixed mark or coefficient can change the available symmetries.
 
-The selected construction competes with direct calculation or a ready classification. It is useful when one preservation argument replaces repeated solution work or exposes omitted families. Direct calculation remains sufficient for a single easy result. The finite examples demonstrate closure and incomplete coverage; they make no comparative performance claim for a solver or learning system.
+The selected construction competes with direct calculation or a ready classification. It is useful when one preservation argument replaces repeated solution work or exposes omitted families. Direct calculation remains sufficient for a single easy result. The finite examples demonstrate closure and incomplete coverage.
 
 Reopen when the action, data, solution relation, equality procedure or requested return changes. A more effective orbit-generation or canonicalization method can replace the finite implementation while retaining its required mathematical result.
 

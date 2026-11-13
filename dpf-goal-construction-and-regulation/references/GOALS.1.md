@@ -113,7 +113,7 @@ The next actor receives a meaningful task or an exact construction question. Unc
 
 ### GOALS.1:10 - Architectural Rationale
 
-The method starts with result and reliance because a polished target cannot settle either. It draws on general control and existing operating goal construction, then supplies the cross-domain distinction needed when delivery, inquiry and development coexist. A numerical target with a relevant deadline can be sufficient once those meanings are settled; it is a poor substitute for settling them.
+The method starts with result and reliance. It draws on general control and existing operating goal construction, then supplies the cross-domain distinction needed when delivery, inquiry and development coexist. A numerical target with a relevant deadline can be sufficient once those meanings are settled; it is a poor substitute for settling them.
 
 ### GOALS.1:11 - SoTA-Echoing
 

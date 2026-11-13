@@ -160,7 +160,7 @@ This worked construction distinguishes a successful local coordination from an a
 
 ### RHY.11:6 - Bias-Annotation
 
-A common grid is especially convenient for simple ratios and can bias analysis towards discrete commensurate parts. Continuous courses and flexible phrasing need their own retained relations. The worked attempts are constructed demonstrations, not reports of learning speed or evidence that a given cue works for all learners.
+A common grid is especially convenient for simple ratios and can bias analysis towards discrete commensurate parts. Continuous courses and flexible phrasing need their own retained relations. The worked attempts are constructed demonstrations.
 
 ### RHY.11:7 - Conformance Checklist
 
@@ -195,11 +195,11 @@ Simultaneous layers and the constituent/encompassing method vertical cross-cut e
 
 ### RHY.11:11 - SoTA-Echoing
 
-Nelson's *Solkattu Manual* (2008), printed pp. 15–17, supplies the explicit contrast between gesture cycle and phrase at several rates. It provides a concrete practice construction, not a universal learning schedule. The completed attempt above is constructed to demonstrate the resulting method.
+Nelson's *Solkattu Manual* (2008), printed pp. 15–17, supplies the explicit contrast between gesture cycle and phrase at several rates. It provides a concrete practice construction. The completed attempt above is constructed to demonstrate the resulting method.
 
 Toussaint's *The Geometry of Musical Rhythm*, second edition (2020), supplies useful discrete rhythmic constructions and action-allocation comparisons. A grid makes such relations calculable; continuous courses and actual joint capability require additional content.
 
-Cha's [Takadimi reconsideration](https://doi.org/10.1177/0305735614528063) proposes added syllabic information. Birch and Walsh's [conducting response](https://www.music.org/images/conf/reg/ne/2022_NE_Schedule_20220214.pdf#page=18) instead proposes a maintained gestural reference. That reference does not itself distinguish sustained sound from silence. Their comparison supports using complementary layers while retaining what each supplies. General joint coordination here is a conceptual synthesis; source examples do not prove its effectiveness in every movement or equipped performance.
+Cha's [Takadimi reconsideration](https://doi.org/10.1177/0305735614528063) proposes added syllabic information. Birch and Walsh's [conducting response](https://www.music.org/images/conf/reg/ne/2022_NE_Schedule_20220214.pdf#page=18) instead proposes a maintained gestural reference. That reference does not itself distinguish sustained sound from silence. Their comparison supports using complementary layers while retaining what each supplies. General joint coordination here is a conceptual synthesis.
 
 For the specific question of pulse and freely placed accents, the useful line is a shared temporal relation with task-dependent realization and correction. Historical laboratory anchors expose why simple addition is insufficient: [de Rugy and Sternad (2003)](https://doi.org/10.1016/j.brainres.2003.09.031) report phase-dependent interaction in combined discrete and rhythmic elbow movements; [Calvin, Huys and Jirsa (2010)](https://doi.org/10.1037/a0020403) report that a discrete wrist movement can accelerate or decelerate the other wrist's rhythmic movement. These bounded findings motivate examining both directions of interference; neither supplies a brush or Balboa teaching technique.
 

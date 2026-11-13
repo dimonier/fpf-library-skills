@@ -36,7 +36,7 @@ dependencies:
 
 A sequence can be stored directly or through partial aggregates. A graph can be represented by a matrix or by lists of neighbors. The same relation can have very different computational consequences under those choices. Conversely, a compact representation can lose the multiplicity, ordering or state distinction needed after an update.
 
-The result is a representation with effective read and update operations, a meaning-preservation argument, and a cost comparison for the intended workload. The reader needs the object's relevant operations and elementary algorithm analysis. No particular programming language or hardware is required.
+The result is a representation with effective read and update operations, a meaning-preservation argument, and a cost comparison for the intended workload. The reader needs the object's relevant operations and elementary algorithm analysis.
 
 Keep the existing representation when it already serves the work affordably. Choosing what the subject model should describe is a separate task. Here the target distinctions are sufficiently known to ask how different representations support their computation; a discovered missing distinction returns to that formulation.
 
@@ -101,7 +101,7 @@ Include invalidation and synchronization when shared updates are part of the wor
 
 Construct the simplest credible alternative, not only a slower version of the favored structure. Compare raw storage with a precomputed index, full retention with reconstruction, or a compact representation with an expanded one according to the actual operations.
 
-Require preservation of the needed answers before treating reduced cost as improvement. For a deliberate approximation, retain its qualified result and the loss it buys. Use the existing characterization, Pareto and improvement methods when choices trade storage, latency, update work and precision; no single representation must dominate every workload.
+Require preservation of the needed answers before treating reduced cost as improvement. For a deliberate approximation, retain its qualified result and the loss it buys. Use the existing characterization, Pareto and improvement methods when choices trade storage, latency, update work and precision.
 
 Select conversion only when its cost and risk are justified by the expected subsequent use. A mixed strategy can keep a simple base representation and add one index for the consequential query. Its update obligations remain part of the choice.
 
@@ -135,7 +135,7 @@ Now attach numeric weights. If zero is used both for an absent edge and for an e
 
 ### CMP.10:6 - Bias-Annotation
 
-Familiar data-structure names can substitute for operation analysis. The examples instead derive the structure from mixed prefix operations or graph access. They assume a sequential computation and state their elementary costs; shared or unusual physical realizations require their corresponding conditions.
+The examples derive the structure from mixed prefix operations or graph access. They assume a sequential computation and state their elementary costs; shared or unusual physical realizations require their corresponding conditions.
 
 ### CMP.10:7 - Conformance Checklist
 

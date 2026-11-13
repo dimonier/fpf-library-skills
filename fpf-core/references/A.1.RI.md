@@ -21,7 +21,7 @@ dependencies:
 # A.1.RI: Reidentifying an Object across Observations
 
 > **Problem frame:** Use this pattern when the next calculation or action depends on whether observations concern the same continuing object, and the available identification does not yet settle that question.
-> **First move:** Recover the continuation question, construct the relevant associations under the subject rules, test their joint compatibility and use the distinctions they actually support.
+> **First move:** Recover the continuation question, construct the relevant associations under the subject rules, test their joint compatibility and use the distinctions they support.
 >
 > **Governing patterns:** `references/A.1.md` `references/C.2.1.md` `references/A.3.3.TR.md` `references/A.3.3.PI.md` `references/C.16.MR.md` `references/C.16.IR.md` `references/B.5.TU.md` `references/B.5.TC.md`
 
@@ -51,7 +51,7 @@ Observations describe what was found at particular occasions and under particula
 
 Pairwise plausible connections can also conflict. Under a model in which each object is detected once, assigning the same later detection to two earlier objects fails the joint account. Conversely, several complete associations may all satisfy the available constraints.
 
-The practitioner needs to determine what the observations actually resolve and carry that result into the next calculation or action.
+The practitioner needs to determine what the observations resolve and carry that result into the next calculation or action.
 
 ### A.1.RI:3 - Forces
 
@@ -66,7 +66,7 @@ The practitioner needs to determine what the observations actually resolve and c
 
 ### A.1.RI:4 - Solution
 
-Recover the continuation question, construct the relevant associations under the subject rules, test their joint compatibility and use the distinctions they actually support.
+Recover the continuation question, construct the relevant associations under the subject rules, test their joint compatibility and use the distinctions they support.
 
 **Name the continuing object → recover observations and rules → construct competing connections → test them together → resolve what the use needs → continue or reopen.**
 
@@ -225,6 +225,6 @@ Reopen the chosen construction when a changed subject or observation model admit
 - **B.5.TU and B.5.TC** construct a working theory use and compare accounts when the identifying premises need that work.
 - **B.5.RR** revises reasoning affected by a changed observation or premise.
 - **C.11.DUA** selects worthwhile information work for the receiving decision.
-- **A.6.REL** supplies occurrence individuation when a later use specifically needs a designated identifying relation.
+- **A.6.REL** supplies occurrence individuation when a later use needs a designated identifying relation.
 
 ### A.1.RI:End

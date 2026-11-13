@@ -32,9 +32,9 @@ dependencies:
 
 Use this pattern when people must coordinate continuing Work but act from stale, partial, conflicting, differently authorized, or differently grained accounts of the same operating subjects. Typical cues are “we need one source of truth”, a control room with no claim provenance, a board that hides field state, a case handoff that loses the next decision, or a dashboard whose users cannot tell what they may change.
 
-The first useful move is to create or repair one participant-usable account for one decision:
+The first useful move is to use or repair the account needed by one participant decision:
 
-> For subjects `S` and commitments `C`, current claims are `Q` at horizons `T`, supported by `E` with provenance and uncertainty `P`; participants may read or change `...`; disagreements and gaps are `G`; next decisions or permissible Work are `N`; refresh or expiry occurs under `R`.
+> For subjects `S` and commitments `C`, current claims `Q` at horizons `T` have support `E`, with the provenance and uncertainty needed by this decision. Preserve any consequential disagreement, missing condition, access or decision authority, next action and condition for updating the account.
 
 Aligned attention does not require identical screens or consensus. It requires that participants can recover the subjects, qualified claims, evidence, permissions, disagreements, and next decision relevant to their Work.
 
@@ -47,7 +47,7 @@ Do not use OPS.4 to build a generic dashboard, mandate transparency, create one 
 | Name used here | Meaning |
 | --- | --- |
 | current operating account | A participant-usable set of qualified claims tied to exact operating subjects, commitments, evidence, permissions, decisions, and refresh conditions. It is neither the operating System nor a universal database. |
-| subject-state claim | A claim about one exact subject or relation at a stated time or horizon, with scheme, conditions, provenance, uncertainty, and authority. |
+| subject-state claim | A claim about one subject or relation at a stated time or horizon, with the scheme, conditions, provenance and uncertainty needed to use it; authority is a separate condition where the claim or action depends on it. |
 | currentness | The condition under which a claim remains usable for a named decision and horizon. Recent timestamps alone do not establish it. |
 | provenance | The source, observation, transformation, record, and responsibility facts needed to judge the claim's receiving use. Provenance does not make the claim true by itself. |
 | uncertainty | Missing, estimated, conflicting, stale, or bounded information whose reach can change action. |
@@ -90,24 +90,26 @@ Maintain the smallest decision-specific account that lets named participants rec
 1. **Name participants and decisions.** State who must resume, coordinate, hold, release, escalate, or perform next Work; name the horizon and useful stop for each action.
 2. **Import exact subjects and relations.** Use the OPS.3 operating-subject account. Do not let a dashboard row, case file, queue position, or control diagram replace the subject or obtaining relation.
 3. **Select only decision-changing claims.** For each subject or commitment, state the current claim, effective scheme, conditions, time or horizon, and action it can change.
-4. **Attach evidence and provenance.** Name source, observation or result, carrier, transformation, version, evidence reach, and uncertainty needed for reliance. Keep prediction, plan, observation, and decision claims distinct.
+4. **Attach evidence and provenance.** Preserve the source and support needed for the claim and receiving use, including the observation or result, carrier, transformation, version, reach and uncertainty where they affect reliance. Reuse that basis from the current account. Keep prediction, plan, observation and decision claims distinct.
 5. **Expose conflict and absence.** Preserve incompatible claims, missing observations, stale evidence, unknown authority, and unresolved specialist returns. Do not average them into false agreement.
-6. **Recover permissions and authority.** State who may read, write, annotate, accept, hold, release, or change each relied-on claim or decision. Keep assignment, capability, responsibility, permission, and authority separate.
+6. **Recover applicable permissions and authority.** For a restricted access, account change or operating decision, establish who may act, on what and under which conditions. Preserve the existing basis when current. Keep assignment, capability, responsibility, permission and authority separate. A factual observation can support a state claim without itself granting permission to alter that state or a commitment.
 7. **State next decisions and permissible Work.** Name what is enabled, blocked, awaiting evidence, or returned to a specialist; include the condition and participant that can advance it.
 8. **Construct participant views.** Select the smallest representation for each action. Preserve subject identity and claim correspondence; show what the view omits and where claims conflict, and provide a return to the owning account. Do not require one screen.
 9. **Qualify a selected control view.** Relate its depicted observation and intervention to the actual participants, evidence and authority. Obtain stronger control claims, such as stability or rate adequacy, from their direct analysis; the picture cannot supply them.
 10. **Test interruption and handoff when current.** Use `A.15.8` for the general Work or WorkPlan performance-configuration question. Ask a representative next participant to recover the bounded question, current claims, evidence, disagreements, permissions, next Work, and stop without private memory.
-11. **Refresh, expire, and reopen.** State update sources, expected cadence or event, expiry rule, supersession and conflict handling, and the observation that reopens only the affected claim, view, or decision.
+11. **Keep the account current for its use.** Identify the source or event that changes a relied-on claim and how affected participants will receive the update. Specify cadence, expiry, supersession or conflict handling where the claim or its use requires them. Reopen only the affected claim, view or decision.
 
-#### OPS.4:4.2 - Record the Result
+#### OPS.4:4.2 - Maintain the Usable Account
 
-| Result position | Required content |
+Reuse existing specialist records and participant views. Keep the content below to the extent needed for the selected decisions, access conditions and continuing use.
+
+| Result position | Content for the receiving use |
 | --- | --- |
 | use boundary | Participants, actions or decisions, horizons, first useful result, and truthful stops. |
 | subjects and commitments | Exact OPS.3 subjects and direct relations; commitment parties, content, conditions, status, and authority. |
 | current claims | Claim content, effective scheme, time/horizon, conditions, uncertainty, and receiving action. |
 | evidence and provenance | Sources, observations/results, carriers, transformations, versions, reach, and missing evidence. |
-| permissions and authority | Read, write, annotate, accept, hold, release, and change relations with their scope and basis. |
+| permissions and authority | Applicable access, account-change and operating-decision relations, with their scope and basis. |
 | disagreement and gaps | Conflicting or missing claims, affected decisions, specialist returns, and non-admissible compression. |
 | next decisions and Work | Enabled, blocked, awaiting, or returned actions; required condition and responsible participant. |
 | participant views | Selected claims, subject correspondence, explicit scope of omitted material, conflict cues, return route, and access limits. |
@@ -164,7 +166,7 @@ The next coordinator cannot open the raw field source. The handoff therefore inc
 - [ ] Next decisions and permissible Work name their enabling or blocking conditions.
 - [ ] Participant views preserve subject and claim correspondence, make omitted scope and claim conflicts visible, and provide a return to the owning account.
 - [ ] Any selected control view returns to the actual observation/intervention relations and to the direct support for its stronger claims.
-- [ ] Refresh, expiry, supersession, handoff/recovery observation when current, and smallest reopen rules are explicit.
+- [ ] Participants can recover updates that affect their use; applicable expiry, supersession, conflict and recovery conditions are retained.
 
 ### OPS.4:8 - Common Anti-Patterns and How to Avoid Them
 
@@ -190,7 +192,7 @@ Shared attention is an operating achievement when participants can coordinate fr
 
 ### OPS.4:11 - SoTA-Echoing
 
-The question is whether the next participant can act from a current, qualified operating account. A competent incumbent is SRE incident practice with separated responsibilities, a maintained live incident document, communications and an acknowledged handoff. [Google SRE, “Managing Incidents”](https://sre.google/sre-book/managing-incidents/) develops those mechanisms, including a usable document when the affected service cannot host it. OPS adopts this arrangement; a neglected dashboard is not the serious comparator.
+The question is whether the next participant can act from a current, qualified operating account. A competent incumbent is SRE incident practice with separated responsibilities, a maintained live incident document, communications and an acknowledged handoff. [Google SRE, “Managing Incidents”](https://sre.google/sre-book/managing-incidents/) develops those mechanisms, including a usable document when the affected service cannot host it. OPS adopts this arrangement.
 
 At PumpWorks, a good incident document can already identify I73, its commander, current actions and next handoff. When that account also distinguishes field-observation time from receipt time, laboratory evidence from current installation state, and release authority from document access, it suffices. Sections 4.1–4.3 ask for those distinctions only where they affect a recipient's action. The residual in section 5.1 is concrete: an expired field claim cannot supply the current evidence required for a live intervention, yet the laboratory results remain usable. A receiver lacking raw-source access needs an effective confirmation or an explicit blocker, not a second copy labelled current.
 

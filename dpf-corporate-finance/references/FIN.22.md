@@ -76,7 +76,7 @@ Diagnose the financial mechanism of distress. A viable operation with a concentr
 #### FIN.22:4.2 - Build whole routes with attainable operating changes
 
 
-Construct the alternatives appropriate to the debtor and its creditors: an agreed extension, reduced or converted claims, new money, operating restructuring, asset or business sale, and an available formal or exit route. The alternatives may combine these moves. Their labels are insufficient; state the payments, asset use, financing and claim treatment that make each route different.
+Construct the alternatives appropriate to the debtor and its creditors: an agreed extension, reduced or converted claims, new money, operating restructuring, asset or business sale, and an available formal or exit route. The alternatives may combine these moves. State the payments, asset use, financing and claim treatment that make each route different.
 
 For continuation, obtain a credible operating plan with the changes needed to restore supportable cash. Include transition spending, customer and supplier response, maintenance and later investment. Forecast what happens if the changes arrive late or achieve less than intended. The financial Method tests those consequences; it does not invent a turnaround capability merely because the spreadsheet needs higher margins.
 

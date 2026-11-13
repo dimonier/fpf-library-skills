@@ -171,11 +171,11 @@ This demands discussion and some knowledge of the receiving work. Detailed compa
 
 Direction, observation, ambition and response are connected because each can defeat the others: a useful purpose can be measured badly, a sound measure can receive an arbitrary target, and a meaningful target can be used as an unsupported promise. The construction keeps these joins visible while allowing an adequate supplied result to enter directly.
 
-A fixed quota is simpler when a stable, meaningful requirement and its use are already settled. A peer comparison can reveal opportunities that an internal baseline misses. A non-numerical contribution can guide work whose useful result is poorly represented by a count. Choose among them by the receiving decision and evidence, rather than making any one a universal management system.
+A fixed quota is simpler when a stable, meaningful requirement and its use are already settled. A peer comparison can reveal opportunities that an internal baseline misses. A non-numerical contribution can guide work whose useful result is poorly represented by a count. Choose among them by the receiving decision and evidence.
 
 ### OPS.21:11 - SoTA-Echoing
 
-Bjarte Bogsnes, *Implementing Beyond Budgeting*, second edition (2016), chapter 4, printed pp.142–159, develops translation from direction to local contributions, indicator selection, target difficulty, peer comparison and the possibility of working without numerical targets. Those historical practice accounts inform §§4.1–4.5. This pattern retains their constructive questions while making comparison limits, shared provision and the first supported action explicit. The book supplies neither a universally correct stretch level nor evidence that one scorecard works for every operation.
+Bjarte Bogsnes, *Implementing Beyond Budgeting*, second edition (2016), chapter 4, printed pp.142–159, develops translation from direction to local contributions, indicator selection, target difficulty, peer comparison and the possibility of working without numerical targets. Those historical practice accounts inform §§4.1–4.5. This pattern retains their constructive questions while making comparison limits, shared provision and the first supported action explicit.
 
 The [shared source discussion](#opsreference191---operating-aims-and-performance-sources) qualifies this line with the later study of budgets and forecasts. Keep a budget or reporting rhythm when its function remains useful. Reopen the selected construction when ordinary use shows that the aim no longer guides a useful contribution, the comparison conceals changed conditions, or its actual consequences again suppress the information needed for action.
 

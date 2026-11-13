@@ -145,7 +145,7 @@ At a beat duration of one second, the first onsets occur at 0 and 0.5 seconds; t
 
 If the sound between two known positions is unrecorded, do not replace that gap by a written dot claiming no onset. Preserve the missing-observation status. If the next operation asks how long notes are held, add the needed duration convention: the onset grid alone does not answer it.
 
-This is a notation construction, not a claim that reading the table teaches fluent rhythmic performance. Maintaining the beat and coordinating speech are available skills or contributions to be learned.
+Maintaining the beat and coordinating speech are available skills or contributions to be learned.
 
 #### NOT.8:5.2 - Read a movement relative to a changing body frame
 
@@ -211,11 +211,11 @@ Reading and enactment are connected methods. Their separation makes the connecti
 
 **Choosing a form for the same operation.** In :5.1 the reader must locate and shift two onsets within a beat. Compare a static position grid with a sounded score, for a reader who knows the syllables and can count the four positions. The grid already answers the question and remains available for inspection. Keep it when that is the whole task; adding voiced practice would cost effort without improving this answer. A familiar convention also needs no extra account when its references and reading operations are already available to the reader.
 
-For following the onsets during a performance, both a retained grid and a sounded score still need a way to keep place in the beat. Here we adapt Nelson's recurring reference and Takadimi's positional reading into :4.2 and :4.4: maintain the reference, locate each occurrence and retain or replay the parts needed for the next operation. This repairs the case in which a sign legend identifies syllables but leaves their positions unavailable. It does not require a new symbol vocabulary. A prepared reader may maintain the reference while reading the grid; a sounded or embodied form is preferable only when its coordination benefit warrants the added perception or practice.
+For following the onsets during a performance, both a retained grid and a sounded score still need a way to keep place in the beat. Here we adapt Nelson's recurring reference and Takadimi's positional reading into :4.2 and :4.4: maintain the reference, locate each occurrence and retain or replay the parts needed for the next operation. This repairs the case in which a sign legend identifies syllables but leaves their positions unavailable. A prepared reader may maintain the reference while reading the grid; a sounded or embodied form is preferable only when its coordination benefit warrants the added perception or practice.
 
 The beat calculation in :5.1 shows the information gained from the reference; it does not compare human performance speeds. The source table supplies the limits of transferring this reasoning to movement and audible interfaces: a recovered instruction still needs its performer method, and preferred sounds need not improve interpretation. Reopen this choice if a simpler available convention supports the same operation and timing with less burden, or if the chosen reference or reading procedure fails under the receiving conditions.
 
-The synthesis uses these different practices to expose recurring design operations; it does not merge their symbol systems. A position syllable, a stroke-associated syllable and a motion sign can carry different relations. Reopen the construction when a relevant contrast is not perceptible, a reader lacks an assumed operation, a new realization cannot supply the omitted work or a receiving use needs a previously unexpressed relation.
+The synthesis uses these different practices to expose recurring design operations. A position syllable, a stroke-associated syllable and a motion sign can carry different relations. Reopen the construction when a relevant contrast is not perceptible, a reader lacks an assumed operation, a new realization cannot supply the omitted work or a receiving use needs a previously unexpressed relation.
 
 ### NOT.8:12 - Relations
 

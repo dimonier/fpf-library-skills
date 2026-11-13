@@ -1,6 +1,6 @@
 ---
 id: A.14
-title: "Advanced Mereology: Components, Portions, Aspects & Phases"
+title: "Mereology: Components, Portions, Aspects & Phases"
 status: Stable
 keywords:
   - part
@@ -31,7 +31,7 @@ dependencies:
     - A.1
 ---
 
-# A.14: Advanced Mereology: Components, Portions, Aspects & Phases
+# A.14: Mereology: Components, Portions, Aspects & Phases
 
 > **Problem frame:** Before choosing a relation, identify the candidate part and whole, or the entity and collection. Use their normal identity rules.
 > **First move:** **A.14 defines three additional direct sub-relations of `partOf`:**
@@ -40,7 +40,7 @@ dependencies:
 
 ---
 
-## A.14 - Advanced Mereology: Components, Portions, Aspects & Phases
+## A.14 - Mereology: Components, Portions, Aspects & Phases
 > **Type:** Kernel mereology and part-whole relation discipline pattern
 > **Status:** Stable
 
@@ -54,7 +54,7 @@ dependencies:
 
 **Not this pattern when.** Use the direct pattern when the current question is only a selected Characteristic (`C.16`/`A.19`), viewpoint or view (`E.17.0`/`E.17.1`), representation or projection (`C.29` or its direct projection pattern), temporal claim without a `PhaseOf` relation (`C.27.TA`), constructive trace (`C.13`), Working-Model assurance grounding (`B.3.5`), meta-holon transition (`B.2`), or general U-kind admission (`E.24.UK`).
 
-### A.14:1 - Problem frame - why an advanced mereology?
+### A.14:1 - Problem frame
 
 Before choosing a relation, identify the candidate part and whole, or the entity and collection. Use their normal identity rules. A local system-role kind, Method, Work occurrence, view, or trace does not become a structural part merely because the text calls it one; use its own pattern unless a separate part claim is established.
 
@@ -87,12 +87,12 @@ If we only have “generic partOf” plus Component/Constituent, five classes of
 | Force | Tension |
 | --- | --- |
 | **Expressiveness vs. parsimony** | Portion, aspect, and phase claims need usable direct relations, while the catalogue must not turn every concern word into a part kind. |
-| **World-side structure vs. analysis** | A real bearer-dependent aspect must be stateable, while Characteristics, views, projections, partitions, and time windows keep their own meanings. |
+| **World-side structure vs. analysis** | A bearer-dependent aspect must be stateable, while Characteristics, views, projections, partitions, and time windows keep their own meanings. |
 | **Universality vs. domain nuance** | One relation discipline must serve physical systems and epistemes, while measurement, facet rules, and time behave differently by subject. |
 | **Identity vs. change** | Preserve the holon's identity through allowed change, while making reidentification explicit when its rule fails. |
 | **Readable claim vs. assurance** | The ordinary relation sentence must stand on its own, while a named assurance use may require a `sum`, `slice`, or `set` account. |
 
-### A.14:4 - Solution — extend the mereology catalogue, keep it clean
+### A.14:4 - Solution — extend the mereology catalogue
 
 **A.14 defines three additional direct sub-relations of `partOf`:**
 
@@ -126,7 +126,9 @@ The classical pair **ComponentOf** (structural, discrete) and **ConstituentOf** 
 * **POR‑4 (Kind integrity).** x and y must share the same **measure kind** and **unit** (or a declared conversion).
 * **POR‑5 (Boundary compatibility).** For physical wholes, the whole’s boundary encloses the union of its portions; cross‑boundary “leaks” are interactions, not portions.
 
-Check POR-2 separately for the chosen measure: additivity alone supplies only non-strict monotonicity. One sufficient practical case is an admitted disjoint decomposition `y = x ⊔ r` with finite `μ(y)` and positive `μ(x)` and `μ(r)`; additivity then gives strict dominance. If a proposed proper part has zero measure or the same measure as the whole, use a measure that distinguishes the portion and remainder, or retain the separately justified part relation under its own pattern.
+Check POR-2 separately for the chosen measure: additivity alone supplies only non-strict monotonicity. One sufficient case is an admitted disjoint decomposition `y = x ⊔ r` with finite `μ(y)` and positive `μ(x)` and `μ(r)`; additivity then gives strict dominance.
+
+If a proposed proper part has zero measure or the same measure as the whole, use a measure that distinguishes the portion and remainder, or retain the separately justified part relation under its own pattern.
 
 **Didactic tests.**
 
@@ -160,7 +162,7 @@ Either object may also support a separate PortionOf claim when it satisfies the 
 - ✔ “PumpUnit\#3 **before** calibration” — PhaseOf(Pump\#3\_pre, Pump\#3).
 - ✔ If `PhaseOf(Pump#3@week-32, Pump#3@2026)` and `PhaseOf(Pump#3@2026, Pump#3)`, transitivity also gives `PhaseOf(Pump#3@week-32, Pump#3)`. A high-vibration diagnostic window may overlap a calibration window for the same pump; neither is thereby a cell of one selected partition.
 - ✔ “Specification episteme E during τ₂” — PhaseOf(E@τ₂, E) when E@τ₂ is identified as a proper temporal restriction of E itself and the C.2.1 identity triple remains unchanged. ✘ “Spec v2” — if a C.2.1 discriminator changed, identify another episteme and test `EpistemeEditionRelation(E_v1,E_v2)` separately; the label proves neither identity nor continuity.
-- ✘ “Shift 1 of the same batch run” — use A.15.1 `TemporalPartOf_work`, `EpisodeOf_work`, `OperationalPartOf_work`, or another exact Work-part or occurrence relation whose predicate obtains.
+- ✘ “Shift 1 of the same batch run” — use A.15.1 `TemporalPartOf_work`, `EpisodeOf_work`, `OperationalPartOf_work`, or another Work-part or occurrence relation whose predicate obtains.
 - ✘ “Prototype vs. production unit” — identify each holon and any separately established relation. The labels alone select neither **PhaseOf**, **ComponentOf**, **ConstituentOf**, nor MHT.
 
 #### A.14:5.3 - AspectOf — bearer-dependent structural part under one named facet rule
@@ -182,20 +184,24 @@ Either object may also support a separate PortionOf claim when it satisfies the 
 **Didactic tests.**
 
 - ✓ In this constructed case, Reactor-7 and ThermalEnvelope-7 are independently admitted holons. The thermal-boundary rule distinguishes ThermalEnvelope-7 as the connected enclosure of insulation panels, seals, and boundary interfaces that constrains heat transfer across the reactor boundary. ThermalEnvelope-7 is identified by the continuing enclosure under that rule, not by a fixed panel list. `AspectOf(ThermalEnvelope-7, Reactor-7; thermal-boundary)` obtains while that enclosure and Reactor-7 continue. Replacing one panel under the same rule preserves the aspect; dismantling the enclosure, replacing the facet rule with a different boundary, or reidentifying Reactor-7 ends the occurrence. A changed temperature reading or dashboard view does not.
-- ✗ “Safety is an aspect of the design” when *safety* is only a Characteristic, concern, viewpoint, or heading. Recover that actual claim first.
+- ✗ “Safety is an aspect of the design” when *safety* is only a Characteristic, concern, viewpoint, or heading. Recover that claim first.
 - ✗ “Pump-7 during warm-up is its thermal aspect.” Use `PhaseOf` for the proper temporal restriction and `A.19` for a measured thermal Characteristic when those claims obtain.
 
 #### A.14:5.4 - CT2R-LOG and Compose-CAL handshake
 
-- A direct structural parthood claim is usable without this assurance handshake. If the publication elects B.3.5 or a named current requirement demands it, link the claim through `tv:groundedBy` to its applicable current C.2.1 `Γ_m.sum` or `Γ_m.slice` construction-trace episteme and declare `validationMode=axiomatic`. The direct relation pattern decides whether the occurrence obtains and how it is identified; the relevant entity pattern decides identity through change. The trace only reports that basis.
+- A direct structural parthood claim is usable without this assurance handshake. If the publication elects B.3.5 or a named current requirement demands it, link the claim through `tv:groundedBy` to its applicable current C.2.1 `Γ_m.sum` or `Γ_m.slice` construction-trace episteme and declare `validationMode=axiomatic`.
+
+  The direct relation pattern decides whether the occurrence obtains and how it is identified; the relevant entity pattern decides identity through change. The trace only reports that basis.
 - **PortionOf** uses the measured-portion `slice` account in `C.13:4.1.1` when B.3.5 is elected: identify the portion and whole, delimiting boundary, same-stuff/content basis, extensive measure and compatible unit. The aspect profile of `slice` has different conditions.
 - **AspectOf** uses one current `C.13 slice` trace when that assurance branch is elected. The trace names the aspect, bearer, facet rule, relation occurrence, and identity conditions.
 - **PhaseOf** is temporal parthood and shall not be grounded through `Γ_m`. Its assurance follows the same-holon and proper-interval criteria, the separately declared selected-partition rule when one is claimed, and `Γ_time` ordering (`B.1.4`).
-- A collection's own belongs-to relation remains distinct from constructive parthood (`CC-MEM-2`). State its participants, what makes it obtain, and whether later belonging is the same occurrence or a new one under the collection's pattern. A direct claim needs no B.3.5 fields. If B.3.5 assurance is elected, link `validationMode=axiomatic` to one current `C.13 set` trace that reports the relation that already obtains. The trace supports neither a ComponentOf inference nor a universal prohibition on separately grounded parthood.
+- A collection's own belongs-to relation remains distinct from constructive parthood (`CC-MEM-2`). State its participants, what makes it obtain, and whether later belonging is the same occurrence or a new one under the collection's pattern. A direct claim needs no B.3.5 fields.
 
-Two quick identity tests apply before relying on a trace. The same listed constituents can form a different whole when their direct assembly relations or rule differ. Conversely, a permitted constituent replacement can preserve the same whole. An equal input list, a repeated trace, or `validationMode=axiomatic` decides neither case.
+  If B.3.5 assurance is elected, link `validationMode=axiomatic` to one current `C.13 set` trace that reports the relation that already obtains. The trace supports neither a ComponentOf inference nor a universal prohibition on separately grounded parthood.
 
-### A.14:6 - Choosing the right relation (decision table)
+Two identity tests apply before relying on a trace. The same listed constituents can form a different whole when their direct assembly relations or rule differ. Conversely, a permitted constituent replacement can preserve the same whole. An equal input list, a repeated trace, or `validationMode=axiomatic` decides neither case.
+
+### A.14:6 - Choosing a relation (decision table)
 
 | You want to say... | Use | Why |
 | --- | --- | --- |
@@ -207,7 +213,7 @@ Two quick identity tests apply before relying on a trace. The same listed consti
 | “This item belongs to that collection.” | **The belongs-to rule defined for that collection** | Name the entity and collection, state what makes belonging begin and end, and distinguish recurrence. Belonging establishes neither parthood nor its impossibility. |
 | “This System is classified by a local work-facing kind, has an assignment to that kind, or participates in a direct relation.” | The corresponding local system-role-kind classification, `U.SystemRoleAssignment`, or direct relation participation; use A.6.5 when the relation needs reusable participant typing. | Kind classification, assignment occurrence, and relation participation are not parts. |
 
-> **Firewall reminder.** If the sentence is about system-role-kind classification or assignment, how action is done, or what happened when, use `A.2`/`A.2.1`, `A.3.1`, or `A.15.1` as appropriate. For an episteme, use A.14 for content parthood or a proper interval of one unchanged C.2.1 identity; changed claims, EntityOfConcern, or effective reference scheme identify another episteme, and any historical continuation uses C.2.1 `EpistemeEditionRelation` only when its predicate obtains.
+> If the sentence is about system-role-kind classification or assignment, how action is done, or what happened when, use `A.2`/`A.2.1`, `A.3.1`, or `A.15.1` as appropriate. For an episteme, use A.14 for content parthood or a proper interval of one unchanged C.2.1 identity; changed claims, EntityOfConcern, or effective reference scheme identify another episteme, and any historical continuation uses C.2.1 `EpistemeEditionRelation` only when its predicate obtains.
 
 ### A.14:7 - Archetypal Grounding
 
@@ -232,8 +238,8 @@ It also corrects analysis and representation bias. A Characteristic, viewpoint, 
 
 | ID  | Requirement  | Purpose  |
 | --- | --- | --- |
-| **CC-A14-0** | A local system-role kind **MUST NOT** occur as a node in any `partOf` chain by kind identity; a `U.System` classified by that kind remains eligible for holon mereology on its independent system identity. `U.Method` **MUST NOT** occur in A.14 structural `ComponentOf` or structural `partOf` chains by method identity alone; A.3.1 and B.1.5 define submethod assembly. If an exact admission predicate establishes a different entity, such as a `SystemRoleKindDescription`, Work occurrence, `U.SystemRoleAssignment` occurrence, `SystemRoleKindRelationStructure`, method relation structure, or episteme, name that entity, assertion, and subject-pattern locator. | Keeps local system-role kinds out of holon mereology by kind identity and keeps method holarchy out of structural component mereology while preserving admitted entities. |
-| **CC‑A14‑0a** | `U.MethodDescription` / `U.WorkPlan` and other describing epistemes **MAY** participate in `partOf` only as `U.Episteme` nodes: content `ConstituentOf`, measured text `PortionOf`, or `PhaseOf` for a proper interval of one unchanged C.2.1 identity. A changed C.2.1 discriminator identifies another episteme; connect two such identities only through an independently obtaining `EpistemeEditionRelation`. They **MUST NOT** be asserted as `ut:StructPartOf` of any `U.System`. | Allows episteme structure and legitimate temporal restriction without smuggling Methods or automatic edition continuity into structure. |
+| **CC-A14-0** | A local system-role kind **MUST NOT** occur as a node in any `partOf` chain by kind identity; a `U.System` classified by that kind remains eligible for holon mereology on its independent system identity. `U.Method` **MUST NOT** occur in A.14 structural `ComponentOf` or structural `partOf` chains by method identity alone; A.3.1 and B.1.5 define submethod assembly. If an admission predicate establishes a different entity, such as a `SystemRoleKindDescription`, Work occurrence, `U.SystemRoleAssignment` occurrence, `SystemRoleKindRelationStructure`, method relation structure, or episteme, name that entity, assertion, and subject-pattern locator. | Keeps local system-role kinds out of holon mereology by kind identity and keeps method holarchy out of structural component mereology while preserving admitted entities. |
+| **CC‑A14‑0a** | `U.MethodDescription` / `U.WorkPlan` and other describing epistemes **MAY** participate in `partOf` only as `U.Episteme` nodes: content `ConstituentOf`, measured text `PortionOf`, or `PhaseOf` for a proper interval of one unchanged C.2.1 identity. A changed C.2.1 discriminator identifies another episteme; connect two such identities only through an independently obtaining `EpistemeEditionRelation`. They **MUST NOT** be asserted as `ut:StructPartOf` of any `U.System`. | Allows episteme structure and temporal restriction without smuggling Methods or automatic edition continuity into structure. |
 | **CC‑A14‑0b** | A collection-belonging relation **MUST NOT** be inferred or auto-rewritten as any `partOf` sub-relation. This non-inference does not prohibit a separately grounded constructive part relation for the same entities. | Separates collection belonging from parthood without assuming they can never coexist. |
 | **CC‑A14‑0c** | `SerialStepOf` / `ParallelFactorOf` **MUST NOT** appear in any `partOf` chain or table in A.14; model order and concurrency potential via **A.15** and direct method-composition patterns such as `B.1.5`. If a node linked by those relations is also a submethod, state that `U.Method` claim separately before using method holarchy. | Prevents the “order‑as‑structure” and “edge-as-part” category errors.  |
 
@@ -255,7 +261,7 @@ It also corrects analysis and representation bias. A Characteristic, viewpoint, 
 | **CC‑PHA‑2 (Nesting & overlap)** | Nested or overlapping `PhaseOf` values for one holon **MAY** obtain. Do not infer a partition, aspect difference, or holon difference merely from overlap. | Keeps universal temporal parthood consistent and permits ordinary windows. |
 | **CC‑PHA‑3 (Selected partition)** | If a claim selects an exhaustive partition, it **MUST** name one holon, covered interval, aspect or partition rule, and family of phase cells. Only cells of that same selected partition are required to be pairwise non-overlapping and jointly cover the declared interval. | Makes coverage and non-overlap local to the claim that needs them. |
 | **CC‑PHA‑4 (Identity failure)** | If the holon-identity criterion fails, **PhaseOf** does not span that boundary. Apply the subject's identity and continuation rules; a claimed **Meta‑Holon Transition** must independently satisfy B.2. | Keeps temporal parthood separate from whole reidentification. |
-| **CC-PHA-5 (Episteme & Work boundary)** | `PhaseOf` **MAY** restrict one unchanged `U.MethodDescription` episteme to a proper interval only after its C.2.1 identity triple remains fixed. Changed description epistemes use `EpistemeEditionRelation` only when C.2.1's historical-continuation predicate obtains. Work intervals, episodes, performed parts, retries, resumptions, and later occurrences **SHALL** use A.15.1's exact relations; generic `PhaseOf` is not their substitute. `PhaseOf` never applies to a local system-role kind by kind identity or to `U.Method`. | Keeps episteme identity, edition continuity, and Work-temporal law with their subject patterns. |
+| **CC-PHA-5 (Episteme & Work boundary)** | `PhaseOf` **MAY** restrict one unchanged `U.MethodDescription` episteme to a proper interval only after its C.2.1 identity triple remains fixed. Changed description epistemes use `EpistemeEditionRelation` only when C.2.1's historical-continuation predicate obtains. Work intervals, episodes, performed parts, retries, resumptions, and later occurrences **SHALL** use A.15.1's relations; generic `PhaseOf` is not their substitute. `PhaseOf` never applies to a local system-role kind by kind identity or to `U.Method`. | Keeps episteme identity, edition continuity, and Work-temporal law with their subject patterns. |
 
 #### A.14:9.4 - AspectOf guards
 
@@ -301,17 +307,17 @@ It also corrects analysis and representation bias. A Characteristic, viewpoint, 
 
 **Step 3 — Is it the same holon during a proper sub-interval?** If yes, use **PhaseOf** after the holon-identity and interval tests. Another episteme or Work occurrence uses its own identity and relation patterns.
 
-**Step 4 — Is it a bearer-dependent structural aspect?** Use **AspectOf** only after naming the aspect, bearer, facet rule, relation occurrence, and aspect-identity rule. If the source names only a Characteristic, viewpoint, view, projection, selected partition, concern, or time window, return that actual claim instead.
+**Step 4 — Is it a bearer-dependent structural aspect?** Use **AspectOf** only after naming the aspect, bearer, facet rule, relation occurrence, and aspect-identity rule. If the source names only a Characteristic, viewpoint, view, projection, selected partition, concern, or time window, return that claim instead.
 
 **Step 5 — Does the entity belong to a collection?** Use the belongs-to rule defined for that collection after naming the entity, collection, beginning, ending, recurrence, and history conditions. Infer neither part nor holonhood and do not infer that separately grounded parthood is impossible. If collective action is current, apply all six A.1 matters separately.
 
-**Quick spot-tests.**
+**Spot-tests.**
 
 | Smell | Likely error | Fix |
 | --- | --- | --- |
 | “20% of the chassis” | A percentage substitutes for the structural or measured-extent predicate. | Establish ComponentOf for an integrated part; state a separate PortionOf claim for same-stuff extent under its measure and boundary conditions. The percentage alone establishes neither. |
 | “Chapter 2 is 15% of the book” | Content assembly and text measure are collapsed. | State the chapter's conceptual contribution as ConstituentOf and its measured text share as a separate PortionOf claim when their respective conditions hold. |
-| “Safety is an aspect of the design.” | Characteristic, concern, viewpoint, or structural aspect remains unresolved. | Recover the actual claim. Use AspectOf only with an identified aspect, bearer, facet rule, occurrence, and identity condition. |
+| “Safety is an aspect of the design.” | Characteristic, concern, viewpoint, or structural aspect remains unresolved. | Recover the claim. Use AspectOf only with an identified aspect, bearer, facet rule, occurrence, and identity condition. |
 | “The dashboard slice is an aspect of the reactor.” | A view or projection is made into a world-side part. | Use the view, publication, or representation pattern; add AspectOf only for an independently established reactor aspect. |
 | “Spec v2 overlaps v1.” | A version label is asked to decide identity and phase. | Compare C.2.1 identities and test edition continuity; use PhaseOf only for one unchanged episteme over a proper interval. |
 | “Team is part of the project.” | Collection belonging is confused with constructive parthood. | State the affiliation rule. If an integrated whole is also claimed, apply all six A.1 matters and state the part relation separately. |
@@ -329,7 +335,7 @@ It also corrects analysis and representation bias. A Characteristic, viewpoint, 
 ### A.14:10 - Common Anti-Patterns and How to Avoid Them
 
 - **Member as component.** A person, team, document, or object belongs to a collection and is then counted as structurally integrated.
-- **Aspect by label.** A Characteristic, concern, viewpoint, view, projection, partition, heading, dashboard slice, or time window is called an aspect and entered into a part tree. Recover the actual claim; require the full AspectOf occurrence when structural parthood is intended.
+- **Aspect by label.** A Characteristic, concern, viewpoint, view, projection, partition, heading, dashboard slice, or time window is called an aspect and entered into a part tree. Recover the claim; require the full AspectOf occurrence when structural parthood is intended.
 - **System-role expression as part.** A local kind, assignment, or relation position is put into a part tree instead of using its direct pattern.
 - **Method as part.** A Method, recipe, or algorithm is treated as a structural component instead of using Method, MethodDescription, Work, or transformation patterns.
 - **Portion without measure.** Some fuel, data, time, or text is named as a portion without measure kind, unit, boundary, and additivity conditions.
@@ -369,7 +375,7 @@ A.14 exists because part-whole words carry identity, aggregation, measure, facet
 
 ### A.14:14 - SoTA-Echoing
 
-The collection-belonging rule uses a constructional question: what is the collection, what gives it identity, and which relation actually obtains? A subject-specific rule supplies the belonging predicate.
+The collection-belonging rule uses a constructional question: what is the collection, what gives it identity, and which relation obtains? A subject-specific rule supplies the belonging predicate.
 
 | Source line | Useful contribution | Limit | A.14 decision and destination |
 | --- | --- | --- | --- |
@@ -380,7 +386,7 @@ The collection-belonging rule uses a constructional question: what is the collec
 
 
 
-The resulting collection alternatives are deliberately distinct:
+The resulting collection alternatives are distinct:
 
 - **Selected:** an ordinary subject-specific belongs-to sentence plus the collection's own rule.
 - **Rejected:** one generic `MemberOf`, because it collapses formal inclusion, classification, participation, collection belonging, and constructive parthood.
@@ -403,13 +409,15 @@ The catalogue keeps direct component, constituent, portion, bearer-dependent asp
 #### A.14:14.1 - Aspect branch application
 
 
-For AspectOf, A.14 adapts the constructor-and-identity questions of Partridge et al. and Florio and Linnebo's Core Constructional Ontology: which bearer, facet rule, dependent aspect and identity conditions make this structural part? The bearer/facet conditions and required `StructPartOf` relation are FPF choices. Fine's historical composition-first treatment motivates identifying the composition operation before the part claim. A.14 adapts that line in `A.14:5.3`, the decision procedure, and `CC-ASP-1` through `CC-ASP-4`; `C.13 slice` remains an optional report, not the constructor of the aspect. The serious alternatives are routed rather than renamed: measured Characteristic (`C.16`/`A.19`), viewpoint or view (`E.17`), representation or projection (`C.29` or its direct pattern), selected partition, and temporal restriction (`PhaseOf`/`C.27.TA`). Identify the actual relation before reusing the word *aspect*.
+For AspectOf, A.14 adapts the constructor-and-identity questions of Partridge et al. and Florio and Linnebo's Core Constructional Ontology: which bearer, facet rule, dependent aspect and identity conditions make this structural part? The bearer/facet conditions and required `StructPartOf` relation are FPF choices. Fine's historical composition-first treatment motivates identifying the composition operation before the part claim. A.14 adapts that line in `A.14:5.3`, the decision procedure, and `CC-ASP-1` through `CC-ASP-4`; `C.13 slice` remains an optional report, not the constructor of the aspect.
+
+The alternatives are routed rather than renamed: measured Characteristic (`C.16`/`A.19`), viewpoint or view (`E.17`), representation or projection (`C.29` or its direct pattern), selected partition, and temporal restriction (`PhaseOf`/`C.27.TA`). Identify the relation before reusing the word *aspect*.
 
 
 ### A.14:15 - Relations
 
 - **Builds on:** `A.1`, `A.7`, `B.1`, `B.2`, `C.13`, and `B.3.5` for holon identity, strict distinction, gamma-flavour separation, meta-holon transition, constructive grounding, and Working-Model assurance.
 - **Coordinates with:** `C.16` and `A.19` for measured Characteristics; `E.17.0`/`E.17.1` for viewpoints and views; `C.29` and direct projection patterns for representations; `C.27.TA` for temporal claims; and `A.2`, `A.2.1`, `A.3.1`, `A.3.2`, `A.15`, `A.15.1`, and `A.3.4` when wording concerns a local kind, assignment, Method, Work, or transformation rather than parthood.
-- **Used by:** architecture, description, evidence, and U-kind admission patterns when their structural claim depends on a clean parthood relation.
+- **Used by:** architecture, description, evidence, and U-kind admission patterns when their structural claim depends on a parthood relation.
 
 ### A.14:End

@@ -33,7 +33,7 @@ Use this when plausible answers about a worthwhile contribution, its obtaining w
 
 The first useful move is to take the proposed choice or the answer that just changed and ask what it relies on and what relies on it. Recover the actual contribution, way and commitments implicated by that question. The result is a connected strategic judgement, a worthwhile next inquiry or construction, or a specific reason not to commit yet.
 
-Use a direct STR Method when its current result already answers the question. Do not reconstruct an entire strategy to interpret one settled signal, apply a known eligibility rule or make a sufficiently supported bounded choice. STR.14 handles an identified conflict among simultaneous strategic work; this Method also helps form a coherent proposal before such a conflict is known. It does not supply missing professional capability, evidence or authority.
+Use a direct STR Method when its current result already answers the question. Do not reconstruct an entire strategy to interpret one settled signal, apply a known eligibility rule or make a sufficiently supported bounded choice. STR.14 handles an identified conflict among simultaneous strategic work; this Method also helps form a coherent proposal before such a conflict is known.
 
 ### STR.18:2 - Problem
 
@@ -79,7 +79,7 @@ Compare the assembled account with its serious alternative at the same scope. Re
 
 When a condition changes, identify the claim it defeats or leaves uncertain and trace the dependent choice. For example, loss of data access can block one diagnostic option without invalidating observed customer difficulty; an improved device can remain useful while a service proposal lacks incident cover. Revise the affected way or commitment, retain independent evidence and return to the responsible decision holder. The account can finish with that bounded judgement; unresolved wider ambitions do not force another cycle now.
 
-Recognition does not establish assurance. Incompatible answers justify using this Method, but a claim about demand, technical performance, financial viability or a participant's authority needs its own support. Preserve those qualifications in the whole judgement. An attractive diagram of connections does not supply them.
+Recognition does not establish assurance. Incompatible answers justify using this Method, but a claim about demand, technical performance, financial viability or a participant's authority needs its own support. Preserve those qualifications in the whole judgement.
 
 ### STR.18:5 - Archetypal Grounding
 
@@ -134,7 +134,7 @@ The framework's [source-use account (STR.Sources:1)](#strsources1---source-use-a
 
 The serious smaller alternative is a competent direct strategic comparison that already exposes its purposes, obtaining ways, constraints and authority. Reuse it. The additional move is warranted when apparently adequate partial answers fail to establish their joint use: SensorCo's successful preparation, feasible resource allocation and authority for a later trial answer different questions. Connecting them prevents an unsupported commitment without forcing another experiment or a complete annual-planning exercise.
 
-This is a grounded methodological synthesis with conditional worked applications, not a claim of comparative organizational effectiveness. Reopen when an adequate existing Method supplies the whole judgement more simply, a new source changes a consequential supplier, or actual use exposes a missing join or unnecessary burden. Naming the whole does not establish a cognitive or learning advantage for its mnemonic.
+This is a grounded methodological synthesis with conditional worked applications, not a claim of comparative organizational effectiveness. Reopen when an adequate existing Method supplies the whole judgement more simply, a new source changes a consequential supplier, or actual use exposes a missing join or unnecessary burden.
 
 ### STR.18:12 - Relations
 

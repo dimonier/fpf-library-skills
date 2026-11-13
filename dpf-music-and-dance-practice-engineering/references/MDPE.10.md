@@ -82,7 +82,7 @@ Four errors recur:
 Performing capability is also multiscale. During one occurrence, a musician may use bodily control, anticipation,
 rhythm, phrasing, instrument interaction, ensemble coordination, and concert practice at once. A social dancer may
 use posture, weight transfer, timing, figure vocabulary, partner response, floor navigation, and participation in
-the event at once. These concurrent contributions are not a lesson sequence. Training may proceed through
+the event at once. Training may proceed through
 first–then activities, but representative Work tests their joint functioning.
 
 Capability belongs to an independently identified System. In practitioner prose, use the narrower useful name—
@@ -112,17 +112,16 @@ whole-level capability only when that whole is independently identified and the 
 
 Start from the candidate or performance family, not from a curriculum. State the material, performer
 configuration, receiving conditions, required result, measures or qualitative distinctions, protected conditions,
-representative Work, and currentness window.
+representative Work, and any qualification window or currentness condition required for this use.
 
 Set the target from the capability the receiving Work requires and the present decision needs to establish. “Know Balboa” is too broad. “This pair can keep a
 continuous movement carrier while placing a partner-readable weight event through the selected phrase and tempo
 range” can be tested. If the receiving phrase also requires changing free-leg accents, retain that demand: the pulse must remain regular and each chosen accent must arrive at its intended place. “This robot can produce the selected dynamic and timing range for the named repertoire and
 gesture condition” can be tested.
 
-When a style label or copied example leaves the target unclear, compare the distinction that should survive a change, the operations that produce it, what the performer understands, and what the performer can enact with the intended support. [MDPE.Application:5.3](#mdpeapplication53---connect-style-method-structure-and-acquisition) develops this application of E.23.CDI:4.2.1. Its comparison can select clearer description, Method development, learning or changed provision; another lesson is not the answer to every missing connection. Return the resulting demand and supported contribution to the capability target here.
+When a style label or copied example leaves the target unclear, compare the distinction that should survive a change, the operations that produce it, what the performer understands, and what the performer can enact with the intended support. [MDPE.Application:5.3](#mdpeapplication53---connect-style-method-structure-and-acquisition) develops this application of E.23.CDI:4.2.1. Its comparison can select clearer description, Method development, learning or changed provision. Return the resulting demand and supported contribution to the capability target here.
 
-`MDPE.9` can supply candidate demands; `MDPE.3` can supply a performing configuration. Neither establishes
-capability.
+`MDPE.9` can supply candidate demands; `MDPE.3` can supply a performing configuration.
 
 #### MDPE.10:2.3 - Find the limiting contribution and protected trade-offs
 
@@ -153,11 +152,7 @@ recovery, or another protected result.
 | equipped performer | human practice, device design, sensing and control calibration, co-adaptation, interface and safety Work | person, device, and combined-configuration capabilities remain separate |
 | hybrid or collective | allocation, coordination, interface, communication, rehearsal, adaptation, and support Methods | the group label does not identify a capability holder by itself |
 
-Choose teaching and attentional interventions by performer, material, limitation, and outcome. Current Music
-evidence does not support one universal internal-versus-external focus cue. Current Dance evidence does not support
-one universally superior teacher-led or learner-led pedagogy. Demonstration, correction, exploration, reflection,
-peer feedback, choice, and deliberate return of attention to an automatized detail are candidate moves to test,
-not a mandatory order.
+Choose teaching and attentional interventions by performer, material, limitation and outcome. The cited Music review by Hohagen and Immerz (2024) reports mixed findings for internal and external focus cues; the cited Dance review by Silang, Zhou and Gao (2026) finds an uneven basis for comparing teacher-led and learner-led pedagogy. Use those scoped findings to select among demonstration, correction, exploration, reflection, peer feedback, choice and deliberate return of attention to an automatized detail. Evaluate the selected contribution against the actual learning target.
 
 For partnered movement, [MDPE.26](#mdpe26---construct-and-change-a-partnered-movement-organization) derives practice from the relation that fails in joint performance: obtaining bodily support and articulation, making a cue usable, allocating attention or entering a different movement organization. Begin with an attainable joint attempt and return local practice to the passage it is meant to enable.
 
@@ -191,7 +186,7 @@ The broader claim that all memory and reasoning work through the same COIN mecha
 dependence appears across several memory and decision domains, so the hypothesis is worth testing when it yields a
 better learning or transfer experiment. In robot and AI work,
 domain randomization, curriculum design, context-aware retrieval, and held-out-distribution tests are direct
-machine-learning Methods; a shared word *context* does not establish the same mechanism as human motor learning.
+machine-learning Methods.
 
 #### MDPE.10:2.6 - Perform development Work and test transfer
 
@@ -202,17 +197,14 @@ Completion shows that development Work occurred. It does not establish changed c
 the change. A before/after comparison is meaningful only when holder, configuration, measures, envelope, and
 qualification windows remain comparable. Make a causal claim only when its own evidence supports it.
 
-Then perform the representative transfer Work. Choose a test that exposes the target and protected
-conditions, comparing the contribution of its observations with its full burden. Where robustness changes the decision, vary one relevant condition: phrase or repertoire, tempo or
-rhythmic density, partner or ensemble, venue or floor, instrument or device, software or model, assistance or cue,
-fatigue or interruption, failure recovery, or delay before reassessment.
+Use existing practice or other-check observations when they expose the target and protected conditions in representative receiving Work and meet the capability claim's evidence requirements. Otherwise obtain the missing representative transfer evidence, comparing the contribution of a test with its full burden. Where robustness changes the decision, vary a relevant condition: phrase or repertoire, tempo or rhythmic density, partner or ensemble, venue or floor, instrument or device, software or model, assistance or cue, fatigue or interruption, failure recovery, or delay before reassessment. If adequate evidence cannot be obtained, return the supported narrower capability or the unestablished claim.
 
 A reversible artistic experiment can support a narrower claim than a
 safety-relevant public performance.
 
 ### MDPE.10:3 - First Useful Result
 
-Record the result in a compact capability statement:
+Return the capability and its grounds in the form needed by the receiving use. This optional compact account can help:
 
 > - **Capability holder:** [performer or configured performing whole].
 > - **Music-or-Dance Work family:** [the receiving Work].
@@ -221,14 +213,13 @@ Record the result in a compact capability statement:
 > - **Limiting contribution:** [the contribution selected for development].
 > - **Development Method and Work:** [what was done, by whom, with which provider or tool].
 > - **Practice contexts:** [cues, feedback, transition history, and variation when these affect transfer].
-> - **Representative transfer Work:** [task, configuration, conditions, and observations].
+> - **Representative receiving evidence:** [task, configuration, conditions and observations, reused or newly obtained].
 > - **Supported capability:** [what the holder can now do and the evidence used].
 > - **Unsupported conditions:** [where the result must not be generalized].
 > - **Receiving decision:** [what can now proceed, change, or stop].
 > - **Reopen condition:** [changed holder, material, configuration, context, measure, evidence, or time window].
 
-If transfer cannot be tested, name what is missing and which decision it blocks. “Needs more practice” is not a
-useful result.
+If required transfer evidence is unavailable, name what is missing and which decision it blocks.
 
 ### MDPE.10:4 - Worked Cases
 
@@ -367,7 +358,7 @@ Choose subsequent difficulty from the intended use: a changed accent sequence, i
 
 If the receiving performance requires no teacher count, move feedback after the phrase and try intervals without that extra cue. The pair keeps the music and partner contact; the drummer keeps the instrument and any accompaniment belonging to the target. Use a new required accent sequence to test choice, and a relevant tempo or reference change to test continued synchronization. Include a later attempt when retained capability matters. Judge pulse regularity, accent placement and character, continuation and protected bodily or partner conditions together.
 
-A useful result may authorize the studied phrase and range, identify one still unavailable phase or support exchange, or return a required technique. It cannot be improved merely by dropping the required accents. Transfer to another activity begins by recovering its supporting action, variable articulation, available means and feedback, then carrying out its representative joint task. Structural similarity justifies trying a corresponding teaching construction; actual skill transfer requires the receiving performance.
+A useful result may authorize the studied phrase and range, identify one still unavailable phase or support exchange, or return a required technique. Transfer to another activity begins by recovering its supporting action, variable articulation, available means and feedback, then carrying out its representative joint task. Structural similarity justifies trying a corresponding teaching construction; actual skill transfer requires the receiving performance.
 
 ### MDPE.10:5 - Checks and Common Repairs
 
@@ -380,7 +371,7 @@ A useful result may authorize the studied phrase and range, identify one still u
 | Development Method fits the holder | Human training language is copied into robot, AI, equipped, or collective cases. | Use the direct holder-specific Method and evidence. |
 | Practice prepares later contexts | Repetition in one context masquerades as transfer. | Vary relevant contexts, cues, transition history, and delayed use where the claim requires it. |
 | Context inference remains a hypothesis | Apparent forgetting receives one automatic explanation. | Use return-to-context and discriminating probes; retain rivals. |
-| Representative Work is performed | Activity, credentials, or exercise success replace capability. | Test the target and protected conditions in receiving-like Work. |
+| Receiving capability has representative grounds | Activity, credentials, or exercise success can leave the receiving capability unestablished. | Use adequate existing receiving-like Work observations or test the missing target and protected conditions. |
 | Causation is not invented | Improvement is credited automatically to teacher, exercise, model, or device. | Keep Work, before/after evidence, capability, and causal claim separate. |
 | Result has limits and a reopen rule | One success becomes universal mastery. | State envelope, unsupported conditions, and currentness trigger. |
 

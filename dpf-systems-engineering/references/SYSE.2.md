@@ -44,10 +44,10 @@ structures, neighbours, conditions, and outside changes. A compatible `SYSE.17` 
 qualified consequence claims and unresolved bearers. Use only result claims compatible with the current decision.
 
 The result is a **linked use-and-system concept proposal**: bounded claim content that connects a concrete
-use situation with a candidate System concept and states their main uncertainty. One or more descriptions may
+use situation with a candidate System concept and states any main uncertainty. One or more descriptions may
 carry the claims; no document form is required.
 
-First useful move: link one concrete use claim to one candidate system-concept claim and state their main
+First useful move: link one concrete use claim to one candidate system-concept claim and state any main
 uncertainty. This is enough to expose a grounded architecture question. Add further content—for example,
 another use situation, structure, participant, failure, effect, or representation—only when it can change the
 candidate or its boundary.
@@ -120,7 +120,7 @@ participation as already actual. State:
 2. the direct relation by which that subject enters the use;
 3. the condition or change expected;
 4. the outside effect that matters to the current decision; and
-5. the uncertainty that could change the concept.
+5. any uncertainty that could change the concept.
 
 Name the relying subject under its admitted kind; a person and a System are only two possible kinds. State the
 direct relation by which it enters the use—for example, reliance, participation, performance of Work, or affectedness.
@@ -156,7 +156,7 @@ Write one outside-facing use claim and one inside-facing concept claim:
 Linked use-and-system concept proposal:
   concrete use claim:
   candidate system-concept claim:
-  main uncertainty:
+  main uncertainty, if any:
   architecture question exposed:
   reopen condition:
 ```
@@ -216,7 +216,7 @@ is the next use.
 
 #### SYSE.2:4.5 - Expand only when another claim can change the candidate
 
-The first result is one linked use claim, one candidate concept claim, and their main uncertainty.
+The first result is one linked use claim, one candidate concept claim, and any main uncertainty.
 Reuse an adequate scenario or use-case slice as the proposal: retain its compatible use and concept claims and
 add only the missing relation, consequence or uncertainty needed for this decision. The progressive-slice
 comparison in §11 helps choose when to continue toward implemented, tested behaviour.
@@ -238,8 +238,8 @@ flows. An operational adjective does not settle that choice.
 
 #### SYSE.2:4.6 - Stop at a grounded architecture question and reopen from failed support
 
-Stop when the current use claim and candidate concept expose a grounded architecture question and their main
-uncertainty. The linked proposal supplies required functioning, operating conditions, outside effects,
+Stop when the current use claim and candidate concept expose a grounded architecture question and any
+uncertainty carried into it. The linked proposal supplies required functioning, operating conditions, outside effects,
 decision-relevant environment structures, assumptions, and evidence limits to `C.30` and `C.32`.
 
 Use `C.30.ASV` only when a structural description and its adequacy for a selected architecture use are current.
@@ -362,14 +362,14 @@ preferred concept always succeeds; keep the use claim revisable and return evide
 
 | ID | Requirement |
 | --- | --- |
-| `CC-SYSE2-1` | A conforming use SHALL name one concrete use situation, one candidate system-concept claim, and their main uncertainty before requesting fuller documentation. |
+| `CC-SYSE2-1` | A conforming use SHALL name one concrete use situation, one candidate system-concept claim, and any main uncertainty before requesting fuller documentation. |
 | `CC-SYSE2-2` | It SHALL name the participating and affected subjects and SHALL state each decision-changing relation through the applicable FPF pattern. |
 | `CC-SYSE2-3` | It SHALL distinguish parthood, placement, interaction, use, ownership, authority, and affectedness when more than one is current. |
 | `CC-SYSE2-4` | Function-like wording SHALL identify the required functioning and proposed bearer through `A.6.F` before architecture use relies on it. |
 | `CC-SYSE2-5` | Required or intended transformations SHALL remain modal claims; an actual transformation claim SHALL satisfy `A.3.4`. |
 | `CC-SYSE2-6` | A ConOps, use case, scenario, requirement, model, diagram, or other representation SHALL remain distinct from the linked claims it presents. |
 | `CC-SYSE2-7` | Conditional expansion SHALL add only information that can change the current concept, architecture question, evidence use, or return. |
-| `CC-SYSE2-8` | The stop SHALL expose a grounded `C.30` or `C.32` question and the uncertainty carried into it. |
+| `CC-SYSE2-8` | The stop SHALL expose a grounded `C.30` or `C.32` question and any uncertainty carried into it. |
 | `CC-SYSE2-9` | When architecture, realization, observation, or specialist evidence challenges a claim, that evidence SHALL return to the use, concept, or project-focus claims it can change. |
 
 ### SYSE.2:8 - Common Anti-Patterns and How to Avoid Them

@@ -250,7 +250,7 @@ For constructing polynomial expressions from update rules, **adapt** Bayarmagnai
 
 For count transformations, **adapt** the conserved linear expression described by Gopalkrishnan in *Autocatalysis in Reaction Networks*. The weighted-exchange derivation in :5.1 makes such a quantity available instead of assuming an unweighted total. Equal values still require a reachability construction. The source's chemical-network results need their own premises; they are not used to identify the counted kinds in this mathematical example. A changed exchange rule reopens the weight equations. [Author's account](https://johncarlosbaez.wordpress.com/2013/10/11/autocatalysis-in-reaction-networks/).
 
-The three worked constructions and their changed conditions are derived here. The source algorithms do not establish that these mathematical rules describe a particular physical system or implementation.
+The three worked constructions and their changed conditions are derived here.
 
 ### MATH.11:12 - Relations
 

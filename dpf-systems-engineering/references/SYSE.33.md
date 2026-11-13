@@ -93,7 +93,7 @@ Limit cleanup to the resources and data actually owned by that environment and a
 
 Create an environment from the retained description without relying on the original machine's hidden setup. Observe the actual resources, effective configuration and dependency reachability, then run the representative task. A successful provisioning job without the task result establishes less.
 
-Change one relevant configuration and verify both the intended new condition and the continuing task. If a manual intervention was needed, either make its necessary effect part of the supported procedure or identify the still-manual dependency. Do not let a reconciler and an unrecorded repair repeatedly undo each other.
+When the arrangement promises configuration change, change one relevant configuration and verify both the intended new condition and the continuing task. If a manual intervention was needed, either make its necessary effect part of the supported procedure or identify the still-manual dependency. Do not let a reconciler and an unrecorded repair repeatedly undo each other.
 
 Exercise a consequential partial-creation failure. Recover the actual effects before retrying, then reconcile, remove or retain them under the applicable permissions and data conditions. An unavailable observation leaves partial state unknown; it does not mean nothing was created.
 
@@ -147,7 +147,7 @@ A familiar workstation can become an accidental standard, while a production-lik
 - Desired configuration, actual resources, persistent information and access are distinguished.
 - Hidden setup is removed from the supported creation path or exposed as a remaining dependency.
 - Isolation and shared-state conditions preserve the meaning of independent attempts.
-- Clean creation, a relevant change and partial failure have usable responses.
+- Clean creation and consequential partial failure have usable responses; relevant configuration changes are qualified when that capability is promised.
 - A real task result, not only provisioning completion, supports readiness for the stated use.
 - Cleanup respects resource ownership, retained information and actual permission.
 

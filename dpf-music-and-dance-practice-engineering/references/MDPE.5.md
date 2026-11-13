@@ -159,8 +159,7 @@ For example, test whether dancers can change direction safely at expected floor 
 hear a timing cue at event volume, whether the audience can see the live coding rather than only projected output,
 or whether a recorded form preserves the rhythmic event used by a later learner.
 
-The probe returns an observation and a production decision. It does not establish artistic value, audience
-recognition, or later cultural effect.
+The probe returns an observation and a production decision.
 
 #### MDPE.5:2.5 - Perform the Music-or-Dance Work and state what actually became available
 
@@ -177,7 +176,7 @@ After the boundary, state separately:
 - any later release or publication Work, and what it made available to whom;
 - deviations, failed relations, unsupported claims, and the next decision.
 
-An artifact is not the performed Work occurrence. Publishing an artifact does not recreate that Work. Availability does not
+Availability does not
 establish attention, response, recognition, selection, or cultural continuation.
 
 If the intended Music-or-Dance Work did not occur or could not serve the intended use, return the missing
@@ -256,7 +255,7 @@ whole-scene recognition, long-term safety or cultural continuation.
 For the next party the organizer retains the six-pair floor limit, marked passage, slot orientation and tested
 speaker direction at the stated volume. The cost is less simultaneous participation, so waiting pairs need
 access between tracks. The decision reopens if the room layout, music, sound, attendance arrangement or incident
-reports change the relied-on relation. A successful small trial does not settle every later event condition.
+reports change the relied-on relation.
 
 #### MDPE.5:4.4 - Algorave guidance without performed local Music Work
 
@@ -316,16 +315,16 @@ intended use creates the integration problem.
 | [Kloosterman and van Kempen, NDT production case](https://doi.org/10.1016/j.ccs.2026.100710), *Tell Your Mom You Love Your Skin* | Obtaining Dance-production case with choreographic, costume, technical, venue, rehearsal, film, archive, and touring relations. | One well-resourced production does not define all Dance production or establish artistic superiority. |
 | [Algorave guidelines](https://github.com/Algorave/guidelines/blob/master/README_en.md) | Direct community event-programming Method that returns an event programme and production brief covering setting, sound, visible process, programme diversity, affordability, access, conduct, and community contact. | The result does not supply a performer Method, local technical rehearsal, performed Music Work, audience recognition, or later cultural continuation. |
 | [Shimon project](https://gtcmt.gatech.edu/shimon) | Bounded robot performance separated from human production and later practice development. | Concert presentation does not establish robot-held authority, a style, or cultural continuation. |
-| Yamaha, [*Seven Ways to Ensure a Smooth Sound Check*](https://hub.yamaha.com/proaudio/livesound/seven-ways-to-ensure-a-smooth-sound-check/) (2022) | Current practitioner guidance for an input list, stage plot, performer–engineer communication, console scene, monitor and house mix, room listening, and show checklist. | A successful soundcheck does not identify or preserve every artistic relation or establish the performed Music Work and its receiving use. |
+| Yamaha, [*Seven Ways to Ensure a Smooth Sound Check*](https://hub.yamaha.com/proaudio/livesound/seven-ways-to-ensure-a-smooth-sound-check/) (2022) | practitioner guidance for an input list, stage plot, performer–engineer communication, console scene, monitor and house mix, room listening, and show checklist. | A successful soundcheck does not identify or preserve every artistic relation or establish the performed Music Work and its receiving use. |
 | World Swing Dance Council, [*Social Etiquette for Swing Dancers*](https://worldsdc.com/social-etiquette/), and Country Dance and Song Society, [*Community Culture and Safety Toolkit*](https://cdss.org/wp-content/uploads/resources/ccs-toolkit/CCS-Toolkit-Full.pdf), especially Part 5 (2024) | Maintained social Dance, Music, and song-event guidance for venue access, floor, acoustics, sound, capacity, staffing, equipment safety, responsibilities, and contingencies. | These checks prepare a containing event; they do not establish one pair's performed Dance Work, partner-readable timing, artistic value, or whole-community safety. |
-| Los Angeles Department on Disability, [*Accessible Public Meetings and Events Toolkit*](https://resources.disability.lacity.gov/guidance/events) | Current direct guidance for performer and audience accommodations, captions, transcripts, audio description, accessible media, technical tests, and later correction of recorded or streamed material. | Accessibility provisions do not by themselves establish that the intended musical, movement, or participatory relation survived, nor that recipients recognized or valued it. |
+| Los Angeles Department on Disability, [*Accessible Public Meetings and Events Toolkit*](https://resources.disability.lacity.gov/guidance/events) | direct guidance for performer and audience accommodations, captions, transcripts, audio description, accessible media, technical tests, and later correction of recorded or streamed material. | Accessibility provisions do not by themselves establish that the intended musical, movement, or participatory relation survived, nor that recipients recognized or valued it. |
 | FPF `A.15.1`, `A.15.7`, `A.22`, `E.24.PUB` | Work grounding; bounded live steering; selection of a structure by its constituents, obtaining relations, applied constraints and use; publication of claim-bearing episteme editions. | These results supply no Music or Dance production choice. |
 | Systems Engineering, Operations Management, and direct production Methods | Configurations, services, operating results, specialist evidence, and direct Work. | Local success does not establish artistic or participatory fit; `MDPE.5` does not absorb these Methods. |
 
-These current practices supply different specialist results. The table shows which Music-or-Dance integration
+These practices supply different specialist results. The table shows which Music-or-Dance integration
 question can remain after those results are available:
 
-| Current direct practice | Result already supplied | Remaining integration failure | MDPE.5 move that remains |
+| direct practice | Result already supplied | Remaining integration failure | MDPE.5 move that remains |
 | --- | --- | --- | --- |
 | Live Music soundcheck and Algorave event programming | Input list, stage plot, checked signal and monitor conditions, plus a programme and production brief | These results do not show that a selected performer's Work preserves the intended sound, visible-process, or audience relation in the assembled conditions. | `MDPE.5:2.3–2.5` selects and probes that relation, then records the performed Work and receiving use separately. |
 | WSDC social-floor guidance and CDSS Dance-event preparation | Slot orientation, adaptation, partner attention, refusal and stopping, plus venue, floor, access, sound, capacity, staffing, equipment, and contingency questions | These results do not show that pair Work remains readable, participatory, and safe at the intended density. | `MDPE.5:2.4` tests the load-bearing floor–sound–pair relation in representative conditions. |
@@ -338,11 +337,9 @@ Reconsider how to integrate the results if a direct field Method offers the same
 
 ### MDPE.5:7 - Relations
 
-- `MDPE.1` supplies a compatible project focus and intended use; it does not produce the Music-or-Dance Work
-  occurrence.
+- `MDPE.1` supplies a compatible project focus and intended use.
 - `MDPE.9`, `MDPE.10`, and `MDPE.3` can supply candidates, capability, and the performing whole.
-- `MDPE.11` supplies interpretation or material realized during Work; that result is not the performed Work
-  occurrence or its presentation.
+- `MDPE.11` supplies interpretation or material realized during Work.
 - `MDPE.12` receives the performed Music-or-Dance Work occurrence, artifacts, and conditions for observation
   and comparison.
 - `MDPE.13` concerns recurring recognition-and-selection arrangements; one presentation does not establish one.

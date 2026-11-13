@@ -86,9 +86,9 @@ Use the qualified return in the receiving work: update the outstanding premise, 
 
 #### SYSE.42:4.4 - Qualify consequential or repeated use
 
-For a consequential or repeated use, exercise valid progress alongside a wrong target, missing argument, changed state and ambiguous effect that could defeat the relied-on behavior. SYSE.46 tests the actual performing arrangement. The evidence concerns the actual interface and receiving result; correct entry or schema formation is only one part of that use.
+For a consequential or repeated use, reuse adequate qualification while its subject, interface and conditions match. Where the relied-on behavior lacks sufficient grounds, exercise valid progress and the wrong-target, missing-argument, changed-state or ambiguous-effect cases that can defeat it. SYSE.46 tests the actual performing arrangement. The evidence concerns the interface and receiving result; correct entry or schema formation is only one part of that use.
 
-Keep the result's source, configuration and unresolved conditions to the extent needed by that reliance. This can be a few fields in an ordinary task record; a second invocation ledger is unnecessary when the executor already retains them.
+Keep the result's source, configuration and unresolved conditions to the extent needed by that reliance. This can be a few fields in an ordinary task record.
 
 ### SYSE.42:5 - Archetypal Grounding
 
@@ -98,7 +98,7 @@ Keep the result's source, configuration and unresolved conditions to the extent 
 
 Six lots contain 347 items each. A calculator has been chosen because it is already open and, under the supplied conditions, using it protects other intermediate values the person is holding. The person enters 347 × 6, inspects that expression, obtains 2082 and reports the total for the six lots. The device computes; the person binds, inspects and applies the result.
 
-If the input is mistyped as 374 × 6, the functioning calculator returns 2244. The input check localizes the defect; correcting the expression restores 2082. Where the receiving reliance requires an arithmetic check, 350 × 6 − 3 × 6 supplies 2100 − 18. A paper alternative retains the aligned digits and carries while the person computes them. A lost carry/column relation returns to the working layout or retained record, not to a supposed calculation performed by paper.
+If the input is mistyped as 374 × 6, the functioning calculator returns 2244. The input check localizes the defect; correcting the expression restores 2082. Where the receiving reliance requires an arithmetic check, 350 × 6 − 3 × 6 supplies 2100 − 18. A paper alternative retains the aligned digits and carries while the person computes them. A lost carry/column relation returns to the working layout or retained record.
 
 For a search return, determine whether it is an actual computation, a recoverable cited claim or generated text before using it. A matching snippet and two interfaces to the same backend do not supply two independent checks. Stop when the required answer is used; later unaided ability is a separate development result.
 
@@ -112,7 +112,7 @@ The model proposes `seconds=10000`, having reused a millisecond value. The bindi
 
 The request with attempt A17 is accepted, but its reply is lost. The executor queries A17 under the supplied contract. That return identifies meter-2, revision 82 and interval 10 seconds. The next report uses those observed values and closes the change task; it does not issue another mutation.
 
-If the attempt query instead reports an unknown outcome, the task remains unresolved. If a fresh read shows an independently changed revision before invocation, the expected-revision condition fails and the engineer reconsiders the change against that state. Neither case becomes success because the generated explanation is convincing.
+If the attempt query instead reports an unknown outcome, the task remains unresolved. If a fresh read shows an independently changed revision before invocation, the expected-revision condition fails and the engineer reconsiders the change against that state.
 
 For a request merely to explain a current configuration, an already applicable observation may suffice. Reissuing a state-changing call would add no needed result.
 
@@ -127,7 +127,7 @@ Tool-friendly tasks can hide missing authorization, physical action or specialis
 - A partial or unknown effect follows the contract's recovery before replay.
 - The return's subject, units and evidence status support its receiving use.
 - The task consumes the result or returns the precise missing condition.
-- Tests for consequential or repeated use include failures that could change the relied-on result.
+- Qualification for consequential or repeated use reuses matching sufficient evidence and resolves remaining failures that could change the relied-on result.
 
 ### SYSE.42:8 - Common Anti-Patterns and How to Avoid Them
 

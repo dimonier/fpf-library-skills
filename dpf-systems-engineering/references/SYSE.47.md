@@ -94,7 +94,7 @@ When further reasoning or tool work needs adaptive allocation, consume SYSE.51's
 
 Put consequential limits in the actual controlling means. For software, enforce the permitted tool set, attempt budget and uncertain-effect branch outside model-generated narrative. A human procedure requires usable cues and feasible checking; a written instruction alone does not guarantee that the person performs it. Use SYSE.26–SYSE.28 for applicable platform interaction, interface and control questions, and SYSE.40 for software capacity and retry limits.
 
-Implement the chosen transitions in their supported form: a usable written sequence, supervised enactment, code or workflow definition. Connect actual inputs and returns, including failure paths, then exercise that implementation. A diagram with disconnected boxes does not supply the candidate.
+Implement the chosen transitions in their supported form: a usable written sequence, supervised enactment, code or workflow definition. Connect actual inputs and returns, including failure paths, then exercise that implementation.
 
 #### SYSE.47:4.4 - Bind predictions without substituting them for observations
 
@@ -106,7 +106,7 @@ If the current state, model premise or error bound is defeated, return to the na
 
 Use SYSE.46 to compare the candidate with its baseline on representative tasks. Include an adequate contribution, a missing premise, changed relevant information and an uncertain effect when those branches are relied on. Use SYSE.49 when informative conditions must be constructed.
 
-Inspect receiving-result correctness, needed access/use, restraint, unresolved effects and total effort. Keep final comparison cases outside procedure tuning. When persistence matters, compare delayed and changed-condition use with recoverable configuration and support identity.
+Inspect receiving-result correctness, needed access/use, restraint, unresolved effects and total effort. Keep final comparison cases outside procedure tuning. Compare delayed use when persistence is claimed and changed-condition use when transfer is claimed, retaining configuration and support identity.
 
 Retain a procedure that meets the required result at a justified total burden. Return a false sufficiency test to its predicate owner, failed execution to SYSE.42, and misleading feedback to SYSE.49. A more elaborate procedure with no useful advantage should be simplified or rejected. Stop at the bounded executable result or its unresolved construction condition.
 

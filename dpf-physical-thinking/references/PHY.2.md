@@ -118,7 +118,7 @@ Keep a newly revealed question when pursuing it could open useful action. The ne
 
 ### PHY.2:5 - Archetypal Grounding
 
-These constructed examples show two uses: obtaining consequences of a known physical account and developing a proposed physical mechanism. The calculations describe idealized sources; they report no apparatus measurements.
+These constructed examples use idealized sources to obtain consequences of a known physical account and develop a proposed physical mechanism.
 
 #### PHY.2:5.1 - Build the missing coupling in a mechanical/electrical analogue
 
@@ -244,7 +244,7 @@ The working question is how to construct a useful physical source when no ready 
 
 [Hangleiter, Carolan and Thebault, Analog Quantum Simulation (2022), sections 8.3.3-8.4](https://arxiv.org/pdf/2303.00814), distinguish the source apparatus, its mathematical description, the formal target and the physical target. Their analysis changes :4.4-4.5 by locating the premise needed for each inference. The general connection is reused from C.29.1 and C.29.3. Their validation discussion is applied according to the conclusion needed; a conditional hypothesis remains a useful result when a stronger target claim is unresolved.
 
-[Angelani (2016), section 2](https://arxiv.org/pdf/1601.04845), supplies a transport-and-switching construction for the second worked case. His tumble events choose a new direction, whereas lambda here counts actual reversals; the rate convention is stated in the case. [Datta, Beta and Grossmann, version 3 of The random walk of intermittently self-propelled particles](https://arxiv.org/html/2406.15277v3), makes richer run/turn dynamics and waiting-time distributions available. Its section II supports the return when the simple switching assumption fails. The one-dimensional shuttle example is a constructed illustration, not a reproduction of those authors' apparatus or a complete active-matter model.
+[Angelani (2016), section 2](https://arxiv.org/pdf/1601.04845), supplies a transport-and-switching construction for the second worked case. His tumble events choose a new direction, whereas lambda here counts actual reversals; the rate convention is stated in the case. [Datta, Beta and Grossmann, version 3 of The random walk of intermittently self-propelled particles](https://arxiv.org/html/2406.15277v3), makes richer run/turn dynamics and waiting-time distributions available. Its section II supports the return when the simple switching assumption fails. The one-dimensional shuttle example is a constructed illustration.
 
 The dimensional circuit construction and paired changed-condition uses are this publication's synthesis. Revisit a source choice when a new law, available mechanism or observed disagreement changes the correspondence or reveals a useful physical possibility. A new example alone leaves the general method unchanged.
 

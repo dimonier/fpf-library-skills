@@ -75,7 +75,7 @@ Do not use this pattern merely to judge one performance under an adequate existi
 | **variant** | One musical or movement form, interpretation, occurrence, artifact, Method, teaching line, or event form being compared with alternatives. The word does not assert one common physical kind. |
 | **recognition** | An Agent or sensing System distinguishes a relevant difference under stated conditions. Exposure, a label, applause, or a metric does not by itself establish recognition. |
 | **selection** | A local decision or a distributed cultural relation changes which variants are programmed, taught, funded, amplified, copied, used, or retained. A project choice and population-level cultural selection are different results. |
-| **recognition-and-selection arrangement** | The people, organizations, technical Systems, Methods, authority, access, evidence, and feedback relations that make encounter, recognition, and selection possible for one bounded use. A rulebook or diagram can describe this arrangement but does not make it operate. |
+| **recognition-and-selection arrangement** | The people, organizations, technical Systems, Methods, authority, access, evidence, and feedback relations that make encounter, recognition, and selection possible for one bounded use. |
 | **observation plan** | The subjects, conditions, observers or instruments, comparison basis, time horizon, and decision that later observations must support. It is not evidence that the predicted effect already occurred. |
 
 
@@ -119,7 +119,7 @@ Name:
 
 For example: “The festival team must decide how social-floor, battle, workshop, and short-video uses will recognize and select urban-kiz movement variants without making camera visibility the whole-practice objective.”
 
-If the practice boundary is unclear, use `MDPE.8`. If the variants do not yet exist, use `MDPE.9`. Availability of variants does not establish their recognition or value.
+If the practice boundary is unclear, use `MDPE.8`. If the variants do not yet exist, use `MDPE.9`.
 
 #### MDPE.13:3.2 - Describe the current arrangement with several views
 
@@ -149,11 +149,11 @@ Examples of **feedback hypotheses** include:
 - a recommendation System may amplify already visible material and make popularity appear self-validating;
 - expert criteria may preserve subtle lineage distinctions while freezing one historical interpretation.
 
-For each hypothesis, identify the affected Agent or practice, the predicted change, a plausible rival explanation, and an observation that could distinguish them. Use `MDPE.12` for the resulting comparison and `C.28` only when a causal claim needs stronger support.
+For each consequential hypothesis, identify the affected Agent or practice and predicted change. Retain a serious rival when it changes the explanation or choice. Use adequate available observations; obtain a discriminating comparison through `MDPE.12` when the remaining distinction can change the receiving decision enough to warrant its burden. A supported action shared by the remaining hypotheses can finish the choice while the causal explanation stays unresolved. Use `C.28` when a causal claim needs its own support.
 
 #### MDPE.13:3.4 - Create materially different alternatives
 
-Do not compare the incumbent arrangement with a cosmetic rewrite. Change at least one load-bearing relation: who recognizes, who chooses, which evidence matters, how access is allocated, how alternatives remain available, or how feedback and contest work.
+Change at least one load-bearing relation: who recognizes, who chooses, which evidence matters, how access is allocated, how alternatives remain available, or how feedback and contest work.
 
 Examples of **arrangement families** include:
 
@@ -270,8 +270,8 @@ FPF `C.36` already distinguishes generation, transmission, recognition, selectio
 | `A.22`, `C.30`, `C.30.AD` | Support several structures and one architecture description for the bounded arrangement. | A view or description does not make the arrangement operate. |
 | `C.11`, `C.28` | Support local choice among formed alternatives and stronger treatment of causal claims when needed. | A `ChoiceResult` does not implement the design or establish cultural selection. |
 | `MDPE.12`, `MDPE.23` | Supply bounded observation and demonstrated recognition capability. | Observation and capability do not confer authority or make a selection decision. |
-| [Algorave guidelines](https://github.com/Algorave/guidelines/blob/master/README_en.md), checked 2026-08-25 | Supply the direct community event-programming Method and its event-programme-and-production-brief result: setting, sound, visible process, programme diversity, affordability, access, conduct, and community contact. | The direct result does not supply the additional recognition-and-selection arrangement, a performed local event, audience recognition, or cultural continuation. |
-| [Renata Peçanha on Brazilian Zouk](https://zoukology.com/renata-history/) and [Pavel Sobiray on Street Tango](https://tangonuevo.ru/stc7eng), checked 2026-08-25 | Supply bounded cases of deliberate variation, teaching, criticism, events, participant response, and continuation. | Creator and practitioner accounts do not establish whole-field prevalence, superiority, causal effect, or authority. |
+| [Algorave guidelines](https://github.com/Algorave/guidelines/blob/master/README_en.md) | Supply the direct community event-programming Method and its event-programme-and-production-brief result: setting, sound, visible process, programme diversity, affordability, access, conduct, and community contact. | The direct result does not supply the additional recognition-and-selection arrangement, a performed local event, audience recognition, or cultural continuation. |
+| [Renata Peçanha on Brazilian Zouk](https://zoukology.com/renata-history/) and [Pavel Sobiray on Street Tango](https://tangonuevo.ru/stc7eng) | Supply bounded cases of deliberate variation, teaching, criticism, events, participant response, and continuation. | Creator and practitioner accounts do not establish whole-field prevalence, superiority, causal effect, or authority. |
 
 Recheck the design when the practice boundary, event or platform architecture, recognition task, participant population, authority, or observed feedback changes enough to alter the choice.
 

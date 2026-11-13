@@ -91,7 +91,7 @@ A reader should be able to say: “This model concerns this subject, answers thi
 
 For a mathematical formalism, simulation, or learned representation, apply `C.29` when the choice of mathematical object, mapping, preserved structure, or information loss changes the claim. For example, a road graph can preserve routes and travel-time assumptions while omitting residents' access rights and the reliability of an untested deployment procedure. C.29 does not establish those omitted facts.
 
-Ordinary local meaning needs only the relevant meaning, units, scope, or evidence statement. Use `A.1.1` when the decision needs to establish whether a model applies to a stated subject within a stated claim scope, whether an assignment holder actually uses the model during Work concerning that subject, or whether fixed model and expression contents satisfy a declared coherence criterion under a comparison scheme. Select its broader bounded model-use structure only when the organization of those relations changes the receiving decision. Neither a model collection nor the word “context” supplies that structure.
+Ordinary local meaning needs only the relevant meaning, units, scope, or evidence statement. Use `A.1.1` when the decision needs to establish whether a model applies to a stated subject within a stated claim scope, whether an assignment holder actually uses the model during Work concerning that subject, or whether fixed model and expression contents satisfy a declared coherence criterion under a comparison scheme. Select its broader bounded model-use structure only when the organization of those relations changes the receiving decision.
 
 #### PSDA.3:4.4 - Reconcile overlaps without forcing one model
 
@@ -119,7 +119,7 @@ Keep enough content for the recipient to recover:
 - what the account supports, what remains hypothetical or unknown, and which alternatives or claims it can discriminate; and
 - the observation that would reopen a model, its connection to another, the problem formulation, or the boundary.
 
-This can be a short annotated comparison; it need not be a new repository or universal record form. If no model combination answers the question, say so. A missing direct result is more useful than a polished but unsupported combined answer.
+This can be a short annotated comparison. If no model combination answers the question, say so.
 
 The same account may inform Method selection, alternative generation, uncertainty treatment, or conflicts between simultaneous inquiries. Each recipient takes only the current, compatible contribution it needs; the account does not complete those later judgements.
 

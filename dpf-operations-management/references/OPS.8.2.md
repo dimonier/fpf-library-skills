@@ -85,7 +85,7 @@ For that unit, establish how progress and resources can be released:
 | Abandon and later restart | Abandonment is permissible, resources can be recovered in time, and lost work and any remaining effects are included in the choice. |
 | Transfer the auxiliary work | A capable recipient is available, the handover fits, and the transfer does not consume another resource needed by the protected service. |
 
-For human work, a short note of the current state, next step and unresolved difficulty can reduce later reconstruction when that information would otherwise be lost. Use the existing work materials when adequate. Include the time to leave that note and the effort of repeated transitions; a mandatory elaborate record can consume the benefit.
+For human work, a short note of the current state, next step and unresolved difficulty can reduce later reconstruction when that information would otherwise be lost. Use the existing work materials when adequate. Include the time to leave that note and the effort of repeated transitions.
 
 For equipment, recover the work needed to leave a usable state: for example completing an indivisible cycle, removing material, cleaning or restoring a fixture. For computing, distinguish pausing execution from releasing the memory, accelerator, license or other allocation the protected job needs. A saved computation can help auxiliary resumption without itself preparing the protected job.
 
@@ -117,7 +117,7 @@ An already-paid salary does not make those consequences vanish. Use OPS.14 for a
 
 If development is the intended gain, C.40.OI and C.40.DC construct the opportunity and transition. HCD.2 adds the practice, feedback and support needed for a human capability gain. An interruptible activity can fit the reserve and still teach little. C.39.MF and A.3.1.WT support a method-improvement question and its trial. These contributions establish the value being sought; the return construction establishes compatibility with the operation.
 
-Choose the simplest adequate arrangement. The choice may favor a short useful unit, preparation outside the protected resource, another resource, a later window or continued availability. Extra work is not automatically the best use of every interval.
+Choose the simplest adequate arrangement. The choice may favor a short useful unit, preparation outside the protected resource, another resource, a later window or continued availability.
 
 #### OPS.8.2:4.5 - Operate the start, recall and resumption conditions
 
@@ -202,7 +202,7 @@ The numerical cases are constructed timing comparisons that establish conditiona
 
 ### OPS.8.2:9 - Consequences
 
-Useful preparation and development can occupy otherwise idle intervals without spending the selected protection. This requires an arrangement whose return fits, not a universal permission to fill reserve time.
+Useful preparation and development can occupy otherwise idle intervals without spending the selected protection. This requires an arrangement whose return fits.
 
 The construction can also justify leaving an interval empty. It exposes which change would make another use feasible: a smaller auxiliary unit, earlier preparation, a different resource, faster restoration or a revised service commitment.
 

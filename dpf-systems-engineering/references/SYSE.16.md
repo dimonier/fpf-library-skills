@@ -20,7 +20,7 @@ dependencies:
 
 > **Trigger:** Use this pattern when an engineering decision concerns an actual System or intended System referent selected for engineering, but everything outside it has been reduced to one box called *environment*, *stakeholders*, *users*, *the business …
 > **Problem frame:** Engineering choices—such as choices about System functions, architecture, interfaces, offerings, assurance, or change—depend on larger working situations.
-> **First move:** Recover the Systems, structures, relations and conditions needed to ground one use decision. Begin with the actual System or intended System referent selected for engineering and its named use situation; stop when the account exposes a mate …
+> **First move:** Recover the Systems, structures, relations and conditions needed to ground one use decision. Begin with the actual System or intended System referent selected for engineering and its named use situation; stop when the account supports the r …
 >
 > **Governing patterns:** `references/SYSE.1.md` `references/A.22.md`
 
@@ -103,7 +103,7 @@ Recurring tensions include:
 ### SYSE.16:4 - Solution
 
 Recover the Systems, structures, relations and conditions needed to ground one use decision.
-Begin with the actual System or intended System referent selected for engineering and its named use situation; stop when the account exposes a material mismatch, alternative, evidence gap or reopen condition.
+Begin with the actual System or intended System referent selected for engineering and its named use situation; stop when the account supports the receiving decision or identifies the condition that prevents it.
 
 Reuse an adequate existing account or direct relation result for the same decision and conditions.
 Use the bounded recovery below when a missing connection prevents that answer. If the operating situations
@@ -140,8 +140,8 @@ obtain any missing specialist result from its domain before relying on it.
 7. **Test outside change.** Ask which relevant outside factors—for example, Systems, conditions, interfaces,
   providers, uses, or regulations—can change during the relevant horizon and which change would reopen the
   concept, architecture, offering, assurance, or configuration decision.
-8. **Return the decision-changing result.** Supply the mismatch, alternative, evidence need, or qualified
-  assumption to the receiving engineering Work. Leave unrelated surroundings out.
+8. **Return the result needed by the decision.** Supply the supported relations and conditions, or the material
+  mismatch, alternative, evidence need or unresolved assumption, to the receiving engineering Work. Leave unrelated surroundings out.
 
 The numbered steps explain the Method. Determine Work order from the actual dependencies. Observation,
 concept development, architecture development and trials can overlap and recur while outside Systems change.
@@ -230,8 +230,8 @@ environmental, or financial practice. Agents with the relevant authority make th
 - [ ] Other Systems and conditions appear only when a named relation can change the decision.
 - [ ] Observations, predictions, design choices, commitments, and unsupported assumptions remain distinct.
 - [ ] Outside changes and evidence that reopen the decision are stated.
-- [ ] The account returns a mismatch, alternative, evidence need, or qualified assumption rather than an
-  exhaustive inventory.
+- [ ] The account supplies the relations and conditions sufficient for the receiving decision, or identifies
+  a material mismatch, alternative, evidence need or unresolved assumption.
 
 ### SYSE.16:8 - Common Failures and Repairs
 
@@ -246,7 +246,7 @@ These recurring abstractions hide a relation that changes the engineering decisi
 | Diagram is treated as reality | Keep the representation, subject, currentness, and evidence distinct. |
 | Outside Systems are held constant | Record co-change and reopen evidence for the relevant horizon. |
 | Environment analysis becomes an early phase | Revisit the account when concepts, architecture, evidence, configuration, or outside Systems change. |
-| The team models surroundings that cannot change the decision | Stop when the bounded account changes the receiving decision or exposes a missing result. |
+| The team models surroundings that cannot change the decision | Stop when the bounded account sufficiently supports the receiving decision or identifies the missing result. |
 
 ### SYSE.16:9 - Consequences
 

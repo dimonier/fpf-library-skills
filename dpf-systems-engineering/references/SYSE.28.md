@@ -61,7 +61,7 @@ A second failure is to merge different results: advice, an observed property, a 
 
 Name the property, the subject to which it applies, its effectivity and the action that depends on it. Recover the actual deciding holder and any authorized exception conditions. Keep the constraint's justification separate from the proposed technical implementation.
 
-Identify what evidence or qualified procedure can answer the property question. If the domain test itself is missing, return that Method gap. A platform wrapper cannot qualify a security, measurement, safety or legal judgement by executing a script.
+Identify what evidence or qualified procedure can answer the property question. If the domain test itself is missing, return that Method gap.
 
 Use SYSE.4 for the relation between evidence and the engineering claim, and SYSE.14 when the consuming action is a release decision. This pattern determines where the supplied control can usefully act.
 
@@ -105,13 +105,13 @@ Treat an exception as a different authorized continuation with its own scope and
 
 #### SYSE.28:4.5 - Exercise the control where it will be relied on
 
-Use a normal case, a known violating case, a subject substitution and a checker-unavailable case. Confirm that the intended dependent action receives the right outcome and explanation. Check any authorized exception path separately.
+Select normal and violating cases, subject substitution and checker unavailability according to the ways the chosen control can fail its receiving use. Confirm that the intended dependent action receives the right outcome and explanation. Check any authorized exception path separately.
 
 For consequential reliance, also inspect whether the controlled property can change between observation and use. Bind the result to the actual subject or protect that interval with a qualified mechanism. A green check followed by an uncontrolled substitution does not protect the receiving action.
 
 Return the placement, mechanism, outcome interpretation, applicable conditions and remaining gaps. Safety or compliance claims that rely on the control require their own domain evidence; placing the check is not that qualification.
 
-Exercise the join between observation and action as well as the checker. Substitute the subject after an early pass, change an applicability condition, and try an allowed alternative entry that reaches the same reliance. For an ongoing condition, vary it during use and inspect whether the stated response can occur soon enough. Use only trials permitted by the domain and perform destructive or hazardous cases through an adequate safe substitute when needed. A desktop description establishes the logic being proposed; the actual control path still needs its relevant implementation and domain evidence.
+Exercise the join between observation and action as well as the checker. Use the actual ways that join can fail: subject substitution after an early pass, changed applicability, or an allowed alternative entry reaching the same reliance. For an ongoing condition, vary it during use and inspect whether the stated response can occur soon enough. Use only trials permitted by the domain and perform destructive or hazardous cases through an adequate safe substitute when needed. A desktop description establishes the logic being proposed; the actual control path still needs its relevant implementation and domain evidence.
 
 ### SYSE.28:5 - Archetypal Grounding
 

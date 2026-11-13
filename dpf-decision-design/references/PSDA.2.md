@@ -93,7 +93,7 @@ Name only dimensions that can change the receiving use:
 
 Carry forward the object distinctions recovered with the concerns. If “business trip” names both remote repair and administrative provision, say which work this inquiry concerns and which dependencies it includes. A boundary around expense processing cannot support a conclusion that the remote repair was completed. Several concerns about one identified journey can instead share that object boundary.
 
-State the cut in ordinary language; add an exact `U.Scope` declaration only when the receiving use needs it. A boundary is not justified by drawing a box or using the word “system”.
+State the cut in ordinary language; add an exact `U.Scope` declaration only when the receiving use needs it.
 
 #### PSDA.2:4.3 - Keep material exclusions and unknowns alive
 
@@ -140,7 +140,7 @@ Return the scope in the smallest form that answers the current question. Keep th
 | dependent uses | Models, facilitation, alternatives, value treatment, comparison, recommendation, or inquiry results that consume the scope. |
 | reopen basis | Observable triggers and the dimension to widen, narrow, replace, or re-formulate. |
 
-If no defensible boundary is available, return the exact missing premise, blocker, narrowed claim, or abstention. Do not hide the stop by expanding the map.
+If no defensible boundary is available, return the exact missing premise, blocker, narrowed claim, or abstention.
 
 #### PSDA.2:4.7 - Reopen locally and state what changed
 
@@ -172,7 +172,7 @@ A laboratory test claim already has a declared `U.ClaimScope` with population, c
 
 #### PSDA.2:5.4 - One adequate formulation and a consequential exclusion
 
-An analyst and a maintenance lead already share the formulation “why are the authorized pump checks late?” Their immediate clarification is whether to examine this week's check queue or expand into redesigning the whole maintenance organization. The available queue and assignment facts support the first cut. The analyst returns: “Examine this week's authorized checks, their staffing and access dependencies, and the late returns.” This scope answers the local question; it needs no new rival-formulation inquiry or separate explanation of why PSDA.1 was not used.
+An analyst and a maintenance lead already share the formulation “why are the authorized pump checks late?” Their immediate clarification is whether to examine this week's check queue or expand into redesigning the whole maintenance organization. The available queue and assignment facts support the first cut. The analyst returns: “Examine this week's authorized checks, their staffing and access dependencies, and the late returns.” This scope answers the local question.
 
 A later board asks whether the same result establishes readiness for the flood season. Now the exclusion of uncompleted seasonal checks can change its decision. The returned scope must retain that those checks were outside the weekly lateness inquiry and that their readiness remains unestablished. The board needs the seasonal check result before relying on a readiness claim. This added limitation serves the new receiving use; it does not undo the supported weekly scope or authorize operation.
 
